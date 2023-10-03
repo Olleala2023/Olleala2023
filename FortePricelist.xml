@@ -1,9 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2023-10-03 15:11">
+<fm_catalog date="2023-10-03 16:09">
   <shop>
     <merchant-id>AAH99GhybQaI1s7QCe</merchant-id>
     <offers>
-      <offer>
+      <offer sku="00test00">
+        <name>ARATON test</name>
+        <vendor>Araton</vendor>
+        <barcodes>
+          <barcode>000000</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>1</price>
       </offer>
       <offer sku="000291">
         <name>ARATON cat adult Outdoor 15 кг - корм для взрослых кошек Araton 000291</name>
