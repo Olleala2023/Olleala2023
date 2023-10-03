@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2023-10-02 14:56">
+<fm_catalog date="2023-10-03 11:59">
   <shop>
     <merchant-id>AAH99GhybQaI1s7QCe</merchant-id>
     <offers>
@@ -972,17 +972,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>70299</price>
-      </offer>
-      <offer sku="001085">
-        <name>Твердотельный накопитель SSD Kingston SEDC500R/960G SATA 7мм Kingston 001085</name>
-        <vendor>Kingston</vendor>
-        <barcodes>
-          <barcode>001085</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>53578</price>
       </offer>
       <offer sku="000978">
         <name>Антенна Planet ANT-SE17A Planet 000978</name>
@@ -2853,6 +2842,28 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>28233</price>
+      </offer>
+      <offer sku="002127">
+        <name>Твердотельный накопитель SSD Apacer AS350X 512GB SATA Apacer 002127</name>
+        <vendor>Apacer</vendor>
+        <barcodes>
+          <barcode>002127</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>17423</price>
+      </offer>
+      <offer sku="002129">
+        <name>Твердотельный накопитель SSD Apacer AS2280P4 256GB M.2 PCIe Apacer 002129</name>
+        <vendor>Apacer</vendor>
+        <barcodes>
+          <barcode>002129</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>12283</price>
       </offer>
       <offer sku="002130">
         <name>Твердотельный накопитель SSD Apacer AS2280P4 512GB M.2 PCIe Apacer 002130</name>
@@ -6616,17 +6627,6 @@
         </pickup-options>
         <price>109221</price>
       </offer>
-      <offer sku="003280">
-        <name>Гарнитура HyperX CloudX Stinger Core HX-HSCSCX-BK HyperX 003280</name>
-        <vendor>HyperX</vendor>
-        <barcodes>
-          <barcode>003280</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>29366</price>
-      </offer>
       <offer sku="003282">
         <name>Гарнитура Steelseries Arctis Pro Steelseries 003282</name>
         <vendor>Steelseries</vendor>
@@ -7738,17 +7738,6 @@
         </pickup-options>
         <price>186935</price>
       </offer>
-      <offer sku="003441">
-        <name>Источник бесперебойного питания SVC RT-2KL-LCD SVC 003441</name>
-        <vendor>SVC</vendor>
-        <barcodes>
-          <barcode>003441</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>270282</price>
-      </offer>
       <offer sku="003442">
         <name>Источник бесперебойного питания SVC RT-3KL-LCD SVC 003442</name>
         <vendor>SVC</vendor>
@@ -7913,17 +7902,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>70237</price>
-      </offer>
-      <offer sku="003481">
-        <name>Внешний жёсткий диск Apacer 1TB 2.5" AC633 Синий Apacer 003481</name>
-        <vendor>Apacer</vendor>
-        <barcodes>
-          <barcode>003481</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>32995</price>
       </offer>
       <offer sku="003482">
         <name>Рюкзак для ноутбука Xiaomi Mi City Backpack 2 Тёмно-серый Xiaomi 003482</name>
@@ -8838,17 +8816,6 @@
         </pickup-options>
         <price>20353</price>
       </offer>
-      <offer sku="003725">
-        <name>Цилиндрическая видеокамера Dahua DH-HAC-B1A51P-0280B Dahua 003725</name>
-        <vendor>Dahua</vendor>
-        <barcodes>
-          <barcode>003725</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>21745</price>
-      </offer>
       <offer sku="003728">
         <name>Гибридный видеорегистратор Dahua DH-XVR1B04-I Dahua 003728</name>
         <vendor>Dahua</vendor>
@@ -9035,17 +9002,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>23640</price>
-      </offer>
-      <offer sku="003758">
-        <name>Коммутатор Dahua DH-PFS3010-8ET-65 Dahua 003758</name>
-        <vendor>Dahua</vendor>
-        <barcodes>
-          <barcode>003758</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>29498</price>
       </offer>
       <offer sku="003759">
         <name>Коммутатор Dahua DH-PFS3006-4ET-60 Dahua 003759</name>
@@ -9509,17 +9465,6 @@
         </pickup-options>
         <price>20462</price>
       </offer>
-      <offer sku="003835">
-        <name>Маршрутизатор TP-Link Archer C64 TP link 003835</name>
-        <vendor>TP link</vendor>
-        <barcodes>
-          <barcode>003835</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>28278</price>
-      </offer>
       <offer sku="003836">
         <name>Маршрутизатор TP-Link Archer C6 TP link 003836</name>
         <vendor>TP link</vendor>
@@ -9926,17 +9871,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>39907</price>
-      </offer>
-      <offer sku="003892">
-        <name>Сетевой фильтр SHIP 700508102 1,8 м. 220 в. SHIP 003892</name>
-        <vendor>SHIP</vendor>
-        <barcodes>
-          <barcode>003892</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>14723</price>
       </offer>
       <offer sku="003893">
         <name>Сетевой фильтр SHIP 700509102 2 м. 220 в. SHIP 003893</name>
@@ -10465,17 +10399,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>91229</price>
-      </offer>
-      <offer sku="004068">
-        <name>Тонер-картридж стандартный Xerox 106R03483 (жёлтый) Xerox 004068</name>
-        <vendor>Xerox</vendor>
-        <barcodes>
-          <barcode>004068</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>47375</price>
       </offer>
       <offer sku="004070">
         <name>Тонер-картридж повышенной емкости Xerox 106R03485 (голубой) Xerox 004070</name>
@@ -11652,7 +11575,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>115761</price>
+        <price>123387</price>
       </offer>
       <offer sku="GP-AORUS WATERFORCE 240">
         <name>Жидкостное охлаждение AORUS WATERFORCE 240, 2x120mm ARGB Fan, 950-2150rpm, Aorus GP-AORUS WATERFORCE 240</name>
@@ -15889,17 +15812,6 @@
         </pickup-options>
         <price>35470</price>
       </offer>
-      <offer sku="KF556C40BBAK2-64">
-        <name>Комплект модулей памяти Kingston FURY Beast KF556C40BBAK2-64 DDR5 64GB (Kit 2x32GB) 5600MHz Kingston KF556C40BBAK2-64</name>
-        <vendor>Kingston</vendor>
-        <barcodes>
-          <barcode>KF556C40BBAK2-64</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>144978</price>
-      </offer>
       <offer sku="ST10000NM017B">
         <name>Жесткий диск Dahua ST10000NM017B HDD 10Tb Hikvision ST10000NM017B</name>
         <vendor>Hikvision</vendor>
@@ -16637,17 +16549,6 @@
         </pickup-options>
         <price>5000</price>
       </offer>
-      <offer sku="N1162">
-        <name>Компьютерная мышь Rapoo N1162 Чёрный Rapoo N1162</name>
-        <vendor>Rapoo</vendor>
-        <barcodes>
-          <barcode>N1162</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>5609</price>
-      </offer>
       <offer sku="DLM-137OGB">
         <name>Компьютерная мышь Delux DLM-137OGB Delux DLM-137OGB</name>
         <vendor>Delux</vendor>
@@ -16890,17 +16791,6 @@
         </pickup-options>
         <price>18420</price>
       </offer>
-      <offer sku="GM-AORUS M5">
-        <name>Компьютерная мышь Gigabyte GM-AORUS M5 Gigabyte GM-AORUS M5</name>
-        <vendor>Gigabyte</vendor>
-        <barcodes>
-          <barcode>GM-AORUS M5</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>30902</price>
-      </offer>
       <offer sku="4P4F7AA">
         <name>Компьютерная мышь HyperX Pulsefire FPS Pro RGB Gaming 4P4F7AA HyperX 4P4F7AA</name>
         <vendor>HyperX</vendor>
@@ -17110,6 +17000,17 @@
         </pickup-options>
         <price>11437</price>
       </offer>
+      <offer sku="K290 ">
+        <name>Гарнитура Microlab K290 Чёрный Microlab K290 </name>
+        <vendor>Microlab</vendor>
+        <barcodes>
+          <barcode>K290 </barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>8594</price>
+      </offer>
       <offer sku="HS-04S">
         <name>Гарнитура Genius HS-04S GENIUS HS-04S</name>
         <vendor>GENIUS</vendor>
@@ -17153,6 +17054,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>9226</price>
+      </offer>
+      <offer sku="DHE-8009">
+        <name>Гарнитура HP DHE-8009 Черный HP DHE-8009</name>
+        <vendor>HP</vendor>
+        <barcodes>
+          <barcode>DHE-8009</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>7376</price>
       </offer>
       <offer sku="DHE-8011UM">
         <name>Гарнитура HP DHE-8011UM Черный HP DHE-8011UM</name>
@@ -19794,17 +19706,6 @@
         </pickup-options>
         <price>76075451</price>
       </offer>
-      <offer sku="TUF-RTX4070-O12G-GAMING">
-        <name>Видеоплата ASUS Video Card NVidia TUF Gaming GeForce RTX 4070 12GB OC Edition GDDR6X 1xHDMI 3xDP, Recomm. PSU 650W, 3.2 Slots Asus TUF-RTX4070-O12G-GAMING</name>
-        <vendor>Asus</vendor>
-        <barcodes>
-          <barcode>TUF-RTX4070-O12G-GAMING</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>449219</price>
-      </offer>
       <offer sku="N30502-08D6-1190VA42">
         <name>Видеоплата INNO3D Video Card NVIDIA GeForce RTX 3050 Twin X2 8GB GDDR6 128 bit, 1777 MHz / 14 Gbps, 3x DP, 1x HDMI, 2 fan, 2 slot INNO3D N30502-08D6-1190VA42</name>
         <vendor>INNO3D</vendor>
@@ -20476,17 +20377,6 @@
         </pickup-options>
         <price>92510</price>
       </offer>
-      <offer sku="981-000812">
-        <name>Игровая гарнитура LOGITECH G PRO Wired Gaming Headset - BLACK - USB DAC Logitech 981-000812</name>
-        <vendor>Logitech</vendor>
-        <barcodes>
-          <barcode>981-000812</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>68971</price>
-      </offer>
       <offer sku="981-000890">
         <name>Игровая гарнитура LOGITECH G733 LIGHTSPEED Wireless RGB Gaming Headset - LILAC Logitech 981-000890</name>
         <vendor>Logitech</vendor>
@@ -21003,17 +20893,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>15494</price>
-      </offer>
-      <offer sku="920-009207">
-        <name>Клавиатура (Box) LOGITECH MK470 Slim Wireless Combo - OFFWHITE - RUS Logitech 920-009207</name>
-        <vendor>Logitech</vendor>
-        <barcodes>
-          <barcode>920-009207</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>34471</price>
       </offer>
       <offer sku="CSE-743TQ-903B-SQ">
         <name>Корпус для Сервера Supermicro SuperChassis CSE-743TQ-903B-SQ 4U (Tower), Max. MB sizes - E-ATX, 8x3.5" hot-swap, 7x FH exp. slots, 1x900W Supermicro CSE-743TQ-903B-SQ</name>
@@ -21971,17 +21850,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>64742</price>
-      </offer>
-      <offer sku="KF568C36RSAK2-32">
-        <name>Память для игрового ПК Kingston 32GB 6800MT/s DDR5 CL36 DIMM (Kit of 2) FURY Renegade RGB XMP, EAN: 740617331479 Kingston KF568C36RSAK2-32</name>
-        <vendor>Kingston</vendor>
-        <barcodes>
-          <barcode>KF568C36RSAK2-32</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>122701</price>
       </offer>
       <offer sku="KF572C38RS-16">
         <name>Память для игрового ПК Kingston 16GB 7200MT/s DDR5 CL38 DIMM FURY Renegade Silver XMP, EAN: 740617331462 Kingston KF572C38RS-16</name>
@@ -23423,28 +23291,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>159428</price>
-      </offer>
-      <offer sku="004380">
-        <name>Мобильный телефон Redmi Note 12 Pro+ 5G 8GB RAM 256GB ROM Sky Blue Redmi 004380</name>
-        <vendor>Redmi</vendor>
-        <barcodes>
-          <barcode>004380</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>208854</price>
-      </offer>
-      <offer sku="004381">
-        <name>Мобильный телефон Redmi Note 12 Pro+ 5G 8GB RAM 256GB ROM Midnight Black Redmi 004381</name>
-        <vendor>Redmi</vendor>
-        <barcodes>
-          <barcode>004381</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>208854</price>
       </offer>
       <offer sku="004382">
         <name>Мобильный телефон Xiaomi 13 Lite 8GB RAM 256GB ROM Black Xiaomi 004382</name>
@@ -25008,17 +24854,6 @@
         </pickup-options>
         <price>91170</price>
       </offer>
-      <offer sku="004616">
-        <name>Модуль памяти G.SKILL F4-2400C17S-8GNT DDR4 8GB G.SKILL 004616</name>
-        <vendor>G.SKILL</vendor>
-        <barcodes>
-          <barcode>004616</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>11072</price>
-      </offer>
       <offer sku="004617">
         <name>Комплект модулей памяти G.SKILL F4-2400C17D-16GNT DDR4 16GB (Kit 2x8GB) 2400MHz G.SKILL 004617</name>
         <vendor>G.SKILL</vendor>
@@ -25140,17 +24975,6 @@
         </pickup-options>
         <price>12073</price>
       </offer>
-      <offer sku="004633">
-        <name>Модуль памяти для ноутбука G.SKILL Ripjaws F4-3200C22S-8GRS DDR4 8GB G.SKILL 004633</name>
-        <vendor>G.SKILL</vendor>
-        <barcodes>
-          <barcode>004633</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>12070</price>
-      </offer>
       <offer sku="004634">
         <name>Модуль памяти для ноутбука G.SKILL Ripjaws F4-3200C18S-8GRS DDR4 8GB G.SKILL 004634</name>
         <vendor>G.SKILL</vendor>
@@ -25261,17 +25085,6 @@
         </pickup-options>
         <price>20186</price>
       </offer>
-      <offer sku="004645">
-        <name>Модуль памяти G.SKILL Aegis F4-2666C19S-16GIS DDR4 16GB G.SKILL 004645</name>
-        <vendor>G.SKILL</vendor>
-        <barcodes>
-          <barcode>004645</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>17379</price>
-      </offer>
       <offer sku="004646">
         <name>Комплект модулей памяти G.SKILL Aegis F4-2666C19D-16GIS DDR4 16GB (Kit 2x8GB) 2666MHz G.SKILL 004646</name>
         <vendor>G.SKILL</vendor>
@@ -25349,17 +25162,6 @@
         </pickup-options>
         <price>24163</price>
       </offer>
-      <offer sku="004655">
-        <name>Комплект модулей памяти G.SKILL SniperX F4-3200C16D-32GSXWB DDR4 32GB (Kit 2x16GB) 3200MHz G.SKILL 004655</name>
-        <vendor>G.SKILL</vendor>
-        <barcodes>
-          <barcode>004655</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>38232</price>
-      </offer>
       <offer sku="004658">
         <name>Комплект модулей памяти G.SKILL SniperX F4-3600C19D-32GSXWB DDR4 32GB (Kit 2x16GB) 3600MHz G.SKILL 004658</name>
         <vendor>G.SKILL</vendor>
@@ -25392,17 +25194,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>19553</price>
-      </offer>
-      <offer sku="004662">
-        <name>Комплект модулей памяти G.SKILL RipjawsV F4-3200C16D-16GVKB DDR4 16GB (Kit 2x8GB) 3200MHz G.SKILL 004662</name>
-        <vendor>G.SKILL</vendor>
-        <barcodes>
-          <barcode>004662</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>22782</price>
       </offer>
       <offer sku="004663">
         <name>Комплект модулей памяти G.SKILL RipjawsV F4-3200C16D-16GVGB DDR4 16GB (Kit 2x8GB) 3200MHz G.SKILL 004663</name>
@@ -27571,6 +27362,17 @@
         </pickup-options>
         <price>77931</price>
       </offer>
+      <offer sku="004955">
+        <name>Блок питания Thermaltake Toughpower GF3 750W Gold Thermaltake 004955</name>
+        <vendor>Thermaltake</vendor>
+        <barcodes>
+          <barcode>004955</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>97208</price>
+      </offer>
       <offer sku="004957">
         <name>Блок питания Thermaltake Toughpower iRGB PLUS 750W Gold Thermaltake 004957</name>
         <vendor>Thermaltake</vendor>
@@ -28395,17 +28197,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>37557</price>
-      </offer>
-      <offer sku="005054">
-        <name>Компьютерная мышь HyperX Pulsefire Haste 2 (Black) 6N0A7AA HyperX 005054</name>
-        <vendor>HyperX</vendor>
-        <barcodes>
-          <barcode>005054</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>45603</price>
       </offer>
       <offer sku="005057">
         <name>Компьютерная мышь Steelseries Aerox 9 Aerox 005057</name>
@@ -29342,17 +29133,6 @@
         </pickup-options>
         <price>20092</price>
       </offer>
-      <offer sku="005169">
-        <name>Адаптер D-Link DUB-1341/C2A D-link 005169</name>
-        <vendor>D-link</vendor>
-        <barcodes>
-          <barcode>005169</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>15494</price>
-      </offer>
       <offer sku="005170">
         <name>Адаптер D-Link DUB-1370/B2A D-link 005170</name>
         <vendor>D-link</vendor>
@@ -29506,6 +29286,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>7262</price>
+      </offer>
+      <offer sku="005189">
+        <name>Гарнитура XG XH-900 X-Game 005189</name>
+        <vendor>X-Game</vendor>
+        <barcodes>
+          <barcode>005189</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>8791</price>
       </offer>
       <offer sku="005192">
         <name>Гарнитура Edifier G33 Черный Edifier 005192</name>
@@ -31078,7 +30869,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4467</price>
+        <price>4080</price>
       </offer>
       <offer sku="005374">
         <name>Батарейка CAMELION Digi Alkaline LR6-BP2DG 2 шт. в блистере Camelion 005374</name>
@@ -31089,7 +30880,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4237</price>
+        <price>3851</price>
       </offer>
       <offer sku="005375">
         <name>Батарейка CAMELION Digi Alkaline LR6-BP4DG 4 шт. в блистере Camelion 005375</name>
@@ -31100,7 +30891,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4491</price>
+        <price>4105</price>
       </offer>
       <offer sku="005376">
         <name>Батарейка CAMELION Plus Alkaline LR6-BP2 2 шт. в блистере Camelion 005376</name>
@@ -31111,7 +30902,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4216</price>
+        <price>3830</price>
       </offer>
       <offer sku="005377">
         <name>Батарейка VARTA Superlife Mignon 1.5V - R6P/AA 4 шт в блистере Varta 005377</name>
@@ -31122,7 +30913,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4536</price>
+        <price>4149</price>
       </offer>
       <offer sku="005378">
         <name>Батарейка CAMELION Plus Alkaline LR6-BP4 4 шт. в блистере Camelion 005378</name>
@@ -31133,7 +30924,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4509</price>
+        <price>4123</price>
       </offer>
       <offer sku="005380">
         <name>Батарейка CAMELION Plus Alkaline LR6-SP2 2 шт. в плёнке Camelion 005380</name>
@@ -31144,7 +30935,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4137</price>
+        <price>3751</price>
       </offer>
       <offer sku="005381">
         <name>Батарейка VARTA Longlife Mignon 1.5V - LR6/AA 4 шт в блистере Varta 005381</name>
@@ -31155,7 +30946,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>6574</price>
+        <price>5286</price>
       </offer>
       <offer sku="005382">
         <name>Батарейка CAMELION Plus Alkaline LR6-SP4 4 шт. в плёнке Camelion 005382</name>
@@ -31166,7 +30957,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4422</price>
+        <price>4036</price>
       </offer>
       <offer sku="005383">
         <name>Батарейка CAMELION Plus Alkaline LR6-SP10-DA 10 шт. в плёнке Camelion 005383</name>
@@ -31177,7 +30968,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>6526</price>
+        <price>5239</price>
       </offer>
       <offer sku="005384">
         <name>Батарейка CAMELION Plus Alkaline LR6-PB24 24 шт. в упак. Camelion 005384</name>
@@ -31188,7 +30979,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>8561</price>
+        <price>7274</price>
       </offer>
       <offer sku="005385">
         <name>Батарейка VARTA Longlife Power Mignon 1.5V - LR6/AA 2 шт в блистере Varta 005385</name>
@@ -31199,7 +30990,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4937</price>
+        <price>4551</price>
       </offer>
       <offer sku="005386">
         <name>Батарейка VARTA Longlife Power Mignon 1.5V - LR6/AA 4 шт в блистере Varta 005386</name>
@@ -31210,7 +31001,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>7287</price>
+        <price>6000</price>
       </offer>
       <offer sku="005387">
         <name>Батарейка VARTA Longlife Power Max Mignon 1.5V - LR6/AA 2 шт в блистере Varta 005387</name>
@@ -31221,7 +31012,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>6414</price>
+        <price>5126</price>
       </offer>
       <offer sku="005388">
         <name>Батарейка CAMELION Super Heavy Duty R6P-SP2B 2 шт. в плёнке Camelion 005388</name>
@@ -31232,7 +31023,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4032</price>
+        <price>3646</price>
       </offer>
       <offer sku="005389">
         <name>Батарейка CAMELION Super Heavy Duty R6P-SP4B 4 шт. в плёнке Camelion 005389</name>
@@ -31243,7 +31034,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4182</price>
+        <price>3795</price>
       </offer>
       <offer sku="005390">
         <name>Батарейка CAMELION Super Heavy Duty R6P-SP4G 4 шт. в плёнке Camelion 005390</name>
@@ -31254,7 +31045,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4182</price>
+        <price>3795</price>
       </offer>
       <offer sku="005391">
         <name>Батарейка CAMELION Super Heavy Duty R6P-BP2B 2 шт. в блистере Camelion 005391</name>
@@ -31265,7 +31056,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4068</price>
+        <price>3682</price>
       </offer>
       <offer sku="005392">
         <name>Батарейка CAMELION Super Heavy Duty R6P-BP4B 4 шт. в блистере Camelion 005392</name>
@@ -31276,7 +31067,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4224</price>
+        <price>3838</price>
       </offer>
       <offer sku="005393">
         <name>Батарейка VARTA Longlife Power Max Mignon 1.5V - LR6/ AA 4 шт в блистере Varta 005393</name>
@@ -31287,7 +31078,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>7544</price>
+        <price>6256</price>
       </offer>
       <offer sku="005394">
         <name>Батарейка CAMELION Lithium P7 FR6-BP2 2 шт. в блистере Camelion 005394</name>
@@ -31298,7 +31089,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>6820</price>
+        <price>5532</price>
       </offer>
       <offer sku="005395">
         <name>Батарейки Xiaomi AA Rainbow Batteries (10 штук в упаковке) Xiaomi 005395</name>
@@ -31309,7 +31100,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>7492</price>
+        <price>6205</price>
       </offer>
       <offer sku="005398">
         <name>Батарейка CAMELION Super Heavy Duty R6P-SP24B 24 шт. в плёнке Camelion 005398</name>
@@ -31320,7 +31111,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>6814</price>
+        <price>5526</price>
       </offer>
       <offer sku="005399">
         <name>Батарейка CAMELION Super Heavy Duty R6P-PB24B 24 шт. в упак. Camelion 005399</name>
@@ -31331,7 +31122,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>6816</price>
+        <price>5529</price>
       </offer>
       <offer sku="005400">
         <name>Батарейка CAMELION Digi Alkaline LR6-PBH24DG 24 шт. в упак. Camelion 005400</name>
@@ -31342,7 +31133,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>9986</price>
+        <price>7669</price>
       </offer>
       <offer sku="005401">
         <name>Батарейка CAMELION Digi Alkaline LR6-BP24DG 24 шт. в упак. Camelion 005401</name>
@@ -31353,7 +31144,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>9902</price>
+        <price>7585</price>
       </offer>
       <offer sku="005402">
         <name>Батарейка CAMELION Digi Alkaline 4+2LR6DG-BP 6 шт. в блистере Camelion 005402</name>
@@ -31364,7 +31155,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4621</price>
+        <price>4234</price>
       </offer>
       <offer sku="005403">
         <name>Батарейка CAMELION Plus Alkaline LR6-PBH24 24 шт. в упак. Camelion 005403</name>
@@ -31375,7 +31166,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>8595</price>
+        <price>7308</price>
       </offer>
       <offer sku="005404">
         <name>Батарейка CAMELION Digi Alkaline LR03-BP2DG 2 шт. в блистере Camelion 005404</name>
@@ -31386,7 +31177,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4144</price>
+        <price>3757</price>
       </offer>
       <offer sku="005405">
         <name>Батарейка CAMELION Plus Alkaline LR03-PB24 24 шт. в упак. Camelion 005405</name>
@@ -31397,7 +31188,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>7660</price>
+        <price>6372</price>
       </offer>
       <offer sku="005406">
         <name>Батарейка CAMELION Digi Alkaline LR03-BP4DG 4 шт. в блистере Camelion 005406</name>
@@ -31408,7 +31199,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4344</price>
+        <price>3957</price>
       </offer>
       <offer sku="005407">
         <name>Батарейка CAMELION Plus Alkaline LR03-BP2 2 шт. в блистере Camelion 005407</name>
@@ -31419,7 +31210,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4180</price>
+        <price>3794</price>
       </offer>
       <offer sku="005408">
         <name>Батарейка CAMELION Plus Alkaline LR03-BP4 4 шт. в блистере Camelion 005408</name>
@@ -31430,7 +31221,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4385</price>
+        <price>3999</price>
       </offer>
       <offer sku="005409">
         <name>Батарейка CAMELION Plus Alkaline LR03-SP2 2 шт. в плёнке Camelion 005409</name>
@@ -31441,7 +31232,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4118</price>
+        <price>3732</price>
       </offer>
       <offer sku="005410">
         <name>Батарейка CAMELION Plus Alkaline LR03-SP4 4 шт. в плёнке Camelion 005410</name>
@@ -31452,7 +31243,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4347</price>
+        <price>3961</price>
       </offer>
       <offer sku="005411">
         <name>Батарейка CAMELION Plus Alkaline LR03-SP10-DA 10 шт. в плёнке Camelion 005411</name>
@@ -31463,7 +31254,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>6317</price>
+        <price>5030</price>
       </offer>
       <offer sku="005414">
         <name>Батарейка CAMELION Super Heavy Duty R03P-SP4B 4 шт. в плёнке Camelion 005414</name>
@@ -31474,7 +31265,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4110</price>
+        <price>3724</price>
       </offer>
       <offer sku="005415">
         <name>Батарейка CAMELION Super Heavy Duty R03P-BP2B 2 шт. в блистере Camelion 005415</name>
@@ -31485,7 +31276,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4029</price>
+        <price>3643</price>
       </offer>
       <offer sku="005416">
         <name>Батарейка CAMELION Super Heavy Duty R03P-BP4B 4 шт. в блистере Camelion 005416</name>
@@ -31496,7 +31287,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4170</price>
+        <price>3784</price>
       </offer>
       <offer sku="005417">
         <name>Батарейка CAMELION Super Heavy Duty R03P-SP24B 24 шт. в плёнке Camelion 005417</name>
@@ -31507,7 +31298,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>6626</price>
+        <price>5339</price>
       </offer>
       <offer sku="005418">
         <name>Батарейка CAMELION Super Heavy Duty R03P-PB24B 24 шт. в упак. Camelion 005418</name>
@@ -31518,7 +31309,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>6655</price>
+        <price>5368</price>
       </offer>
       <offer sku="005419">
         <name>Батарейка CAMELION Lithium P7 FR03-BP2 2 шт. в блистере Camelion 005419</name>
@@ -31529,7 +31320,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>6830</price>
+        <price>5543</price>
       </offer>
       <offer sku="005420">
         <name>Батарейка CAMELION Lithium P7 FR03-BP4 4 шт. в блистере Camelion 005420</name>
@@ -31540,7 +31331,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>7864</price>
+        <price>6577</price>
       </offer>
       <offer sku="005422">
         <name>Батарейка VARTA Longlife Micro 1.5V - LR03/ AAA (4 шт) Varta 005422</name>
@@ -31551,7 +31342,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>6561</price>
+        <price>5274</price>
       </offer>
       <offer sku="005423">
         <name>Батарейка VARTA Longlife Power Micro 1.5V - LR03/AAA (2 шт) Varta 005423</name>
@@ -31562,7 +31353,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4989</price>
+        <price>4602</price>
       </offer>
       <offer sku="005424">
         <name>Батарейка VARTA Longlife Power Micro 1.5V - LR03/ AAA (4 шт) Varta 005424</name>
@@ -31573,7 +31364,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>7216</price>
+        <price>5929</price>
       </offer>
       <offer sku="005425">
         <name>Батарейка VARTA Longlife Power Max Micro 1.5V - LR03/ AAA (2 шт) Varta 005425</name>
@@ -31584,7 +31375,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>6379</price>
+        <price>5092</price>
       </offer>
       <offer sku="005426">
         <name>Батарейка VARTA Longlife Power Max Micro 1.5V - LR03/ AAA 4 шт в блистере Varta 005426</name>
@@ -31595,7 +31386,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>7586</price>
+        <price>6299</price>
       </offer>
       <offer sku="005427">
         <name>Батарейка VARTA Superlife (Super Heavy Duty) Micro 1.5V - R03P/AAA 4 шт. в блистере Varta 005427</name>
@@ -31606,7 +31397,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4531</price>
+        <price>4145</price>
       </offer>
       <offer sku="005428">
         <name>Батарейки Xiaomi AAA Rainbow Batteries (10 штук в упаковке) Xiaomi 005428</name>
@@ -31617,7 +31408,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>7190</price>
+        <price>5902</price>
       </offer>
       <offer sku="005430">
         <name>Батарейка CAMELION Plus Alkaline LR03-PBH24 24 шт. в упак. Camelion 005430</name>
@@ -31628,7 +31419,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>7821</price>
+        <price>6533</price>
       </offer>
       <offer sku="005431">
         <name>Батарейка CAMELION Digi Alkaline LR03-PBH24DG 24 шт. в упак. Camelion 005431</name>
@@ -31639,7 +31430,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>7920</price>
+        <price>6632</price>
       </offer>
       <offer sku="005432">
         <name>Батарейка CAMELION Digi Alkaline LR03-BP24DG 24 шт. в упак. Camelion 005432</name>
@@ -31650,7 +31441,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>7775</price>
+        <price>6487</price>
       </offer>
       <offer sku="005433">
         <name>Батарейка CAMELION Plus Alkaline LR14-BP2 2 шт. в блистере Camelion 005433</name>
@@ -31661,7 +31452,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4761</price>
+        <price>4375</price>
       </offer>
       <offer sku="005434">
         <name>Батарейка CAMELION Super Heavy Duty R14P-BP2B 2шт. в блистере Camelion 005434</name>
@@ -31672,7 +31463,29 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4347</price>
+        <price>3961</price>
+      </offer>
+      <offer sku="005436">
+        <name>Батарейка VARTA Longlife Baby 1.5V - LR14/ C 2 шт. в блистере Varta 005436</name>
+        <vendor>Varta</vendor>
+        <barcodes>
+          <barcode>005436</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>5500</price>
+      </offer>
+      <offer sku="005437">
+        <name>Батарейка VARTA Longlife Power 1.5V - LR14/ C (2 шт) в блистере Varta 005437</name>
+        <vendor>Varta</vendor>
+        <barcodes>
+          <barcode>005437</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>5563</price>
       </offer>
       <offer sku="005438">
         <name>Батарейка VARTA High Energy (LL Power) Baby 1.5V - LR14/ C 2 шт. в блистере Varta 005438</name>
@@ -31683,7 +31496,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>6851</price>
+        <price>5563</price>
       </offer>
       <offer sku="005439">
         <name>Батарейка CAMELION Digi Alkaline LR14-BP2DG 2 шт. в блистере Camelion 005439</name>
@@ -31694,7 +31507,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4777</price>
+        <price>4391</price>
       </offer>
       <offer sku="005440">
         <name>Батарейка CAMELION Super Heavy Duty R20P-BP2B 2 шт. в блистере Camelion 005440</name>
@@ -31705,7 +31518,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4298</price>
+        <price>3911</price>
       </offer>
       <offer sku="005441">
         <name>Батарейка VARTA Superlife (Super Heavy Duty) Mono 1.5V - R20P/D 2 шт. в пленке Varta 005441</name>
@@ -31716,7 +31529,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4866</price>
+        <price>4479</price>
       </offer>
       <offer sku="005442">
         <name>Батарейка VARTA Longlife Mono 1.5V - LR20/D 2 шт. в блистере Varta 005442</name>
@@ -31727,7 +31540,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>7860</price>
+        <price>6572</price>
       </offer>
       <offer sku="005443">
         <name>Батарейка CAMELION Plus Alkaline LR20-BP2 2 шт. в блистере Camelion 005443</name>
@@ -31738,7 +31551,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>6747</price>
+        <price>5460</price>
       </offer>
       <offer sku="005444">
         <name>Батарейка CAMELION Super Heavy Duty R20P-SP2B 2 шт. в плёнке Camelion 005444</name>
@@ -31749,7 +31562,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4437</price>
+        <price>4051</price>
       </offer>
       <offer sku="005446">
         <name>Батарейка CAMELION Digi Alkaline LR20-BP2DG 2 шт. в блистере Camelion 005446</name>
@@ -31760,7 +31573,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>6747</price>
+        <price>5460</price>
       </offer>
       <offer sku="005447">
         <name>Аккумулятор CAMELION AlwaysReady Rechargeable Ni-MH NH-AA1000ARBP4 4 шт. в блистере Camelion 005447</name>
@@ -31771,7 +31584,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>7759</price>
+        <price>6471</price>
       </offer>
       <offer sku="005448">
         <name>Аккумулятор CAMELION AlwaysReady Rechargeable Ni-MH NH-AA2300ARBP2 2 шт. в блистере Camelion 005448</name>
@@ -31782,7 +31595,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>7437</price>
+        <price>6149</price>
       </offer>
       <offer sku="005449">
         <name>Аккумулятор CAMELION Lockbox Rechargeable Ni-MH NH-AAA1100BP4 4 шт. в блистере Camelion 005449</name>
@@ -31793,7 +31606,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>7497</price>
+        <price>6209</price>
       </offer>
       <offer sku="005450">
         <name>Аккумулятор CAMELION Rechargeable Ni-MH NH-AAА1100BP2 2 шт. в блистере Camelion 005450</name>
@@ -31804,7 +31617,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>6374</price>
+        <price>5086</price>
       </offer>
       <offer sku="005451">
         <name>Аккумулятор CAMELION Rechargeable Ni-MH NH-AA1800BP2 2 шт. в блистере Camelion 005451</name>
@@ -31815,7 +31628,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>6802</price>
+        <price>5515</price>
       </offer>
       <offer sku="005452">
         <name>Аккумулятор VARTA R2U Micro 1.2V - HR03/AAA 800 мАч (2 шт) Varta 005452</name>
@@ -31826,7 +31639,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>10351</price>
+        <price>8033</price>
       </offer>
       <offer sku="005453">
         <name>Аккумулятор VARTA R2U Mignon 1.2V - HR6/ AA 2100 мАч (2 шт) Varta 005453</name>
@@ -31837,7 +31650,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>11202</price>
+        <price>8885</price>
       </offer>
       <offer sku="005454">
         <name>Аккумулятор CAMELION AlwaysReady Rechargeable Ni-MH NH-AAA900ARBP2 2 шт. в блистере Camelion 005454</name>
@@ -31848,7 +31661,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>5000</price>
+        <price>4614</price>
       </offer>
       <offer sku="005455">
         <name>Аккумулятор CAMELION Rechargeable Ni-MH NH-C2500BP2 2 шт. в блистере Camelion 005455</name>
@@ -31859,7 +31672,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>8575</price>
+        <price>7287</price>
       </offer>
       <offer sku="005456">
         <name>Аккумулятор CAMELION AlwaysReady Ni-MH Rechargeable NH-AA2700ARBP4 4 шт. в блистере Camelion 005456</name>
@@ -31870,7 +31683,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>11471</price>
+        <price>9154</price>
       </offer>
       <offer sku="005457">
         <name>Аккумулятор CAMELION AlwaysReady Ni-MH Rechargeable NH-AA2700ARBP2 2 шт. в блистере Camelion 005457</name>
@@ -31881,7 +31694,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>7885</price>
+        <price>6598</price>
       </offer>
       <offer sku="005458">
         <name>Аккумулятор CAMELION AlwaysReady Ni-MH Rechargeable NH-AAA1100ARBP4 4 шт. в блистере Camelion 005458</name>
@@ -31892,7 +31705,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>7387</price>
+        <price>6100</price>
       </offer>
       <offer sku="005459">
         <name>Аккумулятор CAMELION AlwaysReady "Hyper" Rechargeable Ni-MH NH-AA2000HPBP2 2 шт. в блистере Camelion 005459</name>
@@ -31903,7 +31716,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>6972</price>
+        <price>5685</price>
       </offer>
       <offer sku="005460">
         <name>Батарейка CAMELION Lithium CR2032-BP1 Camelion 005460</name>
@@ -31914,7 +31727,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4023</price>
+        <price>3637</price>
       </offer>
       <offer sku="005461">
         <name>Батарейка CAMELION Lithium CR2025-BP1 Camelion 005461</name>
@@ -31925,7 +31738,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4023</price>
+        <price>3637</price>
       </offer>
       <offer sku="005462">
         <name>Батарейка CAMELION Lithium CR2016-BP1 Camelion 005462</name>
@@ -31936,7 +31749,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4023</price>
+        <price>3637</price>
       </offer>
       <offer sku="005463">
         <name>Батарейка CAMELION Lithium CR2032-BP5 5 шт. в блистере Camelion 005463</name>
@@ -31947,7 +31760,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4545</price>
+        <price>4159</price>
       </offer>
       <offer sku="005464">
         <name>Батарейка CAMELION Lithium CR123A-BP1 Camelion 005464</name>
@@ -31958,7 +31771,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4618</price>
+        <price>4232</price>
       </offer>
       <offer sku="005465">
         <name>Батарейка CAMELION Lithium CR2025-BP5 5 шт. в блистере Camelion 005465</name>
@@ -31969,7 +31782,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4440</price>
+        <price>4054</price>
       </offer>
       <offer sku="005466">
         <name>Батарейка CAMELION Lithium CR2016-BP5 5 шт. в блистере Camelion 005466</name>
@@ -31980,7 +31793,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4440</price>
+        <price>4054</price>
       </offer>
       <offer sku="005467">
         <name>Батарейка CAMELION Lithium CR1620-BP1 Camelion 005467</name>
@@ -31991,7 +31804,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4023</price>
+        <price>3637</price>
       </offer>
       <offer sku="005468">
         <name>Батарейка CAMELION Lithium CR1632-BP1 Camelion 005468</name>
@@ -32002,7 +31815,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4023</price>
+        <price>3637</price>
       </offer>
       <offer sku="005469">
         <name>Батарейка CAMELION Lithium CR1616-BP1 Camelion 005469</name>
@@ -32013,7 +31826,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4023</price>
+        <price>3637</price>
       </offer>
       <offer sku="005470">
         <name>Батарейка CAMELION Lithium CR2450-BP1 Camelion 005470</name>
@@ -32024,7 +31837,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4145</price>
+        <price>3759</price>
       </offer>
       <offer sku="005471">
         <name>Батарейка CAMELION Lithium CR1616-BP5 5 шт. в блистере Camelion 005471</name>
@@ -32035,7 +31848,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4411</price>
+        <price>4025</price>
       </offer>
       <offer sku="005472">
         <name>Батарейка CAMELION Lithium CR1620-BP5 5 шт. в блистере Camelion 005472</name>
@@ -32046,7 +31859,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4316</price>
+        <price>3930</price>
       </offer>
       <offer sku="005473">
         <name>Батарейка CAMELION Lithium CR1220-BP5 5 шт. в блистере Camelion 005473</name>
@@ -32057,7 +31870,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4460</price>
+        <price>4074</price>
       </offer>
       <offer sku="005474">
         <name>Батарейка CAMELION Lithium CR2-BP1 Camelion 005474</name>
@@ -32068,7 +31881,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4759</price>
+        <price>4372</price>
       </offer>
       <offer sku="005475">
         <name>Батарейка VARTA Lithium CR2016 3V 1 шт. в блистере Varta 005475</name>
@@ -32079,7 +31892,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4357</price>
+        <price>3971</price>
       </offer>
       <offer sku="005476">
         <name>Батарейка VARTA Lithium CR2025 3V (1 шт) Varta 005476</name>
@@ -32090,7 +31903,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4357</price>
+        <price>3971</price>
       </offer>
       <offer sku="005477">
         <name>Батарейка VARTA Lithium CR2032 3V (1 шт) Varta 005477</name>
@@ -32101,7 +31914,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4368</price>
+        <price>3982</price>
       </offer>
       <offer sku="005478">
         <name>Батарейка CAMELION Lithium CR1225-BP5 5 шт. в блистере Camelion 005478</name>
@@ -32112,7 +31925,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4079</price>
+        <price>3693</price>
       </offer>
       <offer sku="005479">
         <name>Батарейка CAMELION Lithium CR1216-BP5 5 шт. в блистере Camelion 005479</name>
@@ -32123,7 +31936,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4079</price>
+        <price>3693</price>
       </offer>
       <offer sku="005480">
         <name>Батарейка CAMELION Lithium CR2430-BP1 Camelion 005480</name>
@@ -32134,7 +31947,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4091</price>
+        <price>3705</price>
       </offer>
       <offer sku="005481">
         <name>Батарейка VARTA Professional Electronics CR2450 3V 1 шт в блистере Varta 005481</name>
@@ -32145,7 +31958,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>6621</price>
+        <price>5333</price>
       </offer>
       <offer sku="005482">
         <name>Аккумулятор CAMELION Lithium ICR18650F-22-BP 2200 mAh 1 шт. в блистере Camelion 005482</name>
@@ -32156,7 +31969,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>6613</price>
+        <price>5325</price>
       </offer>
       <offer sku="005483">
         <name>Батарейка VARTA Lithium CR1632 3V 1 шт. в блистере Varta 005483</name>
@@ -32167,7 +31980,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>6325</price>
+        <price>5038</price>
       </offer>
       <offer sku="005484">
         <name>Батарейка CAMELION Lithium CR2330-BP1 Camelion 005484</name>
@@ -32178,7 +31991,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>3961</price>
+        <price>3575</price>
       </offer>
       <offer sku="005485">
         <name>Батарейка CAMELION Super Heavy Duty 6F22-SP1G Camelion 005485</name>
@@ -32189,7 +32002,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4090</price>
+        <price>3703</price>
       </offer>
       <offer sku="005486">
         <name>Батарейка CAMELION Digi Alkaline 6LR61-BP1DG Camelion 005486</name>
@@ -32200,7 +32013,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4633</price>
+        <price>4247</price>
       </offer>
       <offer sku="005487">
         <name>Батарейка CAMELION Plus Alkaline 6LR61-BP1 Camelion 005487</name>
@@ -32211,7 +32024,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4589</price>
+        <price>4202</price>
       </offer>
       <offer sku="005488">
         <name>Батарейка CAMELION Plus Alkaline 6LR61-SP4 Camelion 005488</name>
@@ -32222,7 +32035,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>7589</price>
+        <price>6301</price>
       </offer>
       <offer sku="005489">
         <name>Батарейка CAMELION Alkaline A32-BP5 Camelion 005489</name>
@@ -32233,7 +32046,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4575</price>
+        <price>4189</price>
       </offer>
       <offer sku="005490">
         <name>Батарейка CAMELION Photo Plus Alkaline 4LR44-BP1C Camelion 005490</name>
@@ -32244,7 +32057,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4244</price>
+        <price>3857</price>
       </offer>
       <offer sku="005491">
         <name>Батарейка CAMELION Super Heavy Duty 6F22-SP1B Camelion 005491</name>
@@ -32255,7 +32068,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4092</price>
+        <price>3706</price>
       </offer>
       <offer sku="005492">
         <name>Батарейка CAMELION Super Heavy Duty 6F22-BP1B Camelion 005492</name>
@@ -32266,7 +32079,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4163</price>
+        <price>3777</price>
       </offer>
       <offer sku="005494">
         <name>Аккумулятор CAMELION Rechargeable Ni-MH NH-9V200BP1 в пленке Camelion 005494</name>
@@ -32277,7 +32090,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>7299</price>
+        <price>6011</price>
       </offer>
       <offer sku="005495">
         <name>Аккумулятор CAMELION Rechargeable Ni-MH NH-9V250BP1 Camelion 005495</name>
@@ -32288,7 +32101,18 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>7437</price>
+        <price>6149</price>
+      </offer>
+      <offer sku="005496">
+        <name>Батарейка VARTA Superlife (Super Heavy Duty) E-Block 9V - 6F22P 1 шт. в пленке Varta 005496</name>
+        <vendor>Varta</vendor>
+        <barcodes>
+          <barcode>005496</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>4124</price>
       </offer>
       <offer sku="005497">
         <name>Батарейка CAMELION Plus Alkaline 6LR61-SP1 Camelion 005497</name>
@@ -32299,7 +32123,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4430</price>
+        <price>4044</price>
       </offer>
       <offer sku="005498">
         <name>Батарейка VARTA Superlife (Super Heavy Duty) E-Block 9V - 6F22P 1 шт. в блистере Varta 005498</name>
@@ -32310,7 +32134,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>4561</price>
+        <price>4175</price>
       </offer>
       <offer sku="005499">
         <name>Графический планшет XP-Pen Deco Fun L BK XP-Pen 005499</name>
@@ -32653,17 +32477,6 @@
         </pickup-options>
         <price>4795</price>
       </offer>
-      <offer sku="005543">
-        <name>USB-накопитель Apacer AH334 32GB Розовый Apacer 005543</name>
-        <vendor>Apacer</vendor>
-        <barcodes>
-          <barcode>005543</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>4560</price>
-      </offer>
       <offer sku="005544">
         <name>USB-накопитель Apacer AH334 64GB Розовый Apacer 005544</name>
         <vendor>Apacer</vendor>
@@ -32917,17 +32730,6 @@
         </pickup-options>
         <price>4879</price>
       </offer>
-      <offer sku="005577">
-        <name>Карта памяти Kingston SDCS2/32GB Class 10 32GB + адаптер Kingstone 005577</name>
-        <vendor>Kingstone</vendor>
-        <barcodes>
-          <barcode>005577</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>4911</price>
-      </offer>
       <offer sku="005578">
         <name>Карта памяти Kingston SDCS2/64GB Class 10 64GB, с адаптером Kingstone 005578</name>
         <vendor>Kingstone</vendor>
@@ -32983,17 +32785,6 @@
         </pickup-options>
         <price>43019</price>
       </offer>
-      <offer sku="005585">
-        <name>Внешний SSD диск Kingston 1TB XS2000 Серебристый Kingstone 005585</name>
-        <vendor>Kingstone</vendor>
-        <barcodes>
-          <barcode>005585</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>52454</price>
-      </offer>
       <offer sku="005588">
         <name>Внешний SSD диск ADATA 256GB SE760 Серый Adata 005588</name>
         <vendor>Adata</vendor>
@@ -33026,17 +32817,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>31037</price>
-      </offer>
-      <offer sku="005597">
-        <name>Внешний жёсткий диск ADATA 1TB 2.5" HD330 Чёрный Adata 005597</name>
-        <vendor>Adata</vendor>
-        <barcodes>
-          <barcode>005597</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>31291</price>
       </offer>
       <offer sku="005600">
         <name>Внешний SSD диск ADATA 256GB SE760 Черный Adata 005600</name>
@@ -34434,17 +34214,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>34475</price>
-      </offer>
-      <offer sku="005787">
-        <name>IP-камера TP-Link Tapo C320WS TP-Link 005787</name>
-        <vendor>TP-Link</vendor>
-        <barcodes>
-          <barcode>005787</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>36589</price>
       </offer>
       <offer sku="005788">
         <name>Автоматический дозатор пенного мыла Mi Automatic Foaming Soap Dispenser Белый Mi 005788</name>
@@ -37064,17 +36833,6 @@
         </pickup-options>
         <price>60356</price>
       </offer>
-      <offer sku="006078">
-        <name>Кухонные весы Scarlett SC-KS57P66 Scarlett 006078</name>
-        <vendor>Scarlett</vendor>
-        <barcodes>
-          <barcode>006078</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>13183</price>
-      </offer>
       <offer sku="006079">
         <name>Кухонные весы Scarlett SC-KS57P63 Scarlett 006079</name>
         <vendor>Scarlett</vendor>
@@ -37349,6 +37107,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>77023</price>
+      </offer>
+      <offer sku="006111">
+        <name>Кухонная машина MOULINEX QA150110 MOULINEX 006111</name>
+        <vendor>MOULINEX</vendor>
+        <barcodes>
+          <barcode>006111</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>153368</price>
       </offer>
       <offer sku="006112">
         <name>Микроволновая печь Centek CT-1571 Черный Centek 006112</name>
@@ -38428,17 +38197,6 @@
         </pickup-options>
         <price>55207</price>
       </offer>
-      <offer sku="006244">
-        <name>Кофеварка Centek CT-1164 Centek 006244</name>
-        <vendor>Centek</vendor>
-        <barcodes>
-          <barcode>006244</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>77218</price>
-      </offer>
       <offer sku="006245">
         <name>Кофеварка Centek CT-1144 Centek 006245</name>
         <vendor>Centek</vendor>
@@ -39517,17 +39275,6 @@
         </pickup-options>
         <price>15139</price>
       </offer>
-      <offer sku="006358">
-        <name>Электробритва Xiaomi Mi Electric Shaver S500 Черный Xiaomi 006358</name>
-        <vendor>Xiaomi</vendor>
-        <barcodes>
-          <barcode>006358</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>26595</price>
-      </offer>
       <offer sku="006361">
         <name>Электробритва Xiaomi Electric Shaver S700 Черный Xiaomi 006361</name>
         <vendor>Xiaomi</vendor>
@@ -39813,6 +39560,116 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>6901</price>
+      </offer>
+      <offer sku="006396">
+        <name>Летняя стеклоомывающая жидкость KARCHER H&amp;G RM 672 KARCHER 006396</name>
+        <vendor>KARCHER</vendor>
+        <barcodes>
+          <barcode>006396</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>6945</price>
+      </offer>
+      <offer sku="006397">
+        <name>Средство для бесконтактной мойки KARCHER H&amp;G RM 615 Ultra Foam Clean KARCHER 006397</name>
+        <vendor>KARCHER</vendor>
+        <barcodes>
+          <barcode>006397</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>7491</price>
+      </offer>
+      <offer sku="006398">
+        <name>Средство для очистки деревянных полов KARCHER H&amp;G RM 534 KARCHER 006398</name>
+        <vendor>KARCHER</vendor>
+        <barcodes>
+          <barcode>006398</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>8172</price>
+      </offer>
+      <offer sku="006399">
+        <name>Средство очистки пола универсальное KARCHER H&amp;G RM 536 KARCHER 006399</name>
+        <vendor>KARCHER</vendor>
+        <barcodes>
+          <barcode>006399</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>7623</price>
+      </offer>
+      <offer sku="006400">
+        <name>Средство для ухода за панелью приборов с матовым блеском KARCHER H&amp;G RM 652 KARCHER 006400</name>
+        <vendor>KARCHER</vendor>
+        <barcodes>
+          <barcode>006400</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>8517</price>
+      </offer>
+      <offer sku="006401">
+        <name>Автомобильный шампунь KARCHER H&amp;G RM 619 KARCHER 006401</name>
+        <vendor>KARCHER</vendor>
+        <barcodes>
+          <barcode>006401</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>9943</price>
+      </offer>
+      <offer sku="006402">
+        <name>Средство для чистки ковров KARCHER H&amp;G RM 519 KARCHER 006402</name>
+        <vendor>KARCHER</vendor>
+        <barcodes>
+          <barcode>006402</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>8367</price>
+      </offer>
+      <offer sku="006403">
+        <name>Восковая полироль KARCHER H&amp;G RM 660 KARCHER 006403</name>
+        <vendor>KARCHER</vendor>
+        <barcodes>
+          <barcode>006403</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>9834</price>
+      </offer>
+      <offer sku="006404">
+        <name>Средство для удаления следов насекомых KARCHER H&amp;G RM 618 KARCHER 006404</name>
+        <vendor>KARCHER</vendor>
+        <barcodes>
+          <barcode>006404</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>8120</price>
+      </offer>
+      <offer sku="006405">
+        <name>Шампунь автомобильный KARCHER H&amp;G RM 610 KARCHER 006405</name>
+        <vendor>KARCHER</vendor>
+        <barcodes>
+          <barcode>006405</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>7276</price>
       </offer>
       <offer sku="006406">
         <name>Чистящий набор Delux Gel Screen Clean Delux 006406</name>
@@ -41386,17 +41243,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>140818</price>
-      </offer>
-      <offer sku="006612">
-        <name>Сетевой видеорегистратор Dahua DHI-NVR5232-EI Dahua 006612</name>
-        <vendor>Dahua</vendor>
-        <barcodes>
-          <barcode>006612</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>193471</price>
       </offer>
       <offer sku="006613">
         <name>Сетевой видеорегистратор Dahua DHI-NVR5832-4KS2 Dahua 006613</name>
@@ -43102,17 +42948,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>10828</price>
-      </offer>
-      <offer sku="006827">
-        <name>Усилитель Wi-Fi сигнала TP-Link RE300 TP-link 006827</name>
-        <vendor>TP-link</vendor>
-        <barcodes>
-          <barcode>006827</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>25347</price>
       </offer>
       <offer sku="006828">
         <name>Усилитель Wi-Fi сигнала TP-Link RE505X TP-link 006828</name>
@@ -45786,17 +45621,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>14731</price>
-      </offer>
-      <offer sku="007141">
-        <name>Щит металлический iPower 1200*800*300 IP54 (для электрооборудования) iPower 007141</name>
-        <vendor>iPower</vendor>
-        <barcodes>
-          <barcode>007141</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>120707</price>
       </offer>
       <offer sku="007143">
         <name>Панель освещения SHIP 700301100 SHIP 007143</name>
@@ -52387,6 +52211,17 @@
         </pickup-options>
         <price>97222</price>
       </offer>
+      <offer sku="008104">
+        <name>Тонер-картридж стандартной емкости Xerox 006R04388 (голубой) Xerox 008104</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>008104</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>74823</price>
+      </offer>
       <offer sku="008106">
         <name>Тонер-картридж стандартной емкости Xerox 006R04390 (жёлтый) Xerox 008106</name>
         <vendor>Xerox</vendor>
@@ -52491,6 +52326,17 @@
         <vendor>Xerox</vendor>
         <barcodes>
           <barcode>008116</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>131559</price>
+      </offer>
+      <offer sku="008117">
+        <name>Тонер-картридж повышенной ёмкости Xerox 006R04371 (жёлтый) Xerox 008117</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>008117</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1" />
@@ -52639,6 +52485,28 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>90233</price>
+      </offer>
+      <offer sku="008142">
+        <name>Тонер-картридж повышенной емкости Xerox 106R04055 (малиновый) Xerox 008142</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>008142</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>227363</price>
+      </offer>
+      <offer sku="008144">
+        <name>Тонер-картридж повышенной емкости Xerox 106R04057 (чёрный) Xerox 008144</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>008144</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>146798</price>
       </offer>
       <offer sku="008145">
         <name>Фотобарабан Xerox 101R00602 (по одному на каждый цвет) Xerox 008145</name>
