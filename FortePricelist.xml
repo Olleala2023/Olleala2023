@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2023-10-13 17:09">
+<fm_catalog date="2023-10-13 17:33">
   <shop>
     <merchant-id>AAH99GhybQaI1s7QCe</merchant-id>
     <offers>
@@ -1200,7 +1200,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>449714</price>
+        <price>450575</price>
       </offer>
       <offer sku="980-000814">
         <name>Колонки Logitech Z150 BLACK (система 2.0) Logitech 980-000814</name>
@@ -1431,7 +1431,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>13209</price>
+        <price>13223</price>
       </offer>
       <offer sku="GY50X79385">
         <name>Мышь Lenovo Legion M600 Wireless Gaming Mouse Lenovo GY50X79385</name>
@@ -1442,7 +1442,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>30992</price>
+        <price>31044</price>
       </offer>
       <offer sku="GY50U59626">
         <name>Мышь Lenovo Yoga Presenter Mouse Lenovo GY50U59626</name>
@@ -1453,7 +1453,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>28350</price>
+        <price>28395</price>
       </offer>
       <offer sku="910-003357">
         <name>Мышь Logitech B100 Black (черная, оптическая 800dpi, USB, 1.8м) Logitech 910-003357</name>
@@ -1487,6 +1487,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>11609</price>
+      </offer>
+      <offer sku="910-002239">
+        <name>Мышь беспроводная Logitech M185 Blue (синяя, оптическая, 1000dpi, 2.4 GHz/USB-ресивер) Logitech 910-002239</name>
+        <vendor>Logitech</vendor>
+        <barcodes>
+          <barcode>910-002239</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>14699</price>
       </offer>
       <offer sku="910-002240">
         <name>Мышь беспроводная Logitech M185 Red (красная, оптическая, 1000dpi, 2.4 GHz/USB-ресивер) Logitech 910-002240</name>
@@ -1585,7 +1596,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>10241</price>
+        <price>10230</price>
       </offer>
       <offer sku="920-008184">
         <name>Клавиатура беспроводная Logitech K375s (GRAPHITE/OFFWHITE, Multi-Device, подставка в комплекте, Bluetooth Smart/Logitech Unifying, 2 батареи типа ААА) Steelseries 920-008184</name>
@@ -1629,7 +1640,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>101330</price>
+        <price>101517</price>
       </offer>
       <offer sku="9TY24AA">
         <name>HP Monitor P21b G4 20.7" TN 1920 x 1080/5ms/VGA/HDMI/1Year HP 9TY24AA</name>
@@ -1640,7 +1651,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>74352</price>
+        <price>74483</price>
       </offer>
       <offer sku="9VF96AA">
         <name>HP Monitor E23 G4 23" IPS 1920 x 1080 /5ms/ VGA/ HDMI/ DP/ USB-A 3.2 Gen 1 x4/ USB Type-B x1/ 3 Year HP 9VF96AA</name>
@@ -1651,7 +1662,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>116195</price>
+        <price>116414</price>
       </offer>
       <offer sku="3G828AA">
         <name>HP Monitor Z24f G3 23,8" IPS 1920 x 1080/5ms/DP/DP-out/HDMI/USB-A 3.2 Gen1 х4/USB-B x1/3 Year HP 3G828AA</name>
@@ -1662,18 +1673,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>157869</price>
-      </offer>
-      <offer sku="24MK430H-B">
-        <name>Монитор LCD 23.8'' 16:9 1920х1080(FHD) IPS, nonGLARE, 250cd/m2, H178°/V178°, 1000:1, 16.7M Color, 5ms, VGA, HDMI, Tilt, Audio out, 2Y, Black LG 24MK430H-B</name>
-        <vendor>LG</vendor>
-        <barcodes>
-          <barcode>24MK430H-B</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>108278</price>
+        <price>158161</price>
       </offer>
       <offer sku="LC24F390FHIXCI">
         <name>LC24F390FHIXCI Monitor Samsung LC24F390FHIXCI 23,5" Samsung LC24F390FHIXCI</name>
@@ -1685,6 +1685,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>76644</price>
+      </offer>
+      <offer sku="LF24T352FHIXCI">
+        <name>LF24T352FHIXCI Monitor Samsung LF24T352FHIXCI 24" Samsung LF24T352FHIXCI</name>
+        <vendor>Samsung</vendor>
+        <barcodes>
+          <barcode>LF24T352FHIXCI</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>81103</price>
       </offer>
       <offer sku="LF27T450FQIXCI">
         <name>LF27T450FQIXCI Monitor Samsung LF27T450FQIXCI 27" Samsung LF27T450FQIXCI</name>
@@ -1706,7 +1717,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>293691</price>
+        <price>294253</price>
       </offer>
       <offer sku="1102VV3RU0">
         <name>Лазерный копир-принтер-сканер-факс Kyocera M2835dw (А4, 35 ppm, 1200dpi, 512Mb, USB, Network, Wi-Fi, touch panel, автоподатчик, тонер) отгрузка только с доп. тонером TK-1200 Xerox 1102VV3RU0</name>
@@ -1728,7 +1739,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>11915</price>
+        <price>11926</price>
       </offer>
       <offer sku="GXD0T69863">
         <name>Наушники Lenovo Legion H300 Stereo Gaming Headset Lenovo GXD0T69863</name>
@@ -1739,7 +1750,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>37641</price>
+        <price>37701</price>
       </offer>
       <offer sku="GXD0T69864">
         <name>Наушники Lenovo Legion H500 Stereo Gaming Headset Lenovo GXD0T69864</name>
@@ -1750,7 +1761,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>48763</price>
+        <price>48846</price>
       </offer>
       <offer sku="8468B006">
         <name>i-SENSYS LBP6030B черный, лазерный, A4, монохромный, ч.б. 18 стр/мин, печать 2400x600, стартовый картридж Canon 8468B006</name>
@@ -1783,7 +1794,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>102706</price>
+        <price>102897</price>
       </offer>
       <offer sku="Robot VC Kyvol E30">
         <name>Робот-пылесос Robot VC Kyvol Cybovac E30 Kyvol Robot VC Kyvol E30</name>
@@ -1794,7 +1805,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>115920</price>
+        <price>116138</price>
       </offer>
       <offer sku="001149">
         <name>NP SC White Dogs Grain Free White Fish Adult Small and Mini Breeds 10 кг корм для взр.собак малых п. Nature's protection 001149</name>
@@ -2157,7 +2168,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>336466</price>
+        <price>337103</price>
       </offer>
       <offer sku="JBLXTREME3CAMO">
         <name>JBL Xtreme 3 - Portable Bluetooth Speaker - Camouflage JBL JBLXTREME3CAMO</name>
@@ -11542,6 +11553,17 @@
         </pickup-options>
         <price>19862</price>
       </offer>
+      <offer sku="10T7S1AH00">
+        <name>ThinkCentre M720q, Intel Core i7-9700T (2GHz, 12MB), Windows 10 Pro 64, 8.0GB, 1x500GB SATA III,1x256GB SSD PCIe, (x), 3 Year Depot Lenovo 10T7S1AH00</name>
+        <vendor>Lenovo</vendor>
+        <barcodes>
+          <barcode>10T7S1AH00</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>566069</price>
+      </offer>
       <offer sku="DS-D5022FN-C">
         <name>Монитор Hikvision 19 - 22" Hikvision DS-D5022FN-C</name>
         <vendor>Hikvision</vendor>
@@ -11551,7 +11573,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>58385</price>
+        <price>58483</price>
       </offer>
       <offer sku="XU2294HSU-B1">
         <name>Монитор LCD 21.5'' [16:9] 1920х1080(FHD) VA, nonGLARE, 250cd/m2, H178°/V178°, 3000:1, 80M:1, 16.7M, 4ms, VGA, HDMI, DP, USB-Hub, Tilt, Speakers, 3Y, Black Iiyama XU2294HSU-B1</name>
@@ -11562,7 +11584,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>104083</price>
+        <price>104276</price>
       </offer>
       <offer sku="4999B002">
         <name>4999B002 Front Print Backlit Film 230 мm 914 mm x 30 m 1 Roll Canon 4999B002</name>
@@ -11573,7 +11595,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>23505</price>
+        <price>23540</price>
       </offer>
       <offer sku="6061B004">
         <name>6061B004 Satin Photo Paper FSC 200 g/mІ 1067 mm x 30 m 1 Roll Canon 6061B004</name>
@@ -11584,7 +11606,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>13594</price>
+        <price>13609</price>
       </offer>
       <offer sku="6063B004">
         <name>6063B004 Satin Photo Paper FSC 240 g/mІ 1067 mm x 30 m 1 Roll Canon 6063B004</name>
@@ -11595,7 +11617,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>13594</price>
+        <price>13609</price>
       </offer>
       <offer sku="2886C001">
         <name>PFI-120 Cyan (130 мл для ТМ-серии) Canon 2886C001</name>
@@ -11727,7 +11749,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>13925</price>
+        <price>13940</price>
       </offer>
       <offer sku="910-005991">
         <name>Мышь беспроводная Logitech MX Anywhere 3 for Mac, PALE GREY (M/N: MR0083) Logitech 910-005991</name>
@@ -11815,7 +11837,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>9190</price>
+        <price>9195</price>
       </offer>
       <offer sku="HKED4081CBA1D0ZA1">
         <name>Модуль памяти Hikvision HKED4081CBA1D0ZA1  8GB DDR4/2666/U-DIMM 1,2V OEM Hikvision HKED4081CBA1D0ZA1</name>
@@ -11826,7 +11848,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>13594</price>
+        <price>13609</price>
       </offer>
       <offer sku="HKED4161DAB1D0ZA1">
         <name>Модуль памяти Hikvision HKED4161DAB1D0ZA1  16GB DDR4/2666/U-DIMM 1,2V OEM Hikvision HKED4161DAB1D0ZA1</name>
@@ -11837,7 +11859,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>22403</price>
+        <price>22437</price>
       </offer>
       <offer sku="A00028615">
         <name>130 DS TA-1017 BLACK Nokia A00028615</name>
@@ -12046,7 +12068,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>9691</price>
+        <price>9697</price>
       </offer>
       <offer sku="Crystal 20WUT Black">
         <name>Сетевое зарядное устройство Accesstyle Crystal 20WUT Black Accesstyle Crystal 20WUT Black</name>
@@ -12057,7 +12079,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>9735</price>
+        <price>9742</price>
       </offer>
       <offer sku="Crystal 20WUT White">
         <name>Сетевое зарядное устройство Accesstyle Crystal 20WUT White Accesstyle Crystal 20WUT White</name>
@@ -12068,7 +12090,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>9735</price>
+        <price>9742</price>
       </offer>
       <offer sku="Sunset 18WU White">
         <name>Сетевое зарядное устройство Accesstyle Sunset 18WU White Accesstyle Sunset 18WU White</name>
@@ -12079,7 +12101,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>8810</price>
+        <price>8815</price>
       </offer>
       <offer sku="Winter 20PD">
         <name>Power bank Accesstyle Winter 20PD 20000mAh Черный Accesstyle Winter 20PD</name>
@@ -12090,7 +12112,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>18532</price>
+        <price>18554</price>
       </offer>
       <offer sku="GameSir-VX">
         <name>Комплект игровой GameSir VX (состоит из: клавиатура GameSir-VX, мышь GameSir-GM190 и приемник VX Dongle) Gamesir GameSir-VX</name>
@@ -12101,7 +12123,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>90505</price>
+        <price>90667</price>
       </offer>
       <offer sku="GameSir-VX2">
         <name>Комплект игровой GameSir VX2 (состоит из: кейпад, мышь, ресивер) Gamesir GameSir-VX2</name>
@@ -12112,7 +12134,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>110698</price>
+        <price>110897</price>
       </offer>
       <offer sku="BET-C01">
         <name>Звуковая электрическая зубная щетка DR.BEI Sonic Electric Toothbrush C1 белая DR.BEI BET-C01</name>
@@ -12123,7 +12145,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>20531</price>
+        <price>20561</price>
       </offer>
       <offer sku="DR.BEI S7 Pink">
         <name>Звуковая электрическая зубная щетка DR.BEI Sonic Electric Toothbrush S7 розовая DR.BEI DR.BEI S7 Pink</name>
@@ -12134,7 +12156,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>41805</price>
+        <price>41876</price>
       </offer>
       <offer sku="BY-V12 Violet">
         <name>Звуковая электрическая зубная щетка DR.BEI Sonic Electric Toothbrush V12 сиреневая DR.BEI BY-V12 Violet</name>
@@ -12145,7 +12167,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>27214</price>
+        <price>27255</price>
       </offer>
       <offer sku="BY-V12 Black">
         <name>Звуковая электрическая зубная щетка DR.BEI Sonic Electric Toothbrush V12 черная DR.BEI BY-V12 Black</name>
@@ -12156,7 +12178,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>27214</price>
+        <price>27255</price>
       </offer>
       <offer sku="DR.BEI F2 Pink">
         <name>Портативный ирригатор DR.BEI Portable Water Flosser F2 розовый DR.BEI DR.BEI F2 Pink</name>
@@ -12167,7 +12189,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>26313</price>
+        <price>26354</price>
       </offer>
       <offer sku="865408-B21">
         <name>HPE 500W FS Plat Ht Plg LH Pwr Sply Kit HPE 865408-B21</name>
@@ -12178,7 +12200,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>68716</price>
+        <price>68828</price>
       </offer>
       <offer sku="P38995-B21">
         <name>HPE 800W Flex Slot Platinum Hot Plug Low Halogen Power Supply Kit HPE P38995-B21</name>
@@ -12189,7 +12211,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>79508</price>
+        <price>79641</price>
       </offer>
       <offer sku="P47818-B21">
         <name>HPE 480GB SATA 6G Read Intensive M.2 Multi Vendor SSD HPE P47818-B21</name>
@@ -12200,7 +12222,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>167547</price>
+        <price>167873</price>
       </offer>
       <offer sku="R0Q46A">
         <name>HPE MSA 960GB SAS 12G Read Intensive SFF (2.5in) M2 3yr Wty SSD HPE R0Q46A</name>
@@ -12211,7 +12233,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>413523</price>
+        <price>414349</price>
       </offer>
       <offer sku="4XB7A38273">
         <name>ThinkSystem 2.5" Multi Vendor 960GB Entry SATA 6Gb Hot Swap SSD Lenovo 4XB7A38273</name>
@@ -12222,7 +12244,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>217874</price>
+        <price>218299</price>
       </offer>
       <offer sku="P00922-B21">
         <name>HPE 16GB (1x16GB) Dual Rank x8 DDR4-2933 CAS-21-21-21 Registered Smart Memory Kit HPE P00922-B21</name>
@@ -12233,7 +12255,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>118994</price>
+        <price>119207</price>
       </offer>
       <offer sku="P00920-B21">
         <name>HPE 16GB 1Rx4 PC4-2933Y-R Smart Kit HPE P00920-B21</name>
@@ -12244,7 +12266,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>60077</price>
+        <price>60184</price>
       </offer>
       <offer sku="R3J22A">
         <name>Aruba Instant On AP11 (EU) Bundle HPE R3J22A</name>
@@ -12255,7 +12277,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>75582</price>
+        <price>75722</price>
       </offer>
       <offer sku="R3J26A">
         <name>Aruba Instant On AP11D (EU) Bundle HPE R3J26A</name>
@@ -12266,7 +12288,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>96944</price>
+        <price>97129</price>
       </offer>
       <offer sku="J9151E">
         <name>Aruba 10G SFP+ LC LR 10km SMF XCVR HPE J9151E</name>
@@ -12277,7 +12299,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>470750</price>
+        <price>471695</price>
       </offer>
       <offer sku="DS-2CD2543G2-IS(2.8 mm)">
         <name>Сетевая IP видеокамера Hikvision DS-2CD2543G2-IS(2.8 mm) Hikvision DS-2CD2543G2-IS(2.8 mm)</name>
@@ -12387,7 +12409,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>386723</price>
+        <price>387439</price>
       </offer>
       <offer sku="10T7S1AE00">
         <name>ThinkCentre M720q, Intel i5-8500T (2.10GHz, 9MB), Windows 10 Pro 64, 8.0GB, 1x500GB SATA III,1x128GB SSD PCIe, (x), 3 Year Depot Lenovo 10T7S1AE00</name>
@@ -12398,7 +12420,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>455730</price>
+        <price>456644</price>
       </offer>
       <offer sku="9TT53AA">
         <name>HP Monitor P22v G4 21,5" IPS 1920 x 1080 /5ms/VGA/ HDMI/ 3 Year HP 9TT53AA</name>
@@ -12409,7 +12431,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>77655</price>
+        <price>77793</price>
       </offer>
       <offer sku="245E1S/01">
         <name>Монитор жидкокристаллический PHILIPS 245E1S/01 LCD 23.8'' 16:9 2560 x 1440 IPS, nonGLARE, 250cd/m2, H178°/V178°, 4ms, VGA, HDMI, DP, 2Y, Black PHILIPS 245E1S/01</name>
@@ -12420,7 +12442,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>107937</price>
+        <price>108138</price>
       </offer>
       <offer sku="275E1S/01">
         <name>Монитор жидкокристаллический PHILIPS 275E1S/01 LCD 27'' 16:9 2560 x 1440 IPS, nonGLARE, 250cd/m2, H178°/V178°, 4ms, VGA, HDMI, DP, 2Y, Black PHILIPS 275E1S/01</name>
@@ -12431,7 +12453,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>144655</price>
+        <price>144920</price>
       </offer>
       <offer sku="LS32AG552EIXCI">
         <name>Монитор жидкокристаллический Samsung LS32AG552EIXCI 32" Samsung LS32AG552EIXCI</name>
@@ -12684,7 +12706,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>34307</price>
+        <price>34365</price>
       </offer>
       <offer sku="DS-UC2">
         <name>Веб-камера Hikvision DS-UC2 (2MP CMOS Sensor0.1Lux @ (F1.2,AGC ON),Auto Focus,Built-in Mic,USB 2.0,19201080@30/25fps,Anodic Treatment.NEW Design Packge.3.6mm Fixed Lens, кабель 2м, Windows 7/10, Android, Linux, macOS) Hikvision DS-UC2</name>
@@ -12695,7 +12717,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>47620</price>
+        <price>47706</price>
       </offer>
       <offer sku="DS-UL2">
         <name>Веб-камера Hikvision DS-UL2 (2MP CMOS Sensor0.1Lux @ (F1.2,AGC ON),Built-in Mic,USB 2.0,19201080@30/25fps,3.6mm Fixed LensAuto Focus,Magnetic bracketBuilt-in fill LightFree Desktop-Tripodб Интерфейс Type-C, поддержка протокола USB 2.0, кабель 2 м)) Hikvision DS-UL2</name>
@@ -12706,7 +12728,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>65159</price>
+        <price>65276</price>
       </offer>
       <offer sku="960-001088">
         <name>Веб-камера Logitech C922 Pro Stream (Full HD 1080p/30fps, 720p/60fps, автофокус, угол обзора 78°, стереомикрофон, лицензия XSplit на 3мес, кабель 1.5м, штатив) (M/N: V-U0028) Logitech 960-001088</name>
@@ -12750,7 +12772,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>76190</price>
+        <price>76322</price>
       </offer>
       <offer sku="16GMNB01A17">
         <name>NOKIA 125 DS TA-1253 BLACK, 2.4'', 1 Core, 4MB + 4MB (ROM/RAM), Micro SD, up to 32GB flash, GSM, 2 Sim, Micro-USB, 1020mAh, 91g, 50.5x132x15 Nokia 16GMNB01A17</name>
@@ -12783,7 +12805,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>208462</price>
+        <price>208846</price>
       </offer>
       <offer sku="VWV8">
         <name>Моющий Беспроводной Пылесос Dreame Wet and Dry Vacuum H11 Max Black Dreame VWV8</name>
@@ -12794,7 +12816,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>245130</price>
+        <price>245591</price>
       </offer>
       <offer sku="HW8 Pro">
         <name>Моющий вертикальный пылесос Jimmy HW8 Pro с адаптером модели ZD24W342060EU Jimmy HW8 Pro</name>
@@ -12805,7 +12827,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>169211</price>
+        <price>169526</price>
       </offer>
       <offer sku="YMYM GY1 Red">
         <name>Звуковая электрическая зубная щетка DR.BEI Sonic Electric Toothbrush GY1 красная DR.BEI YMYM GY1 Red</name>
@@ -12816,7 +12838,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>13870</price>
+        <price>13885</price>
       </offer>
       <offer sku="DR.BEI S7 Marbling White">
         <name>Звуковая электрическая зубная щетка DR.BEI Sonic Electric Toothbrush S7 мраморно-белая DR.BEI DR.BEI S7 Marbling White</name>
@@ -12827,7 +12849,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>41805</price>
+        <price>41876</price>
       </offer>
       <offer sku="DR.BEI GF3">
         <name>Портативный ирригатор DR.BEI Portable Water Flosser GF3 белый DR.BEI DR.BEI GF3</name>
@@ -12838,7 +12860,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>26918</price>
+        <price>26961</price>
       </offer>
       <offer sku="P40497-B21">
         <name>HPE 480GB SATA 6G Read Intensive SFF BC Multi Vendor SSD HPE P40497-B21</name>
@@ -12849,7 +12871,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>73187</price>
+        <price>73324</price>
       </offer>
       <offer sku="P06307-B21">
         <name>HPE ML30 Gen10 Mini SAS Cable Kit HPE P06307-B21</name>
@@ -12860,7 +12882,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>24110</price>
+        <price>24147</price>
       </offer>
       <offer sku="LI32111CT00">
         <name>LIEBERT itON 600VA E 230V Vertiv LI32111CT00</name>
@@ -12871,7 +12893,18 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>30662</price>
+        <price>30713</price>
+      </offer>
+      <offer sku="960-001057">
+        <name>Система для видеоконференций Logitech Group (в комплекте камера, устр. громкой связи, пульт ДУ, концентратор, блок питания, крепление) (M/N: V-U0032/V-U0033/V-U0036/VU0037) Logitech 960-001057</name>
+        <vendor>Logitech</vendor>
+        <barcodes>
+          <barcode>960-001057</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>629839</price>
       </offer>
       <offer sku="GX40V10007">
         <name>Рюкзак Lenovo Legion 17” Armored Backpack II Lenovo GX40V10007</name>
@@ -12882,7 +12915,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>41042</price>
+        <price>41103</price>
       </offer>
       <offer sku="GX40Q17226">
         <name>Рюкзак для ноутбука Lenovo 15.6 Backpack B210 Blue Lenovo GX40Q17226</name>
@@ -12893,7 +12926,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>12218</price>
+        <price>12230</price>
       </offer>
       <offer sku="GX40Q17228">
         <name>Рюкзак для ноутбука Lenovo 15.6 Backpack B210 Green Lenovo GX40Q17228</name>
@@ -12904,7 +12937,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>12218</price>
+        <price>12230</price>
       </offer>
       <offer sku="GX40Q17227">
         <name>Рюкзак для ноутбука Lenovo 15.6 Backpack B210 Grey Lenovo GX40Q17227</name>
@@ -12915,7 +12948,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>12218</price>
+        <price>12230</price>
       </offer>
       <offer sku="GX40Q17225">
         <name>Рюкзак для ноутбука Lenovo15.6 Backpack B210 Black Lenovo GX40Q17225</name>
@@ -12926,7 +12959,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>12218</price>
+        <price>12230</price>
       </offer>
       <offer sku="GX40Q17229">
         <name>Сумка для ноутбука Lenovo 15.6 Toploader T210 Black Lenovo GX40Q17229</name>
@@ -12937,7 +12970,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>12218</price>
+        <price>12230</price>
       </offer>
       <offer sku="GX40Q17231">
         <name>Сумка для ноутбука Lenovo 15.6 Toploader T210 Grey Lenovo GX40Q17231</name>
@@ -12948,7 +12981,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>12218</price>
+        <price>12230</price>
       </offer>
       <offer sku="M32U-EK">
         <name>Монитор Gigabyte M32U-EK, 31.5'', SS IPS, 144Hz, 3840x2160, 1000:1, 100M:1, 2xHDMI, DP 1.4, KVM Gigabyte M32U-EK</name>
@@ -13795,7 +13828,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>475040</price>
+        <price>475954</price>
       </offer>
       <offer sku="20VES01F00">
         <name>Ноутбук Lenovo ThinkBook 15 G2 ITL Intel Core i5-1135G7 8GB 512GB SSD MX450 2GB Windows 10 pro Academ 1Y Lenovo 20VES01F00</name>
@@ -13806,7 +13839,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>579649</price>
+        <price>580782</price>
       </offer>
       <offer sku="90RC01D0RU">
         <name>Системный блок Lenovo 90RC01D0RU  Legion T5 26AMR5 AMD Ryzen 7 5800 3,4Ghz Octa/16GB/1TB+256GB/NVIDIA GeForce RTX 3060 12GB GDDR6/USB mouse+keyboard/Wi-Fi 6/BT5.1/DOS/1Y/Black Lenovo 90RC01D0RU</name>
@@ -13817,7 +13850,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>558687</price>
+        <price>559816</price>
       </offer>
       <offer sku="90RE00J2RS">
         <name>Системный блок Lenovo 90RE00J2RS IdeaCentre Gaming5 14IOB6 Intel Core i5-11400F 2,6Ghz Hexa/8GB/256GB/NVIDIA GeForce RTX 3060 12GB GDDR6/Wi-Fi/BT5.0/DOS/1Y/Black Lenovo 90RE00J2RS</name>
@@ -13828,7 +13861,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>452647</price>
+        <price>453554</price>
       </offer>
       <offer sku="90RT004WRS">
         <name>Системный блок Lenovo 90RT004WRS Legion T5 26IOB6 Intel Core i5-11400F 2,6Ghz Hexa/2x8GB/1TB+256GB/NVIDIA GeForce RTX 3060 Ti 8GB GDDR6/Wi-Fi 6/BT5.1/DOS/1Y/Black Lenovo 90RT004WRS</name>
@@ -13839,7 +13872,18 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>558687</price>
+        <price>559816</price>
+      </offer>
+      <offer sku="90RT004XRS">
+        <name>Системный блок Lenovo 90RT004XRS Legion T5 26IOB6 Intel Core i5-11400F 2,6Ghz Hexa/2x8GB/1TB SSD/NVIDIA GeForce RTX 3060 Ti 8GB GDDR6/Wi-Fi 6/BT5.1/DOS/1Y/Black Lenovo 90RT004XRS</name>
+        <vendor>Lenovo</vendor>
+        <barcodes>
+          <barcode>90RT004XRS</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>598087</price>
       </offer>
       <offer sku="90RT009GRS">
         <name>Системный блок Lenovo 90RT009GRS Legion T5 26IOB6 Intel Core i5-11400F 2,6Ghz Hexa/16GB/256GB/NVIDIA GeForce RTX 3060 12GB GDDR6/Wi-Fi 6/BT5.1/DOS/1Y/Black Lenovo 90RT009GRS</name>
@@ -13850,7 +13894,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>413776</price>
+        <price>414602</price>
       </offer>
       <offer sku="90RT00RLRS">
         <name>Системный блок Lenovo 90RT00RLRS Legion T5 26IOB6 Intel Core i5-11400F 2,6Ghz Hexa/2x8GB/512GB/NVIDIA GeForce RTX 3060 12GB GDDR6/Wi-Fi 6/BT5.1/DOS/1Y/Black Lenovo 90RT00RLRS</name>
@@ -13861,7 +13905,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>476046</price>
+        <price>477002</price>
       </offer>
       <offer sku="90RT00T4RS">
         <name>Системный блок Lenovo 90RT00T4RS Legion T5 26IOB6 Intel Core i5-11400F 2,6Ghz Hexa/2x8GB/512GB/NVIDIA GeForce RTX 3060 12GB GDDR6/Wi-Fi 6/BT5.1/Windows 11 Home/1Y/Black Lenovo 90RT00T4RS</name>
@@ -13872,7 +13916,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>476046</price>
+        <price>477002</price>
       </offer>
       <offer sku="90RT00TRRS">
         <name>Системный блок Lenovo 90RT00TRRS Legion T5 26IOB6 Intel Core i5-11400F 2,6Ghz Hexa/16GB/512GB/NVIDIA GeForce RTX 3070 8GB GDDR6/Wi-Fi 6/BT5.1/DOS/1Y/Black Lenovo 90RT00TRRS</name>
@@ -13883,7 +13927,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>515027</price>
+        <price>516064</price>
       </offer>
       <offer sku="DS-D5019QE-B">
         <name>Монитор Hikvision 18.5" 1366768, HDMI/VGA input, view angle:90°/65°, plastic casing, ERP level A,VESA, base bracket included Hikvision DS-D5019QE-B</name>
@@ -13894,7 +13938,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>52879</price>
+        <price>52966</price>
       </offer>
       <offer sku="TF2234MC-B7X">
         <name>Монитор LCD 21.5'' [16:9] 1920х1080(FHD) IPS, nonGLARE, TOUCH, 350cd/m2, H178°/V178°, 1000:1, 16.7M, 8ms, VGA, HDMI, DP, Open frame, 3Y, Black Iiyama TF2234MC-B7X</name>
@@ -13905,7 +13949,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>275527</price>
+        <price>276051</price>
       </offer>
       <offer sku="DS-D5024FN(M)">
         <name>Монитор Hikvision 23.8" 1080P, HDMI/VGA input, view angle:178°/178°, plastic casing, VESA, base bracket included, 724h Hikvision DS-D5024FN(M)</name>
@@ -13916,7 +13960,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>72149</price>
+        <price>72276</price>
       </offer>
       <offer sku="242B1TC/00">
         <name>Монитор жидкокристаллический Philips 242B1TC/00 23.8'' 16:9 1920х1080(FHD) IPS, nonGLARE, TOUCH, 250cd/m2, H178°/V178°, 1000:1, 50M:1, 16,7М, 4ms, VGA, DVI, 1,4, 1,2, Height adj, Tilt, Swivel, Speakers, 3Y, Black Philips 242B1TC/00</name>
@@ -13927,7 +13971,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>217161</price>
+        <price>217563</price>
       </offer>
       <offer sku="DS-D5027FN(M)">
         <name>Монитор Hikvision 27" 1080P, HDMI/VGA input, view angle:178°/178°,  plastic casing, VESA, base bracket included, 724h Hikvision DS-D5027FN(M)</name>
@@ -13938,7 +13982,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>87015</price>
+        <price>87172</price>
       </offer>
       <offer sku="T2735MSC-B3">
         <name>Монитор LCD 27'' [16:9] 1920х1080(FHD) IPS, nonGLARE, TOUCH, 300cd/m2, H178°/V178°, 1000:1, 12M:1, 16.7M, 5ms, VGA, DVI, HDMI, DP, USB-Hub, Tilt, Speakers, Webcam, 3Y, Black Iiyama T2735MSC-B3</name>
@@ -13949,7 +13993,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>315439</price>
+        <price>316033</price>
       </offer>
       <offer sku="T2754MSC-B1AG">
         <name>Монитор LCD 27'' [16:9] 1920х1080(FHD) IPS, nonGLARE, TOUCH, 300cd/m2, H178°/V178°, 1000:1, 80M:1, 16.7M, 4ms, VGA, DVI, HDMI, USB-Hub, Height adj, Tilt, Speakers, Webcam, 3Y, Black Iiyama T2754MSC-B1AG</name>
@@ -13960,18 +14004,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>246341</price>
-      </offer>
-      <offer sku="273V7QDAB/01">
-        <name>Монитор LCD 27'' 16:9 1920х1080 IPS, nonGLARE, 250cd/m2, H178°/V178°, 10М:1, 5ms, VGA, DVI, HDMI, Tilt, Speakers, Audio out, 2Y, Black PHILIPS 273V7QDAB/01</name>
-        <vendor>PHILIPS</vendor>
-        <barcodes>
-          <barcode>273V7QDAB/01</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>85914</price>
+        <price>246805</price>
       </offer>
       <offer sku="27M1N3200VA/00">
         <name>Монитор жидкокристаллический PHILIPS 27M1N3200VA/00 LCD 27'' 16:9 1920х1080 165Hz, VA, nonGLARE, 250cd/m2, H178°/V178°, 1ms HDMIх2, DP, Tilt, HAS, Black PHILIPS 27M1N3200VA/00</name>
@@ -13982,7 +14015,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>107937</price>
+        <price>108138</price>
       </offer>
       <offer sku="LS27A700NWIXCI">
         <name>Монитор жидкокристаллический Samsung LS27A700NWIXCI 27" Samsung LS27A700NWIXCI</name>
@@ -14103,7 +14136,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>30992</price>
+        <price>31044</price>
       </offer>
       <offer sku="910-006475">
         <name>Мышь беспроводная Logitech LIFT PALE GREY (400-4000 dpi, Bluetooth, USB-ресивер Logi Bolt®, 4 настраиваемые кнопки) Logitech 910-006475</name>
@@ -14246,7 +14279,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>11574</price>
+        <price>11586</price>
       </offer>
       <offer sku="GXY0K07130">
         <name>Коврик для мыши Lenovo Y Gaming Mouse Pad Lenovo GXY0K07130</name>
@@ -14257,7 +14290,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>9152</price>
+        <price>9159</price>
       </offer>
       <offer sku="956-000051">
         <name>Коврик для мыши Logitech Mouse Pad Studio Series, BLUE GREY (M/N: NONE) Logitech 956-000051</name>
@@ -14334,7 +14367,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>244860</price>
+        <price>245333</price>
       </offer>
       <offer sku="W-V673-02_Black">
         <name>Смартфон WIKO T10  Rally  W-V673-02 Black WIKO W-V673-02_Black</name>
@@ -14400,7 +14433,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>31826</price>
+        <price>31855</price>
       </offer>
       <offer sku="F197 Dark Blue">
         <name>F+ F197 Dark blue, 1.77'' 128x160, 32MB RAM, 32MB, up to 32GB flash, 0.08Mpix, 2 Sim, BT v2.0, Micro-USB, 600mAh, 70g, 114 ммx48 ммx13 мм F+ F197 Dark Blue</name>
@@ -14411,7 +14444,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>23512</price>
+        <price>23524</price>
       </offer>
       <offer sku="Flip2 Black">
         <name>Flip2 Black, 2.4'' 240х320, 32MB RAM, 32MB, up to 32GB flash, 0.08Mpix, 2 Sim, BT v3.0, Micro-USB, 750 мА·ч, 100g, 106,3 ммx51,5 ммx15,2 мм F+ Flip2 Black</name>
@@ -14422,7 +14455,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>30494</price>
+        <price>30520</price>
       </offer>
       <offer sku="16GMNW01A01">
         <name>NOKIA 125 DS TA-1253 WHITE, 2.4'', 1 Core, 4MB + 4MB (ROM/RAM), Micro SD, up to 32GB flash, GSM, 2 Sim, Micro-USB, 1020mAh, 91g, 50.5x132x15 Nokia 16GMNW01A01</name>
@@ -14466,7 +14499,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>23326</price>
+        <price>23356</price>
       </offer>
       <offer sku="GX40X54262">
         <name>Сумка для ноутбука Lenovo 15.6 Laptop Urban Toploader T530 Lenovo GX40X54262</name>
@@ -14477,7 +14510,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>24923</price>
+        <price>24956</price>
       </offer>
       <offer sku="GX40Z24050">
         <name>Рюкзак для ноутбука Lenovo Laptop 15.6 IdeaPad Gaming Backpack Lenovo GX40Z24050</name>
@@ -14488,7 +14521,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>20794</price>
+        <price>20818</price>
       </offer>
       <offer sku="GX40X54263">
         <name>Рюкзак для ноутбука Lenovo Laptop 17.3 Urban Backpack B730 Lenovo GX40X54263</name>
@@ -14499,7 +14532,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>35206</price>
+        <price>35255</price>
       </offer>
       <offer sku="AU656AA">
         <name>HP Docking Station Cable Lock HP AU656AA</name>
@@ -14510,7 +14543,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>14331</price>
+        <price>14345</price>
       </offer>
       <offer sku="Copper 10WU Black">
         <name>Сетевое зарядное устройство Accesstyle Copper 10WU Black Accesstyle Copper 10WU Black</name>
@@ -14521,7 +14554,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>8325</price>
+        <price>8329</price>
       </offer>
       <offer sku="Copper 10WU White">
         <name>Сетевое зарядное устройство Accesstyle Copper 10WU White Accesstyle Copper 10WU White</name>
@@ -14532,7 +14565,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>8325</price>
+        <price>8329</price>
       </offer>
       <offer sku="Sunset 18WU Black">
         <name>Сетевое зарядное устройство Accesstyle Sunset 18WU Black Accesstyle Sunset 18WU Black</name>
@@ -14543,7 +14576,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>8810</price>
+        <price>8815</price>
       </offer>
       <offer sku="920-008342">
         <name>Чехол-клавиатура для планшета Logitech Universal Keyboard Folio (для устройств с 9–10 дюймовым экраном под управлением ОС Apple, Android и Windows) Logitech 920-008342</name>
@@ -14565,7 +14598,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>12036</price>
+        <price>12048</price>
       </offer>
       <offer sku="YNDX-0007W">
         <name>Умная розетка Яндекс YNDX-0007W белая Yandex YNDX-0007W</name>
@@ -14741,7 +14774,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>248033</price>
+        <price>248460</price>
       </offer>
       <offer sku="TES-BRO065500BLUE">
         <name>Электросамокат TRIBE Bro, черно-голубой, 6,5" колеса, 250 Вт мотор,  5 Ач батарея, TES-BRO065500BLUE Tribe_USD TES-BRO065500BLUE</name>
@@ -14840,7 +14873,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>102975</price>
+        <price>103176</price>
       </offer>
       <offer sku="4ZC7A08709">
         <name>ThinkSystem 32GB TruDDR4 2933MHz (2Rx4 1.2V) RDIMM Lenovo 4ZC7A08709</name>
@@ -14851,7 +14884,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>198587</price>
+        <price>198989</price>
       </offer>
       <offer sku="4X77A08634">
         <name>ThinkSystem 32GB TruDDR4 3200 MHz (2Rx8 1.2V) RDIMM Lenovo 4X77A08634</name>
@@ -14862,7 +14895,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>212120</price>
+        <price>212550</price>
       </offer>
       <offer sku="7ZT7A00545">
         <name>ThinkSystem 1Gb 4-port RJ45 LOM (NOT FOR SELL ALONE) Lenovo 7ZT7A00545</name>
@@ -14873,7 +14906,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>35067</price>
+        <price>35126</price>
       </offer>
       <offer sku="RKM114">
         <name>Комплект направляющих Synology RKM114 - 1U Rail Kit Synology RKM114</name>
@@ -14884,7 +14917,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>35067</price>
+        <price>35126</price>
       </offer>
       <offer sku="RKS-02">
         <name>Направляющая Synology Комплект направляющих RKS-02 - 1/2U Rail Kit (аналог модели RKS1317) Synology RKS-02</name>
@@ -14895,7 +14928,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>62595</price>
+        <price>62713</price>
       </offer>
       <offer sku="BV500I">
         <name>Источник бесперебойного питания APC Easy UPS, Интерактивная, 500 ВА / 300 Вт, Tower, IEC, LCD APC BV500I</name>
@@ -14906,7 +14939,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>39471</price>
+        <price>39540</price>
       </offer>
       <offer sku="BV500I-GR">
         <name>Источник бесперебойного питания APC Easy UPS, Интерактивная, 500 ВА / 300 Вт, Tower, Schuko, LED APC BV500I-GR</name>
@@ -14917,7 +14950,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>35617</price>
+        <price>35678</price>
       </offer>
       <offer sku="BV650I">
         <name>Источник бесперебойного питания APC Easy UPS, Интерактивная, 650 ВА / 375 Вт, Tower, IEC, LCD APC BV650I</name>
@@ -14928,7 +14961,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>37820</price>
+        <price>37885</price>
       </offer>
       <offer sku="RMKIT 18-32">
         <name>Liebert GXT3 / GXT4 Rack Slide Kits Vertiv RMKIT 18-32</name>
@@ -14939,7 +14972,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>38921</price>
+        <price>38989</price>
       </offer>
       <offer sku="27012046">
         <name>Directional Antenna,51505850MHz,14dBi,30deg/30deg,N/Female,3port,with mounting parts,wall mounting Huawei 27012046</name>
@@ -14950,7 +14983,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>44206</price>
+        <price>44285</price>
       </offer>
       <offer sku="27010215">
         <name>Omni-directional Antenna,24002500MHz,11dBi,360deg/9deg,N/Female,1port,with mounting parts,pole mounting Huawei 27010215</name>
@@ -14961,7 +14994,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>17646</price>
+        <price>17670</price>
       </offer>
       <offer sku="DS-KD-ACF2/Plastic">
         <name>Врезная монтажная рамка на 2 модуля Hikvision Hikvision DS-KD-ACF2/Plastic</name>
@@ -15082,7 +15115,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>150922</price>
+        <price>151172</price>
       </offer>
       <offer sku="FQC-10548">
         <name>Win 11 Pro 64Bit Russian 1pk DSP OEI Kazakhstan Only DVD Microsoft FQC-10548</name>
@@ -15093,7 +15126,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>97848</price>
+        <price>98023</price>
       </offer>
       <offer sku="T5D-03545">
         <name>Office Home and Business 2021 Russian Kazakhstan Only Medialess P6 Microsoft T5D-03545</name>
@@ -15104,7 +15137,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>174046</price>
+        <price>174345</price>
       </offer>
       <offer sku="T5D-03484">
         <name>Office Home and Business 2021 All Lng PK Lic Online Central/Eastern Euro Only Dw (ESD) Microsoft T5D-03484</name>
@@ -15115,7 +15148,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>161933</price>
+        <price>162207</price>
       </offer>
       <offer sku="GXD0L03746">
         <name>Наушники Lenovo Legion Stereo Headset Частотный диапазон  20 Hz - 20 KHz/полное сопротивление 32 Ω/чувствительность  100 ± 2 dB / 1 mW @ 1 kHz Lenovo GXD0L03746</name>
@@ -18965,7 +18998,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>199828</price>
+        <price>214527</price>
       </offer>
       <offer sku="HUS726T4TALE6L4-0B36040">
         <name>Жёсткий диск HDD 4 Tb SATA 6Gb/s Western Digital Ultrastar HUS726T4TALE6L4 (0B36040) 3.5" 7200rpm 256Mb Western Digital HUS726T4TALE6L4-0B36040</name>
@@ -19604,17 +19637,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>83191</price>
-      </offer>
-      <offer sku="JBLPARTYBOX110UK">
-        <name>Динамики беспроводные JBL Partybox 110 - Portable Party Speaker - Black JBL JBLPARTYBOX110UK</name>
-        <vendor>JBL</vendor>
-        <barcodes>
-          <barcode>JBLPARTYBOX110UK</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>275560</price>
       </offer>
       <offer sku="JBLPARTYBOX710EU">
         <name>Динамики беспроводные JBL Partybox 710 - Powerfull Party Speaker - Black JBL JBLPARTYBOX710EU</name>
@@ -20803,17 +20825,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>178340</price>
-      </offer>
-      <offer sku="910-001793">
-        <name>Мышь (Box) LOGITECH M90 Corded Mouse - GREY - USB - EWR2 Logitech 910-001793</name>
-        <vendor>Logitech</vendor>
-        <barcodes>
-          <barcode>910-001793</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>9481</price>
       </offer>
       <offer sku="910-002496">
         <name>Мышь (Box) LOGITECH M235 Wireless Mouse - RED Logitech 910-002496</name>
