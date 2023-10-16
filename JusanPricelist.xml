@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Jmart date="16.10.2023 13:08:52" xmlns="Jmart">
+<Jmart date="16.10.2023 14:57:27" xmlns="Jmart">
   <company>Hitech24.kz</company>
   <merchantid>Test</merchantid>
   <offers>
@@ -11915,14 +11915,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="11LA0055RU" xmlns="">
-      <model>Моноблок Lenovo 11LA0055RU V30a-24IIL AIO 23,8'' FHD (1920 x 1080) IPS/Intel Core i5-1035G1 1,0Ghz Quad/8GB/256GB/Integrated/Wi-Fi/BT5.0/720P HD Camera/USB mouse+keyboard/DOS/1Y/Black</model>
-      <brand>Lenovo</brand>
-      <price>424450</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="10T7S1AH00" xmlns="">
       <model>ThinkCentre M720q, Intel Core i7-9700T (2GHz, 12MB), Windows 10 Pro 64, 8.0GB, 1x500GB SATA III,1x256GB SSD PCIe, (x), 3 Year Depot</model>
       <brand>Lenovo</brand>
@@ -12569,14 +12561,6 @@
       <price>457654</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="J9150D" xmlns="">
-      <model>HPE X132 10G SFP+ LC SR Transceiver</model>
-      <brand>HPE</brand>
-      <price>253490</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="DS-2CD2626G2-IZS (C)" xmlns="">
@@ -26462,7 +26446,7 @@
     <offer sku="004935" xmlns="">
       <model>Компьютерный корпус Thermaltake Core P8 TG без Б/П</model>
       <brand>Thermaltake</brand>
-      <price>Жесткий диск для сервера HDD Server WD/HGST ULTRASTAR DC HC570 WUH722222ALE6L4</price>
+      <price>134749</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
