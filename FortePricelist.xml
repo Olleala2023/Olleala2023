@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2023-10-16 14:56">
+<fm_catalog date="2023-10-16 15:01">
   <shop>
     <merchant-id>AAH99GhybQaI1s7QCe</merchant-id>
     <offers>
@@ -321,17 +321,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>20902</price>
-      </offer>
-      <offer sku="000867">
-        <name>Графический планшет XP-Pen Star G960S PLUS XP-Pen 000867</name>
-        <vendor>XP-Pen</vendor>
-        <barcodes>
-          <barcode>000867</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>45759</price>
       </offer>
       <offer sku="000408">
         <name>NP Weight Control Sterilised Poultry with krill Adult all breed dog 12kg  корм для собак Nature's protection 000408</name>
@@ -861,6 +850,61 @@
         </pickup-options>
         <price>56045</price>
       </offer>
+      <offer sku="000966">
+        <name>Тонер-туба Xerox 006R01238 Xerox 000966</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>000966</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>236828</price>
+      </offer>
+      <offer sku="000967">
+        <name>Фотобарабан Xerox 013R00660 (голубой) Xerox 000967</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>000967</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>241771</price>
+      </offer>
+      <offer sku="000968">
+        <name>Фотобарабан Xerox 013R00659 (малиновый) Xerox 000968</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>000968</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>241771</price>
+      </offer>
+      <offer sku="000969">
+        <name>Фотобарабан Xerox 013R00658 (жёлтый) Xerox 000969</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>000969</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>241771</price>
+      </offer>
+      <offer sku="000970">
+        <name>Фотобарабан Xerox 013R00657 (чёрный) Xerox 000970</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>000970</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>243778</price>
+      </offer>
       <offer sku="001088">
         <name>Блок питания Bequiet! Dark Power 12 750W P12-750W BN314 Bequiet! 001088</name>
         <vendor>Bequiet!</vendor>
@@ -1321,7 +1365,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>27380</price>
+        <price>27819</price>
       </offer>
       <offer sku="WD6003FRYZ">
         <name>Жесткий диск WD GOLD WD6003FRYZ 6ТБ 3,5" 7200RPM 256MB 512E (SATA III) WD WD6003FRYZ</name>
@@ -1343,7 +1387,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>142619</price>
+        <price>135546</price>
       </offer>
       <offer sku="WD10PURZ">
         <name>Жёсткий диск WD Purple™ WD10PURZ 1ТБ 3,5" 5400RPM 64MB (SATA-III) DV&amp;NVR WD WD10PURZ</name>
@@ -1354,7 +1398,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>187683</price>
+        <price>38729</price>
       </offer>
       <offer sku="MZ-77E250BW">
         <name>Твердотельный накопитель SSD Samsung 870 EVO 250GB 2,5 Samsung MZ-77E250BW</name>
@@ -1564,6 +1608,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>10230</price>
+      </offer>
+      <offer sku="920-005215">
+        <name>Клавиатура Logitech K280e Steelseries 920-005215</name>
+        <vendor>Steelseries</vendor>
+        <barcodes>
+          <barcode>920-005215</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>17724</price>
       </offer>
       <offer sku="920-008184">
         <name>Клавиатура беспроводная Logitech K375s (GRAPHITE/OFFWHITE, Multi-Device, подставка в комплекте, Bluetooth Smart/Logitech Unifying, 2 батареи типа ААА) Steelseries 920-008184</name>
@@ -2498,7 +2553,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>61863</price>
+        <price>26529</price>
       </offer>
       <offer sku="001916">
         <name>Твердотельный накопитель SSD 1 Tb M.2 2280 Kingston KC2500 SKC2500M8/1000G NVMe PCIe Gen 3.0x4 Lanes Kingston 001916</name>
@@ -2641,7 +2696,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>377622</price>
+        <price>48597</price>
       </offer>
       <offer sku="001959">
         <name>Жёсткий диск HDD 2 Tb SATA 6Gb/s Western Digital Ultrastar  HUS722T2TALA604 3.5" 7200rpm 128Mb Western Digital 001959</name>
@@ -2674,7 +2729,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>165426</price>
+        <price>158408</price>
       </offer>
       <offer sku="001964">
         <name>Жёсткий диск HDD 8 Tb SATA 6Gb/s Seagate Barracuda ST8000DM004 3.5" 5400rpm 256Mb          Seagate 001964</name>
@@ -3049,17 +3104,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>17857</price>
-      </offer>
-      <offer sku="002135">
-        <name>Твердотельный накопитель SSD Kingston SKC600/512G SATA 7мм Kingston 002135</name>
-        <vendor>Kingston</vendor>
-        <barcodes>
-          <barcode>002135</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>33745</price>
       </offer>
       <offer sku="002151">
         <name>Жесткий диск Dahua WD30PURX HDD 3Tb Dahua 002151</name>
@@ -3523,28 +3567,6 @@
         </pickup-options>
         <price>51001</price>
       </offer>
-      <offer sku="002326">
-        <name>Процессор (CPU) Intel Core i3 Processor 12100 1700 Intel 002326</name>
-        <vendor>Intel</vendor>
-        <barcodes>
-          <barcode>002326</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>68241</price>
-      </offer>
-      <offer sku="002327">
-        <name>Процессор (CPU) Intel Core i5 Processor 12400F 1700 Intel 002327</name>
-        <vendor>Intel</vendor>
-        <barcodes>
-          <barcode>002327</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>85114</price>
-      </offer>
       <offer sku="002328">
         <name>Процессор (CPU) Intel Core i5 Processor 12400 1700 Intel 002328</name>
         <vendor>Intel</vendor>
@@ -3643,17 +3665,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>73977</price>
-      </offer>
-      <offer sku="002341">
-        <name>Процессор (CPU) AMD Ryzen 7 5700G 65W AM4 Intel 002341</name>
-        <vendor>Intel</vendor>
-        <barcodes>
-          <barcode>002341</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>101843</price>
       </offer>
       <offer sku="002345">
         <name>Модуль памяти Kingston KSM26RS4/16HDI 16GB ECC Reg Kingston 002345</name>
@@ -4887,17 +4898,6 @@
         </pickup-options>
         <price>19248</price>
       </offer>
-      <offer sku="002922">
-        <name>Компьютерный корпус Deepcool MACUBE 110 WH без Б/П Deepcool 002922</name>
-        <vendor>Deepcool</vendor>
-        <barcodes>
-          <barcode>002922</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>32667</price>
-      </offer>
       <offer sku="002928">
         <name>Компьютерный корпус Deepcool CG540 без Б/П Deepcool 002928</name>
         <vendor>Deepcool</vendor>
@@ -5281,7 +5281,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>70013</price>
+        <price>73923</price>
       </offer>
       <offer sku="003004">
         <name>Блок питания Thermaltake TR2 S 600W Thermaltake 003004</name>
@@ -5954,17 +5954,6 @@
         </pickup-options>
         <price>59271</price>
       </offer>
-      <offer sku="003128">
-        <name>Компьютерная мышь HyperX Pulsefire Core Gaming 4P4F8AA HyperX 003128</name>
-        <vendor>HyperX</vendor>
-        <barcodes>
-          <barcode>003128</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>26813</price>
-      </offer>
       <offer sku="003129">
         <name>Компьютерная мышь HyperX Pulsefire Surge RGB Gaming 4P5Q1AA HyperX 003129</name>
         <vendor>HyperX</vendor>
@@ -6096,28 +6085,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>67771</price>
-      </offer>
-      <offer sku="003148">
-        <name>Клавиатура Razer BlackWidow V3 (Green Switch) Razer 003148</name>
-        <vendor>Razer</vendor>
-        <barcodes>
-          <barcode>003148</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>88462</price>
-      </offer>
-      <offer sku="003149">
-        <name>Клавиатура Razer BlackWidow V3 (Yellow Switch) Razer 003149</name>
-        <vendor>Razer</vendor>
-        <barcodes>
-          <barcode>003149</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>88464</price>
       </offer>
       <offer sku="003150">
         <name>Клавиатура Razer Huntsman V2 Tenkeyless (Red Switch) Razer 003150</name>
@@ -7856,17 +7823,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>129006</price>
-      </offer>
-      <offer sku="003429">
-        <name>Источник бесперебойного питания SVC PTS-2KL-LCD SVC 003429</name>
-        <vendor>SVC</vendor>
-        <barcodes>
-          <barcode>003429</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>205763</price>
       </offer>
       <offer sku="003430">
         <name>Источник бесперебойного питания SVC PTS-3KL-LCD SVC 003430</name>
@@ -10002,6 +9958,17 @@
         </pickup-options>
         <price>37123</price>
       </offer>
+      <offer sku="003891">
+        <name>Вентиляторная полка для серверного шкафа SHIP 700404122 SHIP 003891</name>
+        <vendor>SHIP</vendor>
+        <barcodes>
+          <barcode>003891</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>39907</price>
+      </offer>
       <offer sku="003893">
         <name>Сетевой фильтр SHIP 700509102 2 м. 220 в. SHIP 003893</name>
         <vendor>SHIP</vendor>
@@ -10365,6 +10332,17 @@
         </pickup-options>
         <price>11239</price>
       </offer>
+      <offer sku="004051">
+        <name>Принт-картридж Xerox 101R00474 Xerox 004051</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>004051</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>58453</price>
+      </offer>
       <offer sku="004053">
         <name>Тонер-картридж экстра повышенной емкости Xerox 106R03585 Xerox 004053</name>
         <vendor>Xerox</vendor>
@@ -10375,6 +10353,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>139051</price>
+      </offer>
+      <offer sku="004054">
+        <name>Тонер-картридж экстра повышенной емкости Xerox 106R03534 (голубой) Xerox 004054</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>004054</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>148659</price>
       </offer>
       <offer sku="004055">
         <name>Тонер-картридж экстра повышенной емкости Xerox 106R03535 (малиновый) Xerox 004055</name>
@@ -10672,6 +10661,50 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>78502</price>
+      </offer>
+      <offer sku="004102">
+        <name>Картридж Xerox 006R01532 Голубой Xerox 004102</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>004102</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>146380</price>
+      </offer>
+      <offer sku="004103">
+        <name>Тонер-картридж Xerox 006R01531 (малиновый) Xerox 004103</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>004103</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>146380</price>
+      </offer>
+      <offer sku="004104">
+        <name>Тонер-картридж Xerox 006R01530 (жёлтый) Xerox 004104</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>004104</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>146380</price>
+      </offer>
+      <offer sku="004105">
+        <name>Тонер-картридж Xerox 006R01529 (чёрный) Xerox 004105</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>004105</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>86869</price>
       </offer>
       <offer sku="004109">
         <name>Тонер-картридж Xerox 006R01464 (голубой) Xerox 004109</name>
@@ -11178,6 +11211,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>255692</price>
+      </offer>
+      <offer sku="004183">
+        <name>Фотобарабан Xerox 108R01419 (жёлтый) Xerox 004183</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>004183</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>90024</price>
       </offer>
       <offer sku="004185">
         <name>Фотобарабан Xerox 013R00681 (по одному на каждый цвет) Xerox 004185</name>
@@ -11893,17 +11937,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>44016</price>
-      </offer>
-      <offer sku="960-001055">
-        <name>Веб-камера Logitech C920 (Full HD 1080p/30fps, автофокус, угол обзора 78°, стереомикрофон, кабель 1.5м) (M/N: VU0062) Logitech 960-001055</name>
-        <vendor>Logitech</vendor>
-        <barcodes>
-          <barcode>960-001055</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>64759</price>
       </offer>
       <offer sku="100-100000263BOX">
         <name>AMD Ryzen 7 5700G, with Wraith Stealth Cooler AMD 100-100000263BOX</name>
@@ -15678,6 +15711,17 @@
         </pickup-options>
         <price>5989</price>
       </offer>
+      <offer sku="SEDC500M/3840G">
+        <name>Твердотельный накопитель SSD Kingston SEDC500M/3840G SATA 7мм Kingston SEDC500M/3840G</name>
+        <vendor>Kingston</vendor>
+        <barcodes>
+          <barcode>SEDC500M/3840G</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>189334</price>
+      </offer>
       <offer sku="HDS-M2TMTFDDAK3T8TDS1AW">
         <name>Твердотельный накопитель SSD Micron 5300 PRO 3.84TB SATA Micron HDS-M2TMTFDDAK3T8TDS1AW</name>
         <vendor>Micron</vendor>
@@ -15787,6 +15831,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>139935</price>
+      </offer>
+      <offer sku="GP-GSM2NE3128GNTD">
+        <name>Твердотельный накопитель внутренний Gigabyte GP-GSM2NE3128GNTD 128GB M.2 PCI-E 3.0x4 Hikvision GP-GSM2NE3128GNTD</name>
+        <vendor>Hikvision</vendor>
+        <barcodes>
+          <barcode>GP-GSM2NE3128GNTD</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>14476</price>
       </offer>
       <offer sku="004252">
         <name>Кулер для процессора Gigabyte AORUS WATERFORCE X 280 Gigabyte 004252</name>
@@ -16921,17 +16976,6 @@
         </pickup-options>
         <price>8594</price>
       </offer>
-      <offer sku="HS-04S">
-        <name>Гарнитура Genius HS-04S GENIUS HS-04S</name>
-        <vendor>GENIUS</vendor>
-        <barcodes>
-          <barcode>HS-04S</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>7657</price>
-      </offer>
       <offer sku="HS-400A Green">
         <name>Гарнитура Genius HS-400A GENIUS HS-400A Green</name>
         <vendor>GENIUS</vendor>
@@ -17316,17 +17360,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>25292</price>
-      </offer>
-      <offer sku="V-1200-L">
-        <name>Источник бесперебойного питания SVC V-1200-L SVC V-1200-L</name>
-        <vendor>SVC</vendor>
-        <barcodes>
-          <barcode>V-1200-L</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>45685</price>
       </offer>
       <offer sku="V-1000-F">
         <name>Источник бесперебойного питания SVC V-1000-F SVC V-1000-F</name>
@@ -19009,7 +19042,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>158412</price>
+        <price>187687</price>
       </offer>
       <offer sku="WD141PURP">
         <name>Жесткий диск HDD 14 Tb SATA 6Gb/s Western Purple Pro WD141PURP, 7200rpm, 256Mb Western Digital WD141PURP</name>
@@ -19988,7 +20021,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>246817</price>
+        <price>274942</price>
       </offer>
       <offer sku="ST10000VN000">
         <name>Жесткий диск для СХД SEAGATE HDD Ironwolf NAS (3.5''/10TB/SATA/rmp 7200) Seagate ST10000VN000</name>
@@ -20726,17 +20759,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>40682</price>
-      </offer>
-      <offer sku="CSE-813MFTQC-R407CB">
-        <name>Корпус для Сервера Supermicro Chassis CSE-813MFTQC-R407CB, 1U, 4 x 3.5" hot swap bays, 1 x FHFL expansion slot, 1U 4-Port 12Gbps Backplane Support 4x3.5, 400W Platinum RPSU Supermicro CSE-813MFTQC-R407CB</name>
-        <vendor>Supermicro</vendor>
-        <barcodes>
-          <barcode>CSE-813MFTQC-R407CB</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>422935</price>
       </offer>
       <offer sku="BM5100ADN">
         <name>МФУ BM5100ADN (копир, принтер, цв. сканер) (чб., A4, 40ppm, 512MB, 1.2GHz, 60-200 г/м2, 1200x1200 dpi, макс. 100т мес., двухсторонняя печать, DADF (50 листов), USB-fdp, PCL5e/6, PostScript, USB 2.0, Ethernet 10/100/1000, 0 BM5100ADN</name>
@@ -22529,7 +22551,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>136187</price>
+        <price>25883</price>
       </offer>
       <offer sku="SSDPF2KE016T1N1">
         <name>Твердотельный накопитель (SSD) для сервера Intel SSD D7-P5620 Series (1.6TB, 2.5in PCIe 4.0 x4, 3D4, TLC) Generic No OPAL Single Pack Intel SSDPF2KE016T1N1</name>
@@ -22751,17 +22773,6 @@
         </pickup-options>
         <price>118178</price>
       </offer>
-      <offer sku="UAP-AC-PRO-EU">
-        <name>Устройство беспроводного доступа Ubiquiti Access Point UniFi AC PRO,450 Mbps(2.4GHz),1300 Mbps(5GHz), Passive PoE, 48V 0.5A PoE Adapter included, 802.3af/at,2x10/100/1000 RJ45 Port, Integrated 3 dBi 3x3 MIMO (2.4GHz and 5GHz),250+ Concurrent clients UBIQUITI UAP-AC-PRO-EU</name>
-        <vendor>UBIQUITI</vendor>
-        <barcodes>
-          <barcode>UAP-AC-PRO-EU</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>90220</price>
-      </offer>
       <offer sku="AEK0007S">
         <name>Чайник AENO Electric Kettle EK7S Smart: 1850-2200W, 1.7L, Strix, Double-walls, Temperature Control, Keep warm Function, Control via Wi-Fi, LED-display, Non-heating body, Auto Power Off, Dry tank Protection AENO AEK0007S</name>
         <vendor>AENO</vendor>
@@ -22806,17 +22817,6 @@
         </pickup-options>
         <price>74969</price>
       </offer>
-      <offer sku="004365">
-        <name>Мобильный телефон Redmi 12C 4GB RAM 128GB ROM Ocean Blue Redmi 004365</name>
-        <vendor>Redmi</vendor>
-        <barcodes>
-          <barcode>004365</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>74969</price>
-      </offer>
       <offer sku="004367">
         <name>Мобильный телефон Redmi 10 2022 4GB RAM 64GB ROM Sea Blue Redmi 004367</name>
         <vendor>Redmi</vendor>
@@ -22855,17 +22855,6 @@
         <vendor>Redmi</vendor>
         <barcodes>
           <barcode>004375</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>139888</price>
-      </offer>
-      <offer sku="004376">
-        <name>Мобильный телефон Redmi Note 12S 8GB RAM 256GB ROM Onyx Black Redmi 004376</name>
-        <vendor>Redmi</vendor>
-        <barcodes>
-          <barcode>004376</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1" />
@@ -24115,17 +24104,6 @@
         </pickup-options>
         <price>350260</price>
       </offer>
-      <offer sku="004543">
-        <name>Процессор (CPU) AMD Ryzen 5 5500 65W AM4 AMD 004543</name>
-        <vendor>AMD</vendor>
-        <barcodes>
-          <barcode>004543</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>51316</price>
-      </offer>
       <offer sku="004544">
         <name>Процессор (CPU) AMD Ryzen 5 5600X 65W AM4 AMD 004544</name>
         <vendor>AMD</vendor>
@@ -24291,17 +24269,6 @@
         </pickup-options>
         <price>194410</price>
       </offer>
-      <offer sku="004576">
-        <name>Материнская плата ASRock H470M-HVS ASRock 004576</name>
-        <vendor>ASRock</vendor>
-        <barcodes>
-          <barcode>004576</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>35423</price>
-      </offer>
       <offer sku="004578">
         <name>Материнская плата ASRock H510M-HDV R2.0 ASRock 004578</name>
         <vendor>ASRock</vendor>
@@ -24323,17 +24290,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>94917</price>
-      </offer>
-      <offer sku="004584">
-        <name>Материнская плата ASRock Z690 TAICHI RAZER EDITION ASRock 004584</name>
-        <vendor>ASRock</vendor>
-        <barcodes>
-          <barcode>004584</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>275925</price>
       </offer>
       <offer sku="004585">
         <name>Материнская плата ASRock Z790M PG LIGHTNING/D4 ASRock 004585</name>
@@ -24543,17 +24499,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>12393</price>
-      </offer>
-      <offer sku="004632">
-        <name>Модуль памяти для ноутбука G.SKILL Ripjaws F4-2400C16S-8GRS DDR4 8GB G.SKILL 004632</name>
-        <vendor>G.SKILL</vendor>
-        <barcodes>
-          <barcode>004632</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>12073</price>
       </offer>
       <offer sku="004634">
         <name>Модуль памяти для ноутбука G.SKILL Ripjaws F4-3200C18S-8GRS DDR4 8GB G.SKILL 004634</name>
@@ -26381,17 +26326,6 @@
         </pickup-options>
         <price>20069</price>
       </offer>
-      <offer sku="004899">
-        <name>Компьютерный корпус Deepcool MACUBE 110 BK без Б/П Deepcool 004899</name>
-        <vendor>Deepcool</vendor>
-        <barcodes>
-          <barcode>004899</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>32667</price>
-      </offer>
       <offer sku="004900">
         <name>Компьютерный корпус Deepcool CH370 без Б/П Deepcool 004900</name>
         <vendor>Deepcool</vendor>
@@ -26843,17 +26777,6 @@
         </pickup-options>
         <price>3241</price>
       </offer>
-      <offer sku="004967">
-        <name>Монитор 27'' X-game OFLED27 X-Game 004967</name>
-        <vendor>X-Game</vendor>
-        <barcodes>
-          <barcode>004967</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>60658</price>
-      </offer>
       <offer sku="004969">
         <name>Монитор 23,8" HuntKey RRB2413V HuntKey 004969</name>
         <vendor>HuntKey</vendor>
@@ -27117,17 +27040,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>314530</price>
-      </offer>
-      <offer sku="004997">
-        <name>Комплект Клавиатура + Мышь XG XD-1100OUB X-Game 004997</name>
-        <vendor>X-Game</vendor>
-        <barcodes>
-          <barcode>004997</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>6447</price>
       </offer>
       <offer sku="004998">
         <name>Комплект Клавиатура + Мышь XG XD-575OUB X-Game 004998</name>
@@ -27644,7 +27556,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>39959</price>
+        <price>28327</price>
       </offer>
       <offer sku="005062">
         <name>Компьютерная мышь Glorious Model D Glossy Black (GD-GBLACK) Glorious 005062</name>
@@ -27655,7 +27567,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>39959</price>
+        <price>28327</price>
       </offer>
       <offer sku="005063">
         <name>Компьютерная мышь Glorious Model O Glossy Black (GO-GBLACK) Glorious 005063</name>
@@ -27666,7 +27578,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>39959</price>
+        <price>28327</price>
       </offer>
       <offer sku="005065">
         <name>Компьютерная мышь Glorious Model D- Matte Black (GLO-MS-DM-MB) Glorious 005065</name>
@@ -27699,7 +27611,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>39959</price>
+        <price>28327</price>
       </offer>
       <offer sku="005068">
         <name>Компьютерная мышь Glorious Model D- Glossy White (GLO-MS-DM-GW) Glorious 005068</name>
@@ -27710,7 +27622,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>39959</price>
+        <price>28327</price>
       </offer>
       <offer sku="005069">
         <name>Компьютерная мышь Glorious Model I Matte White (GLO-MS-I-MW) Glorious 005069</name>
@@ -27776,7 +27688,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>39959</price>
+        <price>28327</price>
       </offer>
       <offer sku="005075">
         <name>Компьютерная мышь Glorious Model O- Glossy Black (GOM-GBLACK) Glorious 005075</name>
@@ -27787,7 +27699,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>39959</price>
+        <price>28327</price>
       </offer>
       <offer sku="005076">
         <name>Компьютерная мышь Glorious Model O Black (GO-BLACK) Glorious 005076</name>
@@ -28085,17 +27997,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>33154</price>
-      </offer>
-      <offer sku="005105">
-        <name>Клавиатура Razer Ornata V3 - Russian Layout Razer 005105</name>
-        <vendor>Razer</vendor>
-        <barcodes>
-          <barcode>005105</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>46947</price>
       </offer>
       <offer sku="005106">
         <name>Подставка эргономическая под запястья Razer Ergonomic Wrist Rest for Tenkeyless Keyboards Razer 005106</name>
@@ -28547,17 +28448,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>10814</price>
-      </offer>
-      <offer sku="005157">
-        <name>Мультифункциональный адаптер Kingston Nucleum C-HUBC1-SR-EN Kingstone 005157</name>
-        <vendor>Kingstone</vendor>
-        <barcodes>
-          <barcode>005157</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>22693</price>
       </offer>
       <offer sku="005159">
         <name>Мультифункциональный адаптер Rapoo XD30 Rapoo 005159</name>
@@ -29647,6 +29537,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>27831</price>
+      </offer>
+      <offer sku="005289">
+        <name>Источник бесперебойного питания SVC V-1500-L SVC 005289</name>
+        <vendor>SVC</vendor>
+        <barcodes>
+          <barcode>005289</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>58256</price>
       </offer>
       <offer sku="005290">
         <name>Источник бесперебойного питания SVC V-800-F SVC 005290</name>
@@ -33652,17 +33553,6 @@
         </pickup-options>
         <price>34475</price>
       </offer>
-      <offer sku="005788">
-        <name>Автоматический дозатор пенного мыла Mi Automatic Foaming Soap Dispenser Белый Mi 005788</name>
-        <vendor>Mi</vendor>
-        <barcodes>
-          <barcode>005788</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>11547</price>
-      </offer>
       <offer sku="005789">
         <name>Сменный блок мыла для дозатора Mi Simpleway Foaming Hand Wash (300мл) Mi 005789</name>
         <vendor>Mi</vendor>
@@ -37007,6 +36897,17 @@
         </pickup-options>
         <price>22508</price>
       </offer>
+      <offer sku="006157">
+        <name>Аэрофритюрница Xiaomi Smart Airfryer Pro 4L Белый Deerma 006157</name>
+        <vendor>Deerma</vendor>
+        <barcodes>
+          <barcode>006157</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>65600</price>
+      </offer>
       <offer sku="006158">
         <name>Фритюрница Centek CT-1431 Centek 006158</name>
         <vendor>Centek</vendor>
@@ -37302,7 +37203,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>15505</price>
+        <price>16161</price>
       </offer>
       <offer sku="006195">
         <name>Чайник Centek CT-0021 Centek 006195</name>
@@ -38622,7 +38523,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>33644</price>
+        <price>33992</price>
       </offer>
       <offer sku="006338">
         <name>Умная зубная электрощетка Soocas X3 Pro Синий Soocas 006338</name>
@@ -38633,7 +38534,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>33759</price>
+        <price>33992</price>
       </offer>
       <offer sku="006339">
         <name>Зубная электрощетка Oclean Endurance Черный Oclean 006339</name>
@@ -39911,17 +39812,6 @@
         </pickup-options>
         <price>8400</price>
       </offer>
-      <offer sku="006499">
-        <name>Интерфейсный кабель HDMI-HDMI SHIP SH6016-5P 30В Пол. пакет SHIP 006499</name>
-        <vendor>SHIP</vendor>
-        <barcodes>
-          <barcode>006499</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>8291</price>
-      </offer>
       <offer sku="006500">
         <name>Интерфейсный кабель HDMI-HDMI SHIP SH6016-5B 30В Блистер SHIP 006500</name>
         <vendor>SHIP</vendor>
@@ -40857,6 +40747,17 @@
         </pickup-options>
         <price>14713</price>
       </offer>
+      <offer sku="006641">
+        <name>Монтажная коробка Dahua DH-PFA123 Dahua 006641</name>
+        <vendor>Dahua</vendor>
+        <barcodes>
+          <barcode>006641</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>13026</price>
+      </offer>
       <offer sku="006642">
         <name>Кронштейн крепления видеокамеры алюминиевый Dahua DH-PFB110W Dahua 006642</name>
         <vendor>Dahua</vendor>
@@ -41737,6 +41638,17 @@
         </pickup-options>
         <price>152006</price>
       </offer>
+      <offer sku="006757">
+        <name>Коммутатор TP-Link TL-SF1005LP TP-link 006757</name>
+        <vendor>TP-link</vendor>
+        <barcodes>
+          <barcode>006757</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>20462</price>
+      </offer>
       <offer sku="006758">
         <name>Коммутатор TP-Link TL-SF1005P TP-link 006758</name>
         <vendor>TP-link</vendor>
@@ -42385,17 +42297,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>178336</price>
-      </offer>
-      <offer sku="006837">
-        <name>Wi-Fi точка доступа TP-Link EAP115-Wall TP-link 006837</name>
-        <vendor>TP-link</vendor>
-        <barcodes>
-          <barcode>006837</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>23393</price>
       </offer>
       <offer sku="006838">
         <name>Wi-Fi точка доступа TP-Link EAP230-WALL TP-link 006838</name>
@@ -44278,6 +44179,17 @@
         </pickup-options>
         <price>3901</price>
       </offer>
+      <offer sku="007065">
+        <name>Коннектор телекоммуникационный RJ 45 SHIP S901A SHIP 007065</name>
+        <vendor>SHIP</vendor>
+        <barcodes>
+          <barcode>007065</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>3904</price>
+      </offer>
       <offer sku="007066">
         <name>Коннектор телекоммуникационный RJ 45 SHIP S901B SHIP 007066</name>
         <vendor>SHIP</vendor>
@@ -44585,6 +44497,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>365510</price>
+      </offer>
+      <offer sku="007118">
+        <name>Шкаф коммуникационный SHIP 601S.6842.54.100 42U 600*800*2000 мм SHIP 007118</name>
+        <vendor>SHIP</vendor>
+        <barcodes>
+          <barcode>007118</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>312822</price>
       </offer>
       <offer sku="007119">
         <name>Шкаф коммуникационный SHIP 601S.8042.54.100 42U 800*1000*2000 мм SHIP 007119</name>
@@ -46874,6 +46797,17 @@
         </pickup-options>
         <price>21609</price>
       </offer>
+      <offer sku="007359">
+        <name>Дифференциальный автоматический выключатель SE EASY9 1P+N C 25А 30мА AC SE 007359</name>
+        <vendor>SE</vendor>
+        <barcodes>
+          <barcode>007359</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>20628</price>
+      </offer>
       <offer sku="007360">
         <name>Дифференциальный автоматический выключатель SE EASY9 1P+N C 32А 30мА AC SE 007360</name>
         <vendor>SE</vendor>
@@ -46895,6 +46829,39 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>35697</price>
+      </offer>
+      <offer sku="007362">
+        <name>Дифференциальный автоматический выключатель SE АВДТ 1P+N С 25А 6 kA 30мА АС SE 007362</name>
+        <vendor>SE</vendor>
+        <barcodes>
+          <barcode>007362</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>35917</price>
+      </offer>
+      <offer sku="007363">
+        <name>Дифференциальный автоматический выключатель SE АВДТ 1P+N С 32А 6 kA 30мА АС SE 007363</name>
+        <vendor>SE</vendor>
+        <barcodes>
+          <barcode>007363</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>40789</price>
+      </offer>
+      <offer sku="007364">
+        <name>Выключатель дифференциального тока SE 2P 25А 30мА SE 007364</name>
+        <vendor>SE</vendor>
+        <barcodes>
+          <barcode>007364</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>32495</price>
       </offer>
       <offer sku="007365">
         <name>Выключатель дифференциального тока SE RESI9 4P 25А 30мА SE 007365</name>
@@ -50680,17 +50647,6 @@
         </pickup-options>
         <price>27663</price>
       </offer>
-      <offer sku="007944">
-        <name>Лестница для бассейна Bestway 58336 Bestway 007944</name>
-        <vendor>Bestway</vendor>
-        <barcodes>
-          <barcode>007944</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>37195</price>
-      </offer>
       <offer sku="007947">
         <name>Лестница для бассейна Intex 28066 Intex 007947</name>
         <vendor>Intex</vendor>
@@ -50889,6 +50845,17 @@
         </pickup-options>
         <price>184368</price>
       </offer>
+      <offer sku="008093">
+        <name>Принт-картридж Xerox 101R00555 Xerox 008093</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>008093</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>67722</price>
+      </offer>
       <offer sku="008094">
         <name>Тонер-картридж стандартной емкости Xerox 106R04072 (жёлтый) Xerox 008094</name>
         <vendor>Xerox</vendor>
@@ -50977,6 +50944,17 @@
         </pickup-options>
         <price>97222</price>
       </offer>
+      <offer sku="008103">
+        <name>Тонер-картридж стандартной емкости Xerox 006R04387 (чёрный) Xerox 008103</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>008103</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>57408</price>
+      </offer>
       <offer sku="008104">
         <name>Тонер-картридж стандартной емкости Xerox 006R04388 (голубой) Xerox 008104</name>
         <vendor>Xerox</vendor>
@@ -51010,17 +50988,6 @@
         </pickup-options>
         <price>74823</price>
       </offer>
-      <offer sku="008107">
-        <name>Тонер-картридж повышенной емкости Xerox 006R04395 (чёрный) Xerox 008107</name>
-        <vendor>Xerox</vendor>
-        <barcodes>
-          <barcode>008107</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>74522</price>
-      </offer>
       <offer sku="008108">
         <name>Принт-картридж Xerox 013R00670 Xerox 008108</name>
         <vendor>Xerox</vendor>
@@ -51031,6 +50998,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>183720</price>
+      </offer>
+      <offer sku="008109">
+        <name>Тонер-картридж повышенной емкости Xerox 006R04396 (голубой) Xerox 008109</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>008109</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>92315</price>
       </offer>
       <offer sku="008111">
         <name>Принт-картридж Xerox 101R00432 Xerox 008111</name>
@@ -51108,6 +51086,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>47375</price>
+      </offer>
+      <offer sku="008122">
+        <name>Тонер-картридж повышенной емкости Xerox 106R03488 (чёрный) Xerox 008122</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>008122</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>99116</price>
       </offer>
       <offer sku="008125">
         <name>Тонер-картридж стандартный Xerox 106R03508 (чёрный) Xerox 008125</name>
@@ -51329,6 +51318,17 @@
         </pickup-options>
         <price>296543</price>
       </offer>
+      <offer sku="008159">
+        <name>Фотобарабан Xerox 106R01582 (по одному на каждый цвет) Xerox 008159</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>008159</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>246497</price>
+      </offer>
       <offer sku="008160">
         <name>Контейнер для отработанного тонера Xerox 108R00982 Xerox 008160</name>
         <vendor>Xerox</vendor>
@@ -51339,6 +51339,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>85109</price>
+      </offer>
+      <offer sku="008161">
+        <name>Тонер-картридж Xerox 006R01573 Xerox 008161</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>008161</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>27129</price>
       </offer>
       <offer sku="008162">
         <name>Тонер-картридж (двойная упаковка) Xerox 106R03048 Xerox 008162</name>
@@ -51383,6 +51394,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>44913</price>
+      </offer>
+      <offer sku="008166">
+        <name>Контейнер для отработанного тонера Xerox 008R13036 / 006R01613 / 006R01650 Xerox 008166</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>008166</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>23983</price>
       </offer>
       <offer sku="008167">
         <name>Тонер-картридж Xerox 006R01160 Xerox 008167</name>
@@ -51615,6 +51637,17 @@
         </pickup-options>
         <price>205989</price>
       </offer>
+      <offer sku="008200">
+        <name>Тонер-картридж Xerox 006R01819 Xerox 008200</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>008200</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>67709</price>
+      </offer>
       <offer sku="008201">
         <name>Картридж фоторецептора Xerox 013R00687 Xerox 008201</name>
         <vendor>Xerox</vendor>
@@ -51724,6 +51757,39 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>76378</price>
+      </offer>
+      <offer sku="008211">
+        <name>Проявитель Xerox 676K35990 (голубой) Xerox 008211</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>008211</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>12593</price>
+      </offer>
+      <offer sku="008212">
+        <name>Проявитель Xerox 676K36000 (малиновый) Xerox 008212</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>008212</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>12714</price>
+      </offer>
+      <offer sku="008213">
+        <name>Проявитель Xerox 676K36010 (жёлтый) Xerox 008213</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>008213</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>12623</price>
       </offer>
       <offer sku="008214">
         <name>Контейнер для отработанного тонера Xerox 115R00128 Xerox 008214</name>
@@ -51911,17 +51977,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>12553</price>
-      </offer>
-      <offer sku="008239">
-        <name>Принт-картридж Europrint EPC-101R00555 (WC3335/3345) Europrint 008239</name>
-        <vendor>Europrint</vendor>
-        <barcodes>
-          <barcode>008239</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>9421</price>
       </offer>
       <offer sku="008240">
         <name>Картридж Europrint EPC-B400/405 (106R03585) Europrint 008240</name>
