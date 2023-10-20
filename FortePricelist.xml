@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2023-10-20 14:55">
+<fm_catalog date="2023-10-20 15:00">
   <shop>
     <merchant-id>AAH99GhybQaI1s7QCe</merchant-id>
     <offers>
@@ -1675,17 +1675,6 @@
         </pickup-options>
         <price>123010</price>
       </offer>
-      <offer sku="001150">
-        <name>NPSuperior/Care/White/Dogs/G/Free/White Dogs Grain Free Salmon Junior All Breeds 10 кг Nature's protection 001150</name>
-        <vendor>Nature's protection</vendor>
-        <barcodes>
-          <barcode>001150</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>42598</price>
-      </offer>
       <offer sku="001156">
         <name>Savic Rody Cavia Бокс-клетка для морских свинок A0165-0048 Savic 001156</name>
         <vendor>Savic</vendor>
@@ -1774,17 +1763,6 @@
         </pickup-options>
         <price>16144</price>
       </offer>
-      <offer sku="001210">
-        <name>Лежанка с туннелем 7 Котиков 001210</name>
-        <vendor>7 Котиков</vendor>
-        <barcodes>
-          <barcode>001210</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>14459</price>
-      </offer>
       <offer sku="001213">
         <name>7К 3322 Лежанка высокая 70*40*40 (ворс/ворс) 7 Котиков 001213</name>
         <vendor>7 Котиков</vendor>
@@ -1828,17 +1806,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>10448</price>
-      </offer>
-      <offer sku="001293">
-        <name>Сибирская Кошка Ультра 20л супер впитывающий Сибирская Кошка 001293</name>
-        <vendor>Сибирская Кошка</vendor>
-        <barcodes>
-          <barcode>001293</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>8121</price>
       </offer>
       <offer sku="001301">
         <name>Сибирская Кошка Супер 20кг. Комкующийся Сибирская Кошка 001301</name>
@@ -17525,17 +17492,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>7983</price>
-      </offer>
-      <offer sku="4771317459534">
-        <name>NP Lifestyle Grain Free Salmon Kitten 1,5kg беззерновой корм для котят, шт Nature's protection 4771317459534</name>
-        <vendor>Nature's protection</vendor>
-        <barcodes>
-          <barcode>4771317459534</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>11920</price>
       </offer>
       <offer sku="4823089321165">
         <name>Шлея WAUDOG с рисунком "Лето"  (размер S2, обхват груди 46-50 см, обхват шеи 43-45 см), шт Waudog 4823089321165</name>
@@ -53067,17 +53023,6 @@
         </pickup-options>
         <price>4833</price>
       </offer>
-      <offer sku="008538">
-        <name>Muzzle Антипаразитарные капли для собак, 2 мл - 1/25шт, шт Muzzle 008538</name>
-        <vendor>Muzzle</vendor>
-        <barcodes>
-          <barcode>008538</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>5000</price>
-      </offer>
       <offer sku="008539">
         <name>Muzzle Антипаразитарный ошейник для кошек и собак 65см с пряжкой, белый цвет 1/25 шт, шт Muzzle 008539</name>
         <vendor>Muzzle</vendor>
@@ -54046,17 +53991,6 @@
         </pickup-options>
         <price>5172</price>
       </offer>
-      <offer sku="008755">
-        <name>Сибирская Кошка Комфорт 3л, шт Сибирская кошка 008755</name>
-        <vendor>Сибирская кошка</vendor>
-        <barcodes>
-          <barcode>008755</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>4575</price>
-      </offer>
       <offer sku="008758">
         <name>Сибирская Кошка Лесной 10л, шт Сибирская кошка 008758</name>
         <vendor>Сибирская кошка</vendor>
@@ -54067,17 +54001,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>5374</price>
-      </offer>
-      <offer sku="008763">
-        <name>Сибирская Кошка Оптима 5л, шт Сибирская кошка 008763</name>
-        <vendor>Сибирская кошка</vendor>
-        <barcodes>
-          <barcode>008763</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>6253</price>
       </offer>
       <offer sku="008770">
         <name>Сибирская Кошка Универсал 20л, шт Сибирская кошка 008770</name>
@@ -54100,28 +54023,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>4546</price>
-      </offer>
-      <offer sku="008772">
-        <name>Сибирская Кошка Универсал 5л, шт Сибирская кошка 008772</name>
-        <vendor>Сибирская кошка</vendor>
-        <barcodes>
-          <barcode>008772</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>4868</price>
-      </offer>
-      <offer sku="008773">
-        <name>Сибирская Кошка Экстра 3л для длинношерст, шт Сибирская кошка 008773</name>
-        <vendor>Сибирская кошка</vendor>
-        <barcodes>
-          <barcode>008773</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>4552</price>
       </offer>
       <offer sku="008774">
         <name>Сибирская Кошка Экстра 5л для длинношерст, шт Сибирская кошка 008774</name>
@@ -54255,33 +54156,11 @@
         </pickup-options>
         <price>5534</price>
       </offer>
-      <offer sku="008792">
-        <name>Туалет д/кошек СК Премиум с сеткой 2347, шт СК 008792</name>
-        <vendor>СК</vendor>
-        <barcodes>
-          <barcode>008792</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>5534</price>
-      </offer>
       <offer sku="008793">
         <name>Туалет д/кошек СК Премиум с сеткой БЕЛЫЙ, шт СК 008793</name>
         <vendor>СК</vendor>
         <barcodes>
           <barcode>008793</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>5534</price>
-      </offer>
-      <offer sku="008794">
-        <name>Туалет д/кошек СК Премиум с сеткой ЧЁРНЫЙ, шт СК 008794</name>
-        <vendor>СК</vendor>
-        <barcodes>
-          <barcode>008794</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1" />
@@ -54694,17 +54573,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>5834</price>
-      </offer>
-      <offer sku="008858">
-        <name>HJ Корм для шиншилл 400 г J118, шт HJ 008858</name>
-        <vendor>HJ</vendor>
-        <barcodes>
-          <barcode>008858</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>5444</price>
       </offer>
       <offer sku="008861">
         <name>HJ Палочки д/грызунов витаминно-минеральные 2 шт.  J221, шт HJ 008861</name>
