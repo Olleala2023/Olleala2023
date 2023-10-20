@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Jmart date="20.10.2023 14:55:46" xmlns="Jmart">
+<Jmart date="20.10.2023 15:00:49" xmlns="Jmart">
   <company>Hitech24.kz</company>
   <merchantid>Test</merchantid>
   <offers>
@@ -315,14 +315,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="000417" xmlns="">
-      <model>NP Indoor Poultry 1 year and older Adult cat 2kg корм для кошек</model>
-      <brand>Nature's protection</brand>
-      <price>10551</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="000422" xmlns="">
       <model>NP Kitten Poultry with krill Up to 1 year All breeds 2kg корм для котят</model>
       <brand>Nature's protection</brand>
@@ -361,14 +353,6 @@
       <price>7579</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="000439" xmlns="">
-      <model>NP Urinary Formula-S Poultry 1 year and older Adult cat 2kg корм для кошек</model>
-      <brand>Nature's protection</brand>
-      <price>11174</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="000869" xmlns="">
@@ -467,14 +451,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="000539" xmlns="">
-      <model>NP Mini Adult Lamb 18kg Breeder Bag сухой корм для собак</model>
-      <brand>Nature's protection</brand>
-      <price>39247</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="000889" xmlns="">
       <model>Графический планшет Wacom One Small (CTL-472-N) Чёрный</model>
       <brand>Wacom</brand>
@@ -489,14 +465,6 @@
       <price>53124</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="000299" xmlns="">
-      <model>NP Active Sport 18kg Breeder Bag сухой корм для собак</model>
-      <brand>Nature's protection</brand>
-      <price>41489</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="000321" xmlns="">
@@ -1736,7 +1704,7 @@
       <brand>Nature's protection</brand>
       <price>39124</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001151" xmlns="">
@@ -1848,14 +1816,6 @@
       <brand>7 Котиков</brand>
       <price>11617</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="001211" xmlns="">
-      <model>Домик с лежанкой круглый</model>
-      <brand>7 Котиков</brand>
-      <price>11617</price>
-      <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
@@ -1920,7 +1880,7 @@
       <brand>Сибирская Кошка</brand>
       <price>5421</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001301" xmlns="">
@@ -3737,14 +3697,6 @@
       <price>54539</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="002677" xmlns="">
-      <model>NP Long Hair 18kg Breeder Bag сухой корм для кошек</model>
-      <brand>Nature's protection</brand>
-      <price>48034</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="002710" xmlns="">
@@ -17872,7 +17824,7 @@
       <brand>Nature's protection</brand>
       <price>9135</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="4771317459961" xmlns="">
@@ -18169,22 +18121,6 @@
       <price>4815</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="4607109231531" xmlns="">
-      <model>Сибирская Кошка Супер 10кг. Комкующийся, шт</model>
-      <brand>Сибирская Кошка</brand>
-      <price>4258</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="4607109232408" xmlns="">
-      <model>Сибирская Кошка Экстра 20л для длинношерст, шт</model>
-      <brand>Сибирская Кошка</brand>
-      <price>3742</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="4607109233108" xmlns="">
@@ -50531,14 +50467,6 @@
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="008484" xmlns="">
-      <model>7К 1922 Домик "Сыр", шт</model>
-      <brand>7К</brand>
-      <price>11617</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="008485" xmlns="">
       <model>7К 2538 Когтеточка рыба малая ворсовая, шт</model>
       <brand>7К</brand>
@@ -50824,7 +50752,7 @@
       <brand>Muzzle</brand>
       <price>1742</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008539" xmlns="">
@@ -51027,46 +50955,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="008581" xmlns="">
-      <model>LOVELY HUNTER КОНСЕРВЫ ДЛЯ КОШЕК C СЕРДЕЧКАМИ ИЗ ГОВЯДИНЫ, КУРИЦЫ И УТКИ, 400 Г, шт</model>
-      <brand>Lovely</brand>
-      <price>4191</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="008582" xmlns="">
-      <model>Lovely Hunter консервы для кошек с курицей, 400 г, шт</model>
-      <brand>Lovely</brand>
-      <price>4191</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="008584" xmlns="">
-      <model>Lovely Hunter Полноценный корм для котят c кроличьим мясом и курицей 400 g, шт</model>
-      <brand>Lovely</brand>
-      <price>4242</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="008588" xmlns="">
-      <model>NP Cat Neutered Turkey,Salmon&amp;Rice консервы для кош 400гр, шт</model>
-      <brand>NP</brand>
-      <price>4360</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="008590" xmlns="">
-      <model>NP Dog Adult Chicken&amp;Turkey консервы для собак 200гр, шт</model>
-      <brand>NP</brand>
-      <price>3742</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="008591" xmlns="">
       <model>NP Kitten Turkey&amp;Rabbit консервы для кошек 400гр, шт</model>
       <brand>NP</brand>
@@ -51097,22 +50985,6 @@
       <price>4264</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="008607" xmlns="">
-      <model>NP Sterilised Poultry 1 year and older Adult Cat 400g корм для кошек, шт</model>
-      <brand>NP</brand>
-      <price>4253</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="008608" xmlns="">
-      <model>NP URINARY FORMULA-S POULTRY 1 YEAR AND OLDER ADULT CAT 400G КОРМ ДЛЯ КОШЕК, шт</model>
-      <brand>NP</brand>
-      <price>4253</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008609" xmlns="">
@@ -51595,14 +51467,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="008738" xmlns="">
-      <model>Сибирская кошка набор  "Мышь+Мяч с погремушкой D= 40 мм" 2  шт в упак, шт</model>
-      <brand>Сибирская кошка</brand>
-      <price>1843</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="008740" xmlns="">
       <model>Когтеточка "Сибирская кошка"  МАЛАЯ ковролиновая 39*9,5*1,8см, шт</model>
       <brand>Сибирская кошка</brand>
@@ -51704,7 +51568,7 @@
       <brand>Сибирская кошка</brand>
       <price>1955</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008758" xmlns="">
@@ -51715,42 +51579,10 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="008760" xmlns="">
-      <model>Сибирская Кошка Лесной 3л, шт</model>
-      <brand>Сибирская кошка</brand>
-      <price>1826</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="008762" xmlns="">
-      <model>Сибирская Кошка Лесной 7л, шт</model>
-      <brand>Сибирская кошка</brand>
-      <price>2404</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="008763" xmlns="">
       <model>Сибирская Кошка Оптима 5л, шт</model>
       <brand>Сибирская кошка</brand>
       <price>3596</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="008764" xmlns="">
-      <model>Сибирская Кошка Супер 3л. Комкующийся, шт</model>
-      <brand>Сибирская кошка</brand>
-      <price>2337</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="008769" xmlns="">
-      <model>Сибирская Кошка Ультра 7л комкующийся, шт</model>
-      <brand>Сибирская кошка</brand>
-      <price>2876</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -51776,7 +51608,7 @@
       <brand>Сибирская кошка</brand>
       <price>2242</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008773" xmlns="">
@@ -51784,7 +51616,7 @@
       <brand>Сибирская кошка</brand>
       <price>1933</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008774" xmlns="">
@@ -51793,14 +51625,6 @@
       <price>2242</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="008775" xmlns="">
-      <model>Сибирская Кошка Экстра КОМКУЮЩИЙСЯ  5л для длинн, шт</model>
-      <brand>Сибирская кошка</brand>
-      <price>2949</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008777" xmlns="">
@@ -51904,7 +51728,7 @@
       <brand>СК</brand>
       <price>2893</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008793" xmlns="">
@@ -51920,7 +51744,7 @@
       <brand>СК</brand>
       <price>2893</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008796" xmlns="">
@@ -52147,14 +51971,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="008837" xmlns="">
-      <model>FG02901 Good Dog&amp;Cat Антипаразитарный шампунь УНИВЕРСАЛЬНЫЙ для КОШЕК И СОБАК, 250 мл., шт</model>
-      <brand>FAVORITE</brand>
-      <price>1371</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="008839" xmlns="">
       <model>CitoDerm Шампунь от аллергии и зуда 200мл D106, шт</model>
       <brand>CitoDerm</brand>
@@ -52240,7 +52056,7 @@
       <brand>HJ</brand>
       <price>1579</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008859" xmlns="">
