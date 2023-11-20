@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2023-11-20 12:19">
+<fm_catalog date="2023-11-20 17:07">
   <shop>
     <merchant-id>AAH99GhybQaI1s7QCe</merchant-id>
     <offers>
@@ -1169,6 +1169,17 @@
         </pickup-options>
         <price>21480</price>
       </offer>
+      <offer sku="981-000593">
+        <name>Гарнитура Logitech H111 (1 x 3.5мм, кабель 1.8м) Logitech 981-000593</name>
+        <vendor>Logitech</vendor>
+        <barcodes>
+          <barcode>981-000593</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>17071</price>
+      </offer>
       <offer sku="981-000350">
         <name>Гарнитура Logitech H150 White (белая, 2 x 3.5мм, элементы управления на кабеле, кабель 1.8м) Logitech 981-000350</name>
         <vendor>Logitech</vendor>
@@ -1344,17 +1355,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>30326</price>
-      </offer>
-      <offer sku="GY50U59626">
-        <name>Мышь Lenovo Yoga Presenter Mouse Lenovo GY50U59626</name>
-        <vendor>Lenovo</vendor>
-        <barcodes>
-          <barcode>GY50U59626</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>27755</price>
       </offer>
       <offer sku="910-005784">
         <name>Мышь Logitech M500s Advanced Black (черно-серебристая, 7 кнопок, 400–4000 dpi, USB, 1.8м, эргономичная, колесико сверхбыстрой прокрутки) Logitech 910-005784</name>
@@ -1620,17 +1620,6 @@
         </pickup-options>
         <price>88244</price>
       </offer>
-      <offer sku="LF27T450FQIXCI">
-        <name>LF27T450FQIXCI Monitor Samsung LF27T450FQIXCI 27" Samsung LF27T450FQIXCI</name>
-        <vendor>Samsung</vendor>
-        <barcodes>
-          <barcode>LF27T450FQIXCI</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>116069</price>
-      </offer>
       <offer sku="XB3288UHSU-B1">
         <name>Монитор LCD 31.5'' [16:9] 3840x2160(UHD 4K) VA, nonGLARE, 300cd/m2, H178°/V178°, 3000:1, 80M:1, 1.07B, 3ms, DVI, 2xHDMI, DP, USB-Hub, Height adj, Tilt, Swivel, Speakers, Audio out, 3Y, Black IIYAMA XB3288UHSU-B1</name>
         <vendor>IIYAMA</vendor>
@@ -1686,6 +1675,17 @@
         </pickup-options>
         <price>47684</price>
       </offer>
+      <offer sku="8468B042">
+        <name>i-SENSYS LBP6030B Bundle (чёрный) лазерный A4 монохромный ч.б. 18 стр/мин печать 600x600 стратовый картридж (емкость 700 стр.) + 2 доп картриджа Canon 8468B042</name>
+        <vendor>Canon</vendor>
+        <barcodes>
+          <barcode>8468B042</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>148411</price>
+      </offer>
       <offer sku="8468B006">
         <name>i-SENSYS LBP6030B черный, лазерный, A4, монохромный, ч.б. 18 стр/мин, печать 2400x600, стартовый картридж Canon 8468B006</name>
         <vendor>Canon</vendor>
@@ -1696,17 +1696,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>119068</price>
-      </offer>
-      <offer sku="1102RY3NL0">
-        <name>Лазерный принтер Kyocera P2040dw (A4, 1200dpi, 256Mb, 40 ppm, 350 л., дуплекс, USB 2.0, Gigabit Ethernet, Wi-Fi), отгрузка только с доп. тонером TK-1160 KYOCERA 1102RY3NL0</name>
-        <vendor>KYOCERA</vendor>
-        <barcodes>
-          <barcode>1102RY3NL0</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>280143</price>
       </offer>
       <offer sku="Robot VC Kyvol E20">
         <name>Робот-пылесос Robot VC Kyvol Cybovac E20 Kyvol Robot VC Kyvol E20</name>
@@ -1729,17 +1718,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>119525</price>
-      </offer>
-      <offer sku="001149">
-        <name>NP SC White Dogs Grain Free White Fish Adult Small and Mini Breeds 10 кг корм для взр.собак малых п. Nature's protection 001149</name>
-        <vendor>Nature's protection</vendor>
-        <barcodes>
-          <barcode>001149</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>44546</price>
       </offer>
       <offer sku="001156">
         <name>Savic Rody Cavia Бокс-клетка для морских свинок A0165-0048 Savic 001156</name>
@@ -1961,17 +1939,6 @@
         </pickup-options>
         <price>9494</price>
       </offer>
-      <offer sku="001327">
-        <name>Сибирская Кошка Лесной 20 кг Сибирская Кошка 001327</name>
-        <vendor>Сибирская Кошка</vendor>
-        <barcodes>
-          <barcode>001327</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>7586</price>
-      </offer>
       <offer sku="001328">
         <name>Сибирская Кошка Прима 10 кг Сибирская Кошка 001328</name>
         <vendor>Сибирская Кошка</vendor>
@@ -1982,17 +1949,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>7500</price>
-      </offer>
-      <offer sku="001329">
-        <name>CATLITTER наполн. 20 кг  комкующийся CATLITTER 001329</name>
-        <vendor>CATLITTER</vendor>
-        <barcodes>
-          <barcode>001329</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>7310</price>
       </offer>
       <offer sku="001342">
         <name>Savic Туалет с сеткой 42 см 0223 - 0000 Savic 001342</name>
@@ -3072,6 +3028,17 @@
         </pickup-options>
         <price>12575</price>
       </offer>
+      <offer sku="002179">
+        <name>Модуль памяти Apacer AH4U16G32C28Y7GAA-1 Apacer 002179</name>
+        <vendor>Apacer</vendor>
+        <barcodes>
+          <barcode>002179</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>19787</price>
+      </offer>
       <offer sku="002180">
         <name>Модуль памяти Apacer AH4U08G32C28YNBAA-1 Apacer 002180</name>
         <vendor>Apacer</vendor>
@@ -3182,6 +3149,17 @@
         </pickup-options>
         <price>27533</price>
       </offer>
+      <offer sku="002312">
+        <name>Процессор (CPU) Intel Core i3 Processor 10100F 1200 Intel 002312</name>
+        <vendor>Intel</vendor>
+        <barcodes>
+          <barcode>002312</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>39843</price>
+      </offer>
       <offer sku="002313">
         <name>Процессор (CPU) Intel Core i3 Processor 10100 1200 Intel 002313</name>
         <vendor>Intel</vendor>
@@ -3247,17 +3225,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>67405</price>
-      </offer>
-      <offer sku="002328">
-        <name>Процессор (CPU) Intel Core i5 Processor 12400 1700 Intel 002328</name>
-        <vendor>Intel</vendor>
-        <barcodes>
-          <barcode>002328</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>96906</price>
       </offer>
       <offer sku="002329">
         <name>Процессор (CPU) Intel Core i5 Processor 12600KF 1700 Intel 002329</name>
@@ -3451,17 +3418,6 @@
         <vendor>Sandisk</vendor>
         <barcodes>
           <barcode>002582</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>8192</price>
-      </offer>
-      <offer sku="002584">
-        <name>SANDISK 32GB Ultra microSDHC+SD Adapter Sandisk 002584</name>
-        <vendor>Sandisk</vendor>
-        <barcodes>
-          <barcode>002584</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1" />
@@ -3797,6 +3753,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>46851</price>
+      </offer>
+      <offer sku="002733">
+        <name>Мобильный телефон Redmi Note 11S 6GB RAM 64GB ROM Twilight Blue Xiaomi 002733</name>
+        <vendor>Xiaomi</vendor>
+        <barcodes>
+          <barcode>002733</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>93609</price>
       </offer>
       <offer sku="002760">
         <name>Портативный внешний аккумулятор Xiaomi Redmi Power Bank 10000mAh Черный Xiaomi 002760</name>
@@ -5294,17 +5261,6 @@
         </pickup-options>
         <price>48853</price>
       </offer>
-      <offer sku="003090">
-        <name>Компьютерная мышь Razer DeathAdder Essential (2021) Razer 003090</name>
-        <vendor>Razer</vendor>
-        <barcodes>
-          <barcode>003090</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>18821</price>
-      </offer>
       <offer sku="003093">
         <name>Компьютерная мышь Razer DeathAdder V2 X HyperSpeed Razer 003093</name>
         <vendor>Razer</vendor>
@@ -6207,17 +6163,6 @@
         </pickup-options>
         <price>16621</price>
       </offer>
-      <offer sku="003237">
-        <name>Гарнитура Microlab G6 Красный Microlab 003237</name>
-        <vendor>Microlab</vendor>
-        <barcodes>
-          <barcode>003237</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>10759</price>
-      </offer>
       <offer sku="003241">
         <name>Гарнитура HP DHE-8002 Черный HP 003241</name>
         <vendor>HP</vendor>
@@ -6867,17 +6812,6 @@
         </pickup-options>
         <price>23361</price>
       </offer>
-      <offer sku="003366">
-        <name>Акустическая система Microlab M-105R Чёрный Microlab 003366</name>
-        <vendor>Microlab</vendor>
-        <barcodes>
-          <barcode>003366</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>23041</price>
-      </offer>
       <offer sku="003367">
         <name>Акустическая система Microlab M-108 Чёрный Microlab 003367</name>
         <vendor>Microlab</vendor>
@@ -7296,6 +7230,17 @@
         </pickup-options>
         <price>63981</price>
       </offer>
+      <offer sku="003421">
+        <name>Источник бесперебойного питания SVC V-1500-F-LCD SVC 003421</name>
+        <vendor>SVC</vendor>
+        <barcodes>
+          <barcode>003421</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>69812</price>
+      </offer>
       <offer sku="003422">
         <name>Источник бесперебойного питания SVC V-2000-F-LCD SVC 003422</name>
         <vendor>SVC</vendor>
@@ -7636,17 +7581,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>29775</price>
-      </offer>
-      <offer sku="003487">
-        <name>Рюкзак NINETYGO Classic Business Backpack Темно-синий Ninetygo 003487</name>
-        <vendor>Ninetygo</vendor>
-        <barcodes>
-          <barcode>003487</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>19605</price>
       </offer>
       <offer sku="003502">
         <name>Чемодан NINETYGO Danube Luggage 28'' (New version) Синий Ninetygo 003502</name>
@@ -8726,6 +8660,17 @@
         </pickup-options>
         <price>202271</price>
       </offer>
+      <offer sku="003764">
+        <name>Коммутатор Dahua DH-LR2110-8ET-120 Dahua 003764</name>
+        <vendor>Dahua</vendor>
+        <barcodes>
+          <barcode>003764</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>109250</price>
+      </offer>
       <offer sku="003766">
         <name>Трансивер TP-Link TL-SM321B TP link 003766</name>
         <vendor>TP link</vendor>
@@ -8790,7 +8735,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>22023</price>
+        <price>23632</price>
       </offer>
       <offer sku="003782">
         <name>Медиаконвертер D-Link DMC-F20SC-BXD/B1A D-link 003782</name>
@@ -8801,7 +8746,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>21103</price>
+        <price>26920</price>
       </offer>
       <offer sku="003785">
         <name>Модем TP-Link TD-W8968 TP link 003785</name>
@@ -9077,17 +9022,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>54657</price>
-      </offer>
-      <offer sku="003814">
-        <name>Wi-Fi беспроводной повторитель D-Link DAP-1620/RU/B1A D-link 003814</name>
-        <vendor>D-link</vendor>
-        <barcodes>
-          <barcode>003814</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>32253</price>
       </offer>
       <offer sku="003815">
         <name>Wi-Fi беспроводной повторитель D-Link DAP-1520/A1A D-link 003815</name>
@@ -9384,7 +9318,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>14782</price>
+        <price>15356</price>
       </offer>
       <offer sku="003857">
         <name>Маршрутизатор D-Link DIR-822/RU/E1A D-link 003857</name>
@@ -12554,17 +12488,6 @@
         </pickup-options>
         <price>63635</price>
       </offer>
-      <offer sku="960-001088">
-        <name>Веб-камера Logitech C922 Pro Stream (Full HD 1080p/30fps, 720p/60fps, автофокус, угол обзора 78°, стереомикрофон, лицензия XSplit на 3мес, кабель 1.5м, штатив) (M/N: V-U0028) Logitech 960-001088</name>
-        <vendor>Logitech</vendor>
-        <barcodes>
-          <barcode>960-001088</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>73094</price>
-      </offer>
       <offer sku="956-000053">
         <name>Коврик для стола Logitech Desk Mat, DARKER ROSE Logitech 956-000053</name>
         <vendor>Logitech</vendor>
@@ -12685,17 +12608,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>23631</price>
-      </offer>
-      <offer sku="LI32111CT00">
-        <name>LIEBERT itON 600VA E 230V Vertiv LI32111CT00</name>
-        <vendor>Vertiv</vendor>
-        <barcodes>
-          <barcode>LI32111CT00</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>30005</price>
       </offer>
       <offer sku="SMT1000I">
         <name>Smart-UPS SMT, Line-Interactive, 1000VA / 700W, Tower, IEC, LCD, USB APC SMT1000I</name>
@@ -13500,17 +13412,6 @@
         </pickup-options>
         <price>45060</price>
       </offer>
-      <offer sku="SNK-P0078P">
-        <name>Supermicro 2U Passive CPU HS for X12 Whitley and Cedar Island Platforms SUPERMICRO SNK-P0078P</name>
-        <vendor>SUPERMICRO</vendor>
-        <barcodes>
-          <barcode>SNK-P0078P</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>41657</price>
-      </offer>
       <offer sku="CNE-CSZ01GY01">
         <name>Cabin size backpack for 15.6" laptop, Polyester, Gray CANYON CNE-CSZ01GY01</name>
         <vendor>CANYON</vendor>
@@ -14094,17 +13995,6 @@
         </pickup-options>
         <price>30155</price>
       </offer>
-      <offer sku="LT-32MU208">
-        <name>LT-32MU208 Телевизор JVC LED 32'' HD, DVB-T2/C, SmartTV, Wi-Fi, USB KIVI LT-32MU208</name>
-        <vendor>KIVI</vendor>
-        <barcodes>
-          <barcode>LT-32MU208</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>82208</price>
-      </offer>
       <offer sku="LT-32MU380">
         <name>LT-32MU380 Телевизор JVC LED 32'' HD, DVB-T2/C KIVI LT-32MU380</name>
         <vendor>KIVI</vendor>
@@ -14325,17 +14215,6 @@
         </pickup-options>
         <price>51945</price>
       </offer>
-      <offer sku="YNDX-00020 Black">
-        <name>Яндекс.Станция Мини Плюс Черная YNDX-00020 с часами (Умная колонка с голосовым помощником) Yandex YNDX-00020 Black</name>
-        <vendor>Yandex</vendor>
-        <barcodes>
-          <barcode>YNDX-00020 Black</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>56830</price>
-      </offer>
       <offer sku="YNDX-00021 Black">
         <name>Яндекс.Станция Мини Плюс Черная YNDX-00021 без часов (Умная колонка с голосовым помощником) Yandex YNDX-00021 Black</name>
         <vendor>Yandex</vendor>
@@ -14446,16 +14325,16 @@
         </pickup-options>
         <price>429517</price>
       </offer>
-      <offer sku="YNDX-00051 Black">
-        <name>Яндекс.Станция 2 - умная колонка с Алисой YNDX-00051 Черная Yandex YNDX-00051 Black</name>
-        <vendor>Yandex</vendor>
+      <offer sku="P28352-B21">
+        <name>HPE 2.4TB SAS 12G Mission Critical 10K SFF BC 3-year Warranty 512e HDD HPE P28352-B21</name>
+        <vendor>HPE</vendor>
         <barcodes>
-          <barcode>YNDX-00051 Black</barcode>
+          <barcode>P28352-B21</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>102979</price>
+        <price>167169</price>
       </offer>
       <offer sku="4XB7A38274">
         <name>ThinkSystem 2.5" Multi Vendor 1.92TB Entry SATA 6Gb Hot Swap SSD Lenovo 4XB7A38274</name>
@@ -14478,17 +14357,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>25329</price>
-      </offer>
-      <offer sku="P07646-B21">
-        <name>HPE 32GB 2Rx4 PC4-3200AA-R Smart Ki HPE P07646-B21</name>
-        <vendor>HPE</vendor>
-        <barcodes>
-          <barcode>P07646-B21</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>100354</price>
       </offer>
       <offer sku="4ZC7A08709">
         <name>ThinkSystem 32GB TruDDR4 2933MHz (2Rx4 1.2V) RDIMM Lenovo 4ZC7A08709</name>
@@ -16041,17 +15909,6 @@
         </pickup-options>
         <price>9177</price>
       </offer>
-      <offer sku="ECO-8015 Iron Gray">
-        <name>Компьютерная мышь Genius ECO-8015 Iron Gray GENIUS ECO-8015 Iron Gray</name>
-        <vendor>GENIUS</vendor>
-        <barcodes>
-          <barcode>ECO-8015 Iron Gray</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>10586</price>
-      </offer>
       <offer sku="ECO-8015 Silver">
         <name>Компьютерная мышь Genius ECO-8015 Silver GENIUS ECO-8015 Silver</name>
         <vendor>GENIUS</vendor>
@@ -16745,6 +16602,17 @@
         </pickup-options>
         <price>45685</price>
       </offer>
+      <offer sku="V-800-F-LCD">
+        <name>Источник бесперебойного питания SVC V-800-F-LCD SVC V-800-F-LCD</name>
+        <vendor>SVC</vendor>
+        <barcodes>
+          <barcode>V-800-F-LCD</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>38305</price>
+      </offer>
       <offer sku="V-3000-F-LCD">
         <name>Источник бесперебойного питания SVC V-3000-F-LCD SVC V-3000-F-LCD</name>
         <vendor>SVC</vendor>
@@ -16799,17 +16667,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>699363</price>
-      </offer>
-      <offer sku="RT-6KL-LCD">
-        <name>Источник бесперебойного питания SVC RT-6KL-LCD SVC RT-6KL-LCD</name>
-        <vendor>SVC</vendor>
-        <barcodes>
-          <barcode>RT-6KL-LCD</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>544503</price>
       </offer>
       <offer sku="RT-10KL-LCD">
         <name>Источник бесперебойного питания SVC RT-10KL-LCD SVC RT-10KL-LCD</name>
@@ -19693,17 +19550,6 @@
         </pickup-options>
         <price>9388</price>
       </offer>
-      <offer sku="910-001949">
-        <name>Мышь (Box) LOGITECH M705 Marathon Wireless Mouse - BLACK Logitech 910-001949</name>
-        <vendor>Logitech</vendor>
-        <barcodes>
-          <barcode>910-001949</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>31826</price>
-      </offer>
       <offer sku="910-002496">
         <name>Мышь (Box) LOGITECH M235 Wireless Mouse - RED Logitech 910-002496</name>
         <vendor>Logitech</vendor>
@@ -20298,6 +20144,17 @@
         </pickup-options>
         <price>70858</price>
       </offer>
+      <offer sku="KVR32S22S6/4">
+        <name>Память для мобильного ПК Kingston 4GB 3200MT/s DDR4 Non-ECC CL22 SODIMM 1Rx16, EAN: 740617296105 Kingston KVR32S22S6/4</name>
+        <vendor>Kingston</vendor>
+        <barcodes>
+          <barcode>KVR32S22S6/4</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>15275</price>
+      </offer>
       <offer sku="KVR16LN11/8WP">
         <name>Память для настольных систем Kingston 8GB 1600MT/s DDR3L Non-ECC CL11 DIMM 1.35V(Select Regions ONLY), EAN: 740617317350 Kingston KVR16LN11/8WP</name>
         <vendor>Kingston</vendor>
@@ -20506,6 +20363,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>182354</price>
+      </offer>
+      <offer sku="BP5100DN">
+        <name>Принтер лазерный BP5100DN (чб., A4, 40ppm, 512MB, 1.2GHz, 60-200 г/м2, 1200х1200 dpi, макс. 100т мес., двухсторонняя печать, PCL5e/6, PostScript, USB 2.0, Ethernet 10/100/1000, PANTUM BP5100DN</name>
+        <vendor>PANTUM</vendor>
+        <barcodes>
+          <barcode>BP5100DN</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>151445</price>
       </offer>
       <offer sku="BP5100DW">
         <name>Принтер лазерный BP5100DW 40ppm, LAN, USB, A4, Wi-Fi PANTUM BP5100DW</name>
@@ -20782,6 +20650,17 @@
         </pickup-options>
         <price>219804</price>
       </offer>
+      <offer sku="SSDPF2KE032T1N1">
+        <name>Твердотельный накопитель (SSD) для сервера Intel SSD D7-P5620 Series (3.2TB, 2.5in PCIe 4.0 x4, 3D4, TLC) Generic No OPAL Single Pack Intel SSDPF2KE032T1N1</name>
+        <vendor>Intel</vendor>
+        <barcodes>
+          <barcode>SSDPF2KE032T1N1</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>376240</price>
+      </offer>
       <offer sku="SSDPF2KX019T1M1">
         <name>Твердотельный накопитель (SSD) для сервера SK HYNIX SSD D7-P5520 Series (1.92TB, 2.5in PCIe 4.0 x4, 3D4, TLC) Generic No OPAL Single Pack Hyxin SSDPF2KX019T1M1</name>
         <vendor>Hyxin</vendor>
@@ -20858,6 +20737,28 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>227939</price>
+      </offer>
+      <offer sku="65P635">
+        <name>Телевизор со светодиодной подсветкой LED 65"(165 cm), UHD LED TV, Android R, Google TV UI + TCL TV UI, Dolby Audio, Certified YouTube, Certified Netflix, Google Play, DDR3-2133: 2G Bytes, HDMI1.4 &amp; HDMI2.1, Wi-Fi 802.11 b/g/n 2T2, Bluetooth 5.1 LED 65P635</name>
+        <vendor>LED</vendor>
+        <barcodes>
+          <barcode>65P635</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>295488</price>
+      </offer>
+      <offer sku="75P635">
+        <name>Телевизор со светодиодной подсветкой LED 75", UHD LED TV, Google TV UI + TCL TV UI, Google Play, Netflix, Youtube, HDMI1.4 &amp; HDMI2.1, 2.4GHz/5GHz dual-band Wi-Fi 802.11, Bluetooth 5.1 LED 75P635</name>
+        <vendor>LED</vendor>
+        <barcodes>
+          <barcode>75P635</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>440246</price>
       </offer>
       <offer sku="910-004862">
         <name>Указательное устройство в коробке LOGITECH Spotlight Bluetooth Presentation Remote - GOLD Logitech 910-004862</name>
@@ -21254,17 +21155,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>12187</price>
-      </offer>
-      <offer sku="004405">
-        <name>Мобильный телефон ITEL it5029 Deep Blue ITEL 004405</name>
-        <vendor>ITEL</vendor>
-        <barcodes>
-          <barcode>004405</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>14486</price>
       </offer>
       <offer sku="004407">
         <name>Портативный внешний аккумулятор Awei P139K Power Bank 10000mAh Черный Awei 004407</name>
@@ -22366,17 +22256,6 @@
         </pickup-options>
         <price>14569</price>
       </offer>
-      <offer sku="004620">
-        <name>Комплект модулей памяти G.SKILL F4-2666C19D-16GNT DDR4 16GB (Kit 2x8GB) 2666MHz G.SKILL 004620</name>
-        <vendor>G.SKILL</vendor>
-        <barcodes>
-          <barcode>004620</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>26028</price>
-      </offer>
       <offer sku="004622">
         <name>Модуль памяти Patriot SL PSD416G32002 DDR4 16GB Patriot 004622</name>
         <vendor>Patriot</vendor>
@@ -22850,17 +22729,6 @@
         </pickup-options>
         <price>55308</price>
       </offer>
-      <offer sku="004688">
-        <name>Комплект модулей памяти G.SKILL TridentZ F4-3200C16D-32GTZKW DDR4 32GB (Kit 2x16GB) 3200MHz G.SKILL 004688</name>
-        <vendor>G.SKILL</vendor>
-        <barcodes>
-          <barcode>004688</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>55301</price>
-      </offer>
       <offer sku="004692">
         <name>Комплект модулей памяти G.SKILL TridentZ RGB F4-3600C19Q-32GTZRB DDR4 32GB (Kit 4x8GB) 3600MHz G.SKILL 004692</name>
         <vendor>G.SKILL</vendor>
@@ -23014,17 +22882,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>30324</price>
-      </offer>
-      <offer sku="004720">
-        <name>Комплект модулей памяти Kingston FURY Renegade KF432C16RB1K2/32 DDR4 32GB (Kit 2x16GB) 3200MHz Kingston 004720</name>
-        <vendor>Kingston</vendor>
-        <barcodes>
-          <barcode>004720</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>51327</price>
       </offer>
       <offer sku="004727">
         <name>Комплект модулей памяти Patriot VIPER VENOM PVV532G560C36K DDR5 32GB (Kit 2x16GB) 5600MHz Patriot 004727</name>
@@ -23202,6 +23059,17 @@
         </pickup-options>
         <price>22462</price>
       </offer>
+      <offer sku="004764">
+        <name>Твердотельный накопитель SSD Patriot Burst Elite 240GB SATA Patriot 004764</name>
+        <vendor>Patriot</vendor>
+        <barcodes>
+          <barcode>004764</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>13958</price>
+      </offer>
       <offer sku="004765">
         <name>Твердотельный накопитель SSD Patriot Burst Elite 480GB SATA Patriot 004765</name>
         <vendor>Patriot</vendor>
@@ -23212,6 +23080,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>19954</price>
+      </offer>
+      <offer sku="004766">
+        <name>Твердотельный накопитель SSD Patriot Burst Elite 960GB SATA Patriot 004766</name>
+        <vendor>Patriot</vendor>
+        <barcodes>
+          <barcode>004766</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>32131</price>
       </offer>
       <offer sku="004768">
         <name>Твердотельный накопитель SSD Patriot P210 512GB SATA Patriot 004768</name>
@@ -23509,6 +23388,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>12834</price>
+      </offer>
+      <offer sku="004823">
+        <name>Кулер для процессора Deepcool AG300 Deepcool 004823</name>
+        <vendor>Deepcool</vendor>
+        <barcodes>
+          <barcode>004823</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>11719</price>
       </offer>
       <offer sku="004824">
         <name>Кулер для процессора Deepcool AG300 MARRS Deepcool 004824</name>
@@ -27041,17 +26931,6 @@
         </pickup-options>
         <price>115212</price>
       </offer>
-      <offer sku="005269">
-        <name>Смарт телевизор Xiaomi A2 43" (L43M7-EARU) Xiaomi 005269</name>
-        <vendor>Xiaomi</vendor>
-        <barcodes>
-          <barcode>005269</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>189925</price>
-      </offer>
       <offer sku="005270">
         <name>Смарт телевизор Xiaomi A2 50" (L50M7-EARU) Xiaomi 005270</name>
         <vendor>Xiaomi</vendor>
@@ -29142,17 +29021,6 @@
         </pickup-options>
         <price>4044</price>
       </offer>
-      <offer sku="005498">
-        <name>Батарейка VARTA Superlife (Super Heavy Duty) E-Block 9V - 6F22P 1 шт. в блистере Varta 005498</name>
-        <vendor>Varta</vendor>
-        <barcodes>
-          <barcode>005498</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>4175</price>
-      </offer>
       <offer sku="005502">
         <name>Графический планшет XP-Pen Deco LW BK XP-Pen 005502</name>
         <vendor>XP-Pen</vendor>
@@ -29604,17 +29472,6 @@
         </pickup-options>
         <price>54524</price>
       </offer>
-      <offer sku="005570">
-        <name>Карта памяти Apacer AP32GMCSH10U1-R 32GB + адаптер Apacer 005570</name>
-        <vendor>Apacer</vendor>
-        <barcodes>
-          <barcode>005570</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>4634</price>
-      </offer>
       <offer sku="005572">
         <name>Карта памяти Apacer AP32GMCSH10U5-R 32GB + адаптер Apacer 005572</name>
         <vendor>Apacer</vendor>
@@ -29625,17 +29482,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>4759</price>
-      </offer>
-      <offer sku="005573">
-        <name>Карта памяти Apacer AP64GMCSX10U5-R 64GB + адаптер Apacer 005573</name>
-        <vendor>Apacer</vendor>
-        <barcodes>
-          <barcode>005573</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>5061</price>
       </offer>
       <offer sku="005575">
         <name>Карта памяти Kingston SDCS2/32GBSP Class 10 32GB, без адаптера Kingstone 005575</name>
@@ -30649,6 +30495,17 @@
         </pickup-options>
         <price>468892</price>
       </offer>
+      <offer sku="005748">
+        <name>Монохромное МФУ Xerox WorkCentre 3025BI Xerox 005748</name>
+        <vendor>Xerox</vendor>
+        <barcodes>
+          <barcode>005748</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>93015</price>
+      </offer>
       <offer sku="005750">
         <name>Монохромное МФУ Xerox B235DNI Xerox 005750</name>
         <vendor>Xerox</vendor>
@@ -31307,7 +31164,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>8011</price>
+        <price>7437</price>
       </offer>
       <offer sku="005820">
         <name>Лопатка Bienvenue TEFAL 2745112 TEFAL 005820</name>
@@ -31318,7 +31175,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>8011</price>
+        <price>7437</price>
       </offer>
       <offer sku="005821">
         <name>Bienvenue щипцы TEFAL 2745312 TEFAL 005821</name>
@@ -31329,7 +31186,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>8586</price>
+        <price>8011</price>
       </offer>
       <offer sku="005822">
         <name>Ложка TEFAL K0060112 TEFAL 005822</name>
@@ -31340,7 +31197,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>8011</price>
+        <price>8586</price>
       </offer>
       <offer sku="005823">
         <name>Угловая лопатка TEFAL K0060312 TEFAL 005823</name>
@@ -31384,7 +31241,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>8011</price>
+        <price>8586</price>
       </offer>
       <offer sku="005827">
         <name>Угловая лопатка TEFAL K0260514 TEFAL 005827</name>
@@ -31395,7 +31252,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>8011</price>
+        <price>8586</price>
       </offer>
       <offer sku="005828">
         <name>Щипцы для салата TEFAL K0260614 TEFAL 005828</name>
@@ -31417,7 +31274,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>17920</price>
+        <price>15621</price>
       </offer>
       <offer sku="005831">
         <name>Пресс для чеснока Huohou Garlic press Черный Houhou 005831</name>
@@ -31505,7 +31362,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>14011</price>
+        <price>13322</price>
       </offer>
       <offer sku="005839">
         <name>Нож д/овощей 9 см TEFAL K1220604 TEFAL 005839</name>
@@ -31516,7 +31373,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>12172</price>
+        <price>14011</price>
       </offer>
       <offer sku="005840">
         <name>Нож универсальный 12 см TEFAL K1220704 TEFAL 005840</name>
@@ -31527,7 +31384,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>14011</price>
+        <price>14701</price>
       </offer>
       <offer sku="005841">
         <name>Нож д/овощей 9 см TEFAL K1701174 TEFAL 005841</name>
@@ -31560,7 +31417,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>16540</price>
+        <price>13322</price>
       </offer>
       <offer sku="005844">
         <name>Нож сантоку 12 см TEFAL K1220104 TEFAL 005844</name>
@@ -31571,7 +31428,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>15276</price>
+        <price>16540</price>
       </offer>
       <offer sku="005845">
         <name>Поварской нож 20 см TEFAL K2213204 TEFAL 005845</name>
@@ -31582,7 +31439,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>17230</price>
+        <price>15276</price>
       </offer>
       <offer sku="005846">
         <name>Нож шеф 15 см TEFAL K1220304 TEFAL 005846</name>
@@ -31593,7 +31450,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>12747</price>
+        <price>17230</price>
       </offer>
       <offer sku="005847">
         <name>Нож сантоку 18 см TEFAL K1700674 TEFAL 005847</name>
@@ -31637,7 +31494,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>23506</price>
+        <price>17920</price>
       </offer>
       <offer sku="005851">
         <name>Нож для хлеба 20 см TEFAL K2320414 TEFAL 005851</name>
@@ -31648,7 +31505,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>24195</price>
+        <price>18494</price>
       </offer>
       <offer sku="005852">
         <name>Точилка для ножей TEFAL K2090514 TEFAL 005852</name>
@@ -31659,7 +31516,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>22241</price>
+        <price>25460</price>
       </offer>
       <offer sku="005853">
         <name>Нож TEFAL K2320214 TEFAL 005853</name>
@@ -31670,7 +31527,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>25460</price>
+        <price>19069</price>
       </offer>
       <offer sku="005854">
         <name>Набор ножей 4 пр. TEFAL K2324S74 TEFAL 005854</name>
@@ -31681,7 +31538,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>58310</price>
+        <price>43483</price>
       </offer>
       <offer sku="005855">
         <name>Набор ножей 5 пр. TEFAL K221SA04 TEFAL 005855</name>
@@ -31692,7 +31549,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>64057</price>
+        <price>50379</price>
       </offer>
       <offer sku="005856">
         <name>Термос EMSA 618501600 EMSA 005856</name>
@@ -31749,17 +31606,6 @@
         </pickup-options>
         <price>19391</price>
       </offer>
-      <offer sku="005864">
-        <name>Кастрюля 24 + крышка TEFAL E3014624 TEFAL 005864</name>
-        <vendor>TEFAL</vendor>
-        <barcodes>
-          <barcode>005864</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>40034</price>
-      </offer>
       <offer sku="005866">
         <name>Кастрюля 20 с кр. TEFAL E3084474 TEFAL 005866</name>
         <vendor>TEFAL</vendor>
@@ -31769,7 +31615,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>30701</price>
+        <price>28402</price>
       </offer>
       <offer sku="005870">
         <name>Низк.кастрюля с кр. TEFAL E2327274 TEFAL 005870</name>
@@ -31780,7 +31626,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>66747</price>
+        <price>45782</price>
       </offer>
       <offer sku="005871">
         <name>Крышка 20 плоск. стекл. BUTTERFLY TEFAL 4199720 TEFAL 005871</name>
@@ -31791,7 +31637,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>13897</price>
+        <price>12632</price>
       </offer>
       <offer sku="005872">
         <name>Крышка 20 стекл. с паровыпуском TEFAL 4090120 TEFAL 005872</name>
@@ -31802,7 +31648,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>13092</price>
+        <price>14471</price>
       </offer>
       <offer sku="005873">
         <name>Крышка 22 плоск. стекл. BUTTERFLY TEFAL 4199722 TEFAL 005873</name>
@@ -31813,7 +31659,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>14471</price>
+        <price>13092</price>
       </offer>
       <offer sku="005874">
         <name>Крышка 22 стекл. с паровыпуском TEFAL 4090122 TEFAL 005874</name>
@@ -31824,7 +31670,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>13092</price>
+        <price>14471</price>
       </offer>
       <offer sku="005875">
         <name>24 плоск.стекл. Крышка TEFAL 4199724 TEFAL 005875</name>
@@ -31835,7 +31681,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>15046</price>
+        <price>13552</price>
       </offer>
       <offer sku="005876">
         <name>Крышка 24 стекл. с паровыпуском TEFAL 4090124 TEFAL 005876</name>
@@ -31846,7 +31692,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>13897</price>
+        <price>15621</price>
       </offer>
       <offer sku="005877">
         <name>Крышка 26 плоск. стекл. BUTTERFLY TEFAL 4199726 TEFAL 005877</name>
@@ -31857,7 +31703,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>15621</price>
+        <price>14011</price>
       </offer>
       <offer sku="005879">
         <name>Крышка 28 плоск. стекл. BUTTERFLY TEFAL 04199728 TEFAL 005879</name>
@@ -31868,7 +31714,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>15621</price>
+        <price>14011</price>
       </offer>
       <offer sku="005880">
         <name>Набор ск.22/26 INGENIO с ручкой TEFAL 4131810 TEFAL 005880</name>
@@ -31879,7 +31725,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>41184</price>
+        <price>51230</price>
       </offer>
       <offer sku="005881">
         <name>Набор ск.24/28 INGENIO с ручкой TEFAL 4131820 TEFAL 005881</name>
@@ -31901,7 +31747,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>38310</price>
+        <price>42333</price>
       </offer>
       <offer sku="005883">
         <name>Набор ск.24/28 INGENIO Red 5 с ручкой TEFAL 4175820 TEFAL 005883</name>
@@ -31912,7 +31758,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>46356</price>
+        <price>56402</price>
       </offer>
       <offer sku="005884">
         <name>Набор ск.22/26 INGENIO BLACK 5, TEFAL 4181810 TEFAL 005884</name>
@@ -31923,7 +31769,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>41184</price>
+        <price>55253</price>
       </offer>
       <offer sku="005885">
         <name>Набор ск.24/28 INGENIO BLACK с ручкой 5 TEFAL 4181820 TEFAL 005885</name>
@@ -31934,7 +31780,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>46356</price>
+        <price>56402</price>
       </offer>
       <offer sku="005886">
         <name>Набор посуды 11 пр. TEFAL E308SB74 TEFAL 005886</name>
@@ -31945,7 +31791,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>69046</price>
+        <price>92034</price>
       </offer>
       <offer sku="005888">
         <name>Набор посуды 4 пр. TEFAL E308S474 TEFAL 005888</name>
@@ -31956,7 +31802,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>65598</price>
+        <price>54103</price>
       </offer>
       <offer sku="005890">
         <name>Сковорода 22 SIMPLY CLEAN TEFAL 4205122 TEFAL 005890</name>
@@ -31967,7 +31813,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>17782</price>
+        <price>20080</price>
       </offer>
       <offer sku="005891">
         <name>Сковорода 24 SIMPLY CLEAN TEFAL 4205124 TEFAL 005891</name>
@@ -31978,7 +31824,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>18931</price>
+        <price>23161</price>
       </offer>
       <offer sku="005892">
         <name>Сковорода 26 SIMPLY CLEAN TEFAL 4205126 TEFAL 005892</name>
@@ -31989,7 +31835,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>20080</price>
+        <price>24310</price>
       </offer>
       <offer sku="005893">
         <name>Сковорода 20 Day by Day TEFAL 4216120 TEFAL 005893</name>
@@ -32000,7 +31846,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>19506</price>
+        <price>23736</price>
       </offer>
       <offer sku="005894">
         <name>Бл.сковорода 22 Day by Day TEFAL 4216522 TEFAL 005894</name>
@@ -32011,7 +31857,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>19506</price>
+        <price>23736</price>
       </offer>
       <offer sku="005895">
         <name>Сковорода 22 TENDANCE BROWNIE TEFAL 4182122 TEFAL 005895</name>
@@ -32033,7 +31879,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>23161</price>
+        <price>24310</price>
       </offer>
       <offer sku="005898">
         <name>Сковорода 24 Day by Day TEFAL 4216124 TEFAL 005898</name>
@@ -32044,7 +31890,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>23736</price>
+        <price>26034</price>
       </offer>
       <offer sku="005900">
         <name>Сковорода 26 Day by Day TEFAL 4216126 TEFAL 005900</name>
@@ -32055,7 +31901,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>23736</price>
+        <price>26609</price>
       </offer>
       <offer sku="005901">
         <name>Сковорода 26 со ст.крышк SIMPLY CLEAN TEFAL 04205926 TEFAL 005901</name>
@@ -32066,7 +31912,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>25460</price>
+        <price>28333</price>
       </offer>
       <offer sku="005902">
         <name>Сковорода 28 Day by Day TEFAL 4216128 TEFAL 005902</name>
@@ -32077,7 +31923,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>24310</price>
+        <price>27759</price>
       </offer>
       <offer sku="005903">
         <name>Сковорода 20 со ст.крышк TENDANCE BROWNIE TEFAL 4182920 TEFAL 005903</name>
@@ -32110,7 +31956,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>26034</price>
+        <price>28908</price>
       </offer>
       <offer sku="005908">
         <name>Сковорода ВОК 28 Day by Day TEFAL 4216628 TEFAL 005908</name>
@@ -32121,7 +31967,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>26609</price>
+        <price>30057</price>
       </offer>
       <offer sku="005909">
         <name>Сковорода 26 с кр. Day by Day TEFAL 4216926 TEFAL 005909</name>
@@ -32132,7 +31978,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>26609</price>
+        <price>30057</price>
       </offer>
       <offer sku="005910">
         <name>Сковорода 28 с кр. Day by Day TEFAL 4216928 TEFAL 005910</name>
@@ -32143,7 +31989,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>28333</price>
+        <price>31782</price>
       </offer>
       <offer sku="005912">
         <name>Сковорода 25 для блинов PERFORMA TEFAL 4190525 TEFAL 005912</name>
@@ -32165,7 +32011,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>39966</price>
+        <price>30632</price>
       </offer>
       <offer sku="005916">
         <name>Сковорода 26 SIMPLISSIMA TEFAL 4191126 TEFAL 005916</name>
@@ -32187,7 +32033,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>38816</price>
+        <price>36517</price>
       </offer>
       <offer sku="005918">
         <name>Вок 28 TEFAL E2321974 TEFAL 005918</name>
@@ -32209,7 +32055,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>39966</price>
+        <price>30632</price>
       </offer>
       <offer sku="005920">
         <name>Сковорода д/блинов 25 TEFAL G1503872 TEFAL 005920</name>
@@ -32231,7 +32077,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>41115</price>
+        <price>31207</price>
       </offer>
       <offer sku="005922">
         <name>Сковорода 28 TEFAL G2700672 TEFAL 005922</name>
@@ -32242,7 +32088,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>42264</price>
+        <price>32356</price>
       </offer>
       <offer sku="005923">
         <name>Сковорода 24 TEFAL G1500472 TEFAL 005923</name>
@@ -32264,7 +32110,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>43989</price>
+        <price>33506</price>
       </offer>
       <offer sku="005925">
         <name>Сковорода ВОК 28 TEFAL G2701972 TEFAL 005925</name>
@@ -32275,7 +32121,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>45138</price>
+        <price>35943</price>
       </offer>
       <offer sku="005926">
         <name>Сковорода 26 TEFAL G1500572 TEFAL 005926</name>
@@ -32396,7 +32242,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>20908</price>
+        <price>19069</price>
       </offer>
       <offer sku="005939">
         <name>Спрингформа 27 см TEFAL J1641474 TEFAL 005939</name>
@@ -32407,7 +32253,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>20908</price>
+        <price>19069</price>
       </offer>
       <offer sku="005940">
         <name>Спрингформа TEFAL J1640574 TEFAL 005940</name>
@@ -32418,7 +32264,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>30057</price>
+        <price>20218</price>
       </offer>
       <offer sku="005941">
         <name>Форма для кекса 30 см TEFAL J1640174 TEFAL 005941</name>
@@ -32539,7 +32385,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>107952</price>
+        <price>93883</price>
       </offer>
       <offer sku="005961">
         <name>Беспроводной пылесос TEFAL TY6837WO TEFAL 005961</name>
@@ -32902,7 +32748,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>74793</price>
+        <price>60724</price>
       </offer>
       <offer sku="006002">
         <name>Утюг TEFAL FV9835E0 TEFAL 006002</name>
@@ -32924,7 +32770,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>86287</price>
+        <price>69046</price>
       </offer>
       <offer sku="006006">
         <name>Утюг Centek CT-2321 MINT Centek 006006</name>
@@ -33023,7 +32869,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>283943</price>
+        <price>253138</price>
       </offer>
       <offer sku="006018">
         <name>Парогенератор ROWENTA DG9266F0 ROWENTA 006018</name>
@@ -33045,7 +32891,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>271069</price>
+        <price>259575</price>
       </offer>
       <offer sku="006020">
         <name>Ручной отпариватель TEFAL DV9001E0 TEFAL 006020</name>
@@ -33100,7 +32946,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>54517</price>
+        <price>67851</price>
       </offer>
       <offer sku="006026">
         <name>Отпариватель ручной Deerma Portable garment steamer HS007 Deerma 006026</name>
@@ -33476,17 +33322,6 @@
         </pickup-options>
         <price>60356</price>
       </offer>
-      <offer sku="006079">
-        <name>Кухонные весы Scarlett SC-KS57P63 Scarlett 006079</name>
-        <vendor>Scarlett</vendor>
-        <barcodes>
-          <barcode>006079</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>12720</price>
-      </offer>
       <offer sku="006082">
         <name>Кухонные весы TEFAL BC5109V1 TEFAL 006082</name>
         <vendor>TEFAL</vendor>
@@ -33496,7 +33331,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>25460</price>
+        <price>22011</price>
       </offer>
       <offer sku="006083">
         <name>Кухонные весы TEFAL BC5005V0 TEFAL 006083</name>
@@ -33507,7 +33342,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>22011</price>
+        <price>20862</price>
       </offer>
       <offer sku="006084">
         <name>Кухонные весы TEFAL BC5304V0 TEFAL 006084</name>
@@ -33584,7 +33419,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>66174</price>
+        <price>62726</price>
       </offer>
       <offer sku="006091">
         <name>Гриль-духовка REDMOND Steak&amp;Bake RGM-M803P Черный REDMOND 006091</name>
@@ -33672,7 +33507,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>136841</price>
+        <price>119600</price>
       </offer>
       <offer sku="006099">
         <name>Гриль-духовка REDMOND SteakMaster RGM-G850P Черный REDMOND 006099</name>
@@ -34321,7 +34156,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>60080</price>
+        <price>50885</price>
       </offer>
       <offer sku="006185">
         <name>Соковыжималка Scarlett SC-JE50S28 Scarlett 006185</name>
@@ -34618,7 +34453,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>39321</price>
+        <price>37022</price>
       </offer>
       <offer sku="006220">
         <name>Чайник TEFAL KO250130 TEFAL 006220</name>
@@ -34651,7 +34486,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>37022</price>
+        <price>34723</price>
       </offer>
       <offer sku="006224">
         <name>Электрический чайник Scarlett SC-EK21S77 Scarlett 006224</name>
@@ -34673,7 +34508,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>55689</price>
+        <price>45068</price>
       </offer>
       <offer sku="006227">
         <name>Чайник Centek CT-0041 White Centek 006227</name>
@@ -35279,17 +35114,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>45644</price>
-      </offer>
-      <offer sku="006292">
-        <name>Выпрямитель ROWENTA SF1627F0 ROWENTA 006292</name>
-        <vendor>ROWENTA</vendor>
-        <barcodes>
-          <barcode>006292</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>22517</price>
       </offer>
       <offer sku="006293">
         <name>Машинка для стрижки Centek CT-2134 Centek 006293</name>
@@ -37183,6 +37007,17 @@
         </pickup-options>
         <price>8950</price>
       </offer>
+      <offer sku="006529">
+        <name>Переходник iPower Molex на SATA 12 в. iPower 006529</name>
+        <vendor>iPower</vendor>
+        <barcodes>
+          <barcode>006529</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>4077</price>
+      </offer>
       <offer sku="006530">
         <name>Переходник X-Game BS-L03 Type-C to USB X-Game 006530</name>
         <vendor>X-Game</vendor>
@@ -37226,17 +37061,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>4207</price>
-      </offer>
-      <offer sku="006535">
-        <name>Удлинитель AM-AF Monster Cable 1.5 м. 5 в. SHIP 006535</name>
-        <vendor>SHIP</vendor>
-        <barcodes>
-          <barcode>006535</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>4636</price>
       </offer>
       <offer sku="006536">
         <name>Удлинитель AM-AF Monster Cable 3 м. 5 в. SHIP 006536</name>
@@ -37424,6 +37248,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>72155</price>
+      </offer>
+      <offer sku="006574">
+        <name>IP видеокамера Dahua DH-IPC-HFW2441TP-ZAS-27135 Dahua 006574</name>
+        <vendor>Dahua</vendor>
+        <barcodes>
+          <barcode>006574</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>120598</price>
       </offer>
       <offer sku="006576">
         <name>IP видеокамера Dahua DH-IPC-HFW2449SP-S-IL-0280B Dahua 006576</name>
@@ -37854,6 +37689,17 @@
         </pickup-options>
         <price>8562</price>
       </offer>
+      <offer sku="006647">
+        <name>Монтажная коробка Dahua DH-PFA130-E Dahua 006647</name>
+        <vendor>Dahua</vendor>
+        <barcodes>
+          <barcode>006647</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>11034</price>
+      </offer>
       <offer sku="006648">
         <name>Крепление для видеокамеры Dahua DH-PFA154 Dahua 006648</name>
         <vendor>Dahua</vendor>
@@ -38160,7 +38006,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>13057</price>
+        <price>13402</price>
       </offer>
       <offer sku="006685">
         <name>Коммутатор D-Link DGS-1008A/F1A D-link 006685</name>
@@ -38545,7 +38391,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>58023</price>
+        <price>61471</price>
       </offer>
       <offer sku="006725">
         <name>Коммутатор D-Link DGS-1210-12TS/ME/B1A D-link 006725</name>
@@ -38611,7 +38457,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>101977</price>
+        <price>100828</price>
       </offer>
       <offer sku="006738">
         <name>Коммутатор D-Link DGS-1100-16V2/A2A D-link 006738</name>
@@ -38655,7 +38501,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>82161</price>
+        <price>90828</price>
       </offer>
       <offer sku="006744">
         <name>Коммутатор D-Link DGS-1024D/I2A D-link 006744</name>
@@ -38755,17 +38601,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>307678</price>
-      </offer>
-      <offer sku="006754">
-        <name>Коммутатор H3C LS-5120V2-28P-PWR-LI-GL H3C 006754</name>
-        <vendor>H3C</vendor>
-        <barcodes>
-          <barcode>006754</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>152006</price>
       </offer>
       <offer sku="006757">
         <name>Коммутатор TP-Link TL-SF1005LP TP-link 006757</name>
@@ -39119,17 +38954,6 @@
         </pickup-options>
         <price>158000</price>
       </offer>
-      <offer sku="006799">
-        <name>Трансивер TP-Link TL-SM311LM TP-link 006799</name>
-        <vendor>TP-link</vendor>
-        <barcodes>
-          <barcode>006799</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>14600</price>
-      </offer>
       <offer sku="006800">
         <name>Трансивер TP-Link TL-SM321A TP-link 006800</name>
         <vendor>TP-link</vendor>
@@ -39337,7 +39161,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>18000</price>
+        <price>22598</price>
       </offer>
       <offer sku="006825">
         <name>Модем TP-Link Archer VR600 TP-link 006825</name>
@@ -39744,7 +39568,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>15126</price>
+        <price>16046</price>
       </offer>
       <offer sku="006864">
         <name>Беспроводная точка доступа (роутер) H3C EWP-WA530-WW-FIT H3C 006864</name>
@@ -39866,17 +39690,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>13623</price>
-      </offer>
-      <offer sku="006876">
-        <name>Маршрутизатор TP-Link Archer C50 TP-link 006876</name>
-        <vendor>TP-link</vendor>
-        <barcodes>
-          <barcode>006876</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>23393</price>
       </offer>
       <offer sku="006878">
         <name>Маршрутизатор TP-Link Archer A6 TP-link 006878</name>
@@ -40107,7 +39920,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>37333</price>
+        <price>40782</price>
       </offer>
       <offer sku="006902">
         <name>Маршрутизатор D-Link DIR-853/URU/R3A D-link 006902</name>
@@ -40195,7 +40008,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>23402</price>
+        <price>26391</price>
       </offer>
       <offer sku="006913">
         <name>USB-адаптер TP-Link UB4A TP-link 006913</name>
@@ -40470,7 +40283,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>32598</price>
+        <price>27885</price>
       </offer>
       <offer sku="006940">
         <name>Сетевой адаптер ASUS USB-BT400 ASUS 006940</name>
@@ -40492,7 +40305,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>26621</price>
+        <price>28000</price>
       </offer>
       <offer sku="006942">
         <name>Сетевая карта D-Link DWA-582/RU/B1A D-link 006942</name>
@@ -40503,7 +40316,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>16966</price>
+        <price>18230</price>
       </offer>
       <offer sku="006943">
         <name>Сетевой USB адаптер TP-Link Archer TX20U Plus TP-link 006943</name>
@@ -40703,17 +40516,6 @@
         </pickup-options>
         <price>4258</price>
       </offer>
-      <offer sku="006963">
-        <name>Кабель сетевой SHIP D145-P Cat.5e FTP 30В PVC SHIP 006963</name>
-        <vendor>SHIP</vendor>
-        <barcodes>
-          <barcode>006963</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>90945</price>
-      </offer>
       <offer sku="006964">
         <name>Кабель сетевой SHIP D145S-P Cat.5e FTP 30В PVC SHIP 006964</name>
         <vendor>SHIP</vendor>
@@ -40845,17 +40647,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>4280</price>
-      </offer>
-      <offer sku="006981">
-        <name>Патч Корд SHIP Cat.5e FTP LSZH RJ-45 0.5 м S4025BL0050-P SHIP 006981</name>
-        <vendor>SHIP</vendor>
-        <barcodes>
-          <barcode>006981</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>4346</price>
       </offer>
       <offer sku="006982">
         <name>Патч Корд SHIP Cat.5e FTP LSZH RJ-45 0.5 м S4025RD0050-P SHIP 006982</name>
@@ -41143,6 +40934,17 @@
         </pickup-options>
         <price>5156</price>
       </offer>
+      <offer sku="007020">
+        <name>Патч Корд SHIP Cat.5e UTP LSZH RJ-45 3 м S3025BK0300-P Пол. пакет SHIP 007020</name>
+        <vendor>SHIP</vendor>
+        <barcodes>
+          <barcode>007020</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>5156</price>
+      </offer>
       <offer sku="007022">
         <name>Патч Корд SHIP Cat.5e FTP LSZH RJ-45 3 м S4025BL0300-P SHIP 007022</name>
         <vendor>SHIP</vendor>
@@ -41258,17 +41060,6 @@
         <vendor>SHIP</vendor>
         <barcodes>
           <barcode>007039</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>6231</price>
-      </offer>
-      <offer sku="007040">
-        <name>Патч Корд SHIP Cat.6 FTP LSZH RJ-45 5 м S7025BK0500-P SHIP 007040</name>
-        <vendor>SHIP</vendor>
-        <barcodes>
-          <barcode>007040</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1" />
@@ -41472,6 +41263,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>10272</price>
+      </offer>
+      <offer sku="007063">
+        <name>Коннектор RJ-45 телекоммуникационный SHIP 007063</name>
+        <vendor>SHIP</vendor>
+        <barcodes>
+          <barcode>007063</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>3895</price>
       </offer>
       <offer sku="007064">
         <name>Коннектор телекоммуникационный RJ 11 SHIP S901C SHIP 007064</name>
@@ -42429,17 +42231,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>42418</price>
-      </offer>
-      <offer sku="007171">
-        <name>Трёхфазный распределитель питания SHIP 700530302 SHIP 007171</name>
-        <vendor>SHIP</vendor>
-        <barcodes>
-          <barcode>007171</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>120847</price>
       </offer>
       <offer sku="007172">
         <name>Специализированный ключ SHIP 701901001 SHIP 007172</name>
@@ -48018,17 +47809,6 @@
         </pickup-options>
         <price>63910</price>
       </offer>
-      <offer sku="008083">
-        <name>Тонер-картридж Xerox 106R04348 Xerox 008083</name>
-        <vendor>Xerox</vendor>
-        <barcodes>
-          <barcode>008083</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>40560</price>
-      </offer>
       <offer sku="008091">
         <name>Тонер-картридж стандартной емкости Xerox 106R04070 (голубой) Xerox 008091</name>
         <vendor>Xerox</vendor>
@@ -48182,17 +47962,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>175486</price>
-      </offer>
-      <offer sku="008110">
-        <name>Тонер-картридж повышенной емкости Xerox 006R04397 (малиновый) Xerox 008110</name>
-        <vendor>Xerox</vendor>
-        <barcodes>
-          <barcode>008110</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>89470</price>
       </offer>
       <offer sku="008111">
         <name>Принт-картридж Xerox 101R00432 Xerox 008111</name>
@@ -51494,17 +51263,6 @@
         </pickup-options>
         <price>5213</price>
       </offer>
-      <offer sku="008632">
-        <name>Празицид®-комплекс (для котят и кошек менее 4 кг), 1*0,4 мл, шт Празицид 008632</name>
-        <vendor>Празицид</vendor>
-        <barcodes>
-          <barcode>008632</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>5391</price>
-      </offer>
       <offer sku="008633">
         <name>Празицид®-комплекс (для кошек более 4 кг), 1*0,8 мл, шт Празицид 008633</name>
         <vendor>Празицид</vendor>
@@ -51769,17 +51527,6 @@
         </pickup-options>
         <price>4667</price>
       </offer>
-      <offer sku="008685">
-        <name>CATLITTER наполн. 10 кг  комкующийся, шт CATLITTER 008685</name>
-        <vendor>CATLITTER</vendor>
-        <barcodes>
-          <barcode>008685</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>5943</price>
-      </offer>
       <offer sku="008686">
         <name>CATLITTER наполн. 10 л (древесные гранулы 8-10мм), шт CATLITTER 008686</name>
         <vendor>CATLITTER</vendor>
@@ -51790,28 +51537,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>5155</price>
-      </offer>
-      <offer sku="008688">
-        <name>CATLITTER наполн. 5 л (древесные гранулы 8-10мм), шт CATLITTER 008688</name>
-        <vendor>CATLITTER</vendor>
-        <barcodes>
-          <barcode>008688</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>4557</price>
-      </offer>
-      <offer sku="008689">
-        <name>CATLITTER наполн. 5л КОМКУЮЩИЙСЯ фр-ия 1,4-2,4 мм, шт CATLITTER 008689</name>
-        <vendor>CATLITTER</vendor>
-        <barcodes>
-          <barcode>008689</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>4994</price>
       </offer>
       <offer sku="008690">
         <name>Dr. ALEX впитывающие коврики 45*60, 30шт/уп*6 шт, шт Dr Alex 008690</name>
@@ -52176,17 +51901,6 @@
         </pickup-options>
         <price>4690</price>
       </offer>
-      <offer sku="008754">
-        <name>Сибирская Кошка Для Котят Супер 5л комкующийся, шт Сибирская кошка 008754</name>
-        <vendor>Сибирская кошка</vendor>
-        <barcodes>
-          <barcode>008754</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>5172</price>
-      </offer>
       <offer sku="008756">
         <name>Сибирская Кошка Комфорт 5л, шт Сибирская кошка 008756</name>
         <vendor>Сибирская кошка</vendor>
@@ -52445,17 +52159,6 @@
         <vendor>СК</vendor>
         <barcodes>
           <barcode>008791</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>5534</price>
-      </offer>
-      <offer sku="008792">
-        <name>Туалет д/кошек СК Премиум с сеткой 2347, шт СК 008792</name>
-        <vendor>СК</vendor>
-        <barcodes>
-          <barcode>008792</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1" />
@@ -52802,17 +52505,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>5770</price>
-      </offer>
-      <offer sku="008877">
-        <name>MF Expert Приучение к месту для кошек 200мл F409, шт MF 008877</name>
-        <vendor>MF</vendor>
-        <barcodes>
-          <barcode>008877</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>5500</price>
       </offer>
       <offer sku="008879">
         <name>Mr.Fresh Пакеты для уборки фекалий с брелоком-держателем 40шт, шт Mr 008879</name>
@@ -53341,17 +53033,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>13668</price>
-      </offer>
-      <offer sku="HKED4082CBA1D0ZA1">
-        <name>Модуль памяти Hikvision HKED4082CBA1D0ZA1 8GB DDR4/2666/SODIMM 1,2V CL19 Hikvision HKED4082CBA1D0ZA1</name>
-        <vendor>Hikvision</vendor>
-        <barcodes>
-          <barcode>HKED4082CBA1D0ZA1</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>14469</price>
       </offer>
       <offer sku="Charcoal II 10MPQP">
         <name>Внешний аккумулятор Accesstyle Charcoal II 10MPQP, 10000 мА·ч, 3 подкл. устройства, серый Accesstyle Charcoal II 10MPQP</name>
@@ -55949,17 +55630,6 @@
         </pickup-options>
         <price>229828</price>
       </offer>
-      <offer sku="U55EY1500B">
-        <name>Телевизор Accesstyle UHD 55" U55EY1500B Accesstyle U55EY1500B</name>
-        <vendor>Accesstyle</vendor>
-        <barcodes>
-          <barcode>U55EY1500B</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>247166</price>
-      </offer>
       <offer sku="66F7GAC3EU">
         <name>Монитор Lenovo 66F7GAC3EU Y27q-30 27" IPS/2560 x 1440/165Hz/180Hz OD/FreeSync Premium/0,5 ms/1000:1/3M:1/400nit/Lift 135mm, Swivel, Pivot/2 x HDMI 2.0/DP 1.4/5 x USB 3.2/2 x 3W/USB,DP in box Lenovo 66F7GAC3EU</name>
         <vendor>Lenovo</vendor>
@@ -55981,17 +55651,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>244078</price>
-      </offer>
-      <offer sku="32UN650-W.ADRZ">
-        <name>Монитор жидкокристаллический LG 32UN650-W.ADRZ  LCD 31.5'' 16:9 3840x2160(UHD 4K) IPS, nonGLARE, 350cd/m2, H178°/V178°, 1000:1, 1.07B, 5ms, 2xHDMI, DP, Height adj, Tilt, Speakers, 2Y, White LG 32UN650-W.ADRZ</name>
-        <vendor>LG</vendor>
-        <barcodes>
-          <barcode>32UN650-W.ADRZ</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>251858</price>
       </offer>
       <offer sku="RAYG1EU1">
         <name>Саундбар Sonos Ray White, RAYG1EU1 SONOS RAYG1EU1</name>
@@ -56279,6 +55938,17 @@
         </pickup-options>
         <price>433771</price>
       </offer>
+      <offer sku="6A285EA">
+        <name>HP ProBook 450 NB PC / UMA i3-1215U 450 G9 / 15.6 FHD AG UWVA 250 HD NarrowBezel bent / 8GB 1D DDR4 3200 / 256GB PCIe NVMe Value  HP 6A285EA</name>
+        <vendor>HP</vendor>
+        <barcodes>
+          <barcode>6A285EA</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>408520</price>
+      </offer>
       <offer sku="66F9UAC6EU">
         <name>Монитор Lenovo 66F9UAC6EU Y32p-30 31.5" IPS/3840 x 2160/144Hz/FreeSync Premium/1 ms/1000:1/3M:1/350nit/Lift 135mm, Swivel/2 x HDMI 2.1/DP 1.4/USB Type C/2 x USB 3.2 + USB 3.2 Type-C USB 3.2 + USB 3.2 Type-C (Upstream)/2 x 5W Lenovo 66F9UAC6EU</name>
         <vendor>Lenovo</vendor>
@@ -56477,17 +56147,6 @@
         </pickup-options>
         <price>507609</price>
       </offer>
-      <offer sku="6B2F4EA">
-        <name>HP ProOne 440 / 440 G9 24 AiO BU-NT IDS / 440 23.8 G9 NT FY22 IDS / i5-12500T 6cores / 8GB / 256GB SSD / W11p64DowngradeW10p64 / No  ODD / 1yw / 125 BLKkbd / 125mouse /  HP 6B2F4EA</name>
-        <vendor>HP</vendor>
-        <barcodes>
-          <barcode>6B2F4EA</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>514049</price>
-      </offer>
       <offer sku="21E6005FRT">
         <name>ThinkPad E15G4_I5-1235U_IG+8G/15.6FHD_AG_300N/CORE_I5-1235U_1.3G_10C_12T/NO_DIMM_MEMORY,8GB(4X16GX16)_DDR4_3200/256GB_SSD_M.2_2242_G4_TLC_OPAL/INTEGRATED_IRIS_XE_GRAPHICS/W11_PRO/ Lenovo 21E6005FRT</name>
         <vendor>Lenovo</vendor>
@@ -56553,17 +56212,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>640149</price>
-      </offer>
-      <offer sku="12B00085RU">
-        <name>Моноблок Lenovo 12B00085RU ThinkCentre neo 30a 24 23,8'' FHD (1920 x 1080) IPS/Intel Core i7-1260P 12Cores/16GB/512GB/Integrated/Wi-Fi 6/BT5.1/720P HD Camera/USB mouse+keyboard/DOS/1Y/Black Lenovo 12B00085RU</name>
-        <vendor>Lenovo</vendor>
-        <barcodes>
-          <barcode>12B00085RU</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>595543</price>
       </offer>
       <offer sku="90RC00UWRS">
         <name>Системный блок Lenovo 90RC00UWRS Legion T5 26AMR5 AMD Ryzen 7 5800 3,4Ghz Octa/2x8GB/1TB SSD/NVIDIA GeForce RTX 3070 8GB GDDR6/Wi-Fi 6/BT5.1/DOS/1Y/Black Lenovo 90RC00UWRS</name>
@@ -56707,6 +56355,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>776838</price>
+      </offer>
+      <offer sku="1102TG3NL0">
+        <name>Лазерный копир-принтер-сканер-факс Kyocera M3645dn (А4, 45 ppm, 1200dpi, 1 Gb, USB, Net, RADP, тонер) отгрузка только с доп. тонером TK-3160 KYOCERA 1102TG3NL0</name>
+        <vendor>KYOCERA</vendor>
+        <barcodes>
+          <barcode>1102TG3NL0</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>815898</price>
       </offer>
       <offer sku="008979">
         <name>Мобильный телефон Redmi 12 4GB RAM 128GB ROM Midnight Black Redmi 008979</name>
@@ -57049,6 +56708,17 @@
         </pickup-options>
         <price>24608</price>
       </offer>
+      <offer sku="009016">
+        <name>Персональный компьютер XG Basic XG710 X-Game 009016</name>
+        <vendor>X-Game</vendor>
+        <barcodes>
+          <barcode>009016</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>154066</price>
+      </offer>
       <offer sku="009018">
         <name>Ноутбук Gigabyte AORUS 15 BSF 15.6" QHD 165Hz i7-13700H 16GB 1TB RTX4070 DOS Gigabyte 009018</name>
         <vendor>Gigabyte</vendor>
@@ -57158,17 +56828,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>48720</price>
-      </offer>
-      <offer sku="009032">
-        <name>Материнская плата Gigabyte H610M S2H Gigabyte 009032</name>
-        <vendor>Gigabyte</vendor>
-        <barcodes>
-          <barcode>009032</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>50782</price>
       </offer>
       <offer sku="009033">
         <name>Материнская плата Gigabyte B760M H DDR4 Gigabyte 009033</name>
@@ -57422,17 +57081,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>28192</price>
-      </offer>
-      <offer sku="009105">
-        <name>Модуль памяти для ноутбука Patriot SL PSD34G13332S DDR3 4GB Patriot 009105</name>
-        <vendor>Patriot</vendor>
-        <barcodes>
-          <barcode>009105</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>8903</price>
       </offer>
       <offer sku="009106">
         <name>Модуль памяти для ноутбука Patriot SL PSD38G16002S DDR3 8GB Patriot 009106</name>
@@ -57851,6 +57499,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>29151</price>
+      </offer>
+      <offer sku="009191">
+        <name>Компьютерный корпус Deepcool CC360 ARGB без Б/П Deepcool 009191</name>
+        <vendor>Deepcool</vendor>
+        <barcodes>
+          <barcode>009191</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>32667</price>
       </offer>
       <offer sku="009196">
         <name>Компьютерный корпус Deepcool CK560 WH без Б/П Deepcool 009196</name>
@@ -59303,6 +58962,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>116135</price>
+      </offer>
+      <offer sku="009354">
+        <name>Монитор 43" Dahua DHI-LM43-F200 Dahua 009354</name>
+        <vendor>Dahua</vendor>
+        <barcodes>
+          <barcode>009354</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>182794</price>
       </offer>
       <offer sku="009355">
         <name>Монитор Samsung 24” LF24T450FQIXCI Samsung 009355</name>
@@ -60767,6 +60437,17 @@
         </pickup-options>
         <price>64733</price>
       </offer>
+      <offer sku="009509">
+        <name>Гарнитура Jabra Evolve2 65 Flex Link380a UC Stereo Jabra 009509</name>
+        <vendor>Jabra</vendor>
+        <barcodes>
+          <barcode>009509</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>132239</price>
+      </offer>
       <offer sku="009510">
         <name>Гарнитура Jabra BIZ 2300 QD Jabra 009510</name>
         <vendor>Jabra</vendor>
@@ -62085,7 +61766,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>169015</price>
+        <price>120165</price>
       </offer>
       <offer sku="009642">
         <name>Акустическая система Edifier M601DB Edifier 009642</name>
@@ -62162,7 +61843,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>89590</price>
+        <price>66659</price>
       </offer>
       <offer sku="009649">
         <name>Колонки Edifier D12 Black Edifier 009649</name>
@@ -62173,7 +61854,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>89590</price>
+        <price>66659</price>
       </offer>
       <offer sku="009650">
         <name>Колонки Edifier PK-305 Black Edifier 009650</name>
@@ -62184,7 +61865,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>121659</price>
+        <price>94188</price>
       </offer>
       <offer sku="009651">
         <name>Колонки Edifier A3-8S Black Edifier 009651</name>
@@ -62195,7 +61876,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>142579</price>
+        <price>102234</price>
       </offer>
       <offer sku="009653">
         <name>Колонка Xiaomi Sound Pro Xiaomi 009653</name>
@@ -62692,6 +62373,17 @@
         </pickup-options>
         <price>18599</price>
       </offer>
+      <offer sku="009719">
+        <name>Рюкзак NINETYGO Classic Business Backpack Светло-серый NINETYGO 009719</name>
+        <vendor>NINETYGO</vendor>
+        <barcodes>
+          <barcode>009719</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>18948</price>
+      </offer>
       <offer sku="009720">
         <name>Рюкзак NINETYGO College Leisure Backpack Черный NINETYGO 009720</name>
         <vendor>NINETYGO</vendor>
@@ -62879,6 +62571,17 @@
         </pickup-options>
         <price>258897</price>
       </offer>
+      <offer sku="009737">
+        <name>Шредер HSM SECURIO AF300 (4.5x 30mm) HSM 009737</name>
+        <vendor>HSM</vendor>
+        <barcodes>
+          <barcode>009737</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>361425</price>
+      </offer>
       <offer sku="009740">
         <name>Шредер HSM Shredstar X8 (4,5x 30mm) HSM 009740</name>
         <vendor>HSM</vendor>
@@ -62932,7 +62635,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>11483</price>
+        <price>10908</price>
       </offer>
       <offer sku="009751">
         <name>Многофункциональный нож TEFAL 12 см K2213904 Tefal 009751</name>
@@ -62943,7 +62646,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>12747</price>
+        <price>11483</price>
       </offer>
       <offer sku="009752">
         <name>Нож Сантоку 12 см TEFAL K2213604 Tefal 009752</name>
@@ -62954,7 +62657,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>13437</price>
+        <price>12747</price>
       </offer>
       <offer sku="009754">
         <name>Набор ножей 3пр TEFAL K221S375 Tefal 009754</name>
@@ -62965,7 +62668,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>25460</price>
+        <price>21023</price>
       </offer>
       <offer sku="009755">
         <name>Набор ножей 4пр TEFAL K221S475 Tefal 009755</name>
@@ -62976,7 +62679,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>27989</price>
+        <price>31092</price>
       </offer>
       <offer sku="009756">
         <name>Набор 5 ножей TEFAL K121S575 Tefal 009756</name>
@@ -62998,7 +62701,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>93138</price>
+        <price>67621</price>
       </offer>
       <offer sku="009760">
         <name>Термокружка 0.5л синяя EMSA 515618 EMSA 009760</name>
@@ -63020,7 +62723,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>27759</price>
+        <price>26034</price>
       </offer>
       <offer sku="009763">
         <name>Кастрюля 20 TEFAL B8644474 Tefal 009763</name>
@@ -63031,7 +62734,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>33506</price>
+        <price>28908</price>
       </offer>
       <offer sku="009764">
         <name>Кастрюля 20 + крышка TEFAL E3014524 Tefal 009764</name>
@@ -63042,7 +62745,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>30632</price>
+        <price>31782</price>
       </offer>
       <offer sku="009765">
         <name>Кастрюля 24 TEFAL B8644674 Tefal 009765</name>
@@ -63053,7 +62756,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>38241</price>
+        <price>33506</price>
       </offer>
       <offer sku="009766">
         <name>Кастрюля 20 с стек.крышкой TEFAL E2184475 Tefal 009766</name>
@@ -63064,7 +62767,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>42839</price>
+        <price>35943</price>
       </offer>
       <offer sku="009767">
         <name>Ковш 18 с стек.крышкой TEFAL G6052374 Tefal 009767</name>
@@ -63075,7 +62778,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>41690</price>
+        <price>37092</price>
       </offer>
       <offer sku="009768">
         <name>Кастрюля 24 с стек.крышкой TEFAL E2184675 Tefal 009768</name>
@@ -63086,7 +62789,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>52816</price>
+        <price>42839</price>
       </offer>
       <offer sku="009769">
         <name>Утятница с кр. TEFAL E2156975 Tefal 009769</name>
@@ -63097,7 +62800,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>51667</price>
+        <price>42839</price>
       </offer>
       <offer sku="009770">
         <name>Кухонный ковш Huohou Super platinum non-stick pan-milk pan Huohou 009770</name>
@@ -63130,7 +62833,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>13345</price>
+        <price>15253</price>
       </offer>
       <offer sku="009773">
         <name>Сковорода 22бл INTENSE TEFAL 4219522 Tefal 009773</name>
@@ -63141,7 +62844,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>17782</price>
+        <price>15253</price>
       </offer>
       <offer sku="009774">
         <name>Сковорода 24 Power TEFAL 4221124 Tefal 009774</name>
@@ -63152,7 +62855,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>16057</price>
+        <price>17552</price>
       </offer>
       <offer sku="009775">
         <name>Сковорода 26 Power TEFAL 4221126 Tefal 009775</name>
@@ -63163,7 +62866,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>16402</price>
+        <price>17782</price>
       </offer>
       <offer sku="009776">
         <name>Сковорода 24 INTENSE TEFAL 4219124 Tefal 009776</name>
@@ -63174,7 +62877,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>23736</price>
+        <price>18471</price>
       </offer>
       <offer sku="009777">
         <name>Сковорода 28 Power TEFAL 4221128 Tefal 009777</name>
@@ -63185,7 +62888,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>16862</price>
+        <price>18471</price>
       </offer>
       <offer sku="009778">
         <name>Сковорода 26 INTENSE TEFAL 4219126 Tefal 009778</name>
@@ -63196,7 +62899,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>24885</price>
+        <price>19391</price>
       </offer>
       <offer sku="009779">
         <name>Сковорода ВОК 28 Power TEFAL 4221628 Tefal 009779</name>
@@ -63207,7 +62910,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>18816</price>
+        <price>22701</price>
       </offer>
       <offer sku="009780">
         <name>Сковорода 22 Бл FORCE TEFAL 4218522 Tefal 009780</name>
@@ -63218,7 +62921,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>25460</price>
+        <price>23161</price>
       </offer>
       <offer sku="009781">
         <name>Сковорода ВОК 28 INTENSE TEFAL 4219628 Tefal 009781</name>
@@ -63229,7 +62932,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>27759</price>
+        <price>23621</price>
       </offer>
       <offer sku="009782">
         <name>Сковорода 22 FORCE TEFAL 4218022 Tefal 009782</name>
@@ -63240,7 +62943,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>27759</price>
+        <price>24885</price>
       </offer>
       <offer sku="009783">
         <name>Сковорода 26 FORCE TEFAL 4218026 Tefal 009783</name>
@@ -63251,7 +62954,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>28908</price>
+        <price>25460</price>
       </offer>
       <offer sku="009784">
         <name>Сковорода 24 FORCE TEFAL 4218024 Tefal 009784</name>
@@ -63262,7 +62965,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>28333</price>
+        <price>26034</price>
       </offer>
       <offer sku="009785">
         <name>Сковорода 24 TEFAL B8170444 Tefal 009785</name>
@@ -63273,7 +62976,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>31207</price>
+        <price>26609</price>
       </offer>
       <offer sku="009786">
         <name>Сковорода 22 FORCE TEFAL 4218922 Tefal 009786</name>
@@ -63284,7 +62987,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>30057</price>
+        <price>26609</price>
       </offer>
       <offer sku="009787">
         <name>Сковорода 28 FORCE TEFAL 4218028 Tefal 009787</name>
@@ -63295,7 +62998,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>30057</price>
+        <price>26609</price>
       </offer>
       <offer sku="009788">
         <name>Сковорода 20 TEFAL E2320274 Tefal 009788</name>
@@ -63306,7 +63009,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>30632</price>
+        <price>27184</price>
       </offer>
       <offer sku="009789">
         <name>Сковорода 24 FORCE TEFAL 4218924 Tefal 009789</name>
@@ -63317,7 +63020,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>31207</price>
+        <price>27759</price>
       </offer>
       <offer sku="009790">
         <name>СКОВОРОДА 26СМ INTUITION TEFAL B8170544 Tefal 009790</name>
@@ -63328,7 +63031,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>32356</price>
+        <price>28908</price>
       </offer>
       <offer sku="009791">
         <name>Сковорода 26 FORCE TEFAL 4218926 Tefal 009791</name>
@@ -63339,7 +63042,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>32356</price>
+        <price>28908</price>
       </offer>
       <offer sku="009792">
         <name>СКОВОРОДА 28 INTUITION TEFAL B8170644 Tefal 009792</name>
@@ -63350,7 +63053,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>33506</price>
+        <price>30057</price>
       </offer>
       <offer sku="009793">
         <name>Сковорода 28 FORCE TEFAL 4218928 Tefal 009793</name>
@@ -63361,7 +63064,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>33506</price>
+        <price>30057</price>
       </offer>
       <offer sku="009794">
         <name>Сковорода 24 TEFAL E2320474 Tefal 009794</name>
@@ -63372,7 +63075,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>32931</price>
+        <price>30632</price>
       </offer>
       <offer sku="009795">
         <name>ВОК 28 TEFAL B8171944 Tefal 009795</name>
@@ -63383,7 +63086,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>35943</price>
+        <price>31207</price>
       </offer>
       <offer sku="009796">
         <name>Сковорода 28 FORCE TEFAL 4218628 Tefal 009796</name>
@@ -63394,7 +63097,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>35943</price>
+        <price>31207</price>
       </offer>
       <offer sku="009797">
         <name>Сковорода 22 Ultra+ TEFAL 4223122 Tefal 009797</name>
@@ -63405,7 +63108,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>29483</price>
+        <price>32356</price>
       </offer>
       <offer sku="009798">
         <name>Сковорода 22 Maxima TEFAL 4222122 Tefal 009798</name>
@@ -63416,7 +63119,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>29483</price>
+        <price>32356</price>
       </offer>
       <offer sku="009799">
         <name>Сковорода для бл 25 Ultra+ TEFAL 4223525 Tefal 009799</name>
@@ -63427,7 +63130,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>30057</price>
+        <price>32931</price>
       </offer>
       <offer sku="009800">
         <name>Сковорода 26 TEFAL E2320574 Tefal 009800</name>
@@ -63438,7 +63141,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>36517</price>
+        <price>32931</price>
       </offer>
       <offer sku="009801">
         <name>Сковорода 25 Бл Maxima TEFAL 4222525 Tefal 009801</name>
@@ -63449,7 +63152,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>30057</price>
+        <price>32931</price>
       </offer>
       <offer sku="009802">
         <name>Сковорода 24 Maxima TEFAL 4222124 Tefal 009802</name>
@@ -63460,7 +63163,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>30632</price>
+        <price>35943</price>
       </offer>
       <offer sku="009803">
         <name>Сковорода 24 Ultra+ TEFAL 4223124 Tefal 009803</name>
@@ -63471,7 +63174,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>30632</price>
+        <price>35943</price>
       </offer>
       <offer sku="009804">
         <name>Сковорода 28 DELICIO TEFAL E2320674 Tefal 009804</name>
@@ -63482,7 +63185,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>38816</price>
+        <price>36517</price>
       </offer>
       <offer sku="009805">
         <name>Сковорода 26 Ultra+ TEFAL 4223126 Tefal 009805</name>
@@ -63493,7 +63196,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>31782</price>
+        <price>37667</price>
       </offer>
       <offer sku="009806">
         <name>Сковорода 26 Maxima TEFAL 4222126 Tefal 009806</name>
@@ -63504,7 +63207,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>31782</price>
+        <price>37667</price>
       </offer>
       <offer sku="009807">
         <name>Сковорода 28 Ultra+ TEFAL 4223128 Tefal 009807</name>
@@ -63515,7 +63218,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>32356</price>
+        <price>38816</price>
       </offer>
       <offer sku="009809">
         <name>Сковорода ВОК 28 Ultra+ TEFAL 4223628 Tefal 009809</name>
@@ -63526,7 +63229,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>38241</price>
+        <price>43989</price>
       </offer>
       <offer sku="009810">
         <name>Сковорода 28 Maxima TEFAL 4222628 Tefal 009810</name>
@@ -63537,7 +63240,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>38241</price>
+        <price>43989</price>
       </offer>
       <offer sku="009811">
         <name>Сковорода Huohou Super Platinum Non-stick Pan-Wok Huohou 009811</name>
@@ -63559,18 +63262,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>42839</price>
-      </offer>
-      <offer sku="009813">
-        <name>Сотейник 28 с кр. TEFAL E2187275 Tefal 009813</name>
-        <vendor>Tefal</vendor>
-        <barcodes>
-          <barcode>009813</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>62011</price>
+        <price>52241</price>
       </offer>
       <offer sku="009814">
         <name>Ручной автомобильный пылесос Kitfort КТ-537-2 черно-красный Kitfort 009814</name>
@@ -63769,6 +63461,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>305092</price>
+      </offer>
+      <offer sku="009845">
+        <name>Робот-пылесос Dreame Robot Vacuum D9 Plus Dreame 009845</name>
+        <vendor>Dreame</vendor>
+        <barcodes>
+          <barcode>009845</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>283943</price>
       </offer>
       <offer sku="009846">
         <name>Робот-пылесос Dreame Robot Vacuum D10s Dreame 009846</name>
@@ -64395,7 +64098,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>36954</price>
+        <price>41552</price>
       </offer>
       <offer sku="009918">
         <name>Тостер Russell Hobbs 21644-56 Russell 009918</name>
@@ -64671,6 +64374,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>27827</price>
+      </offer>
+      <offer sku="009946">
+        <name>Чайник Centek CT-0038 (чёрный) Centek 009946</name>
+        <vendor>Centek</vendor>
+        <barcodes>
+          <barcode>009946</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>22262</price>
       </offer>
       <offer sku="009947">
         <name>Чайник Centek CT-0062 Kitfort 009947</name>
