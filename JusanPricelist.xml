@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Jmart date="20.11.2023 12:20:04" xmlns="Jmart">
+<Jmart date="20.11.2023 17:08:21" xmlns="Jmart">
   <company>Hitech24.kz</company>
   <merchantid>Test</merchantid>
   <offers>
@@ -1243,6 +1243,14 @@
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="981-000593" xmlns="">
+      <model>Гарнитура Logitech H111 (1 x 3.5мм, кабель 1.8м)</model>
+      <brand>Logitech</brand>
+      <price>14170</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="981-000350" xmlns="">
       <model>Гарнитура Logitech H150 White (белая, 2 x 3.5мм, элементы управления на кабеле, кабель 1.8м)</model>
       <brand>Logitech</brand>
@@ -1400,7 +1408,7 @@
       <brand>Lenovo</brand>
       <price>24614</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="910-003357" xmlns="">
@@ -1640,7 +1648,7 @@
       <brand>Samsung</brand>
       <price>110944</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="XB3288UHSU-B1" xmlns="">
@@ -1691,18 +1699,18 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="8468B006" xmlns="">
-      <model>i-SENSYS LBP6030B черный, лазерный, A4, монохромный, ч.б. 18 стр/мин, печать 2400x600, стартовый картридж</model>
+    <offer sku="8468B042" xmlns="">
+      <model>i-SENSYS LBP6030B Bundle (чёрный) лазерный A4 монохромный ч.б. 18 стр/мин печать 600x600 стратовый картридж (емкость 700 стр.) + 2 доп картриджа</model>
       <brand>Canon</brand>
-      <price>113875</price>
+      <price>142559</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="1102RY3NL0" xmlns="">
-      <model>Лазерный принтер Kyocera P2040dw (A4, 1200dpi, 256Mb, 40 ppm, 350 л., дуплекс, USB 2.0, Gigabit Ethernet, Wi-Fi), отгрузка только с доп. тонером TK-1160</model>
-      <brand>KYOCERA</brand>
-      <price>271331</price>
+    <offer sku="8468B006" xmlns="">
+      <model>i-SENSYS LBP6030B черный, лазерный, A4, монохромный, ч.б. 18 стр/мин, печать 2400x600, стартовый картридж</model>
+      <brand>Canon</brand>
+      <price>113875</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1744,7 +1752,7 @@
       <brand>Nature's protection</brand>
       <price>41028</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001151" xmlns="">
@@ -1928,7 +1936,7 @@
       <brand>Сибирская Кошка</brand>
       <price>4899</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001328" xmlns="">
@@ -1944,7 +1952,7 @@
       <brand>CATLITTER</brand>
       <price>4629</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001342" xmlns="">
@@ -3016,7 +3024,7 @@
       <brand>Apacer</brand>
       <price>16826</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="002180" xmlns="">
@@ -3136,7 +3144,7 @@
       <brand>Intel</brand>
       <price>36430</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="002313" xmlns="">
@@ -3240,7 +3248,7 @@
       <brand>Intel</brand>
       <price>92211</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="002329" xmlns="">
@@ -3429,14 +3437,6 @@
     </offer>
     <offer sku="002582" xmlns="">
       <model>SanDisk Ultra Light microSDHC + SD Adapter 32GB 100MB/s Class 10</model>
-      <brand>Sandisk</brand>
-      <price>5491</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="002584" xmlns="">
-      <model>SANDISK 32GB Ultra microSDHC+SD Adapter</model>
       <brand>Sandisk</brand>
       <price>5491</price>
       <availabilities>
@@ -3856,7 +3856,7 @@
       <brand>Xiaomi</brand>
       <price>88989</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="002734" xmlns="">
@@ -5520,7 +5520,7 @@
       <brand>Razer</brand>
       <price>15854</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003091" xmlns="">
@@ -6304,7 +6304,7 @@
       <brand>Microlab</brand>
       <price>8000</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003238" xmlns="">
@@ -6896,7 +6896,7 @@
       <brand>Microlab</brand>
       <price>20000</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003367" xmlns="">
@@ -7256,7 +7256,7 @@
       <brand>SVC</brand>
       <price>65676</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003422" xmlns="">
@@ -7696,7 +7696,7 @@
       <brand>Ninetygo</brand>
       <price>16635</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003502" xmlns="">
@@ -9080,7 +9080,7 @@
       <brand>Dahua</brand>
       <price>109250</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003765" xmlns="">
@@ -9150,7 +9150,7 @@
     <offer sku="003780" xmlns="">
       <model>Медиаконвертер D-Link DMC-F15SC/B1A</model>
       <brand>D-link</brand>
-      <price>19011</price>
+      <price>20584</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -9166,7 +9166,7 @@
     <offer sku="003782" xmlns="">
       <model>Медиаконвертер D-Link DMC-F20SC-BXD/B1A</model>
       <brand>D-link</brand>
-      <price>18112</price>
+      <price>23169</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -9408,7 +9408,7 @@
       <brand>D-link</brand>
       <price>29011</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003815" xmlns="">
@@ -9654,7 +9654,7 @@
     <offer sku="003855" xmlns="">
       <model>Маршрутизатор D-Link DIR-615S/RU/B1A</model>
       <brand>D-link</brand>
-      <price>11933</price>
+      <price>12494</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -11715,6 +11715,14 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="910-005567" xmlns="">
+      <model>Мышь игровая беспроводная Logitech G502 LIGHTSPEED (M/N: MR0076 / C-U0008)</model>
+      <brand>Logitech</brand>
+      <price>85414</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="910-005672" xmlns="">
       <model>Мышь игровая беспроводная Logitech G903 LIGHTSPEED (HERO) (M/N: MR0081 / C-U0008)</model>
       <brand>Logitech</brand>
@@ -12659,14 +12667,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="960-001088" xmlns="">
-      <model>Веб-камера Logitech C922 Pro Stream (Full HD 1080p/30fps, 720p/60fps, автофокус, угол обзора 78°, стереомикрофон, лицензия XSplit на 3мес, кабель 1.5м, штатив) (M/N: V-U0028)</model>
-      <brand>Logitech</brand>
-      <price>68935</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="956-000053" xmlns="">
       <model>Коврик для стола Logitech Desk Mat, DARKER ROSE</model>
       <brand>Logitech</brand>
@@ -12729,14 +12729,6 @@
       <price>231250</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="HW8 Pro" xmlns="">
-      <model>Моющий вертикальный пылесос Jimmy HW8 Pro с адаптером модели ZD24W342060EU</model>
-      <brand>Jimmy</brand>
-      <price>158880</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="YMYM GY1 Red" xmlns="">
@@ -12848,7 +12840,7 @@
       <brand>Vertiv</brand>
       <price>26813</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="SMT1000I" xmlns="">
@@ -13496,7 +13488,7 @@
       <brand>SUPERMICRO</brand>
       <price>38204</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="CNE-CSZ01GY01" xmlns="">
@@ -14019,14 +14011,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="W-V673-02_Black" xmlns="">
-      <model>Смартфон WIKO T10  Rally  W-V673-02 Black</model>
-      <brand>WIKO</brand>
-      <price>53518</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="W-P861-03_Black" xmlns="">
       <model>Смартфон WIKO T50  Mulan W-P861-03 Black</model>
       <brand>WIKO</brand>
@@ -14089,14 +14073,6 @@
       <price>1047079</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="LT-32MU208" xmlns="">
-      <model>LT-32MU208 Телевизор JVC LED 32'' HD, DVB-T2/C, SmartTV, Wi-Fi, USB</model>
-      <brand>KIVI</brand>
-      <price>77844</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="LT-32MU380" xmlns="">
@@ -14275,14 +14251,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="YNDX-00020 Black" xmlns="">
-      <model>Яндекс.Станция Мини Плюс Черная YNDX-00020 с часами (Умная колонка с голосовым помощником)</model>
-      <brand>Yandex</brand>
-      <price>53036</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="YNDX-00021 Black" xmlns="">
       <model>Яндекс.Станция Мини Плюс Черная YNDX-00021 без часов (Умная колонка с голосовым помощником)</model>
       <brand>Yandex</brand>
@@ -14451,10 +14419,10 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="YNDX-00051 Black" xmlns="">
-      <model>Яндекс.Станция 2 - умная колонка с Алисой YNDX-00051 Черная</model>
-      <brand>Yandex</brand>
-      <price>98148</price>
+    <offer sku="P28352-B21" xmlns="">
+      <model>HPE 2.4TB SAS 12G Mission Critical 10K SFF BC 3-year Warranty 512e HDD</model>
+      <brand>HPE</brand>
+      <price>160896</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -14488,7 +14456,7 @@
       <brand>HPE</brand>
       <price>95582</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="4ZC7A08709" xmlns="">
@@ -16264,7 +16232,7 @@
       <brand>GENIUS</brand>
       <price>7831</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="ECO-8015 Silver" xmlns="">
@@ -16976,7 +16944,7 @@
       <brand>SVC</brand>
       <price>34927</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="V-3000-F-LCD" xmlns="">
@@ -17064,7 +17032,7 @@
       <brand>SVC</brand>
       <price>529751</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="RT-10KL-LCD" xmlns="">
@@ -17455,14 +17423,6 @@
       <model>Куб (кожа черн/мех беж) №1, шт</model>
       <brand>КСОДИ</brand>
       <price>15028</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="4603774234464" xmlns="">
-      <model>Лежак овальный флис 180 голубой №5 (74*64*12), шт</model>
-      <brand>КСОДИ</brand>
-      <price>11921</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -19675,14 +19635,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="910-001949" xmlns="">
-      <model>Мышь (Box) LOGITECH M705 Marathon Wireless Mouse - BLACK</model>
-      <brand>Logitech</brand>
-      <price>28281</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="910-002496" xmlns="">
       <model>Мышь (Box) LOGITECH M235 Wireless Mouse - RED</model>
       <brand>Logitech</brand>
@@ -19929,14 +19881,6 @@
       <price>35037</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="KF432C16BWAK2/32" xmlns="">
-      <model>Память для игрового ПК Kingston 32GB 3200MT/s DDR4 CL16 DIMM (Kit of 2) FURY Beast White RGB SE, EAN: 740617330373</model>
-      <brand>Kingston</brand>
-      <price>53079</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="KF432C16RBAK2/16" xmlns="">
@@ -20200,7 +20144,7 @@
       <brand>Kingston</brand>
       <price>11937</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="KF568C36RSK2-32" xmlns="">
@@ -20376,7 +20320,7 @@
       <brand>PANTUM</brand>
       <price>144989</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="BP5100DW" xmlns="">
@@ -20723,6 +20667,14 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="SSDPF2KE032T1N1" xmlns="">
+      <model>Твердотельный накопитель (SSD) для сервера Intel SSD D7-P5620 Series (3.2TB, 2.5in PCIe 4.0 x4, 3D4, TLC) Generic No OPAL Single Pack</model>
+      <brand>Intel</brand>
+      <price>364638</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="SSDPF2KX019T1M1" xmlns="">
       <model>Твердотельный накопитель (SSD) для сервера SK HYNIX SSD D7-P5520 Series (1.92TB, 2.5in PCIe 4.0 x4, 3D4, TLC) Generic No OPAL Single Pack</model>
       <brand>Hyxin</brand>
@@ -20799,6 +20751,22 @@
       <model>Телевизор со светодиодной подсветкой LED 50"(127 cm),  UHD LED TV, Google Android R, Dolby Audio,  Certified YouTube, Certified Netflix, Google Play, 16GB DDR +2GB Flash,  HDMI1.4, HDMI2.1, USB3.0*1, Wi-Fi 2.4/5GHz, Bluetooth 5.1</model>
       <brand>LED</brand>
       <price>219629</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="65P635" xmlns="">
+      <model>Телевизор со светодиодной подсветкой LED 65"(165 cm), UHD LED TV, Android R, Google TV UI + TCL TV UI, Dolby Audio, Certified YouTube, Certified Netflix, Google Play, DDR3-2133: 2G Bytes, HDMI1.4 &amp; HDMI2.1, Wi-Fi 802.11 b/g/n 2T2, Bluetooth 5.1</model>
+      <brand>LED</brand>
+      <price>285655</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="75P635" xmlns="">
+      <model>Телевизор со светодиодной подсветкой LED 75", UHD LED TV, Google TV UI + TCL TV UI, Google Play, Netflix, Youtube, HDMI1.4 &amp; HDMI2.1, 2.4GHz/5GHz dual-band Wi-Fi 802.11, Bluetooth 5.1</model>
+      <brand>LED</brand>
+      <price>427156</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -21272,7 +21240,7 @@
       <brand>ITEL</brand>
       <price>10944</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004407" xmlns="">
@@ -22360,7 +22328,7 @@
       <brand>G.SKILL</brand>
       <price>21147</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004621" xmlns="">
@@ -22904,7 +22872,7 @@
       <brand>G.SKILL</brand>
       <price>51020</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004689" xmlns="">
@@ -23160,7 +23128,7 @@
       <brand>Kingston</brand>
       <price>47136</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004721" xmlns="">
@@ -23432,7 +23400,7 @@
       <brand>Patriot</brand>
       <price>10500</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004765" xmlns="">
@@ -23448,7 +23416,7 @@
       <brand>Patriot</brand>
       <price>28264</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004767" xmlns="">
@@ -23848,7 +23816,7 @@
       <brand>Deepcool</brand>
       <price>8933</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004824" xmlns="">
@@ -26976,7 +26944,7 @@
       <brand>Xiaomi</brand>
       <price>182461</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005270" xmlns="">
@@ -28744,7 +28712,7 @@
       <brand>Varta</brand>
       <price>1312</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005499" xmlns="">
@@ -29304,7 +29272,7 @@
       <brand>Apacer</brand>
       <price>2013</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005571" xmlns="">
@@ -29328,7 +29296,7 @@
       <brand>Apacer</brand>
       <price>2430</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005574" xmlns="">
@@ -30368,7 +30336,7 @@
       <brand>Xerox</brand>
       <price>87865</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005749" xmlns="">
@@ -30910,23 +30878,15 @@
     <offer sku="005818" xmlns="">
       <model>Bienvenue шумовка TEFAL 2744512</model>
       <brand>TEFAL</brand>
-      <price>5315</price>
+      <price>3494</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="005819" xmlns="">
-      <model>Bienvenue толкушка TEFAL 2744712</model>
-      <brand>TEFAL</brand>
-      <price>5315</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005820" xmlns="">
       <model>Лопатка Bienvenue TEFAL 2745112</model>
       <brand>TEFAL</brand>
-      <price>5315</price>
+      <price>3494</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -30934,7 +30894,7 @@
     <offer sku="005821" xmlns="">
       <model>Bienvenue щипцы TEFAL 2745312</model>
       <brand>TEFAL</brand>
-      <price>5876</price>
+      <price>5315</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -30942,7 +30902,7 @@
     <offer sku="005822" xmlns="">
       <model>Ложка TEFAL K0060112</model>
       <brand>TEFAL</brand>
-      <price>5315</price>
+      <price>5876</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -30974,7 +30934,7 @@
     <offer sku="005826" xmlns="">
       <model>Шумовка-картофелемялка TEFAL K0260314</model>
       <brand>TEFAL</brand>
-      <price>5315</price>
+      <price>5876</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -30982,7 +30942,7 @@
     <offer sku="005827" xmlns="">
       <model>Угловая лопатка TEFAL K0260514</model>
       <brand>TEFAL</brand>
-      <price>5315</price>
+      <price>5876</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -30998,7 +30958,7 @@
     <offer sku="005830" xmlns="">
       <model>Набор аксессуаров TEFAL K001A504</model>
       <brand>TEFAL</brand>
-      <price>15000</price>
+      <price>12753</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31062,7 +31022,7 @@
     <offer sku="005838" xmlns="">
       <model>Нож д/измельчения 20 см TEFAL K2213704</model>
       <brand>TEFAL</brand>
-      <price>11180</price>
+      <price>10506</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31070,7 +31030,7 @@
     <offer sku="005839" xmlns="">
       <model>Нож д/овощей 9 см TEFAL K1220604</model>
       <brand>TEFAL</brand>
-      <price>8124</price>
+      <price>11180</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31078,7 +31038,7 @@
     <offer sku="005840" xmlns="">
       <model>Нож универсальный 12 см TEFAL K1220704</model>
       <brand>TEFAL</brand>
-      <price>11180</price>
+      <price>11854</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31102,7 +31062,7 @@
     <offer sku="005843" xmlns="">
       <model>Нож TEFAL K2320914</model>
       <brand>TEFAL</brand>
-      <price>13652</price>
+      <price>10506</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31110,7 +31070,7 @@
     <offer sku="005844" xmlns="">
       <model>Нож сантоку 12 см TEFAL K1220104</model>
       <brand>TEFAL</brand>
-      <price>12416</price>
+      <price>13652</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31118,7 +31078,7 @@
     <offer sku="005845" xmlns="">
       <model>Поварской нож 20 см TEFAL K2213204</model>
       <brand>TEFAL</brand>
-      <price>14326</price>
+      <price>12416</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31126,7 +31086,7 @@
     <offer sku="005846" xmlns="">
       <model>Нож шеф 15 см TEFAL K1220304</model>
       <brand>TEFAL</brand>
-      <price>9944</price>
+      <price>14326</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31158,7 +31118,7 @@
     <offer sku="005850" xmlns="">
       <model>Нож для нарезки TEFAL K2320714</model>
       <brand>TEFAL</brand>
-      <price>19831</price>
+      <price>15000</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31166,7 +31126,7 @@
     <offer sku="005851" xmlns="">
       <model>Нож для хлеба 20 см TEFAL K2320414</model>
       <brand>TEFAL</brand>
-      <price>20506</price>
+      <price>15562</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31174,7 +31134,7 @@
     <offer sku="005852" xmlns="">
       <model>Точилка для ножей TEFAL K2090514</model>
       <brand>TEFAL</brand>
-      <price>18596</price>
+      <price>22371</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31182,7 +31142,7 @@
     <offer sku="005853" xmlns="">
       <model>Нож TEFAL K2320214</model>
       <brand>TEFAL</brand>
-      <price>22371</price>
+      <price>16124</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31190,7 +31150,7 @@
     <offer sku="005854" xmlns="">
       <model>Набор ножей 4 пр. TEFAL K2324S74</model>
       <brand>TEFAL</brand>
-      <price>54483</price>
+      <price>39989</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31198,7 +31158,7 @@
     <offer sku="005855" xmlns="">
       <model>Набор ножей 5 пр. TEFAL K221SA04</model>
       <brand>TEFAL</brand>
-      <price>60101</price>
+      <price>46730</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31254,7 +31214,7 @@
     <offer sku="005862" xmlns="">
       <model>Ковш 16 с кр. TEFAL E3082274</model>
       <brand>TEFAL</brand>
-      <price>22236</price>
+      <price>21112</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -31264,13 +31224,13 @@
       <brand>TEFAL</brand>
       <price>36618</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005865" xmlns="">
       <model>Кастрюля 18 с кр. TEFAL E3084374</model>
       <brand>TEFAL</brand>
-      <price>26371</price>
+      <price>25247</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -31278,7 +31238,7 @@
     <offer sku="005866" xmlns="">
       <model>Кастрюля 20 с кр. TEFAL E3084474</model>
       <brand>TEFAL</brand>
-      <price>27494</price>
+      <price>25247</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31286,7 +31246,7 @@
     <offer sku="005867" xmlns="">
       <model>Кастрюля 24 с кр. TEFAL E3084674</model>
       <brand>TEFAL</brand>
-      <price>30865</price>
+      <price>27494</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -31294,7 +31254,7 @@
     <offer sku="005870" xmlns="">
       <model>Низк.кастрюля с кр. TEFAL E2327274</model>
       <brand>TEFAL</brand>
-      <price>62730</price>
+      <price>42236</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31302,7 +31262,7 @@
     <offer sku="005871" xmlns="">
       <model>Крышка 20 плоск. стекл. BUTTERFLY TEFAL 4199720</model>
       <brand>TEFAL</brand>
-      <price>9809</price>
+      <price>8573</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31310,7 +31270,7 @@
     <offer sku="005872" xmlns="">
       <model>Крышка 20 стекл. с паровыпуском TEFAL 4090120</model>
       <brand>TEFAL</brand>
-      <price>9022</price>
+      <price>10371</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31318,7 +31278,7 @@
     <offer sku="005873" xmlns="">
       <model>Крышка 22 плоск. стекл. BUTTERFLY TEFAL 4199722</model>
       <brand>TEFAL</brand>
-      <price>10371</price>
+      <price>9022</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31326,7 +31286,7 @@
     <offer sku="005874" xmlns="">
       <model>Крышка 22 стекл. с паровыпуском TEFAL 4090122</model>
       <brand>TEFAL</brand>
-      <price>9022</price>
+      <price>10371</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31334,7 +31294,7 @@
     <offer sku="005875" xmlns="">
       <model>24 плоск.стекл. Крышка TEFAL 4199724</model>
       <brand>TEFAL</brand>
-      <price>12191</price>
+      <price>9472</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31342,7 +31302,7 @@
     <offer sku="005876" xmlns="">
       <model>Крышка 24 стекл. с паровыпуском TEFAL 4090124</model>
       <brand>TEFAL</brand>
-      <price>9809</price>
+      <price>12753</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31350,23 +31310,15 @@
     <offer sku="005877" xmlns="">
       <model>Крышка 26 плоск. стекл. BUTTERFLY TEFAL 4199726</model>
       <brand>TEFAL</brand>
-      <price>12753</price>
+      <price>9921</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="005878" xmlns="">
-      <model>Крышка 26 стекл. с паровыпуском TEFAL 4090126</model>
-      <brand>TEFAL</brand>
-      <price>10371</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005879" xmlns="">
       <model>Крышка 28 плоск. стекл. BUTTERFLY TEFAL 04199728</model>
       <brand>TEFAL</brand>
-      <price>12753</price>
+      <price>9921</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31374,7 +31326,7 @@
     <offer sku="005880" xmlns="">
       <model>Набор ск.22/26 INGENIO с ручкой TEFAL 4131810</model>
       <brand>TEFAL</brand>
-      <price>37742</price>
+      <price>45045</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31390,7 +31342,7 @@
     <offer sku="005882" xmlns="">
       <model>Набор ск.22/26 INGENIO Red 5 с ручкой TEFAL 4175810</model>
       <brand>TEFAL</brand>
-      <price>34933</price>
+      <price>38865</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31398,7 +31350,7 @@
     <offer sku="005883" xmlns="">
       <model>Набор ск.24/28 INGENIO Red 5 с ручкой TEFAL 4175820</model>
       <brand>TEFAL</brand>
-      <price>42798</price>
+      <price>52618</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31406,7 +31358,7 @@
     <offer sku="005884" xmlns="">
       <model>Набор ск.22/26 INGENIO BLACK 5, TEFAL 4181810</model>
       <brand>TEFAL</brand>
-      <price>37742</price>
+      <price>51494</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31414,7 +31366,7 @@
     <offer sku="005885" xmlns="">
       <model>Набор ск.24/28 INGENIO BLACK с ручкой 5 TEFAL 4181820</model>
       <brand>TEFAL</brand>
-      <price>42798</price>
+      <price>52618</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31422,7 +31374,7 @@
     <offer sku="005886" xmlns="">
       <model>Набор посуды 11 пр. TEFAL E308SB74</model>
       <brand>TEFAL</brand>
-      <price>64978</price>
+      <price>87449</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31430,7 +31382,7 @@
     <offer sku="005888" xmlns="">
       <model>Набор посуды 4 пр. TEFAL E308S474</model>
       <brand>TEFAL</brand>
-      <price>61607</price>
+      <price>50371</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31438,7 +31390,7 @@
     <offer sku="005890" xmlns="">
       <model>Сковорода 22 SIMPLY CLEAN TEFAL 4205122</model>
       <brand>TEFAL</brand>
-      <price>14865</price>
+      <price>17112</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31446,7 +31398,7 @@
     <offer sku="005891" xmlns="">
       <model>Сковорода 24 SIMPLY CLEAN TEFAL 4205124</model>
       <brand>TEFAL</brand>
-      <price>15989</price>
+      <price>18236</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31454,7 +31406,7 @@
     <offer sku="005892" xmlns="">
       <model>Сковорода 26 SIMPLY CLEAN TEFAL 4205126</model>
       <brand>TEFAL</brand>
-      <price>17112</price>
+      <price>19360</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31462,7 +31414,7 @@
     <offer sku="005893" xmlns="">
       <model>Сковорода 20 Day by Day TEFAL 4216120</model>
       <brand>TEFAL</brand>
-      <price>16551</price>
+      <price>18798</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31470,7 +31422,7 @@
     <offer sku="005894" xmlns="">
       <model>Бл.сковорода 22 Day by Day TEFAL 4216522</model>
       <brand>TEFAL</brand>
-      <price>16551</price>
+      <price>18798</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31486,7 +31438,7 @@
     <offer sku="005897" xmlns="">
       <model>Сковорода 22 Day by Day TEFAL 4216122</model>
       <brand>TEFAL</brand>
-      <price>18236</price>
+      <price>19360</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31494,7 +31446,7 @@
     <offer sku="005898" xmlns="">
       <model>Сковорода 24 Day by Day TEFAL 4216124</model>
       <brand>TEFAL</brand>
-      <price>18798</price>
+      <price>22933</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31502,7 +31454,7 @@
     <offer sku="005900" xmlns="">
       <model>Сковорода 26 Day by Day TEFAL 4216126</model>
       <brand>TEFAL</brand>
-      <price>18798</price>
+      <price>23494</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31510,7 +31462,7 @@
     <offer sku="005901" xmlns="">
       <model>Сковорода 26 со ст.крышк SIMPLY CLEAN TEFAL 04205926</model>
       <brand>TEFAL</brand>
-      <price>22371</price>
+      <price>25180</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31518,7 +31470,7 @@
     <offer sku="005902" xmlns="">
       <model>Сковорода 28 Day by Day TEFAL 4216128</model>
       <brand>TEFAL</brand>
-      <price>19360</price>
+      <price>24618</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31542,7 +31494,7 @@
     <offer sku="005906" xmlns="">
       <model>Сковорода 28 со ст.крышк SIMPLY CLEAN TEFAL 4205928</model>
       <brand>TEFAL</brand>
-      <price>23494</price>
+      <price>26865</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -31550,7 +31502,7 @@
     <offer sku="005907" xmlns="">
       <model>Сковорода 24 с кр. Day by Day TEFAL 4216924</model>
       <brand>TEFAL</brand>
-      <price>22933</price>
+      <price>25742</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31558,7 +31510,7 @@
     <offer sku="005908" xmlns="">
       <model>Сковорода ВОК 28 Day by Day TEFAL 4216628</model>
       <brand>TEFAL</brand>
-      <price>23494</price>
+      <price>26865</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31566,7 +31518,7 @@
     <offer sku="005909" xmlns="">
       <model>Сковорода 26 с кр. Day by Day TEFAL 4216926</model>
       <brand>TEFAL</brand>
-      <price>23494</price>
+      <price>26865</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31574,7 +31526,7 @@
     <offer sku="005910" xmlns="">
       <model>Сковорода 28 с кр. Day by Day TEFAL 4216928</model>
       <brand>TEFAL</brand>
-      <price>25180</price>
+      <price>28551</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31582,7 +31534,7 @@
     <offer sku="005911" xmlns="">
       <model>Сковорода TEFAL 24 E3000404</model>
       <brand>TEFAL</brand>
-      <price>24618</price>
+      <price>29112</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -31593,6 +31545,14 @@
       <price>29674</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
+      </availabilities>
+    </offer>
+    <offer sku="005913" xmlns="">
+      <model>Сковорода 26 TEFAL E3000504</model>
+      <brand>TEFAL</brand>
+      <price>30236</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005914" xmlns="">
@@ -31606,7 +31566,7 @@
     <offer sku="005915" xmlns="">
       <model>Сковорода блинная 25 TEFAL G2703872</model>
       <brand>TEFAL</brand>
-      <price>36551</price>
+      <price>27427</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31622,7 +31582,7 @@
     <offer sku="005917" xmlns="">
       <model>Сковорода гриль 26 TEFAL E2324074</model>
       <brand>TEFAL</brand>
-      <price>35427</price>
+      <price>31921</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31638,7 +31598,7 @@
     <offer sku="005919" xmlns="">
       <model>Сковорода 24 TEFAL G2700472</model>
       <brand>TEFAL</brand>
-      <price>36551</price>
+      <price>27427</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31654,7 +31614,7 @@
     <offer sku="005921" xmlns="">
       <model>Сковорода 26 TEFAL G2700572</model>
       <brand>TEFAL</brand>
-      <price>37674</price>
+      <price>27989</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31662,7 +31622,7 @@
     <offer sku="005922" xmlns="">
       <model>Сковорода 28 TEFAL G2700672</model>
       <brand>TEFAL</brand>
-      <price>38798</price>
+      <price>29112</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31678,7 +31638,7 @@
     <offer sku="005924" xmlns="">
       <model>Сковорода 30 TEFAL G2700772</model>
       <brand>TEFAL</brand>
-      <price>40483</price>
+      <price>30236</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31686,7 +31646,7 @@
     <offer sku="005925" xmlns="">
       <model>Сковорода ВОК 28 TEFAL G2701972</model>
       <brand>TEFAL</brand>
-      <price>41607</price>
+      <price>31360</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31758,7 +31718,7 @@
     <offer sku="005935" xmlns="">
       <model>Форма для запекания 25х42 TEFAL J1627414</model>
       <brand>TEFAL</brand>
-      <price>16685</price>
+      <price>14438</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -31782,7 +31742,7 @@
     <offer sku="005938" xmlns="">
       <model>Форма разъемная 25 TEFAL J1626215</model>
       <brand>TEFAL</brand>
-      <price>17921</price>
+      <price>16124</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31790,7 +31750,7 @@
     <offer sku="005939" xmlns="">
       <model>Спрингформа 27 см TEFAL J1641474</model>
       <brand>TEFAL</brand>
-      <price>17921</price>
+      <price>16124</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31798,7 +31758,7 @@
     <offer sku="005940" xmlns="">
       <model>Спрингформа TEFAL J1640574</model>
       <brand>TEFAL</brand>
-      <price>26865</price>
+      <price>17247</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31830,7 +31790,7 @@
     <offer sku="005945" xmlns="">
       <model>Безмешковый пылесос TEFAL TW1923RH</model>
       <brand>TEFAL</brand>
-      <price>66236</price>
+      <price>61742</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -31950,7 +31910,7 @@
     <offer sku="005960" xmlns="">
       <model>Беспроводной пылесос TEFAL TY6545RH</model>
       <brand>TEFAL</brand>
-      <price>99944</price>
+      <price>88708</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -32246,7 +32206,7 @@
     <offer sku="006001" xmlns="">
       <model>Утюг TEFAL FV6812E0</model>
       <brand>TEFAL</brand>
-      <price>70596</price>
+      <price>56843</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -32262,7 +32222,7 @@
     <offer sku="006003" xmlns="">
       <model>Утюг TEFAL FV6844E0</model>
       <brand>TEFAL</brand>
-      <price>81831</price>
+      <price>62461</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -32350,7 +32310,7 @@
     <offer sku="006017" xmlns="">
       <model>Парогенератор TEFAL GV9221E0</model>
       <brand>TEFAL</brand>
-      <price>256169</price>
+      <price>244933</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -32366,7 +32326,7 @@
     <offer sku="006019" xmlns="">
       <model>Гладильная система TEFAL QT1511E0</model>
       <brand>TEFAL</brand>
-      <price>262461</price>
+      <price>251225</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -32406,7 +32366,7 @@
     <offer sku="006024" xmlns="">
       <model>Отпариватель TEFAL DT7005E0</model>
       <brand>TEFAL</brand>
-      <price>50775</price>
+      <price>57517</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -32776,13 +32736,13 @@
       <brand>Scarlett</brand>
       <price>8658</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006082" xmlns="">
       <model>Кухонные весы TEFAL BC5109V1</model>
       <brand>TEFAL</brand>
-      <price>22371</price>
+      <price>19000</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -32790,7 +32750,7 @@
     <offer sku="006083" xmlns="">
       <model>Кухонные весы TEFAL BC5005V0</model>
       <brand>TEFAL</brand>
-      <price>19000</price>
+      <price>16618</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -32846,7 +32806,7 @@
     <offer sku="006090" xmlns="">
       <model>Панини гриль TEFAL GC242832</model>
       <brand>TEFAL</brand>
-      <price>61472</price>
+      <price>58101</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -32910,7 +32870,7 @@
     <offer sku="006098" xmlns="">
       <model>Гриль TEFAL GC712834</model>
       <brand>TEFAL</brand>
-      <price>130551</price>
+      <price>111180</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -33478,7 +33438,7 @@
     <offer sku="006183" xmlns="">
       <model>Соковыжималка MOULINEX JU420D10</model>
       <brand>MOULINEX</brand>
-      <price>56213</price>
+      <price>47225</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -33718,7 +33678,7 @@
     <offer sku="006219" xmlns="">
       <model>Чайник TEFAL KO260830</model>
       <brand>TEFAL</brand>
-      <price>35225</price>
+      <price>32978</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -33742,7 +33702,7 @@
     <offer sku="006222" xmlns="">
       <model>Чайник TEFAL KO450132</model>
       <brand>TEFAL</brand>
-      <price>32978</price>
+      <price>30730</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -33758,7 +33718,7 @@
     <offer sku="006225" xmlns="">
       <model>Чайник стеклянный TEFAL KI772138</model>
       <brand>TEFAL</brand>
-      <price>48708</price>
+      <price>40843</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -33766,7 +33726,7 @@
     <offer sku="006226" xmlns="">
       <model>Чайник TEFAL KO693110</model>
       <brand>TEFAL</brand>
-      <price>37472</price>
+      <price>46461</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -34232,7 +34192,7 @@
       <brand>ROWENTA</brand>
       <price>18236</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006293" xmlns="">
@@ -35872,7 +35832,7 @@
       <brand>iPower</brand>
       <price>1449</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006530" xmlns="">
@@ -35920,7 +35880,7 @@
       <brand>SHIP</brand>
       <price>1385</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006536" xmlns="">
@@ -36216,7 +36176,7 @@
       <brand>Dahua</brand>
       <price>115371</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006575" xmlns="">
@@ -36752,7 +36712,7 @@
       <brand>Dahua</brand>
       <price>8270</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006648" xmlns="">
@@ -37022,7 +36982,7 @@
     <offer sku="006684" xmlns="">
       <model>Коммутатор D-Link DGS-1005D/J2A</model>
       <brand>D-link</brand>
-      <price>10247</price>
+      <price>10584</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -37038,7 +36998,7 @@
     <offer sku="006686" xmlns="">
       <model>Коммутатор D-Link DGS-1008D/K2A</model>
       <brand>D-link</brand>
-      <price>16427</price>
+      <price>15303</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -37334,7 +37294,7 @@
     <offer sku="006723" xmlns="">
       <model>Коммутатор D-Link DGS-1210-10/F1A</model>
       <brand>D-link</brand>
-      <price>54202</price>
+      <price>57573</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -37430,7 +37390,7 @@
     <offer sku="006735" xmlns="">
       <model>Коммутатор D-Link DGS-1210-28/F3A</model>
       <brand>D-link</brand>
-      <price>97169</price>
+      <price>96045</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -37494,7 +37454,7 @@
     <offer sku="006743" xmlns="">
       <model>Коммутатор D-Link DGS-1210-26/F3A</model>
       <brand>D-link</brand>
-      <price>77798</price>
+      <price>86270</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -37584,7 +37544,7 @@
       <brand>H3C</brand>
       <price>146073</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006755" xmlns="">
@@ -37936,7 +37896,7 @@
       <brand>TP-link</brand>
       <price>11755</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006800" xmlns="">
@@ -38118,7 +38078,7 @@
     <offer sku="006824" xmlns="">
       <model>Медиаконвертер D-Link DMC-F02SC/B1A</model>
       <brand>D-link</brand>
-      <price>15079</price>
+      <price>19573</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -38422,7 +38382,7 @@
     <offer sku="006863" xmlns="">
       <model>Wi-Fi повторитель D-Link DAP-1325/R1A</model>
       <brand>D-link</brand>
-      <price>12270</price>
+      <price>13169</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -38528,7 +38488,7 @@
       <brand>TP-link</brand>
       <price>20351</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006877" xmlns="">
@@ -38710,7 +38670,7 @@
     <offer sku="006899" xmlns="">
       <model>Маршрутизатор D-Link DIR-X1530/RU/A1A</model>
       <brand>D-link</brand>
-      <price>32719</price>
+      <price>37348</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -38790,7 +38750,7 @@
     <offer sku="006912" xmlns="">
       <model>Маршрутизатор D-Link DIR-815/RU/R4A</model>
       <brand>D-link</brand>
-      <price>20360</price>
+      <price>23281</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -39006,7 +38966,7 @@
     <offer sku="006939" xmlns="">
       <model>Беспроводной адаптер D-Link DWA-X1850/A1A</model>
       <brand>D-link</brand>
-      <price>29348</price>
+      <price>24742</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -39022,7 +38982,7 @@
     <offer sku="006941" xmlns="">
       <model>Беспроводной двухдиапазонный PCI Express адаптер D-Link DWA-X582/RU/A2A</model>
       <brand>D-link</brand>
-      <price>23506</price>
+      <price>24854</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -39030,7 +38990,7 @@
     <offer sku="006942" xmlns="">
       <model>Сетевая карта D-Link DWA-582/RU/B1A</model>
       <brand>D-link</brand>
-      <price>14067</price>
+      <price>15303</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -39200,7 +39160,7 @@
       <brand>SHIP</brand>
       <price>86365</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006964" xmlns="">
@@ -39344,7 +39304,7 @@
       <brand>SHIP</brand>
       <price>1712</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006982" xmlns="">
@@ -39656,7 +39616,7 @@
       <brand>SHIP</brand>
       <price>2504</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007021" xmlns="">
@@ -39816,7 +39776,7 @@
       <brand>SHIP</brand>
       <price>3555</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007041" xmlns="">
@@ -39992,7 +39952,7 @@
       <brand>SHIP</brand>
       <price>1272</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007064" xmlns="">
@@ -40848,7 +40808,7 @@
       <brand>SHIP</brand>
       <price>115615</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007172" xmlns="">
@@ -45760,7 +45720,7 @@
       <brand>Xerox</brand>
       <price>37131</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="008084" xmlns="">
@@ -45968,7 +45928,7 @@
       <brand>Xerox</brand>
       <price>84943</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="008111" xmlns="">
@@ -48867,6 +48827,14 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="008590" xmlns="">
+      <model>NP Dog Adult Chicken&amp;Turkey консервы для собак 200гр, шт</model>
+      <brand>NP</brand>
+      <price>3742</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="008598" xmlns="">
       <model>NP Lifestyle Grain Free White fish Active &amp; Fresh 150 г, лаком. с белой рыбой для акт. мол. собак, шт</model>
       <brand>NP</brand>
@@ -49063,14 +49031,6 @@
       <model>Празицид® - суспензия Плюс (для щенков средних и крупных пород), 9 мл, шт</model>
       <brand>Празицид</brand>
       <price>1949</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="008632" xmlns="">
-      <model>Празицид®-комплекс (для котят и кошек менее 4 кг), 1*0,4 мл, шт</model>
-      <brand>Празицид</brand>
-      <price>2124</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49336,7 +49296,7 @@
       <brand>CATLITTER</brand>
       <price>3292</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008686" xmlns="">
@@ -49352,7 +49312,7 @@
       <brand>CATLITTER</brand>
       <price>1938</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008689" xmlns="">
@@ -49360,7 +49320,7 @@
       <brand>CATLITTER</brand>
       <price>2365</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008690" xmlns="">
@@ -49515,22 +49475,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="008728" xmlns="">
-      <model>ЧИСТАЙЛ сено луговое 3л подстилка д/грызунов, шт 0030</model>
-      <brand>ЧИСТАЙЛ</brand>
-      <price>1219</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="008729" xmlns="">
-      <model>ЧИСТАЙЛ сено луговое 3л подстилка д/грызунов, шт 1563</model>
-      <brand>ЧИСТАЙЛ</brand>
-      <price>1219</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="008731" xmlns="">
       <model>Дразнилка Сибирская кошка с 3 шарами, шт</model>
       <brand>Сибирская кошка</brand>
@@ -49643,14 +49587,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="008749" xmlns="">
-      <model>Сибирская Кошка Для Котят 3л, шт</model>
-      <brand>Сибирская кошка</brand>
-      <price>1955</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="008752" xmlns="">
       <model>Сибирская Кошка для котят Лесной 5л (гранулы 6мм), шт</model>
       <brand>Сибирская кошка</brand>
@@ -49672,7 +49608,7 @@
       <brand>Сибирская кошка</brand>
       <price>2539</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008756" xmlns="">
@@ -49872,7 +49808,7 @@
       <brand>СК</brand>
       <price>2893</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008793" xmlns="">
@@ -50160,7 +50096,7 @@
       <brand>MF</brand>
       <price>2230</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008879" xmlns="">
@@ -50664,7 +50600,7 @@
       <brand>Hikvision</brand>
       <price>11106</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="Charcoal II 10MPQP" xmlns="">
@@ -51971,14 +51907,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="XUB2492HSU-W5" xmlns="">
-      <model>Монитор LCD 23.8'' 16:9 1920х1080(FHD) IPS, nonGLARE, 250cd/m2, H178°/V178°, 1000:1, 5M:1, 16.7M, 4ms, VGA, HDMI, DP, USB-Hub, Height adj, Pivot, Tilt, Swivel, Speakers, 3Y, White</model>
-      <brand>IIYAMA</brand>
-      <price>84739</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="MG30D100B" xmlns="">
       <model>Микроволновая печь Accesstyle MG30D100B</model>
       <brand>Accesstyle</brand>
@@ -52624,7 +52552,7 @@
       <brand>Accesstyle</brand>
       <price>238415</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="66F7GAC3EU" xmlns="">
@@ -52648,7 +52576,7 @@
       <brand>LG</brand>
       <price>243680</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="RAYG1EU1" xmlns="">
@@ -52827,6 +52755,14 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="1102R73NL0" xmlns="">
+      <model>Цветной копир-принтер-сканер-факс Kyocera M5526cdw (А4,26 ppm,1200 dpi,512 Mb,USB,Network,Wi-Fi,дуплекс,автоподатчик,тонер) продажа только с доп. тонерами TK-5240K/C/M/Y</model>
+      <brand>KYOCERA</brand>
+      <price>392497</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="61F2GAR2EU" xmlns="">
       <model>ThinkVision T32p-20 31.5" 16:9 IPS 3840x2160 4ms 1000:1 350 178/178 //HDMI 2.0/DP1.2/USB-C/LTPS, USB-Hub, 75W USB-C</model>
       <brand>Lenovo</brand>
@@ -52895,6 +52831,14 @@
       <model>Саундбар Sonos Beam Black, BEAM2EU1BLK</model>
       <brand>SONOS</brand>
       <price>421207</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="6A285EA" xmlns="">
+      <model>HP ProBook 450 NB PC / UMA i3-1215U 450 G9 / 15.6 FHD AG UWVA 250 HD NarrowBezel bent / 8GB 1D DDR4 3200 / 256GB PCIe NVMe Value </model>
+      <brand>HP</brand>
+      <price>396820</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -53067,14 +53011,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="6B2F4EA" xmlns="">
-      <model>HP ProOne 440 / 440 G9 24 AiO BU-NT IDS / 440 23.8 G9 NT FY22 IDS / i5-12500T 6cores / 8GB / 256GB SSD / W11p64DowngradeW10p64 / No  ODD / 1yw / 125 BLKkbd / 125mouse / </model>
-      <brand>HP</brand>
-      <price>499978</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="21E6005FRT" xmlns="">
       <model>ThinkPad E15G4_I5-1235U_IG+8G/15.6FHD_AG_300N/CORE_I5-1235U_1.3G_10C_12T/NO_DIMM_MEMORY,8GB(4X16GX16)_DDR4_3200/256GB_SSD_M.2_2242_G4_TLC_OPAL/INTEGRATED_IRIS_XE_GRAPHICS/W11_PRO/</model>
       <brand>Lenovo</brand>
@@ -53115,14 +53051,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="12CE004GRU" xmlns="">
-      <model>Моноблок Lenovo 12CE004GRU ThinkCentre neo 30a 24 23,8'' FHD (1920 x 1080) IPS/Intel Core i5-1235U 1.3 Ghz (10Cores)/16GB/512GB/Integrated/Wi-Fi 6/BT5.1/720P HD Camera/USB mouse+keyboard/Windows 10 Pro/1Y/Black</model>
-      <brand>Lenovo</brand>
-      <price>562836</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="Monster 50S" xmlns="">
       <model>Электросамокат Accesstyle Monster 50S</model>
       <brand>Accesstyle</brand>
@@ -53136,7 +53064,7 @@
       <brand>Lenovo</brand>
       <price>579643</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="90RC00UWRS" xmlns="">
@@ -53256,7 +53184,7 @@
       <brand>KYOCERA</brand>
       <price>794504</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="90NR0941-M002E0" xmlns="">
@@ -53616,7 +53544,7 @@
       <brand>X-Game</brand>
       <price>148084</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009017" xmlns="">
@@ -53728,7 +53656,7 @@
       <brand>Gigabyte</brand>
       <price>46530</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009033" xmlns="">
@@ -54136,7 +54064,7 @@
       <brand>Patriot</brand>
       <price>5665</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009106" xmlns="">
@@ -54808,7 +54736,7 @@
       <brand>Deepcool</brand>
       <price>29416</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009192" xmlns="">
@@ -56096,7 +56024,7 @@
       <brand>Dahua</brand>
       <price>176169</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009355" xmlns="">
@@ -57320,7 +57248,7 @@
       <brand>Jabra</brand>
       <price>126393</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009510" xmlns="">
@@ -58302,7 +58230,7 @@
     <offer sku="009632" xmlns="">
       <model>Колонки Edifier A80</model>
       <brand>Edifier</brand>
-      <price>354831</price>
+      <price>277303</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -58310,7 +58238,7 @@
     <offer sku="009633" xmlns="">
       <model>Колонки Edifier A100</model>
       <brand>Edifier</brand>
-      <price>479551</price>
+      <price>384045</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -58374,7 +58302,7 @@
     <offer sku="009641" xmlns="">
       <model>Колонки Edifier CX7</model>
       <brand>Edifier</brand>
-      <price>162697</price>
+      <price>114944</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -58430,7 +58358,7 @@
     <offer sku="009648" xmlns="">
       <model>Колонки Edifier D12 White</model>
       <brand>Edifier</brand>
-      <price>85056</price>
+      <price>62640</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -58438,7 +58366,7 @@
     <offer sku="009649" xmlns="">
       <model>Колонки Edifier D12 Black</model>
       <brand>Edifier</brand>
-      <price>85056</price>
+      <price>62640</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -58446,7 +58374,7 @@
     <offer sku="009650" xmlns="">
       <model>Колонки Edifier PK-305 Black</model>
       <brand>Edifier</brand>
-      <price>116404</price>
+      <price>89551</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -58454,7 +58382,7 @@
     <offer sku="009651" xmlns="">
       <model>Колонки Edifier A3-8S Black</model>
       <brand>Edifier</brand>
-      <price>136854</price>
+      <price>97416</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -58462,7 +58390,7 @@
     <offer sku="009652" xmlns="">
       <model>Колонки Edifier P100X</model>
       <brand>Edifier</brand>
-      <price>451461</price>
+      <price>288539</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -58976,7 +58904,7 @@
       <brand>NINETYGO</brand>
       <price>16006</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009720" xmlns="">
@@ -59120,7 +59048,7 @@
       <brand>HSM</brand>
       <price>375944</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009738" xmlns="">
@@ -59168,7 +59096,7 @@
       <brand>COMIX</brand>
       <price>49247</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009744" xmlns="">
@@ -59222,7 +59150,7 @@
     <offer sku="009750" xmlns="">
       <model>Нож д/чистки овощей 9 см TEFAL K2213504</model>
       <brand>Tefal</brand>
-      <price>7449</price>
+      <price>6888</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59230,7 +59158,7 @@
     <offer sku="009751" xmlns="">
       <model>Многофункциональный нож TEFAL 12 см K2213904</model>
       <brand>Tefal</brand>
-      <price>9944</price>
+      <price>7449</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59238,7 +59166,7 @@
     <offer sku="009752" xmlns="">
       <model>Нож Сантоку 12 см TEFAL K2213604</model>
       <brand>Tefal</brand>
-      <price>10618</price>
+      <price>9944</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59254,7 +59182,7 @@
     <offer sku="009754" xmlns="">
       <model>Набор ножей 3пр TEFAL K221S375</model>
       <brand>Tefal</brand>
-      <price>22371</price>
+      <price>18034</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59262,7 +59190,7 @@
     <offer sku="009755" xmlns="">
       <model>Набор ножей 4пр TEFAL K221S475</model>
       <brand>Tefal</brand>
-      <price>24843</price>
+      <price>27876</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59278,7 +59206,7 @@
     <offer sku="009757" xmlns="">
       <model>Блок с ножами TEFAL K232S574</model>
       <brand>Tefal</brand>
-      <price>88528</price>
+      <price>63584</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59310,7 +59238,7 @@
     <offer sku="009762" xmlns="">
       <model>Ковш с крышкой TEFAL B8642274</model>
       <brand>Tefal</brand>
-      <price>24618</price>
+      <price>22933</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59318,7 +59246,7 @@
     <offer sku="009763" xmlns="">
       <model>Кастрюля 20 TEFAL B8644474</model>
       <brand>Tefal</brand>
-      <price>30236</price>
+      <price>25742</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59326,7 +59254,7 @@
     <offer sku="009764" xmlns="">
       <model>Кастрюля 20 + крышка TEFAL E3014524</model>
       <brand>Tefal</brand>
-      <price>27427</price>
+      <price>28551</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59334,7 +59262,7 @@
     <offer sku="009765" xmlns="">
       <model>Кастрюля 24 TEFAL B8644674</model>
       <brand>Tefal</brand>
-      <price>34865</price>
+      <price>30236</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59342,7 +59270,7 @@
     <offer sku="009766" xmlns="">
       <model>Кастрюля 20 с стек.крышкой TEFAL E2184475</model>
       <brand>Tefal</brand>
-      <price>39360</price>
+      <price>31360</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59350,7 +59278,7 @@
     <offer sku="009767" xmlns="">
       <model>Ковш 18 с стек.крышкой TEFAL G6052374</model>
       <brand>Tefal</brand>
-      <price>38236</price>
+      <price>32483</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59358,7 +59286,7 @@
     <offer sku="009768" xmlns="">
       <model>Кастрюля 24 с стек.крышкой TEFAL E2184675</model>
       <brand>Tefal</brand>
-      <price>49112</price>
+      <price>39360</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59366,7 +59294,7 @@
     <offer sku="009769" xmlns="">
       <model>Утятница с кр. TEFAL E2156975</model>
       <brand>Tefal</brand>
-      <price>47989</price>
+      <price>39360</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59390,7 +59318,7 @@
     <offer sku="009772" xmlns="">
       <model>Блинная сковорода 22 Power TEFAL 4221522</model>
       <brand>Tefal</brand>
-      <price>10528</price>
+      <price>11764</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59398,7 +59326,7 @@
     <offer sku="009773" xmlns="">
       <model>Сковорода 22бл INTENSE TEFAL 4219522</model>
       <brand>Tefal</brand>
-      <price>14865</price>
+      <price>11764</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59406,7 +59334,7 @@
     <offer sku="009774" xmlns="">
       <model>Сковорода 24 Power TEFAL 4221124</model>
       <brand>Tefal</brand>
-      <price>12551</price>
+      <price>14640</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59414,7 +59342,7 @@
     <offer sku="009775" xmlns="">
       <model>Сковорода 26 Power TEFAL 4221126</model>
       <brand>Tefal</brand>
-      <price>12888</price>
+      <price>14865</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59422,7 +59350,7 @@
     <offer sku="009776" xmlns="">
       <model>Сковорода 24 INTENSE TEFAL 4219124</model>
       <brand>Tefal</brand>
-      <price>18798</price>
+      <price>15539</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59430,7 +59358,7 @@
     <offer sku="009777" xmlns="">
       <model>Сковорода 28 Power TEFAL 4221128</model>
       <brand>Tefal</brand>
-      <price>13966</price>
+      <price>15539</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59438,7 +59366,7 @@
     <offer sku="009778" xmlns="">
       <model>Сковорода 26 INTENSE TEFAL 4219126</model>
       <brand>Tefal</brand>
-      <price>21809</price>
+      <price>16438</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59446,7 +59374,7 @@
     <offer sku="009779" xmlns="">
       <model>Сковорода ВОК 28 Power TEFAL 4221628</model>
       <brand>Tefal</brand>
-      <price>15876</price>
+      <price>17787</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59454,7 +59382,7 @@
     <offer sku="009780" xmlns="">
       <model>Сковорода 22 Бл FORCE TEFAL 4218522</model>
       <brand>Tefal</brand>
-      <price>22371</price>
+      <price>18236</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59462,7 +59390,7 @@
     <offer sku="009781" xmlns="">
       <model>Сковорода ВОК 28 INTENSE TEFAL 4219628</model>
       <brand>Tefal</brand>
-      <price>24618</price>
+      <price>18685</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59470,7 +59398,7 @@
     <offer sku="009782" xmlns="">
       <model>Сковорода 22 FORCE TEFAL 4218022</model>
       <brand>Tefal</brand>
-      <price>24618</price>
+      <price>21809</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59478,7 +59406,7 @@
     <offer sku="009783" xmlns="">
       <model>Сковорода 26 FORCE TEFAL 4218026</model>
       <brand>Tefal</brand>
-      <price>25742</price>
+      <price>22371</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59486,7 +59414,7 @@
     <offer sku="009784" xmlns="">
       <model>Сковорода 24 FORCE TEFAL 4218024</model>
       <brand>Tefal</brand>
-      <price>25180</price>
+      <price>22933</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59494,7 +59422,7 @@
     <offer sku="009785" xmlns="">
       <model>Сковорода 24 TEFAL B8170444</model>
       <brand>Tefal</brand>
-      <price>27989</price>
+      <price>23494</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59502,7 +59430,7 @@
     <offer sku="009786" xmlns="">
       <model>Сковорода 22 FORCE TEFAL 4218922</model>
       <brand>Tefal</brand>
-      <price>26865</price>
+      <price>23494</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59510,7 +59438,7 @@
     <offer sku="009787" xmlns="">
       <model>Сковорода 28 FORCE TEFAL 4218028</model>
       <brand>Tefal</brand>
-      <price>26865</price>
+      <price>23494</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59518,7 +59446,7 @@
     <offer sku="009788" xmlns="">
       <model>Сковорода 20 TEFAL E2320274</model>
       <brand>Tefal</brand>
-      <price>27427</price>
+      <price>24056</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59526,7 +59454,7 @@
     <offer sku="009789" xmlns="">
       <model>Сковорода 24 FORCE TEFAL 4218924</model>
       <brand>Tefal</brand>
-      <price>27989</price>
+      <price>24618</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59534,7 +59462,7 @@
     <offer sku="009790" xmlns="">
       <model>СКОВОРОДА 26СМ INTUITION TEFAL B8170544</model>
       <brand>Tefal</brand>
-      <price>29112</price>
+      <price>25742</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59542,7 +59470,7 @@
     <offer sku="009791" xmlns="">
       <model>Сковорода 26 FORCE TEFAL 4218926</model>
       <brand>Tefal</brand>
-      <price>29112</price>
+      <price>25742</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59550,7 +59478,7 @@
     <offer sku="009792" xmlns="">
       <model>СКОВОРОДА 28 INTUITION TEFAL B8170644</model>
       <brand>Tefal</brand>
-      <price>30236</price>
+      <price>26865</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59558,7 +59486,7 @@
     <offer sku="009793" xmlns="">
       <model>Сковорода 28 FORCE TEFAL 4218928</model>
       <brand>Tefal</brand>
-      <price>30236</price>
+      <price>26865</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59566,7 +59494,7 @@
     <offer sku="009794" xmlns="">
       <model>Сковорода 24 TEFAL E2320474</model>
       <brand>Tefal</brand>
-      <price>29674</price>
+      <price>27427</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59574,7 +59502,7 @@
     <offer sku="009795" xmlns="">
       <model>ВОК 28 TEFAL B8171944</model>
       <brand>Tefal</brand>
-      <price>31360</price>
+      <price>27989</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59582,7 +59510,7 @@
     <offer sku="009796" xmlns="">
       <model>Сковорода 28 FORCE TEFAL 4218628</model>
       <brand>Tefal</brand>
-      <price>31360</price>
+      <price>27989</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59590,7 +59518,7 @@
     <offer sku="009797" xmlns="">
       <model>Сковорода 22 Ultra+ TEFAL 4223122</model>
       <brand>Tefal</brand>
-      <price>26303</price>
+      <price>29112</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59598,7 +59526,7 @@
     <offer sku="009798" xmlns="">
       <model>Сковорода 22 Maxima TEFAL 4222122</model>
       <brand>Tefal</brand>
-      <price>26303</price>
+      <price>29112</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59606,7 +59534,7 @@
     <offer sku="009799" xmlns="">
       <model>Сковорода для бл 25 Ultra+ TEFAL 4223525</model>
       <brand>Tefal</brand>
-      <price>26865</price>
+      <price>29674</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59614,7 +59542,7 @@
     <offer sku="009800" xmlns="">
       <model>Сковорода 26 TEFAL E2320574</model>
       <brand>Tefal</brand>
-      <price>31921</price>
+      <price>29674</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59622,7 +59550,7 @@
     <offer sku="009801" xmlns="">
       <model>Сковорода 25 Бл Maxima TEFAL 4222525</model>
       <brand>Tefal</brand>
-      <price>26865</price>
+      <price>29674</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59630,7 +59558,7 @@
     <offer sku="009802" xmlns="">
       <model>Сковорода 24 Maxima TEFAL 4222124</model>
       <brand>Tefal</brand>
-      <price>27427</price>
+      <price>31360</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59638,7 +59566,7 @@
     <offer sku="009803" xmlns="">
       <model>Сковорода 24 Ultra+ TEFAL 4223124</model>
       <brand>Tefal</brand>
-      <price>27427</price>
+      <price>31360</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59646,7 +59574,7 @@
     <offer sku="009804" xmlns="">
       <model>Сковорода 28 DELICIO TEFAL E2320674</model>
       <brand>Tefal</brand>
-      <price>35427</price>
+      <price>31921</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59654,7 +59582,7 @@
     <offer sku="009805" xmlns="">
       <model>Сковорода 26 Ultra+ TEFAL 4223126</model>
       <brand>Tefal</brand>
-      <price>28551</price>
+      <price>34303</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59662,7 +59590,7 @@
     <offer sku="009806" xmlns="">
       <model>Сковорода 26 Maxima TEFAL 4222126</model>
       <brand>Tefal</brand>
-      <price>28551</price>
+      <price>34303</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59670,7 +59598,7 @@
     <offer sku="009807" xmlns="">
       <model>Сковорода 28 Ultra+ TEFAL 4223128</model>
       <brand>Tefal</brand>
-      <price>29112</price>
+      <price>35427</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59678,7 +59606,7 @@
     <offer sku="009808" xmlns="">
       <model>Сковорода 28 Maxima TEFAL 4222128</model>
       <brand>Tefal</brand>
-      <price>29112</price>
+      <price>35427</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -59686,7 +59614,7 @@
     <offer sku="009809" xmlns="">
       <model>Сковорода ВОК 28 Ultra+ TEFAL 4223628</model>
       <brand>Tefal</brand>
-      <price>34865</price>
+      <price>40483</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59694,7 +59622,7 @@
     <offer sku="009810" xmlns="">
       <model>Сковорода 28 Maxima TEFAL 4222628</model>
       <brand>Tefal</brand>
-      <price>34865</price>
+      <price>40483</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59710,7 +59638,7 @@
     <offer sku="009812" xmlns="">
       <model>Сотейник 24 Maxima TEFAL 4222224</model>
       <brand>Tefal</brand>
-      <price>39360</price>
+      <price>48551</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59718,9 +59646,9 @@
     <offer sku="009813" xmlns="">
       <model>Сотейник 28 с кр. TEFAL E2187275</model>
       <brand>Tefal</brand>
-      <price>58101</price>
+      <price>35989</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009814" xmlns="">
@@ -59968,7 +59896,7 @@
       <brand>Dreame</brand>
       <price>249876</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009846" xmlns="">
@@ -60126,7 +60054,7 @@
     <offer sku="009867" xmlns="">
       <model>Ручной отпариватель TEFAL DT8230E1</model>
       <brand>Tefal</brand>
-      <price>86281</price>
+      <price>69427</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -60486,7 +60414,7 @@
     <offer sku="009917" xmlns="">
       <model>Тостер TEFAL TT330D30</model>
       <brand>Tefal</brand>
-      <price>33607</price>
+      <price>38101</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -60704,7 +60632,7 @@
       <brand>Centek</brand>
       <price>18549</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009947" xmlns="">
