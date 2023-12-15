@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Jmart date="15.12.2023 10:04:26" xmlns="Jmart">
+<Jmart date="15.12.2023 17:39:50" xmlns="Jmart">
   <company>Hitech24.kz</company>
   <merchantid>Test</merchantid>
   <offers>
@@ -760,7 +760,7 @@
       <brand>Deluxe</brand>
       <price>48510</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="000972" xmlns="">
@@ -1270,7 +1270,7 @@
     <offer sku="20VE0007RU" xmlns="">
       <model>Ноутбук Lenovo ThinkBook 15 G2 ITL 15.6FHD_AG_250N_N</model>
       <brand>Lenovo</brand>
-      <price>414809</price>
+      <price>415651</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1286,17 +1286,9 @@
     <offer sku="JBLQUANTUM200BLK" xmlns="">
       <model>Проводная игровая гарнитура со съемным микрофоном JBL Quantum 200</model>
       <brand>JBL</brand>
-      <price>29551</price>
+      <price>29601</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="981-000593" xmlns="">
-      <model>Гарнитура Logitech H111 (1 x 3.5мм, кабель 1.8м)</model>
-      <brand>Logitech</brand>
-      <price>14053</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="981-000350" xmlns="">
@@ -1311,14 +1303,6 @@
       <model>Гарнитура Logitech H151 (черная, 1 x 3.5мм, элементы управления на кабеле, кабель 1.8м)</model>
       <brand>Logitech</brand>
       <price>16000</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="981-000406" xmlns="">
-      <model>Гарнитура Logitech H390 (USB, элементы управления на кабеле, кабель 2.33м)</model>
-      <brand>Logitech</brand>
-      <price>24245</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1438,7 +1422,7 @@
     <offer sku="GY50T26467" xmlns="">
       <model>Lenovo Legion M500 Mouse</model>
       <brand>Lenovo</brand>
-      <price>23674</price>
+      <price>23717</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -1446,7 +1430,7 @@
     <offer sku="GY50Z71902" xmlns="">
       <model>Мышь Lenovo IdeaPad Gaming M100 RGB Mouse</model>
       <brand>Lenovo</brand>
-      <price>10133</price>
+      <price>10146</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1454,7 +1438,7 @@
     <offer sku="GY50X79385" xmlns="">
       <model>Мышь Lenovo Legion M600 Wireless Gaming Mouse</model>
       <brand>Lenovo</brand>
-      <price>26827</price>
+      <price>26877</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1462,15 +1446,7 @@
     <offer sku="GY50U59626" xmlns="">
       <model>Мышь Lenovo Yoga Presenter Mouse</model>
       <brand>Lenovo</brand>
-      <price>24346</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="910-003357" xmlns="">
-      <model>Мышь Logitech B100 Black (черная, оптическая 800dpi, USB, 1.8м)</model>
-      <brand>Logitech</brand>
-      <price>6247</price>
+      <price>24391</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -1638,7 +1614,15 @@
     <offer sku="9VH72AA" xmlns="">
       <model>HP Monitor E22 G4 21.5" IPS 1920 x 1080/5ms/VGA/HDMI/DP/USB-A 3.2 Gen 1 x4/USB Type-B x1/3 Year</model>
       <brand>HP</brand>
-      <price>99348</price>
+      <price>99531</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="9TY24AA" xmlns="">
+      <model>HP Monitor P21b G4 20.7" TN 1920 x 1080/5ms/VGA/HDMI/1Year</model>
+      <brand>HP</brand>
+      <price>47657</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1646,7 +1630,7 @@
     <offer sku="9VF96AA" xmlns="">
       <model>HP Monitor E23 G4 23" IPS 1920 x 1080 /5ms/ VGA/ HDMI/ DP/ USB-A 3.2 Gen 1 x4/ USB Type-B x1/ 3 Year</model>
       <brand>HP</brand>
-      <price>113303</price>
+      <price>113517</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1654,7 +1638,7 @@
     <offer sku="3G828AA" xmlns="">
       <model>HP Monitor Z24f G3 23,8" IPS 1920 x 1080/5ms/DP/DP-out/HDMI/USB-A 3.2 Gen1 х4/USB-B x1/3 Year</model>
       <brand>HP</brand>
-      <price>152674</price>
+      <price>152960</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1662,7 +1646,7 @@
     <offer sku="24MK430H-B" xmlns="">
       <model>Монитор LCD 23.8'' 16:9 1920х1080(FHD) IPS, nonGLARE, 250cd/m2, H178°/V178°, 1000:1, 16.7M Color, 5ms, VGA, HDMI, Tilt, Audio out, 2Y, Black</model>
       <brand>LG</brand>
-      <price>106584</price>
+      <price>106783</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1670,7 +1654,7 @@
     <offer sku="243V7QDAB/01" xmlns="">
       <model>Монитор LCD 23.8'' 16:9 1920х1080(FHD) IPS, nonGLARE, 250cd/m2, H178°/V178°, 10М:1, 5ms, VGA, DVI, HDMI, Tilt, Speakers, Audio out, 2Y, Black</model>
       <brand>PHILIPS</brand>
-      <price>70921</price>
+      <price>71043</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1702,7 +1686,7 @@
     <offer sku="XUB2796HSU-B1" xmlns="">
       <model>Монитор LCD 27'' [16:9] 1920х1080(FHD) IPS, nonGLARE, 250cd/m2, H178°/V178°, 1000:1, 80M:1, 16,7 миллионов цветов, 1ms, VGA, HDMI, DP, USB-Hub, Height adj, Pivot, Tilt, Swivel, Speakers, Swivel, 3Y, Black</model>
       <brand>Iiyama</brand>
-      <price>154225</price>
+      <price>154513</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1710,7 +1694,7 @@
     <offer sku="XU2792HSU-B1" xmlns="">
       <model>Монитор LCD 27'' [16:9] 1920х1080(FHD) IPS, nonGLARE, 250cd/m2, H178°/V178°, 1000:1, 80M:1, 16.7M, 4ms, VGA, HDMI, DP, USB-Hub, Tilt, Speakers, 3Y, Black</model>
       <brand>Iiyama</brand>
-      <price>82861</price>
+      <price>83008</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1720,29 +1704,21 @@
       <brand>Samsung</brand>
       <price>110944</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="XB3288UHSU-B1" xmlns="">
       <model>Монитор LCD 31.5'' [16:9] 3840x2160(UHD 4K) VA, nonGLARE, 300cd/m2, H178°/V178°, 3000:1, 80M:1, 1.07B, 3ms, DVI, 2xHDMI, DP, USB-Hub, Height adj, Tilt, Swivel, Speakers, Audio out, 3Y, Black</model>
       <brand>IIYAMA</brand>
-      <price>280427</price>
+      <price>280976</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="1102V23NL0" xmlns="">
-      <model>Лазерный копир-принтер-сканер Kyocera M3145idn (А4, 45 ppm, 1200dpi, 1 Gb, USB, Net, touch panel, RADP, тонер) отгрузка только с доп. тонером TK-3060</model>
-      <brand>Kyocera</brand>
-      <price>843752</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="Denim TWS Pink" xmlns="">
       <model>Беспроводные наушники Accesstyle Denim TWS Pink</model>
       <brand>Accesstyle</brand>
-      <price>7451</price>
+      <price>7461</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1750,7 +1726,7 @@
     <offer sku="GXD0T69863" xmlns="">
       <model>Наушники Lenovo Legion H300 Stereo Gaming Headset</model>
       <brand>Lenovo</brand>
-      <price>33169</price>
+      <price>33227</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1758,7 +1734,7 @@
     <offer sku="GXD0T69864" xmlns="">
       <model>Наушники Lenovo Legion H500 Stereo Gaming Headset</model>
       <brand>Lenovo</brand>
-      <price>43609</price>
+      <price>43690</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1774,7 +1750,7 @@
     <offer sku="8468B006" xmlns="">
       <model>i-SENSYS LBP6030B черный, лазерный, A4, монохромный, ч.б. 18 стр/мин, печать 2400x600, стартовый картридж</model>
       <brand>Canon</brand>
-      <price>113875</price>
+      <price>111607</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1790,7 +1766,7 @@
     <offer sku="Robot VC Kyvol E20" xmlns="">
       <model>Робот-пылесос Robot VC Kyvol Cybovac E20</model>
       <brand>Kyvol</brand>
-      <price>125809</price>
+      <price>125995</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1798,7 +1774,7 @@
     <offer sku="Robot VC Kyvol E30" xmlns="">
       <model>Робот-пылесос Robot VC Kyvol Cybovac E30</model>
       <brand>Kyvol</brand>
-      <price>138213</price>
+      <price>138426</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -2038,7 +2014,7 @@
     <offer sku="001389" xmlns="">
       <model>Ноутбук Lenovo ThinkBook 15 G2 ITL i3 1115G4-3.0/15.6"/1920x1080/ 8GB/ 256GB SSD/ Iris Xe/ No OS</model>
       <brand>Lenovo</brand>
-      <price>314539</price>
+      <price>315163</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -2103,14 +2079,6 @@
       <model>P2500W (чб., A4, 22ppm, 128MB, 600MHz, 60-163 г/м2, 1200х1200 dpi, max. 15K мес., GDI, USB 2.0, Wi-Fi, емкость лотков подачи - 150 листов, в комплекте стартовый картридж на 1.6K отпечатков формата A4 при 5% заполнении (перезаправляемый) + кабель USB)</model>
       <brand>PANTUM</brand>
       <price>61056</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="001597" xmlns="">
-      <model>P3010DW</model>
-      <brand>PANTUM</brand>
-      <price>103079</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -2206,7 +2174,7 @@
     <offer sku="82NA002BRU" xmlns="">
       <model>Ноутбук Lenovo V14 G1 IML Экран 14.0FHD_TN_AG_220N_N/Процессор CORE_I3-10110U_2.1G_2C_MB/ОЗУ 4GB(4X8GX16)_DDR4_2667/Накопитель 1TB_HD_5400RPM_2.5_7MM</model>
       <brand>Lenovo</brand>
-      <price>212171</price>
+      <price>171933</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -2214,7 +2182,7 @@
     <offer sku="001744" xmlns="">
       <model>V30a 24IIL_Intel_ICL-U_AIO_T 23.8_ICL-U_NT_TOP_BEZEL/CORE_I3-1005G1_1.2G_2C_MB/8GB_DDR4_3200_SODIMM/1TB_HD_7200RPM_2.5_7MM</model>
       <brand>Lenovo</brand>
-      <price>361839</price>
+      <price>352302</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -3414,7 +3382,7 @@
     <offer sku="9RC14UD01MG60DRU000" xmlns="">
       <model>Ноутбук Gigabyte U4 UD, Intel TGL i7-1195G7, Iris XE, IPS, 2x8Gb, M2 PCIe Gen4 512Gb, DOS</model>
       <brand>Gigabyte</brand>
-      <price>390658</price>
+      <price>347956</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -6792,7 +6760,7 @@
       <brand>Brateck</brand>
       <price>6693</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003391" xmlns="">
@@ -7672,7 +7640,7 @@
       <brand>SVC</brand>
       <price>18261</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003570" xmlns="">
@@ -9080,7 +9048,7 @@
       <brand>TP link</brand>
       <price>44227</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003852" xmlns="">
@@ -10008,7 +9976,7 @@
       <brand>Xerox</brand>
       <price>84398</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004096" xmlns="">
@@ -10878,7 +10846,7 @@
     <offer sku="004243" xmlns="">
       <model>Процессор Intel Core i3-12100F Alder Lake (3200MHz, LGA1700, L3 12Mb), oem</model>
       <brand>Intel</brand>
-      <price>48597</price>
+      <price>48350</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10966,7 +10934,7 @@
     <offer sku="11LA0055RU" xmlns="">
       <model>Моноблок Lenovo 11LA0055RU V30a-24IIL AIO 23,8'' FHD (1920 x 1080) IPS/Intel Core i5-1035G1 1,0Ghz Quad/8GB/256GB/Integrated/Wi-Fi/BT5.0/720P HD Camera/USB mouse+keyboard/DOS/1Y/Black</model>
       <brand>Lenovo</brand>
-      <price>408063</price>
+      <price>408925</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10974,7 +10942,7 @@
     <offer sku="11LA006ARU" xmlns="">
       <model>Моноблок Lenovo 11LA006ARU V30a-24IIL AIO 23,8'' FHD (1920 x 1080) IPS/Intel Core i5-1035G1 1,0Ghz Quad/16GB/512GB/Integrated/Wi-Fi/BT5.0/720P HD Camera/USB mouse+keyboard/DOS/1Y/Black</model>
       <brand>Lenovo</brand>
-      <price>455975</price>
+      <price>456942</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10982,7 +10950,7 @@
     <offer sku="DS-D5022FN-C" xmlns="">
       <model>Монитор Hikvision 19 - 22"</model>
       <brand>Hikvision</brand>
-      <price>52742</price>
+      <price>52837</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10998,7 +10966,7 @@
     <offer sku="1569B003" xmlns="">
       <model>1569B003 CADP8042 бумага (рулонная)  - 1 рулон Standard Paper 80gsm 42", 50 m</model>
       <brand>Canon</brand>
-      <price>12562</price>
+      <price>12581</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11006,7 +10974,7 @@
     <offer sku="4999B002" xmlns="">
       <model>4999B002 Front Print Backlit Film 230 мm 914 mm x 30 m 1 Roll</model>
       <brand>Canon</brand>
-      <price>19798</price>
+      <price>19833</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11014,7 +10982,7 @@
     <offer sku="6061B004" xmlns="">
       <model>6061B004 Satin Photo Paper FSC 200 g/mІ 1067 mm x 30 m 1 Roll</model>
       <brand>Canon</brand>
-      <price>10494</price>
+      <price>10509</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11022,7 +10990,7 @@
     <offer sku="6063B004" xmlns="">
       <model>6063B004 Satin Photo Paper FSC 240 g/mІ 1067 mm x 30 m 1 Roll</model>
       <brand>Canon</brand>
-      <price>10494</price>
+      <price>10509</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11049,30 +11017,6 @@
       <price>47650</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="2891C001" xmlns="">
-      <model>PFI-320 Cyan (300 ml)</model>
-      <brand>Canon</brand>
-      <price>84884</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="2892C001" xmlns="">
-      <model>PFI-320 Magenta (300 ml)</model>
-      <brand>Canon</brand>
-      <price>84884</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="2893C001" xmlns="">
-      <model>PFI-320 Yellow (300 ml)</model>
-      <brand>Canon</brand>
-      <price>84884</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="6908B002" xmlns="">
@@ -11126,7 +11070,7 @@
     <offer sku="GY50X79384" xmlns="">
       <model>Мышь Lenovo Legion M300 RGB Gaming Mouse</model>
       <brand>Lenovo</brand>
-      <price>10804</price>
+      <price>10820</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11174,7 +11118,7 @@
     <offer sku="TPM-LR 2.0" xmlns="">
       <model>Модуль Asus TPM-LR 2.0 Модуль шифрования</model>
       <brand>Asus</brand>
-      <price>11393</price>
+      <price>11399</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11182,17 +11126,9 @@
     <offer sku="HKED4081CBA1D0ZA1" xmlns="">
       <model>Модуль памяти Hikvision HKED4081CBA1D0ZA1  8GB DDR4/2666/U-DIMM 1,2V OEM</model>
       <brand>Hikvision</brand>
-      <price>10494</price>
+      <price>10509</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="HKED4161DAB1D0ZA1" xmlns="">
-      <model>Модуль памяти Hikvision HKED4161DAB1D0ZA1  16GB DDR4/2666/U-DIMM 1,2V OEM</model>
-      <brand>Hikvision</brand>
-      <price>16697</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="WD141KRYZ" xmlns="">
@@ -11206,7 +11142,7 @@
     <offer sku="A00028615" xmlns="">
       <model>130 DS TA-1017 BLACK</model>
       <brand>Nokia</brand>
-      <price>27734</price>
+      <price>25448</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11214,7 +11150,7 @@
     <offer sku="16OTRB01A02" xmlns="">
       <model>210 DS TA-1139 BLACK</model>
       <brand>Nokia</brand>
-      <price>32790</price>
+      <price>29516</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11222,7 +11158,7 @@
     <offer sku="16OTRD01A03" xmlns="">
       <model>210 DS TA-1139 GREY</model>
       <brand>Nokia</brand>
-      <price>32790</price>
+      <price>29506</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11230,7 +11166,7 @@
     <offer sku="A00028099" xmlns="">
       <model>3310 DS TA-1030 DARKBLUE</model>
       <brand>Nokia</brand>
-      <price>39531</price>
+      <price>35846</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11238,7 +11174,7 @@
     <offer sku="A00028101" xmlns="">
       <model>3310 DS TA-1030 GREY</model>
       <brand>Nokia</brand>
-      <price>39531</price>
+      <price>35852</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11246,7 +11182,7 @@
     <offer sku="16LYRB01A01" xmlns="">
       <model>NOKIA 110 DS TA-1386 4G BLACK, 1.8'', 1 Core, 128MB + 48MB (ROM/RAM), 2 Sim, LTE + GSM/GPRS/WCDMA, Micro-USB, 1020mAh, 104,7g, 121x50x14,5</model>
       <brand>Nokia</brand>
-      <price>32369</price>
+      <price>29306</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11254,7 +11190,7 @@
     <offer sku="16GMNL01A01" xmlns="">
       <model>NOKIA 125 DS TA-1253 BLUE, 2.4'', 1 Core, 4MB + 4MB (ROM/RAM), Micro SD, up to 32GB flash, GSM, 2 Sim, Micro-USB, 1020mAh, 91g, 50.5x132x15</model>
       <brand>Nokia</brand>
-      <price>29419</price>
+      <price>26284</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11262,7 +11198,7 @@
     <offer sku="16GMNB01A16" xmlns="">
       <model>NOKIA 150 DS TA-1235 BLACK,  2.4'' 320x240, 1 Core, 4MB + 4MB (ROM/RAM), Micro SD, up to 32GB flash, 0,3Mpix, 2 Sim, 2G, BT v3.0, Micro-USB, FM-radio, 1020mAh, 81g, 11.8x5.014x1.345</model>
       <brand>Nokia</brand>
-      <price>31947</price>
+      <price>28121</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11270,7 +11206,7 @@
     <offer sku="16GMNE01A04" xmlns="">
       <model>NOKIA 150 DS TA-1235 CYAN, 2.4'' 320x240, 1 Core, 4MB + 4MB (ROM/RAM), Micro SD, up to 32GB flash, 0,3Mpix, 2 Sim, 2G, BT v3.0, Micro-USB, FM-radio, 1020mAh, 81g, 11.8x5.014x1.345</model>
       <brand>Nokia</brand>
-      <price>31947</price>
+      <price>28131</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11278,7 +11214,7 @@
     <offer sku="16QENB01A01" xmlns="">
       <model>NOKIA 215 DS TA-1272 BLACK, 2.4'', 1 Core, 128MB + 64MB (ROM/RAM), Micro USB, 2 Sim, LTE, 4G, BT v5.0, Micro-USB, 1150mAh, 90,3g, 124.7x51,0x13,7</model>
       <brand>Nokia</brand>
-      <price>32790</price>
+      <price>29084</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11286,7 +11222,7 @@
     <offer sku="16QENE01A01" xmlns="">
       <model>NOKIA 215 DS TA-1272 CYAN, 2.4'', 1 Core, 128MB + 64MB (ROM/RAM), Micro USB, 2 Sim, LTE, 4G, BT v5.0, Micro-USB, 1150mAh, 90,3g, 124.7x51,0x13,7</model>
       <brand>Nokia</brand>
-      <price>32790</price>
+      <price>29084</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11294,7 +11230,7 @@
     <offer sku="16QENB01A02" xmlns="">
       <model>NOKIA 225 DS TA-1276 BLACK</model>
       <brand>Nokia</brand>
-      <price>34475</price>
+      <price>32510</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11302,7 +11238,7 @@
     <offer sku="16QENL01A01" xmlns="">
       <model>NOKIA 225 DS TA-1276 BLUE</model>
       <brand>Nokia</brand>
-      <price>34475</price>
+      <price>32531</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11310,7 +11246,7 @@
     <offer sku="16QENG01A01" xmlns="">
       <model>NOKIA 225 DS TA-1276 SAND</model>
       <brand>Nokia</brand>
-      <price>34475</price>
+      <price>32510</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11318,7 +11254,7 @@
     <offer sku="16PISX01A18" xmlns="">
       <model>NOKIA 5310 DSP TA-1212 BLK/RED - 3D74 - NEW, 2.4'', 1 Core, 16MB + 8MB (ROM/RAM), Micro SD, up to 32GB flash, 2 Sim, GSM 900/1800/1900, BT v3.9, WAP 2.0, GPRS, EDGE, HSCSD, Micro-USB, 1200mAh, Series 30+, 88,2g, 52,4x123,7x13,1</model>
       <brand>Nokia</brand>
-      <price>36582</price>
+      <price>31679</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11326,7 +11262,7 @@
     <offer sku="16PISX01B06" xmlns="">
       <model>NOKIA 5310 DSP TA-1212 WHT/RED - 3D74 - NEW, 2.4'', 1 Core, 16MB + 8MB (ROM/RAM), Micro SD, up to 32GB flash, 2 Sim, GSM 900/1800/1900, BT v3.9, WAP 2.0, GPRS, EDGE, HSCSD, Micro-USB, 1200mAh, Series 30+, 88,2g, 52,4x123,7x13,1</model>
       <brand>Nokia</brand>
-      <price>36582</price>
+      <price>32152</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11334,7 +11270,7 @@
     <offer sku="16POSB01A02" xmlns="">
       <model>NOKIA 6310 DS TA-1400 BLACK, 2.8'', 1 Core, 16MB + 8MB (ROM/RAM), 0.3 Mpix, Micro SD, up to 32GB flash, 2 Sim, GSM/GPRS 900/1800, BT v5.0, Micro-USB, MP3 player, FM Radio, 1150mAh, 104,7g, 53x131,4x13,7</model>
       <brand>Nokia</brand>
-      <price>39953</price>
+      <price>34830</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11342,7 +11278,7 @@
     <offer sku="16POSE01A08" xmlns="">
       <model>NOKIA 6310 DS TA-1400 GREEN  2.8'', 1 Core, 16MB + 8MB (ROM/RAM), 0.3 Mpix, Micro SD, up to 32GB flash, 2 Sim, GSM/GPRS 900/1800, BT v5.0, Micro-USB, MP3 player, FM Radio, 1150mAh, 104,7g, 53x131,4x13,7</model>
       <brand>Nokia</brand>
-      <price>39953</price>
+      <price>34830</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11350,7 +11286,7 @@
     <offer sku="Basalt 20WT White" xmlns="">
       <model>Зарядное устройство сетевое Accesstyle Basalt 20WT White</model>
       <brand>Accesstyle</brand>
-      <price>7000</price>
+      <price>7007</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11358,7 +11294,7 @@
     <offer sku="Crystal 20WUT Black" xmlns="">
       <model>Сетевое зарядное устройство Accesstyle Crystal 20WUT Black</model>
       <brand>Accesstyle</brand>
-      <price>7176</price>
+      <price>7184</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11366,7 +11302,7 @@
     <offer sku="Crystal 20WUT White" xmlns="">
       <model>Сетевое зарядное устройство Accesstyle Crystal 20WUT White</model>
       <brand>Accesstyle</brand>
-      <price>7176</price>
+      <price>7184</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11374,7 +11310,7 @@
     <offer sku="Sunset 18WU White" xmlns="">
       <model>Сетевое зарядное устройство Accesstyle Sunset 18WU White</model>
       <brand>Accesstyle</brand>
-      <price>5848</price>
+      <price>5852</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11382,7 +11318,7 @@
     <offer sku="GameSir-VX" xmlns="">
       <model>Комплект игровой GameSir VX (состоит из: клавиатура GameSir-VX, мышь GameSir-GM190 и приемник VX Dongle)</model>
       <brand>Gamesir</brand>
-      <price>82944</price>
+      <price>83102</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11390,7 +11326,7 @@
     <offer sku="GameSir-VX2" xmlns="">
       <model>Комплект игровой GameSir VX2 (состоит из: кейпад, мышь, ресивер)</model>
       <brand>Gamesir</brand>
-      <price>102000</price>
+      <price>102194</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11398,7 +11334,7 @@
     <offer sku="VTN1" xmlns="">
       <model>Беспроводной Пылесос Dreame Cordless Vacuum Cleaner T10 White</model>
       <brand>Dreame</brand>
-      <price>138602</price>
+      <price>138843</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11406,7 +11342,7 @@
     <offer sku="BET-C01" xmlns="">
       <model>Звуковая электрическая зубная щетка DR.BEI Sonic Electric Toothbrush C1 белая</model>
       <brand>DR.BEI</brand>
-      <price>17007</price>
+      <price>17036</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11414,7 +11350,7 @@
     <offer sku="DR.BEI S7 Pink" xmlns="">
       <model>Звуковая электрическая зубная щетка DR.BEI Sonic Electric Toothbrush S7 розовая</model>
       <brand>DR.BEI</brand>
-      <price>37027</price>
+      <price>37097</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11422,31 +11358,15 @@
     <offer sku="BY-V12 Violet" xmlns="">
       <model>Звуковая электрическая зубная щетка DR.BEI Sonic Electric Toothbrush V12 сиреневая</model>
       <brand>DR.BEI</brand>
-      <price>22072</price>
+      <price>22112</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="BY-V12 Black" xmlns="">
-      <model>Звуковая электрическая зубная щетка DR.BEI Sonic Electric Toothbrush V12 черная</model>
-      <brand>DR.BEI</brand>
-      <price>22072</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="DR.BEI F2 Green" xmlns="">
-      <model>Портативный ирригатор DR.BEI Portable Water Flosser F2 зеленый</model>
-      <brand>DR.BEI</brand>
-      <price>22434</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="865408-B21" xmlns="">
       <model>HPE 500W FS Plat Ht Plg LH Pwr Sply Kit</model>
       <brand>HPE</brand>
-      <price>62957</price>
+      <price>63066</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11454,7 +11374,7 @@
     <offer sku="P38995-B21" xmlns="">
       <model>HPE 800W Flex Slot Platinum Hot Plug Low Halogen Power Supply Kit</model>
       <brand>HPE</brand>
-      <price>69262</price>
+      <price>69386</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11462,7 +11382,7 @@
     <offer sku="P19888-B21" xmlns="">
       <model>HPE 240GB SATA RI M.2 2280 SSD</model>
       <brand>HPE</brand>
-      <price>115005</price>
+      <price>119019</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11470,7 +11390,7 @@
     <offer sku="P47818-B21" xmlns="">
       <model>HPE 480GB SATA 6G Read Intensive M.2 Multi Vendor SSD</model>
       <brand>HPE</brand>
-      <price>155218</price>
+      <price>155537</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11478,7 +11398,7 @@
     <offer sku="4XB7A38273" xmlns="">
       <model>ThinkSystem 2.5" Multi Vendor 960GB Entry SATA 6Gb Hot Swap SSD</model>
       <brand>Lenovo</brand>
-      <price>202562</price>
+      <price>202978</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11486,7 +11406,7 @@
     <offer sku="P00922-B21" xmlns="">
       <model>HPE 16GB (1x16GB) Dual Rank x8 DDR4-2933 CAS-21-21-21 Registered Smart Memory Kit</model>
       <brand>HPE</brand>
-      <price>88983</price>
+      <price>89158</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11494,7 +11414,7 @@
     <offer sku="P00920-B21" xmlns="">
       <model>HPE 16GB 1Rx4 PC4-2933Y-R Smart Kit</model>
       <brand>HPE</brand>
-      <price>47682</price>
+      <price>47772</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11502,7 +11422,7 @@
     <offer sku="P06033-B21" xmlns="">
       <model>HPE 32GB (1x32GB) Dual Rank x4 DDR4-3200 CAS-22-22-22 Registered Smart Memory Kit</model>
       <brand>HPE</brand>
-      <price>104468</price>
+      <price>104665</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11510,7 +11430,7 @@
     <offer sku="4ZC7A08696" xmlns="">
       <model>ThinkSystem 8GB TruDDR4 2666MHz (1Rx8, 1.2V) UDIMM</model>
       <brand>Lenovo</brand>
-      <price>30876</price>
+      <price>30933</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11518,7 +11438,7 @@
     <offer sku="GXTRT-1000IRT2UXL" xmlns="">
       <model>Vertiv GXT RT+ 1ph UPS, 1kVA, input plug IEC60320 C14, 2U, output – 230V, output socket groups (6)C13</model>
       <brand>Vertiv</brand>
-      <price>143933</price>
+      <price>144224</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11526,7 +11446,7 @@
     <offer sku="GXT5-1000IRT2UXLE" xmlns="">
       <model>Vertiv Liebert GXT5 1ph UPS, 1kVA, input plug IEC C14 inlet, 2U, output – 230V, output socket groups (8)C13</model>
       <brand>Vertiv</brand>
-      <price>287483</price>
+      <price>288075</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11534,7 +11454,7 @@
     <offer sku="RAILKITPS3G" xmlns="">
       <model>AEC Rail Kit for Liebert PSI3G Rack/Tower UPS</model>
       <brand>Vertiv</brand>
-      <price>39955</price>
+      <price>40034</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11542,7 +11462,7 @@
     <offer sku="R3J22A" xmlns="">
       <model>Aruba Instant On AP11 (EU) Bundle</model>
       <brand>HPE</brand>
-      <price>66150</price>
+      <price>66282</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11550,7 +11470,7 @@
     <offer sku="R3J26A" xmlns="">
       <model>Aruba Instant On AP11D (EU) Bundle</model>
       <brand>HPE</brand>
-      <price>89647</price>
+      <price>89829</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11558,7 +11478,7 @@
     <offer sku="JL680A" xmlns="">
       <model>Aruba IOn 1930 8G 2SFP Switch</model>
       <brand>HPE</brand>
-      <price>75021</price>
+      <price>75173</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11566,7 +11486,7 @@
     <offer sku="J9151E" xmlns="">
       <model>Aruba 10G SFP+ LC LR 10km SMF XCVR</model>
       <brand>HPE</brand>
-      <price>440100</price>
+      <price>441024</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11574,7 +11494,7 @@
     <offer sku="J9150D" xmlns="">
       <model>HPE X132 10G SFP+ LC SR Transceiver</model>
       <brand>HPE</brand>
-      <price>243884</price>
+      <price>244390</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11662,7 +11582,7 @@
     <offer sku="20VE00FMRU" xmlns="">
       <model>Ноутбук Lenovo ThinkBook 15 G2 ITL 15.6FHD_AG_300N_N_SRGB/CORE_I5-1135G7_2.4G_4C_MB/NONE,8GB(4X16GX16)_DDR4_3200/256GB_SSD_M.2_2242_NVME_TLC/INTEGRATED_GRAPHICS/NONE/</model>
       <brand>Lenovo</brand>
-      <price>461933</price>
+      <price>462863</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11670,7 +11590,7 @@
     <offer sku="11LA004YRU" xmlns="">
       <model>Моноблок Lenovo 11LA004YRU V30a-24IIL AIO 23,8'' FHD (1920 x 1080) IPS/Intel Core i3-1005G1 1,2Ghz Dual/8GB/1TB/Integrated/Wi-Fi/BT5.0/720P HD Camera/USB mouse+keyboard/DOS/1Y/Black</model>
       <brand>Lenovo</brand>
-      <price>349634</price>
+      <price>350334</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11678,7 +11598,7 @@
     <offer sku="11LA0050RU" xmlns="">
       <model>Моноблок Lenovo 11LA0050RU V30a-24IIL AIO 23,8'' FHD (1920 x 1080) IPS/Intel Core i3-1005G1 1,2Ghz Dual/8GB/256GB/Integrated/Wi-Fi/BT5.0/720P HD Camera/USB mouse+keyboard/DOS/1Y/Black</model>
       <brand>Lenovo</brand>
-      <price>347721</price>
+      <price>348417</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11686,7 +11606,7 @@
     <offer sku="10T7S1AE00" xmlns="">
       <model>ThinkCentre M720q, Intel i5-8500T (2.10GHz, 9MB), Windows 10 Pro 64, 8.0GB, 1x500GB SATA III,1x128GB SSD PCIe, (x), 3 Year Depot</model>
       <brand>Lenovo</brand>
-      <price>426000</price>
+      <price>426893</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11694,7 +11614,7 @@
     <offer sku="9TT53AA" xmlns="">
       <model>HP Monitor P22v G4 21,5" IPS 1920 x 1080 /5ms/VGA/ HDMI/ 3 Year</model>
       <brand>HP</brand>
-      <price>77124</price>
+      <price>77258</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11702,7 +11622,7 @@
     <offer sku="X2474HS-B2" xmlns="">
       <model>Монитор LCD 23.6'' [16:9] 1920х1080(FHD) VA, nonGLARE, 250cd/m2, H178°/V178°, 3000:1, 80M:1, 16.7M, 4ms, VGA, HDMI, DP, Tilt, Speakers, 3Y, Black</model>
       <brand>LG</brand>
-      <price>100899</price>
+      <price>101085</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11710,7 +11630,7 @@
     <offer sku="27QN880-B" xmlns="">
       <model>Монитор LCD 27'' [16:9] 2560х1440(WQHD) IPS, nonGLARE, 350cd/m2, H178°/V178°, 1000:1, 16.7M, 5ms, 2xHDMI, DP, USB-C, USB-Hub, Height adj, Pivot, Tilt, Swivel, Speakers, 2Y, Black</model>
       <brand>LG</brand>
-      <price>271640</price>
+      <price>272171</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11718,7 +11638,7 @@
     <offer sku="245E1S/01" xmlns="">
       <model>Монитор жидкокристаллический PHILIPS 245E1S/01 LCD 23.8'' 16:9 2560 x 1440 IPS, nonGLARE, 250cd/m2, H178°/V178°, 4ms, VGA, HDMI, DP, 2Y, Black</model>
       <brand>PHILIPS</brand>
-      <price>92112</price>
+      <price>92280</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11726,7 +11646,7 @@
     <offer sku="275E1S/01" xmlns="">
       <model>Монитор жидкокристаллический PHILIPS 275E1S/01 LCD 27'' 16:9 2560 x 1440 IPS, nonGLARE, 250cd/m2, H178°/V178°, 4ms, VGA, HDMI, DP, 2Y, Black</model>
       <brand>PHILIPS</brand>
-      <price>132517</price>
+      <price>132758</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11774,7 +11694,7 @@
     <offer sku="1928B006" xmlns="">
       <model>1928B006 Glossy Photo Quality Paper FSC 300 g/mІ 1524 mm x 30 m 1 Roll</model>
       <brand>Canon</brand>
-      <price>16697</price>
+      <price>16725</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11782,7 +11702,7 @@
     <offer sku="1929B004" xmlns="">
       <model>1929B004 Glacier Photo Quality Paper FSC 300 g/mІ 1067 mm x 30 m 1 Roll</model>
       <brand>Canon</brand>
-      <price>13079</price>
+      <price>13099</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11790,7 +11710,7 @@
     <offer sku="1929B006" xmlns="">
       <model>1929B006 Glacier Photo Quality Paper FSC 300 g/mІ 1524 mm x 30 m 1 Roll</model>
       <brand>Canon</brand>
-      <price>16697</price>
+      <price>16725</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11798,7 +11718,7 @@
     <offer sku="2345C001" xmlns="">
       <model>2345C001 Water Resistant Self-adhesive Matte PP Film 290 g/mІ 1372 mm x 20.5 m 1 Roll</model>
       <brand>Canon</brand>
-      <price>14629</price>
+      <price>14653</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11806,7 +11726,7 @@
     <offer sku="2347C001" xmlns="">
       <model>2347C001 Water Resistant Self-adhesive Matte Vinyl 330 g/mІ 1372 mm x 20.5 m 1 Roll</model>
       <brand>Canon</brand>
-      <price>16180</price>
+      <price>16207</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11814,7 +11734,7 @@
     <offer sku="3977B003" xmlns="">
       <model>3977B003 Artistic Satin Canvas 350 g/mІ 1067 mm x 12 m 1 Roll</model>
       <brand>Canon</brand>
-      <price>17213</price>
+      <price>17243</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11822,7 +11742,7 @@
     <offer sku="4999B001" xmlns="">
       <model>4999B001 Front Print Backlit Film 230 мm 610 mm x 30 m 1 Roll</model>
       <brand>Canon</brand>
-      <price>14629</price>
+      <price>14653</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11838,7 +11758,7 @@
     <offer sku="0385B002" xmlns="">
       <model>DRUM IR 2016/2020</model>
       <brand>Canon</brand>
-      <price>135663</price>
+      <price>135936</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11907,14 +11827,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="2889C001" xmlns="">
-      <model>PFI-320 Matte Black (300 ml)</model>
-      <brand>Canon</brand>
-      <price>84884</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="8524B002" xmlns="">
       <model>TONER C-EXV 49 BLACK  Yield 36k for iR ADV C33xx</model>
       <brand>Canon</brand>
@@ -11959,14 +11871,6 @@
       <model>TONER C-EXV 51L MAGENTA  26,000 pages for iR ADV C55xx</model>
       <brand>Canon</brand>
       <price>115878</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="1394C002" xmlns="">
-      <model>TONER C-EXV 54 Black 15,500 pages for iR ADV C30xx</model>
-      <brand>Canon</brand>
-      <price>37134</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12030,7 +11934,7 @@
     <offer sku="2187C002" xmlns="">
       <model>Фотобарабан Синий Drum Unit C-EXV55 iR С256i/С356i/С356P</model>
       <brand>Canon</brand>
-      <price>155303</price>
+      <price>155619</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12054,7 +11958,7 @@
     <offer sku="DS-U12" xmlns="">
       <model>Веб-камера Hikvision DS-U12 (2MP CMOS Sensor0.1Lux @ (F1.2,AGC ON),Built-in Mic,USB 2.0,19201080@30/25fps,3.6mm Fixed Lens, кабель 2м, Windows 7/10, Android, Linux, macOS)</model>
       <brand>Hikvision</brand>
-      <price>29938</price>
+      <price>29995</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12062,7 +11966,7 @@
     <offer sku="DS-UC2" xmlns="">
       <model>Веб-камера Hikvision DS-UC2 (2MP CMOS Sensor0.1Lux @ (F1.2,AGC ON),Auto Focus,Built-in Mic,USB 2.0,19201080@30/25fps,Anodic Treatment.NEW Design Packge.3.6mm Fixed Lens, кабель 2м, Windows 7/10, Android, Linux, macOS)</model>
       <brand>Hikvision</brand>
-      <price>42436</price>
+      <price>42520</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12070,7 +11974,7 @@
     <offer sku="DS-UL2" xmlns="">
       <model>Веб-камера Hikvision DS-UL2 (2MP CMOS Sensor0.1Lux @ (F1.2,AGC ON),Built-in Mic,USB 2.0,19201080@30/25fps,3.6mm Fixed LensAuto Focus,Magnetic bracketBuilt-in fill LightFree Desktop-Tripodб Интерфейс Type-C, поддержка протокола USB 2.0, кабель 2 м))</model>
       <brand>Hikvision</brand>
-      <price>59001</price>
+      <price>59116</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12094,7 +11998,7 @@
     <offer sku="N3R87A6" xmlns="">
       <model>HP (Bulk) USB Business Slim Keyboard  KAZ</model>
       <brand>HP</brand>
-      <price>69506</price>
+      <price>69635</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12102,7 +12006,7 @@
     <offer sku="RLS5C" xmlns="">
       <model>Робот-пылесос Dreame Bot W10 White</model>
       <brand>Dreame</brand>
-      <price>458528</price>
+      <price>459301</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12110,7 +12014,7 @@
     <offer sku="RVS5-WH0" xmlns="">
       <model>Робот-пылесос с функцией влажной уборки Dreame Robot Vacuum-Mop F9 White</model>
       <brand>Dreame</brand>
-      <price>179715</price>
+      <price>179963</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12118,7 +12022,7 @@
     <offer sku="YMYM GY1 Red" xmlns="">
       <model>Звуковая электрическая зубная щетка DR.BEI Sonic Electric Toothbrush GY1 красная</model>
       <brand>DR.BEI</brand>
-      <price>10753</price>
+      <price>10768</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12126,7 +12030,7 @@
     <offer sku="DR.BEI S7 Marbling White" xmlns="">
       <model>Звуковая электрическая зубная щетка DR.BEI Sonic Electric Toothbrush S7 мраморно-белая</model>
       <brand>DR.BEI</brand>
-      <price>37027</price>
+      <price>37097</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12134,7 +12038,7 @@
     <offer sku="DR.BEI GF3" xmlns="">
       <model>Портативный ирригатор DR.BEI Portable Water Flosser GF3 белый</model>
       <brand>DR.BEI</brand>
-      <price>23002</price>
+      <price>23044</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12142,7 +12046,7 @@
     <offer sku="M1805 Blue" xmlns="">
       <model>Умные весы YUNMAI S Blue</model>
       <brand>YUNMAI</brand>
-      <price>21901</price>
+      <price>21935</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12150,7 +12054,7 @@
     <offer sku="M1805 Pink" xmlns="">
       <model>Умные весы YUNMAI S Pink</model>
       <brand>YUNMAI</brand>
-      <price>21901</price>
+      <price>21935</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12158,7 +12062,7 @@
     <offer sku="865414-B21" xmlns="">
       <model>HPE 800W FS Plat Ht Plg LH Pwr Sply Kit</model>
       <brand>HPE</brand>
-      <price>72426</price>
+      <price>72556</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12166,7 +12070,7 @@
     <offer sku="P40497-B21" xmlns="">
       <model>HPE 480GB SATA 6G Read Intensive SFF BC Multi Vendor SSD</model>
       <brand>HPE</brand>
-      <price>91803</price>
+      <price>91992</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12174,7 +12078,7 @@
     <offer sku="P9Q45A" xmlns="">
       <model>HPE G2 Basic 7.3kVA/(20) C13 INTL PDU</model>
       <brand>HPE</brand>
-      <price>84063</price>
+      <price>84238</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12182,7 +12086,7 @@
     <offer sku="873770-B21" xmlns="">
       <model>HPE DL3xx Gen10 Rear Serial Cable Kit</model>
       <brand>HPE</brand>
-      <price>16722</price>
+      <price>16751</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12190,7 +12094,7 @@
     <offer sku="P06307-B21" xmlns="">
       <model>HPE ML30 Gen10 Mini SAS Cable Kit</model>
       <brand>HPE</brand>
-      <price>20366</price>
+      <price>20402</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12198,7 +12102,7 @@
     <offer sku="R0Q97A" xmlns="">
       <model>HPE SN6010C 16Gb 12p 16Gb SFP+ FC Swch</model>
       <brand>HPE</brand>
-      <price>3205121</price>
+      <price>3212001</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12206,23 +12110,15 @@
     <offer sku="P07640-B21" xmlns="">
       <model>HPE 16GB 1Rx4 PC4-3200AA-R Smart Kit</model>
       <brand>HPE</brand>
-      <price>48149</price>
+      <price>48246</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="P00924-B21" xmlns="">
-      <model>HPE 32GB (1x32GB) Dual Rank x4 DDR4-2933 CAS-21-21-21 Registered Smart Memory Kit</model>
-      <brand>HPE</brand>
-      <price>93771</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="P02492-B21" xmlns="">
       <model>HPE DL380 Gen10 Xeon-S 4210 Kit</model>
       <brand>HPE</brand>
-      <price>338464</price>
+      <price>339172</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12230,15 +12126,7 @@
     <offer sku="P17540-B21" xmlns="">
       <model>HPE DL385 Gen10+ AMD EPYC 7302 Kit</model>
       <brand>HPE</brand>
-      <price>628989</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="P24487-B21" xmlns="">
-      <model>Intel Xeon-G 6248R Kit for DL360 Gen10</model>
-      <brand>Intel</brand>
-      <price>1842966</price>
+      <price>630324</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12246,7 +12134,7 @@
     <offer sku="LI32111CT00" xmlns="">
       <model>LIEBERT itON 600VA E 230V</model>
       <brand>Vertiv</brand>
-      <price>26517</price>
+      <price>26566</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12254,7 +12142,7 @@
     <offer sku="SMT1000I" xmlns="">
       <model>Smart-UPS SMT, Line-Interactive, 1000VA / 700W, Tower, IEC, LCD, USB</model>
       <brand>APC</brand>
-      <price>370697</price>
+      <price>371470</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12262,25 +12150,9 @@
     <offer sku="GXT5-10KIRT5UXLE" xmlns="">
       <model>Vertiv Liebert GXT5 1ph UPS, 10kVA, input plug - hardwired, 5U, output – 230V, hardwired, output socket groups (4)C13 &amp; (4)C19</model>
       <brand>Vertiv</brand>
-      <price>1479281</price>
+      <price>1482458</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="960-000867" xmlns="">
-      <model>Веб-камера для видеоконференций Logitech BCC950, конструкция "всё-в-одном" для установки на столе: камера, устройство громкой связи, пульт ДУ (M/N: V-U0029)</model>
-      <brand>Logitech</brand>
-      <price>119300</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="960-001057" xmlns="">
-      <model>Система для видеоконференций Logitech Group (в комплекте камера, устр. громкой связи, пульт ДУ, концентратор, блок питания, крепление) (M/N: V-U0032/V-U0033/V-U0036/VU0037)</model>
-      <brand>Logitech</brand>
-      <price>613169</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="DS-2TP21B-6AVF/W" xmlns="">
@@ -12294,7 +12166,7 @@
     <offer sku="GX40V10007" xmlns="">
       <model>Рюкзак Lenovo Legion 17” Armored Backpack II</model>
       <brand>Lenovo</brand>
-      <price>36461</price>
+      <price>36521</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12302,7 +12174,7 @@
     <offer sku="GX40Q17226" xmlns="">
       <model>Рюкзак для ноутбука Lenovo 15.6 Backpack B210 Blue</model>
       <brand>Lenovo</brand>
-      <price>9202</price>
+      <price>9214</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12310,7 +12182,7 @@
     <offer sku="GX40Q17228" xmlns="">
       <model>Рюкзак для ноутбука Lenovo 15.6 Backpack B210 Green</model>
       <brand>Lenovo</brand>
-      <price>9202</price>
+      <price>9214</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12318,7 +12190,7 @@
     <offer sku="GX40Q17227" xmlns="">
       <model>Рюкзак для ноутбука Lenovo 15.6 Backpack B210 Grey</model>
       <brand>Lenovo</brand>
-      <price>9202</price>
+      <price>9214</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12326,7 +12198,7 @@
     <offer sku="GX40Q17225" xmlns="">
       <model>Рюкзак для ноутбука Lenovo15.6 Backpack B210 Black</model>
       <brand>Lenovo</brand>
-      <price>9202</price>
+      <price>9214</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12334,7 +12206,7 @@
     <offer sku="GX40Q17229" xmlns="">
       <model>Сумка для ноутбука Lenovo 15.6 Toploader T210 Black</model>
       <brand>Lenovo</brand>
-      <price>9202</price>
+      <price>9214</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12342,7 +12214,7 @@
     <offer sku="GX40Q17231" xmlns="">
       <model>Сумка для ноутбука Lenovo 15.6 Toploader T210 Grey</model>
       <brand>Lenovo</brand>
-      <price>9202</price>
+      <price>9214</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12419,10 +12291,18 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="DK-03" xmlns="">
+      <model>Кулер для процессора ID-Cooling DK-03, S1200/115x/775/AMD, 100W, 12cm fan, 1600rpm, 58.4CFM, 3pin</model>
+      <brand>ID-Cooling</brand>
+      <price>5821</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="DK-03A RGB PWM" xmlns="">
       <model>Кулер для процессора ID-Cooling DK-03A RGB PWM, AMD AM4, 100W, 12cm fan, 500-1800rpm, 61.5CFM, 4pin</model>
       <brand>ID-Cooling</brand>
-      <price>8256</price>
+      <price>8098</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12787,14 +12667,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="SYS-5019C-MR" xmlns="">
-      <model>Supermicro SuperServer SYS-5019C-MR 1U, 1xLGA 1151, TDP up to 95W, Intel C246, 4xDDR4, 4x3.5" Hot-swap, SATA3 (6Gbps); RAID 0, 1, 5, 10, 1xPCI-E 3.0 x16, 2x1GbE LAN, 1xRJ45 IPMI, 2xUSB 3.1, 2xUSB 2.0, 1xVGA, 1 COM, 2x400W</model>
-      <brand>SUPERMICRO</brand>
-      <price>767444</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="SYS-5039C-I" xmlns="">
       <model>Supermicro SuperWorkstation SYS-5039C-I Mid-Tower, LGA-1151, TDP 95W, Intel C242, 4xDDR4, 4xFixed 3.5'' drive, SATA3 (6Gbps); RAID 0, 1, 5, 10, 1xPCI-E 3.0 x8, 2xPCI-E 3.0 x4, 2x1GbE LAN, 4xUSB 3.2 Gen1, 2xUSB 2.0, 1xVGA, 1 COM, 400W</model>
       <brand>SUPERMICRO</brand>
@@ -12894,7 +12766,7 @@
     <offer sku="2X7N5EA" xmlns="">
       <model>HP ProBook 450 G8 / UMA i5-1135G7 / 15.6 FHD UWVA 250HDCNWBZbent / 8GB 1D DDR4 3200 / SSD 256GB PCIe NVMe Value / OSTW10P6 / 1yw / Webcam 720p DM / kbd CP num kypd SR / IntelWiFi6AX201ax2x2MUMIMOnvP160MHz+BT5 / ID PKS ALU / FPS / MISC Packaging</model>
       <brand>HP</brand>
-      <price>439708</price>
+      <price>440590</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12902,7 +12774,7 @@
     <offer sku="21BV002RRT" xmlns="">
       <model>ThinkPad T16G1_I5-1235U_IG+8G+AX211/16_WUXGA_AG_300N/CORE_I5-1235U_1.3G_10C_12T/NONE,8GB(4X16GX16)_DDR4_3200/256GB_SSD_M.2_2280_NVME_TLC_OP/INTEGRATED_UHD_GRAPHICS/W11_PRO_DG</model>
       <brand>Lenovo</brand>
-      <price>709079</price>
+      <price>710533</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12910,7 +12782,7 @@
     <offer sku="20VES01F00" xmlns="">
       <model>Ноутбук Lenovo ThinkBook 15 G2 ITL Intel Core i5-1135G7 8GB 512GB SSD MX450 2GB Windows 10 pro Academ 1Y</model>
       <brand>Lenovo</brand>
-      <price>543079</price>
+      <price>544185</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12918,7 +12790,7 @@
     <offer sku="90Q900CXKZ" xmlns="">
       <model>Системный блок Lenovo 90Q900CXKZ  Legion T7 34IMZ5 Intel Core i7-11700KF 3,6Ghz Octa/4x8GB/1TB SSD+1TB HDD/NVIDIA GeForce RTX 3080 10GB GDDR6X/Wi-Fi 6/BT5.0/Windows 11 Home/1Y/Black</model>
       <brand>Lenovo</brand>
-      <price>906609</price>
+      <price>908533</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12926,7 +12798,7 @@
     <offer sku="90RC01D0RU" xmlns="">
       <model>Системный блок Lenovo 90RC01D0RU  Legion T5 26AMR5 AMD Ryzen 7 5800 3,4Ghz Octa/16GB/1TB+256GB/NVIDIA GeForce RTX 3060 12GB GDDR6/USB mouse+keyboard/Wi-Fi 6/BT5.1/DOS/1Y/Black</model>
       <brand>Lenovo</brand>
-      <price>437009</price>
+      <price>437926</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12934,7 +12806,7 @@
     <offer sku="90RE00J2RS" xmlns="">
       <model>Системный блок Lenovo 90RE00J2RS IdeaCentre Gaming5 14IOB6 Intel Core i5-11400F 2,6Ghz Hexa/8GB/256GB/NVIDIA GeForce RTX 3060 12GB GDDR6/Wi-Fi/BT5.0/DOS/1Y/Black</model>
       <brand>Lenovo</brand>
-      <price>354261</price>
+      <price>354998</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12942,7 +12814,7 @@
     <offer sku="90RT009GRS" xmlns="">
       <model>Системный блок Lenovo 90RT009GRS Legion T5 26IOB6 Intel Core i5-11400F 2,6Ghz Hexa/16GB/256GB/NVIDIA GeForce RTX 3060 12GB GDDR6/Wi-Fi 6/BT5.1/DOS/1Y/Black</model>
       <brand>Lenovo</brand>
-      <price>370852</price>
+      <price>371625</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12950,7 +12822,7 @@
     <offer sku="90RT00RVRS" xmlns="">
       <model>Системный блок Lenovo 90RT00RVRS Legion T5 26IOB6 Intel Core i5-11400F 2,6Ghz Hexa/2x8GB/512GB/NVIDIA GeForce RTX 3060 Ti 8GB GDDR6/Wi-Fi 6/BT5.1/DOS/1Y/Black</model>
       <brand>Lenovo</brand>
-      <price>428739</price>
+      <price>429639</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12958,7 +12830,7 @@
     <offer sku="90RT00TNRS" xmlns="">
       <model>Системный блок Lenovo 90RT00TNRS Legion T5 26IOB6 Intel Core i7-11700F 2,5Ghz Octa/2x16GB/1TB SSD/NVIDIA GeForce RTX 3070 8GB GDDR6/Wi-Fi 6/BT5.1/DOS/1Y/Black</model>
       <brand>Lenovo</brand>
-      <price>633555</price>
+      <price>634886</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12966,7 +12838,7 @@
     <offer sku="DS-D5019QE-B" xmlns="">
       <model>Монитор Hikvision 18.5" 1366768, HDMI/VGA input, view angle:90°/65°, plastic casing, ERP level A,VESA, base bracket included</model>
       <brand>Hikvision</brand>
-      <price>47573</price>
+      <price>47657</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12974,7 +12846,7 @@
     <offer sku="TF2234MC-B7X" xmlns="">
       <model>Монитор LCD 21.5'' [16:9] 1920х1080(FHD) IPS, nonGLARE, TOUCH, 350cd/m2, H178°/V178°, 1000:1, 16.7M, 8ms, VGA, HDMI, DP, Open frame, 3Y, Black</model>
       <brand>Iiyama</brand>
-      <price>263376</price>
+      <price>263888</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12982,7 +12854,7 @@
     <offer sku="DS-D5024FN(M)" xmlns="">
       <model>Монитор Hikvision 23.8" 1080P, HDMI/VGA input, view angle:178°/178°, plastic casing, VESA, base bracket included, 724h</model>
       <brand>Hikvision</brand>
-      <price>71955</price>
+      <price>72079</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12990,7 +12862,7 @@
     <offer sku="242B1TC/00" xmlns="">
       <model>Монитор жидкокристаллический Philips 242B1TC/00 23.8'' 16:9 1920х1080(FHD) IPS, nonGLARE, TOUCH, 250cd/m2, H178°/V178°, 1000:1, 50M:1, 16,7М, 4ms, VGA, DVI, 1,4, 1,2, Height adj, Tilt, Swivel, Speakers, 3Y, Black</model>
       <brand>Philips</brand>
-      <price>208584</price>
+      <price>208978</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12998,7 +12870,7 @@
     <offer sku="DS-D5027FN(M)" xmlns="">
       <model>Монитор Hikvision 27" 1080P, HDMI/VGA input, view angle:178°/178°,  plastic casing, VESA, base bracket included, 724h</model>
       <brand>Hikvision</brand>
-      <price>85910</price>
+      <price>86064</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13006,7 +12878,7 @@
     <offer sku="XU2793HSU-B4" xmlns="">
       <model>Монитор LCD 27'' [16:9] 1920х1080(FHD) IPS, nonGLARE, 300cd/m2, H178°/V178°, 1000:1, 80M:1, 16,7 миллионов цветов, 4ms, VGA, DVI, HDMI, DP, USB-Hub, Tilt, Speakers, 3Y, Black</model>
       <brand>Iiyama</brand>
-      <price>82861</price>
+      <price>83008</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13014,7 +12886,7 @@
     <offer sku="T2735MSC-B3" xmlns="">
       <model>Монитор LCD 27'' [16:9] 1920х1080(FHD) IPS, nonGLARE, TOUCH, 300cd/m2, H178°/V178°, 1000:1, 12M:1, 16.7M, 5ms, VGA, DVI, HDMI, DP, USB-Hub, Tilt, Speakers, Webcam, 3Y, Black</model>
       <brand>Iiyama</brand>
-      <price>294801</price>
+      <price>295381</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13022,7 +12894,7 @@
     <offer sku="T2754MSC-B1AG" xmlns="">
       <model>Монитор LCD 27'' [16:9] 1920х1080(FHD) IPS, nonGLARE, TOUCH, 300cd/m2, H178°/V178°, 1000:1, 80M:1, 16.7M, 4ms, VGA, DVI, HDMI, USB-Hub, Height adj, Tilt, Speakers, Webcam, 3Y, Black</model>
       <brand>Iiyama</brand>
-      <price>235978</price>
+      <price>236430</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13030,7 +12902,7 @@
     <offer sku="278E1A/00" xmlns="">
       <model>278E1A/00  Монитор LCD 27'' 16:9 4K 3840х2160 IPS, nonGLARE, 350cd/m2, H178°/V178°, 1000:1, 16.7M Color, 4ms, DP, HDMIx2, Tilt, Audio out, 2Y, Black</model>
       <brand>PHILIPS</brand>
-      <price>199798</price>
+      <price>200172</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13038,7 +12910,7 @@
     <offer sku="273V7QDAB/01" xmlns="">
       <model>Монитор LCD 27'' 16:9 1920х1080 IPS, nonGLARE, 250cd/m2, H178°/V178°, 10М:1, 5ms, VGA, DVI, HDMI, Tilt, Speakers, Audio out, 2Y, Black</model>
       <brand>PHILIPS</brand>
-      <price>80742</price>
+      <price>80884</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13046,7 +12918,7 @@
     <offer sku="27M1N3200VA/00" xmlns="">
       <model>Монитор жидкокристаллический PHILIPS 27M1N3200VA/00 LCD 27'' 16:9 1920х1080 165Hz, VA, nonGLARE, 250cd/m2, H178°/V178°, 1ms HDMIх2, DP, Tilt, HAS, Black</model>
       <brand>PHILIPS</brand>
-      <price>102966</price>
+      <price>103157</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13062,9 +12934,9 @@
     <offer sku="LH65WMRWBGCXCI" xmlns="">
       <model>LH65WMRWBGCXCI Samsung Flip  Интерактивный дисплей 65"</model>
       <brand>Samsung</brand>
-      <price>3282517</price>
+      <price>3289483</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="4621C009" xmlns="">
@@ -13166,7 +13038,7 @@
     <offer sku="GY51C96033" xmlns="">
       <model>Мышь Lenovo Legion M600 Wireless Gaming Mouse White</model>
       <brand>Lenovo</brand>
-      <price>26827</price>
+      <price>26877</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13254,7 +13126,7 @@
     <offer sku="GXH0W29068" xmlns="">
       <model>Коврик для мыши Lenovo Legion Gaming XL Cloth Mouse Pad</model>
       <brand>Lenovo</brand>
-      <price>8573</price>
+      <price>8585</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13262,7 +13134,7 @@
     <offer sku="GXY0K07130" xmlns="">
       <model>Коврик для мыши Lenovo Y Gaming Mouse Pad</model>
       <brand>Lenovo</brand>
-      <price>6299</price>
+      <price>6306</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13294,7 +13166,7 @@
     <offer sku="WD8001PURA-64" xmlns="">
       <model>Накопитель на жестком магнитном диске WD Purple PRO WD8001PURA-64 8ТБ 3,5" 7200RPM 256MB (SATA-III) All Frame AI для видеонаблюдения Hikvision</model>
       <brand>WD</brand>
-      <price>125101</price>
+      <price>125354</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13310,25 +13182,9 @@
     <offer sku="DS220+" xmlns="">
       <model>Сетевое оборудование Synology Сетевой NAS сервер DS220+ 2xHDD для дома</model>
       <brand>Synology</brand>
-      <price>216719</price>
+      <price>217182</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="W-V673-02_Black" xmlns="">
-      <model>Смартфон WIKO T10  Rally  W-V673-02 Black</model>
-      <brand>WIKO</brand>
-      <price>53518</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="W-V673-02_Green" xmlns="">
-      <model>Смартфон WIKO T10  Rally  W-V673-02 Green</model>
-      <brand>WIKO</brand>
-      <price>53518</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="W-P861-03_Black" xmlns="">
@@ -13358,7 +13214,7 @@
     <offer sku="Ezzy Trendy 1 Grey" xmlns="">
       <model>Ezzy Trendy 1 Grey, 2.4'' 240х320, 256MHz, 1 Core, 32MB RAM, 32MB, up to 16GB flash, 0,3Mpix, 2 Sim, BT v2.1, Micro-USB, 800mAh, 89g, 100,8 ммx53 ммx19,5 мм</model>
       <brand>F+</brand>
-      <price>24906</price>
+      <price>24927</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13366,7 +13222,7 @@
     <offer sku="F197 Dark Blue" xmlns="">
       <model>F+ F197 Dark blue, 1.77'' 128x160, 32MB RAM, 32MB, up to 32GB flash, 0.08Mpix, 2 Sim, BT v2.0, Micro-USB, 600mAh, 70g, 114 ммx48 ммx13 мм</model>
       <brand>F+</brand>
-      <price>20104</price>
+      <price>20115</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13374,7 +13230,7 @@
     <offer sku="Flip2 Black" xmlns="">
       <model>Flip2 Black, 2.4'' 240х320, 32MB RAM, 32MB, up to 32GB flash, 0.08Mpix, 2 Sim, BT v3.0, Micro-USB, 750 мА·ч, 100g, 106,3 ммx51,5 ммx15,2 мм</model>
       <brand>F+</brand>
-      <price>24342</price>
+      <price>24363</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13403,18 +13259,10 @@
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="1X644AA" xmlns="">
-      <model>HP Prelude Pro Recycle Backpack</model>
-      <brand>HP</brand>
-      <price>19213</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="GX40X54262" xmlns="">
       <model>Сумка для ноутбука Lenovo 15.6 Laptop Urban Toploader T530</model>
       <brand>Lenovo</brand>
-      <price>21229</price>
+      <price>21262</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13422,7 +13270,7 @@
     <offer sku="GX40Z24050" xmlns="">
       <model>Рюкзак для ноутбука Lenovo Laptop 15.6 IdeaPad Gaming Backpack</model>
       <brand>Lenovo</brand>
-      <price>17353</price>
+      <price>17377</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13430,7 +13278,7 @@
     <offer sku="GX40X54263" xmlns="">
       <model>Рюкзак для ноутбука Lenovo Laptop 17.3 Urban Backpack B730</model>
       <brand>Lenovo</brand>
-      <price>30982</price>
+      <price>31030</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13438,7 +13286,7 @@
     <offer sku="AU656AA" xmlns="">
       <model>HP Docking Station Cable Lock</model>
       <brand>HP</brand>
-      <price>6360</price>
+      <price>6365</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13446,7 +13294,7 @@
     <offer sku="Copper 10WU Black" xmlns="">
       <model>Сетевое зарядное устройство Accesstyle Copper 10WU Black</model>
       <brand>Accesstyle</brand>
-      <price>4881</price>
+      <price>4884</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13454,7 +13302,7 @@
     <offer sku="Copper 10WU White" xmlns="">
       <model>Сетевое зарядное устройство Accesstyle Copper 10WU White</model>
       <brand>Accesstyle</brand>
-      <price>4881</price>
+      <price>4884</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13462,7 +13310,7 @@
     <offer sku="Sunset 18WU Black" xmlns="">
       <model>Сетевое зарядное устройство Accesstyle Sunset 18WU Black</model>
       <brand>Accesstyle</brand>
-      <price>5848</price>
+      <price>5852</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13470,7 +13318,7 @@
     <offer sku="004220" xmlns="">
       <model>Внешний аккумулятор Accesstyle Midnight II 10P Black</model>
       <brand>Accesstyle</brand>
-      <price>8561</price>
+      <price>8572</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13574,7 +13422,7 @@
     <offer sku="Slim VX561 Black" xmlns="">
       <model>Электросамокат HIPER Slim VX561 Black, колеса 6.5"-5" шины литые шины, 230 Вт мотор, батарея 4Ач(25,2В,101Втч), до 20кмч, черный</model>
       <brand>HIPER</brand>
-      <price>135708</price>
+      <price>135943</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13582,7 +13430,7 @@
     <offer sku="Slim VX581 Black" xmlns="">
       <model>Электросамокат HIPER Slim VX581 Black, колеса 6.5"-5" шины литые шины, 230 Вт мотор, батарея 5,2Ач(25,2В,132Втч), до 20кмч, черный</model>
       <brand>HIPER</brand>
-      <price>139326</price>
+      <price>139569</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13590,7 +13438,7 @@
     <offer sku="Slim VX665 Black" xmlns="">
       <model>Электросамокат HIPER Slim VX665 Black, колеса 6.5" шины литые шины, 250 Вт мотор, батарея 6Ач(36В,216Втч), до 24кмч, черный</model>
       <brand>HIPER</brand>
-      <price>167753</price>
+      <price>168057</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13598,7 +13446,7 @@
     <offer sku="Slim VX901 Black" xmlns="">
       <model>Электросамокат HIPER Slim VX901 Black, колеса 8" шины литые шины, 250 Вт мотор, батарея 5,2Ач(36В,188Втч), до 24кмч, черный</model>
       <brand>HIPER</brand>
-      <price>175506</price>
+      <price>175827</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13606,7 +13454,7 @@
     <offer sku="Slim VX905 Black" xmlns="">
       <model>Электросамокат HIPER Slim VX905 Black, колеса 8" шины надувные шины, 250 Вт мотор, батарея 5,2Ач(36В,188Втч), до 24кмч, черный</model>
       <brand>HIPER</brand>
-      <price>182225</price>
+      <price>182561</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13614,7 +13462,7 @@
     <offer sku="Slim VX907 Gray" xmlns="">
       <model>Электросамокат HIPER Slim VX907 Gray, колеса 8" шины надувные шины, 250 Вт мотор, батарея 7,8Ач(36В,281Втч), до 24кмч, серый</model>
       <brand>HIPER</brand>
-      <price>193596</price>
+      <price>193956</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13622,7 +13470,7 @@
     <offer sku="Stark DX801 Black" xmlns="">
       <model>Электросамокат HIPER Stark DX801 Black, колеса 8" шины надувные шины, 300 Вт мотор, батарея 5,2Ач(36В,188Втч), до 24кмч, черный</model>
       <brand>HIPER</brand>
-      <price>209281</price>
+      <price>209648</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13630,7 +13478,7 @@
     <offer sku="Triumph M88 Black" xmlns="">
       <model>Электросамокат HIPER Triumph M88 Black, колеса 8.5” шины надувные шины, 400 Вт мотор, батарея 7,5Ач(36В,270Втч), до 25кмч, черный</model>
       <brand>HIPER</brand>
-      <price>214449</price>
+      <price>214828</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13638,7 +13486,7 @@
     <offer sku="Triumph M88s Black" xmlns="">
       <model>Электросамокат HIPER Triumph M88s Black, колеса 8.5” шины надувные шины, 400 Вт мотор, батарея 7,5Ач(36В,270Втч), до 25кмч, черный</model>
       <brand>HIPER</brand>
-      <price>232022</price>
+      <price>232439</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13646,7 +13494,7 @@
     <offer sku="Triumph X85 Space Gray" xmlns="">
       <model>Электросамокат HIPER Triumph X85 Space Gray, колеса 8.5” шины надувные шины, 400 Вт мотор, батарея 7,5Ач(36В,270Втч), до 25кмч, cерый космос</model>
       <brand>HIPER</brand>
-      <price>239258</price>
+      <price>239691</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13718,7 +13566,7 @@
     <offer sku="P28352-B21" xmlns="">
       <model>HPE 2.4TB SAS 12G Mission Critical 10K SFF BC 3-year Warranty 512e HDD</model>
       <brand>HPE</brand>
-      <price>158873</price>
+      <price>159210</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13726,7 +13574,7 @@
     <offer sku="4XB7A38274" xmlns="">
       <model>ThinkSystem 2.5" Multi Vendor 1.92TB Entry SATA 6Gb Hot Swap SSD</model>
       <brand>Lenovo</brand>
-      <price>443573</price>
+      <price>444504</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13734,7 +13582,7 @@
     <offer sku="P01366-B21" xmlns="">
       <model>HPE 96W Smart Storage Battery (up to 20 Devices) with 145mm Cable Kit</model>
       <brand>HPE</brand>
-      <price>22005</price>
+      <price>22044</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13742,7 +13590,7 @@
     <offer sku="7Y37A01088" xmlns="">
       <model>ThinkSystem STA 430-8i SAS/SATA HBA</model>
       <brand>Lenovo</brand>
-      <price>34787</price>
+      <price>34854</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13750,7 +13598,7 @@
     <offer sku="4ZC7A08709" xmlns="">
       <model>ThinkSystem 32GB TruDDR4 2933MHz (2Rx4 1.2V) RDIMM</model>
       <brand>Lenovo</brand>
-      <price>184157</price>
+      <price>184549</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13758,7 +13606,7 @@
     <offer sku="4X77A08634" xmlns="">
       <model>ThinkSystem 32GB TruDDR4 3200 MHz (2Rx8 1.2V) RDIMM</model>
       <brand>Lenovo</brand>
-      <price>196862</price>
+      <price>197281</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13766,7 +13614,7 @@
     <offer sku="7ZT7A00545" xmlns="">
       <model>ThinkSystem 1Gb 4-port RJ45 LOM (NOT FOR SELL ALONE)</model>
       <brand>Lenovo</brand>
-      <price>30652</price>
+      <price>30710</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13774,7 +13622,7 @@
     <offer sku="R0Q53A" xmlns="">
       <model>HPE MSA 900GB SAS 12G Enterprise 15K SFF (2.5in) M2 3yr Wty HDD</model>
       <brand>HPE</brand>
-      <price>197440</price>
+      <price>197861</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13782,7 +13630,7 @@
     <offer sku="RKM114" xmlns="">
       <model>Комплект направляющих Synology RKM114 - 1U Rail Kit</model>
       <brand>Synology</brand>
-      <price>30652</price>
+      <price>30710</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13790,7 +13638,7 @@
     <offer sku="RKS-02" xmlns="">
       <model>Направляющая Synology Комплект направляющих RKS-02 - 1/2U Rail Kit (аналог модели RKS1317)</model>
       <brand>Synology</brand>
-      <price>56494</price>
+      <price>56609</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13798,7 +13646,7 @@
     <offer sku="BV500I" xmlns="">
       <model>Источник бесперебойного питания APC Easy UPS, Интерактивная, 500 ВА / 300 Вт, Tower, IEC, LCD</model>
       <brand>APC</brand>
-      <price>35303</price>
+      <price>35372</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13806,7 +13654,7 @@
     <offer sku="SMC1000I" xmlns="">
       <model>Smart-UPS SC, Line-Interactive, 1000VA / 600W, Tower, IEC, LCD, USB</model>
       <brand>APC</brand>
-      <price>290067</price>
+      <price>290665</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13814,7 +13662,7 @@
     <offer sku="SMC2000I" xmlns="">
       <model>Smart-UPS SC, Line-Interactive, 2000VA / 1300W, Tower, IEC, LCD, USB</model>
       <brand>APC</brand>
-      <price>546944</price>
+      <price>548100</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13822,7 +13670,7 @@
     <offer sku="SMC3000I" xmlns="">
       <model>Smart-UPS SC, Line-Interactive, 3000VA / 2100W, Tower, IEC, LCD, USB</model>
       <brand>APC</brand>
-      <price>827528</price>
+      <price>829289</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13830,7 +13678,7 @@
     <offer sku="SMT1500I" xmlns="">
       <model>Smart-UPS SMT, Line-Interactive, 1500VA / 1000W, Tower, IEC, LCD, USB, SmartSlot</model>
       <brand>APC</brand>
-      <price>463213</price>
+      <price>464188</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13838,7 +13686,7 @@
     <offer sku="SRT2200XLI" xmlns="">
       <model>Источник бесперебойного питания APC Smart-UPS SRT, On-Line, 2200VA / 1980W, Tower, IEC, LCD, Serial+USB, SmartSlot, подкл. доп. батарей</model>
       <brand>APC</brand>
-      <price>1076135</price>
+      <price>1078436</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13846,7 +13694,7 @@
     <offer sku="RMKIT 18-32" xmlns="">
       <model>Liebert GXT3 / GXT4 Rack Slide Kits</model>
       <brand>Vertiv</brand>
-      <price>34270</price>
+      <price>34336</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13854,7 +13702,7 @@
     <offer sku="27012046" xmlns="">
       <model>Directional Antenna,51505850MHz,14dBi,30deg/30deg,N/Female,3port,with mounting parts,wall mounting</model>
       <brand>Huawei</brand>
-      <price>39231</price>
+      <price>39309</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13862,7 +13710,7 @@
     <offer sku="27010215" xmlns="">
       <model>Omni-directional Antenna,24002500MHz,11dBi,360deg/9deg,N/Female,1port,with mounting parts,pole mounting</model>
       <brand>Huawei</brand>
-      <price>14298</price>
+      <price>14321</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13886,7 +13734,7 @@
     <offer sku="CAB-DAC15M-SFPP-DEC02" xmlns="">
       <model>CAB-DAC15M-SFPP-DEC02 Кабель Qnap DAC 1,5 м.</model>
       <brand>QNAP</brand>
-      <price>55461</price>
+      <price>55573</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13998,7 +13846,7 @@
     <offer sku="HAV-00160" xmlns="">
       <model>Win Pro FPP 11 64-bit Russian Kazakhstan Only USB</model>
       <brand>Microsoft</brand>
-      <price>140360</price>
+      <price>140604</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -14006,7 +13854,7 @@
     <offer sku="FQC-10548" xmlns="">
       <model>Win 11 Pro 64Bit Russian 1pk DSP OEI Kazakhstan Only DVD</model>
       <brand>Microsoft</brand>
-      <price>89888</price>
+      <price>90058</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -14014,7 +13862,7 @@
     <offer sku="T5D-03545" xmlns="">
       <model>Office Home and Business 2021 Russian Kazakhstan Only Medialess P6</model>
       <brand>Microsoft</brand>
-      <price>162067</price>
+      <price>162360</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -14022,7 +13870,7 @@
     <offer sku="T5D-03484" xmlns="">
       <model>Office Home and Business 2021 All Lng PK Lic Online Central/Eastern Euro Only Dw (ESD)</model>
       <brand>Microsoft</brand>
-      <price>150697</price>
+      <price>150964</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -16878,7 +16726,7 @@
     <offer sku="AERO 16 KE5-72RU934HQ" xmlns="">
       <model>Ноутбук Gigabyte AERO 16 KE5, I7-12700H, RTX 3060 8Gb, AMOLED UHD+, DDR5-16Gb, PCIe 1Tb, W11P</model>
       <brand>Gigabyte</brand>
-      <price>744102</price>
+      <price>689961</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17038,7 +16886,7 @@
     <offer sku="004275" xmlns="">
       <model>Процессор Intel Core i7-13700F Raptor Lake (2100MHz, LGA1700, L3 30Mb), oem</model>
       <brand>Intel</brand>
-      <price>207479</price>
+      <price>206917</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17046,7 +16894,7 @@
     <offer sku="DK-17 PWM" xmlns="">
       <model>Кулер для процессора ID-Cooling DK-17 PWM, S1700, TDP 65W, 9cm, PWM 1600-2200rpm, 4pin</model>
       <brand>ID-Cooling</brand>
-      <price>6026</price>
+      <price>5947</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17054,7 +16902,7 @@
     <offer sku="SE-224-XTS" xmlns="">
       <model>Кулер для процессора ID-Cooling SE-224-XTS, S1700/1200/115x/AMD, 220W, 600-1500rpm, 4pin</model>
       <brand>ID-Cooling</brand>
-      <price>13062</price>
+      <price>12495</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17062,7 +16910,7 @@
     <offer sku="SE-914XT-Basic V2" xmlns="">
       <model>Кулер для процессора ID-Cooling SE-914XT-Basic V2, S1700/1200/20xx/115x/AMD, 180W, 600-2200rpm, 4pin</model>
       <brand>ID-Cooling</brand>
-      <price>12458</price>
+      <price>12153</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17070,7 +16918,7 @@
     <offer sku="SE-214-XT ARGB" xmlns="">
       <model>Кулер для процессора ID-Cooling SE-214-XT ARGB, S1700/1200/115x/AMD, 180W, 12cm, 500-1500rpm, 4pin</model>
       <brand>ID-Cooling</brand>
-      <price>11790</price>
+      <price>11301</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17206,7 +17054,7 @@
     <offer sku="NT01NV2000-1T0-E4X" xmlns="">
       <model>Твердотельный накопитель SSD 1TGb, M.2 2280, Netac NV2000, NVMe, PCIe 3x4, 2500R/2100W</model>
       <brand>Netac</brand>
-      <price>33394</price>
+      <price>32857</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18835,14 +18683,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="910-006751" xmlns="">
-      <model>Мышь (Box) LOGITECH M350 Pebble Bluetooth Mouse - SAND</model>
-      <brand>Logitech</brand>
-      <price>14335</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="910-006760" xmlns="">
       <model>Мышь (Box) LOGITECH M110 Silent - MID GRAY - USB - N/A - EMEA-808 - AKOYA HANGTAB BOX M110S</model>
       <brand>Logitech</brand>
@@ -19046,7 +18886,7 @@
     <offer sku="KF432C16BBK2/16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 3200MT/s DDR4 CL16 DIMM (Kit of 2) FURY Beast Black, EAN: 740617319903</model>
       <brand>Kingston</brand>
-      <price>26180</price>
+      <price>25980</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19256,7 +19096,7 @@
       <brand>Kingston</brand>
       <price>65737</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="KF556C40BBK2-32" xmlns="">
@@ -20262,7 +20102,7 @@
     <offer sku="004374" xmlns="">
       <model>Мобильный телефон Redmi Note 12 6GB RAM 128GB ROM NFC Ice Blue</model>
       <brand>Redmi</brand>
-      <price>109933</price>
+      <price>109921</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -20286,7 +20126,7 @@
     <offer sku="004377" xmlns="">
       <model>Мобильный телефон Redmi Note 12 Pro 8GB RAM 256GB ROM Graphite Gray</model>
       <brand>Redmi</brand>
-      <price>152629</price>
+      <price>143629</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -20294,7 +20134,7 @@
     <offer sku="004378" xmlns="">
       <model>Мобильный телефон Redmi Note 12 Pro 8GB RAM 256GB ROM Glacier Blue</model>
       <brand>Redmi</brand>
-      <price>152629</price>
+      <price>143629</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -20302,7 +20142,7 @@
     <offer sku="004379" xmlns="">
       <model>Мобильный телефон Redmi Note 12 Pro 8GB RAM 256GB ROM Polar White</model>
       <brand>Redmi</brand>
-      <price>152629</price>
+      <price>143629</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -20310,7 +20150,7 @@
     <offer sku="004380" xmlns="">
       <model>Мобильный телефон Redmi Note 12 Pro+ 5G 8GB RAM 256GB ROM Sky Blue</model>
       <brand>Redmi</brand>
-      <price>200944</price>
+      <price>199809</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -20318,7 +20158,7 @@
     <offer sku="004381" xmlns="">
       <model>Мобильный телефон Redmi Note 12 Pro+ 5G 8GB RAM 256GB ROM Midnight Black</model>
       <brand>Redmi</brand>
-      <price>200944</price>
+      <price>199809</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -20384,7 +20224,7 @@
       <brand>Poco</brand>
       <price>156225</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004390" xmlns="">
@@ -20392,7 +20232,7 @@
       <brand>Poco</brand>
       <price>156225</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004391" xmlns="">
@@ -20400,7 +20240,7 @@
       <brand>Poco</brand>
       <price>156225</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004392" xmlns="">
@@ -20440,7 +20280,7 @@
       <brand>ITEL</brand>
       <price>6652</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004398" xmlns="">
@@ -20448,7 +20288,7 @@
       <brand>ITEL</brand>
       <price>6652</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004399" xmlns="">
@@ -20456,7 +20296,7 @@
       <brand>ITEL</brand>
       <price>8697</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004400" xmlns="">
@@ -20464,7 +20304,7 @@
       <brand>ITEL</brand>
       <price>8697</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004401" xmlns="">
@@ -20472,7 +20312,7 @@
       <brand>ITEL</brand>
       <price>8697</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004402" xmlns="">
@@ -20832,7 +20672,7 @@
       <brand>Redmi</brand>
       <price>49091</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004452" xmlns="">
@@ -20840,7 +20680,7 @@
       <brand>Redmi</brand>
       <price>49091</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004455" xmlns="">
@@ -23744,7 +23584,7 @@
       <brand>Thermaltake</brand>
       <price>36706</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004920" xmlns="">
@@ -25822,7 +25662,7 @@
     <offer sku="005223" xmlns="">
       <model>Наушники Redmi Buds 4 Голубой</model>
       <brand>Redmi</brand>
-      <price>26499</price>
+      <price>24978</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25830,7 +25670,7 @@
     <offer sku="005224" xmlns="">
       <model>Наушники Redmi Buds 4 Белый</model>
       <brand>Redmi</brand>
-      <price>26499</price>
+      <price>24978</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -26744,7 +26584,7 @@
       <brand>SVC</brand>
       <price>30818</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005347" xmlns="">
@@ -28374,7 +28214,7 @@
     <offer sku="005559" xmlns="">
       <model>USB-накопитель Kingston DTX/64GB 64GB Чёрный</model>
       <brand>Kingstone</brand>
-      <price>2610</price>
+      <price>2538</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -29513,14 +29353,6 @@
       <price>455296</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="005747" xmlns="">
-      <model>Монохромный принтер Xerox VersaLink B610V_DN</model>
-      <brand>Xerox</brand>
-      <price>716710</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005748" xmlns="">
@@ -30784,7 +30616,7 @@
       <brand>TEFAL</brand>
       <price>38236</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005921" xmlns="">
@@ -32160,7 +31992,7 @@
       <brand>Centek</brand>
       <price>32800</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006116" xmlns="">
@@ -32336,7 +32168,7 @@
       <brand>REDMOND</brand>
       <price>6303</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006149" xmlns="">
@@ -32672,7 +32504,7 @@
       <brand>Centek</brand>
       <price>8172</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006196" xmlns="">
@@ -32758,7 +32590,7 @@
     <offer sku="006209" xmlns="">
       <model>Чайник REDMOND RK-M183</model>
       <brand>REDMOND</brand>
-      <price>23854</price>
+      <price>19360</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -38520,7 +38352,7 @@
       <brand>SHIP</brand>
       <price>2060</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007004" xmlns="">
@@ -39448,7 +39280,7 @@
       <brand>SHIP</brand>
       <price>465304</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007121" xmlns="">
@@ -41288,7 +41120,7 @@
       <brand>SE</brand>
       <price>30419</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007371" xmlns="">
@@ -44856,7 +44688,7 @@
       <brand>Xerox</brand>
       <price>89581</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="008103" xmlns="">
@@ -45760,7 +45592,7 @@
       <brand>Xerox</brand>
       <price>88810</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="008220" xmlns="">
@@ -45768,7 +45600,7 @@
       <brand>Xerox</brand>
       <price>88810</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="008221" xmlns="">
@@ -45776,7 +45608,7 @@
       <brand>Xerox</brand>
       <price>88810</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="008222" xmlns="">
@@ -49174,7 +49006,7 @@
     <offer sku="GXH1C97868" xmlns="">
       <model>Коврик для мыши Lenovo Legion Gaming Control Mouse Pad L (Light Grey) 450x400 mm</model>
       <brand>Lenovo</brand>
-      <price>6506</price>
+      <price>6513</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49190,7 +49022,7 @@
     <offer sku="GXH1C97870" xmlns="">
       <model>Коврик для мыши Lenovo Legion Gaming Control Mouse Pad L (Dark Grey) 450x400 mm</model>
       <brand>Lenovo</brand>
-      <price>6867</price>
+      <price>6876</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49198,7 +49030,7 @@
     <offer sku="GX30M86878" xmlns="">
       <model>Мышь Lenovo 300 Wireless (черная)</model>
       <brand>Lenovo</brand>
-      <price>7962</price>
+      <price>7971</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49206,7 +49038,7 @@
     <offer sku="YLDP007" xmlns="">
       <model>Умная LED-лампочка Yeelight Smart LED Bulb W3(White) YLDP007</model>
       <brand>Yeelight</brand>
-      <price>10525</price>
+      <price>10534</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49222,7 +49054,7 @@
     <offer sku="Flame TWS Black" xmlns="">
       <model>Беспроводные наушники Accesstyle Flame TWS Black</model>
       <brand>Accesstyle</brand>
-      <price>6712</price>
+      <price>6720</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49238,7 +49070,7 @@
     <offer sku="GX40Q17232" xmlns="">
       <model>Сумка для ноутбука Lenovo 15.6" Casual Toploader T210 Green</model>
       <brand>Lenovo</brand>
-      <price>9202</price>
+      <price>9214</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49254,7 +49086,7 @@
     <offer sku="Grain TWS Dark Grey" xmlns="">
       <model>Беспроводные наушники Accesstyle Grain TWS Dark Grey</model>
       <brand>Accesstyle</brand>
-      <price>8427</price>
+      <price>8437</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49262,7 +49094,7 @@
     <offer sku="Grain TWS Silver" xmlns="">
       <model>Беспроводные наушники Accesstyle Grain TWS Silver</model>
       <brand>Accesstyle</brand>
-      <price>8427</price>
+      <price>8437</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49278,7 +49110,7 @@
     <offer sku="Lava 10M" xmlns="">
       <model>Внешний аккумулятор Accesstyle Lava 10M, 10000 мА·ч, without display</model>
       <brand>Accesstyle</brand>
-      <price>9997</price>
+      <price>10009</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49286,7 +49118,7 @@
     <offer sku="Amethyst 33WCA White" xmlns="">
       <model>Сетевое зарядное устройство Accesstyle Amethyst 33WCA White</model>
       <brand>Accesstyle</brand>
-      <price>11077</price>
+      <price>11092</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49294,7 +49126,7 @@
     <offer sku="MFKZQ01LM" xmlns="">
       <model>Куб управления Aqara Cube MFKZQ01LM</model>
       <brand>Aqara</brand>
-      <price>12546</price>
+      <price>12560</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49342,7 +49174,7 @@
     <offer sku="Lava 10D" xmlns="">
       <model>Внешний аккумулятор Accesstyle Lava 10D, 10000 мА·ч, with display</model>
       <brand>Accesstyle</brand>
-      <price>10907</price>
+      <price>10921</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49358,7 +49190,7 @@
     <offer sku="YMYM GY1 White" xmlns="">
       <model>Звуковая электрическая зубная щетка DR.BEI Sonic Electric Toothbrush GY1 белая</model>
       <brand>DR.BEI</brand>
-      <price>10753</price>
+      <price>10768</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49366,7 +49198,7 @@
     <offer sku="Charcoal II 10MPQP" xmlns="">
       <model>Внешний аккумулятор Accesstyle Charcoal II 10MPQP, 10000 мА·ч, 3 подкл. устройства, серый</model>
       <brand>Accesstyle</brand>
-      <price>10390</price>
+      <price>10403</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49374,7 +49206,7 @@
     <offer sku="Tornado TWS Wireless Black" xmlns="">
       <model>Беспроводные наушники Tornado TWS Wireless Black</model>
       <brand>Accesstyle</brand>
-      <price>11466</price>
+      <price>11483</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49382,7 +49214,7 @@
     <offer sku="Tornado TWS Black" xmlns="">
       <model>Беспроводные наушники Accesstyle Tornado TWS Black</model>
       <brand>Accesstyle</brand>
-      <price>8964</price>
+      <price>8976</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49390,7 +49222,7 @@
     <offer sku="Tornado TWS White" xmlns="">
       <model>Беспроводные наушники Accesstyle Tornado TWS White</model>
       <brand>Accesstyle</brand>
-      <price>9869</price>
+      <price>9882</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49398,7 +49230,7 @@
     <offer sku="Citrus TWS Black" xmlns="">
       <model>Беспроводные наушники Accesstyle Citrus TWS Black</model>
       <brand>Accesstyle</brand>
-      <price>9373</price>
+      <price>9385</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49406,7 +49238,7 @@
     <offer sku="B170 Black" xmlns="">
       <model>B170 Black</model>
       <brand>F+</brand>
-      <price>21004</price>
+      <price>21016</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49414,7 +49246,7 @@
     <offer sku="Nimbus TWS Gray" xmlns="">
       <model>Беспроводные наушники Accesstyle Nimbus TWS Gray</model>
       <brand>Accesstyle</brand>
-      <price>9993</price>
+      <price>10007</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49422,7 +49254,7 @@
     <offer sku="Shadow 10PQD" xmlns="">
       <model>Внешний аккумулятор Shadow 10PQD</model>
       <brand>Accesstyle</brand>
-      <price>11155</price>
+      <price>11169</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49430,7 +49262,7 @@
     <offer sku="DR.BEI GY3" xmlns="">
       <model>Звуковая электрическая зубная щетка DR.BEI Sonic Electric Toothbrush GY3 белая</model>
       <brand>DR.BEI</brand>
-      <price>11890</price>
+      <price>11908</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49438,7 +49270,7 @@
     <offer sku="LEDLBT1-L01" xmlns="">
       <model>Умная лампа Aqara Light Bulb T1</model>
       <brand>Aqara</brand>
-      <price>14407</price>
+      <price>14424</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49454,7 +49286,7 @@
     <offer sku="V7W66AA" xmlns="">
       <model>HP USB-C to RJ45 Adapter</model>
       <brand>HP</brand>
-      <price>13036</price>
+      <price>13055</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49462,7 +49294,7 @@
     <offer sku="GX30M39684" xmlns="">
       <model>Клавиатура Lenovo 300 USB Keyboard Slim Black</model>
       <brand>Lenovo</brand>
-      <price>12458</price>
+      <price>12477</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49470,7 +49302,7 @@
     <offer sku="Chrome TWS Gray" xmlns="">
       <model>Беспроводные наушники Accesstyle Chrome TWS Gray</model>
       <brand>Accesstyle</brand>
-      <price>10179</price>
+      <price>10193</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49486,7 +49318,7 @@
     <offer sku="GY51H47350" xmlns="">
       <model>Мышь Lenovo Legion M300s RGB Gaming Mouse Black</model>
       <brand>Lenovo</brand>
-      <price>13130</price>
+      <price>13151</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49494,7 +49326,7 @@
     <offer sku="Fox TWS Yellow" xmlns="">
       <model>Беспроводные наушники Accesstyle Fox TWS Yellow</model>
       <brand>Accesstyle</brand>
-      <price>10815</price>
+      <price>10830</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49502,7 +49334,7 @@
     <offer sku="Tornado Gaming Black" xmlns="">
       <model>Беспроводные наушники Accesstyle Tornado Gaming Black</model>
       <brand>Accesstyle</brand>
-      <price>11575</price>
+      <price>11592</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49510,7 +49342,7 @@
     <offer sku="Amaranth II 10MDQ Blue" xmlns="">
       <model>Внешний аккумулятор Amaranth II 10MDQ Blue</model>
       <brand>Accesstyle</brand>
-      <price>13382</price>
+      <price>14031</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49590,7 +49422,7 @@
     <offer sku="Crocus GaN 65WCA Black" xmlns="">
       <model>Сетевое зарядное устройство Accesstyle Crocus GaN 65WCA Black</model>
       <brand>Accesstyle</brand>
-      <price>17211</price>
+      <price>17237</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49614,7 +49446,7 @@
     <offer sku="Ezzy5C Black" xmlns="">
       <model>Телефон Сотовый Ezzy5C Black</model>
       <brand>F+</brand>
-      <price>23273</price>
+      <price>23290</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49622,7 +49454,7 @@
     <offer sku="Fiesta TWS Red" xmlns="">
       <model>Беспроводные наушники Accesstyle Fiesta TWS Red</model>
       <brand>Accesstyle</brand>
-      <price>14187</price>
+      <price>14207</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49638,7 +49470,7 @@
     <offer sku="GXD1C67963" xmlns="">
       <model>Наушники Lenovo Legion H100 Gaming Headset</model>
       <brand>Lenovo</brand>
-      <price>17645</price>
+      <price>17672</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49646,7 +49478,7 @@
     <offer sku="QBKG03LM" xmlns="">
       <model>Выключатель настенный (две клавиши) Aqara Wall Switch (No Neutral, Double Rocker) QBKG03LM</model>
       <brand>Aqara</brand>
-      <price>20420</price>
+      <price>20448</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49654,7 +49486,7 @@
     <offer sku="Gradus TWS Black" xmlns="">
       <model>Беспроводные наушники Accesstyle Gradus TWS Black</model>
       <brand>Accesstyle</brand>
-      <price>15603</price>
+      <price>15626</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49662,7 +49494,7 @@
     <offer sku="Tornado ANC Black" xmlns="">
       <model>Беспроводные наушники AccesstyleTornado ANC Black</model>
       <brand>Accesstyle</brand>
-      <price>15893</price>
+      <price>15916</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49670,7 +49502,7 @@
     <offer sku="HM-OUTDOOR-POUCH" xmlns="">
       <model>Сумка для Hikmicro</model>
       <brand>Hikvision</brand>
-      <price>16991</price>
+      <price>17020</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49678,7 +49510,7 @@
     <offer sku="GX31F38001" xmlns="">
       <model>Клавиатура и мышь Lenovo 510 Wireless Combo Keyboard &amp; Mouse White</model>
       <brand>Lenovo</brand>
-      <price>18472</price>
+      <price>18501</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49686,7 +49518,7 @@
     <offer sku="GX41H70101" xmlns="">
       <model>Рюкзак Lenovo IdeaPad Gaming Modern Backpack Black</model>
       <brand>Lenovo</brand>
-      <price>17843</price>
+      <price>17872</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49694,7 +49526,7 @@
     <offer sku="GX41H71241" xmlns="">
       <model>Рюкзак Lenovo IdeaPad Gaming Modern Backpack White</model>
       <brand>Lenovo</brand>
-      <price>17843</price>
+      <price>17872</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49718,7 +49550,7 @@
     <offer sku="GXD1B87065" xmlns="">
       <model>Наушники Lenovo Legion H200 Gaming Headset</model>
       <brand>Lenovo</brand>
-      <price>19092</price>
+      <price>19123</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49726,7 +49558,7 @@
     <offer sku="Bison 30PQD White" xmlns="">
       <model>Внешний аккумулятор Bison 30PQD White</model>
       <brand>Accesstyle</brand>
-      <price>20157</price>
+      <price>20190</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49734,7 +49566,7 @@
     <offer sku="Bison 30PQD Black" xmlns="">
       <model>Внешний аккумулятор Bison 30PQD Black</model>
       <brand>Accesstyle</brand>
-      <price>19578</price>
+      <price>19610</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49742,7 +49574,7 @@
     <offer sku="16VEGB01A01" xmlns="">
       <model>NOKIA 105 DS TA-1378 4G BLACK</model>
       <brand>Nokia</brand>
-      <price>30262</price>
+      <price>27237</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49750,7 +49582,7 @@
     <offer sku="YLWG01YL" xmlns="">
       <model>Шлюз Yeelight Pro S20 Gateway(BLE mesh)</model>
       <brand>Yeelight</brand>
-      <price>22033</price>
+      <price>22064</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49758,7 +49590,7 @@
     <offer sku="VH600N01DW" xmlns="">
       <model>Пылесос вертикальный Accesstyle VH600N01DW</model>
       <brand>Accesstyle</brand>
-      <price>24583</price>
+      <price>24612</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49766,7 +49598,7 @@
     <offer sku="S350 Dark Grey" xmlns="">
       <model>S350 Dark Grey</model>
       <brand>F+</brand>
-      <price>28937</price>
+      <price>28967</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49774,7 +49606,7 @@
     <offer sku="Wild TWS Green" xmlns="">
       <model>Беспроводные наушники Accesstyle Wild TWS Green</model>
       <brand>Accesstyle</brand>
-      <price>17924</price>
+      <price>17952</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49790,7 +49622,7 @@
     <offer sku="5WS0D81006" xmlns="">
       <model>Warranty 3Y Courier/Carry-in</model>
       <brand>Lenovo</brand>
-      <price>19910</price>
+      <price>19944</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49798,7 +49630,7 @@
     <offer sku="GX41C86982" xmlns="">
       <model>Рюкзак Lenovo Legion Active Gaming Backpack</model>
       <brand>Lenovo</brand>
-      <price>20220</price>
+      <price>20255</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49806,7 +49638,7 @@
     <offer sku="Atlant 30MQD Grey" xmlns="">
       <model>Внешний аккумулятор Atlant 30MQD Grey</model>
       <brand>Accesstyle</brand>
-      <price>21744</price>
+      <price>21780</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49838,7 +49670,7 @@
     <offer sku="GX40X54261" xmlns="">
       <model>Рюкзак для ноутбука Lenovo Laptop 15.6 Laptop Urban Backpack B530</model>
       <brand>Lenovo</brand>
-      <price>23321</price>
+      <price>23362</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49870,7 +49702,7 @@
     <offer sku="318-063-001" xmlns="">
       <model>BATTERY, Li-Ion, CK65 One (1) extended rechargeable 7000 mAh smart battery pack. Std temp range.</model>
       <brand>HONEYWELL</brand>
-      <price>28449</price>
+      <price>28492</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49894,7 +49726,7 @@
     <offer sku="GY51B37795" xmlns="">
       <model>Мышь Lenovo Yoga Mouse with Laser Presenter (Shadow Black)</model>
       <brand>Lenovo</brand>
-      <price>24346</price>
+      <price>24391</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49918,7 +49750,7 @@
     <offer sku="QQ2-00004" xmlns="">
       <model>Microsoft 365 Personal AllLng Sub PKLic 1YR Online CEE C2R NR</model>
       <brand>Microsoft</brand>
-      <price>27258</price>
+      <price>27307</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49942,7 +49774,7 @@
     <offer sku="R18-06457" xmlns="">
       <model>Windows Server CAL 2022 Russian 1pk DSP OEI 1 Clt User CAL</model>
       <brand>Microsoft</brand>
-      <price>28292</price>
+      <price>28343</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -49958,7 +49790,7 @@
     <offer sku="GY40T26479" xmlns="">
       <model>Клавиатура Lenovo Legion K500 RGB Mechanical Gaming Keyboard</model>
       <brand>Lenovo</brand>
-      <price>30171</price>
+      <price>30223</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -49998,7 +49830,7 @@
     <offer sku="16LIBL01A06" xmlns="">
       <model>NOKIA 8210 4G TA-1489 DS EAC UA BLUE</model>
       <brand>Nokia</brand>
-      <price>42060</price>
+      <price>37104</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50006,7 +49838,7 @@
     <offer sku="V-SK152D" xmlns="">
       <model>Чайник Viomi Smart Kettle Black</model>
       <brand>Viomi</brand>
-      <price>32031</price>
+      <price>32087</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50014,7 +49846,7 @@
     <offer sku="V-SK152C" xmlns="">
       <model>Чайник Viomi Smart Kettle White</model>
       <brand>Viomi</brand>
-      <price>32031</price>
+      <price>32087</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50054,7 +49886,7 @@
     <offer sku="1GF011PPA1A01" xmlns="">
       <model>NOKIA 2660 TA-1469 DS EAC UA BLACK</model>
       <brand>Nokia</brand>
-      <price>44588</price>
+      <price>39636</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50062,7 +49894,7 @@
     <offer sku="1GF011PPB1A03" xmlns="">
       <model>NOKIA 2660 TA-1469 DS EAC UA RED</model>
       <brand>Nokia</brand>
-      <price>44588</price>
+      <price>39636</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50070,7 +49902,7 @@
     <offer sku="VH120N02DW" xmlns="">
       <model>Пылесос вертикальный Accesstyle VH120N02DW</model>
       <brand>Accesstyle</brand>
-      <price>41900</price>
+      <price>41958</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50078,7 +49910,7 @@
     <offer sku="GXD1C98345" xmlns="">
       <model>Наушники Lenovo Legion H600 Wireless Gaming Headset Stingray</model>
       <brand>Lenovo</brand>
-      <price>35856</price>
+      <price>35920</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50086,7 +49918,7 @@
     <offer sku="7XB7A00056" xmlns="">
       <model>ThinkSystem 3.5" 2TB 7.2K SATA 6Gb Simple Swap 512n HDD</model>
       <brand>Lenovo</brand>
-      <price>45079</price>
+      <price>45144</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50094,7 +49926,7 @@
     <offer sku="6GQ-00084" xmlns="">
       <model>Microsoft 365 Family AllLng Sub PK Lic 1YR Online CEE C2R NR</model>
       <brand>Microsoft</brand>
-      <price>35011</price>
+      <price>35076</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50118,7 +49950,7 @@
     <offer sku="GY51H47355" xmlns="">
       <model>Мышь Lenovo Legion M600s Qi Wireless Gaming Mouse Black</model>
       <brand>Lenovo</brand>
-      <price>34683</price>
+      <price>34750</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50126,7 +49958,7 @@
     <offer sku="DR.BEI S7 White" xmlns="">
       <model>Звуковая электрическая зубная щетка DR.BEI Sonic Electric Toothbrush S7 белая</model>
       <brand>DR.BEI</brand>
-      <price>37027</price>
+      <price>37097</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50134,7 +49966,7 @@
     <offer sku="MS20K100W" xmlns="">
       <model>Микроволновая печь Accesstyle MS20K100W</model>
       <brand>Accesstyle</brand>
-      <price>37341</price>
+      <price>37410</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50158,7 +49990,7 @@
     <offer sku="16AQUB01A11" xmlns="">
       <model>NOKIA 5710 XA TA-1504 DS EAC UA BLACK</model>
       <brand>Nokia</brand>
-      <price>48801</price>
+      <price>42651</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50182,7 +50014,7 @@
     <offer sku="HM-R-WP" xmlns="">
       <model>Крепление для Hikmicro</model>
       <brand>Hikvision</brand>
-      <price>38761</price>
+      <price>38837</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50222,7 +50054,7 @@
     <offer sku="1470G2D-2USB-1-R" xmlns="">
       <model>EMEA USB kit: Omni-directional, 1D, PDF, 2D, black scanner (1470g2D-2), flexible presentation stand (STND-15F03-009-6), USB Type A 1.5m straight cable (CBL-500-150-S00)</model>
       <brand>HONEYWELL</brand>
-      <price>45299</price>
+      <price>45378</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50230,7 +50062,7 @@
     <offer sku="MK5145-32A38-EU" xmlns="">
       <model>USB Kit: black scanner (MS5145-38-3), desktop stand (46-46633), 2.9m USB Type A cable (55-55235-N-3) and documentation</model>
       <brand>HONEYWELL</brand>
-      <price>45506</price>
+      <price>45585</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50254,7 +50086,7 @@
     <offer sku="VH180N03DR" xmlns="">
       <model>Пылесос вертикальный Accesstyle VH180N03DR</model>
       <brand>Accesstyle</brand>
-      <price>64251</price>
+      <price>64344</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50286,7 +50118,7 @@
     <offer sku="MS20D100W" xmlns="">
       <model>Микроволновая печь Accesstyle MS20D100W</model>
       <brand>Accesstyle</brand>
-      <price>45760</price>
+      <price>45842</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50350,7 +50182,7 @@
     <offer sku="79G-05424" xmlns="">
       <model>Office Home and Student 2021 Russian Kazakhstan Only Medialess</model>
       <brand>Microsoft</brand>
-      <price>55326</price>
+      <price>55427</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -50358,7 +50190,7 @@
     <offer sku="79G-05338" xmlns="">
       <model>Office Home and Student 2021 All Lng PK Lic Online Central/Eastern Euro Only Dwn</model>
       <brand>Microsoft</brand>
-      <price>55326</price>
+      <price>55427</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50374,7 +50206,7 @@
     <offer sku="286743834" xmlns="">
       <model>NOKIA G11 PLUS TA-1421 DS 4/64 CISUA GRE</model>
       <brand>Nokia</brand>
-      <price>66561</price>
+      <price>74879</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50406,7 +50238,7 @@
     <offer sku="MG23D100B" xmlns="">
       <model>Микроволновая печь Accesstyle MG23D100B</model>
       <brand>Accesstyle</brand>
-      <price>58976</price>
+      <price>59087</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50422,7 +50254,7 @@
     <offer sku="EDA51-HB-0" xmlns="">
       <model>Charging cradle for charging ScanPal EDA50/EDA50hc/ EDA51 terminal and battery. Compatible with scan handle. NO POWER CORD. Also fit with IH25 for charging purposes</model>
       <brand>HONEYWELL</brand>
-      <price>61011</price>
+      <price>61125</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50430,7 +50262,7 @@
     <offer sku="KW9-00652" xmlns="">
       <model>Win 11 Home 64Bit Russian 1pk DSP OEI Kazakhstan Only DVD</model>
       <brand>Microsoft</brand>
-      <price>61528</price>
+      <price>61643</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50446,15 +50278,7 @@
     <offer sku="67A2KAC6EU" xmlns="">
       <model>Монитор Lenovo 67A2KAC6EU D24-40  23.8" VA/1920x1080/75Hz/AMD FreeSync/5ms/1000:1/3M:1/250nit/VGA/HDMI 1.4/HDMI in box</model>
       <brand>Lenovo</brand>
-      <price>70198</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="XU2493HS-B5" xmlns="">
-      <model>Монитор LCD 24'' 16:9 1920х1080(FHD) IPS, nonGLARE, 250cd/m2, H178°/V178°, 1000:1, 80M:1, 16,7 миллионов цветов, 4ms, VGA, HDMI, DP, Tilt, Speakers, 3Y, Black</model>
-      <brand>IIYAMA</brand>
-      <price>71816</price>
+      <price>70318</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50462,7 +50286,7 @@
     <offer sku="VR30R01DW" xmlns="">
       <model>Робот-пылесос Accesstyle VR30R01DW</model>
       <brand>Accesstyle</brand>
-      <price>92673</price>
+      <price>92787</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50494,7 +50318,7 @@
     <offer sku="22MP400-B" xmlns="">
       <model>Монитор LCD 21.5'' 16:9 1920х1080(FHD) IPS, nonGLARE, 250cd/m2, H178°/V178°, 1000:1, 5ms, VGA, HDMI, Tilt, 2Y, Black</model>
       <brand>LG</brand>
-      <price>72989</price>
+      <price>73115</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50503,14 +50327,6 @@
       <model>Сушилка фруктов Zelmer ZFD1010 цвет белый срок гарантии 2 года</model>
       <brand>Zelmer</brand>
       <price>73607</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="XU2492HSU-B1" xmlns="">
-      <model>Монитор LCD 23.8'' [16:9] 1920х1080 IPS, nonGLARE, 250cd/m2, H178°/V178°, 1000:1, 5М:1, 16.7M Color, 5ms, VGA, HDMI, DP, USB-Hub, Tilt, Speakers, 3Y, Black</model>
-      <brand>IIYAMA</brand>
-      <price>75496</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50526,7 +50342,7 @@
     <offer sku="871-230-101" xmlns="">
       <model>Not for customers in California and Oregon. Quad Battery Charger, CK65/CK3 (AC20)/EDA60K (Requires Power Supply 851-810-002 and country specific AC power cord. Not compatible with battery: 318-046-011)</model>
       <brand>HONEYWELL</brand>
-      <price>76762</price>
+      <price>76896</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50534,7 +50350,7 @@
     <offer sku="F32EY1500B" xmlns="">
       <model>Телевизор Accesstyle FHD 32" F32EY1500B</model>
       <brand>Accesstyle</brand>
-      <price>91532</price>
+      <price>91671</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50550,7 +50366,7 @@
     <offer sku="271V8L/00" xmlns="">
       <model>Монитор жидкокристаллический PHILIPS 271V8L/00 LCD 27'' 16:9 1920х1080 VA, nonGLARE, 250cd/m2, H178°/V178°, 4ms, VGA, HDMI, Tilt, 2Y, Black</model>
       <brand>PHILIPS</brand>
-      <price>82292</price>
+      <price>82438</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50558,7 +50374,7 @@
     <offer sku="HAJ-00120" xmlns="">
       <model>WIN HOME FPP 11 64-bit Russian Kazakhstan Only USB</model>
       <brand>Microsoft</brand>
-      <price>85753</price>
+      <price>85915</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50566,7 +50382,7 @@
     <offer sku="KW9-00664" xmlns="">
       <model>WIN HOME 11 64-bit All Lng PK Lic Online DwnLd NR</model>
       <brand>Microsoft</brand>
-      <price>79034</price>
+      <price>79181</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50574,7 +50390,7 @@
     <offer sku="66D7GAR1EU" xmlns="">
       <model>Монитор Lenovo 66D7GAR1EU G24e-20 23.8" VA/1920x1080/100Hz/120Hz/FreeSync Premium/1ms/3000:1/3M:1/300nit/HDMI 2.0/DP1.2/HDMI in box</model>
       <brand>Lenovo</brand>
-      <price>83378</price>
+      <price>83526</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50582,7 +50398,7 @@
     <offer sku="67A3KAC6EU" xmlns="">
       <model>Монитор Lenovo 67A3KAC6EU D27-40  27" VA/1920x1080/75Hz/AMD FreeSync/5ms/1000:1/3M:1/250nit/VGA/HDMI 1.4/HDMI in box</model>
       <brand>Lenovo</brand>
-      <price>83481</price>
+      <price>83630</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50590,7 +50406,7 @@
     <offer sku="XUB2492HSU-W5" xmlns="">
       <model>Монитор LCD 23.8'' 16:9 1920х1080(FHD) IPS, nonGLARE, 250cd/m2, H178°/V178°, 1000:1, 5M:1, 16.7M, 4ms, VGA, HDMI, DP, USB-Hub, Height adj, Pivot, Tilt, Swivel, Speakers, 3Y, White</model>
       <brand>IIYAMA</brand>
-      <price>83843</price>
+      <price>83992</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50598,7 +50414,7 @@
     <offer sku="MG30D100B" xmlns="">
       <model>Микроволновая печь Accesstyle MG30D100B</model>
       <brand>Accesstyle</brand>
-      <price>70326</price>
+      <price>70456</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50606,7 +50422,7 @@
     <offer sku="KLQ-00217" xmlns="">
       <model>Microsoft 365 Bus Std Retail All Lng SubPKL 1YR Onln CEE Only DwnLd NR</model>
       <brand>Microsoft</brand>
-      <price>73865</price>
+      <price>74001</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50630,7 +50446,7 @@
     <offer sku="WD62PURX-64" xmlns="">
       <model>Накопитель на жестком магнитном диске WD Purple WD62PURX-64  6ТБ 3,5"(SATA-III) для видеонаблюдения Hikvision</model>
       <brand>WD</brand>
-      <price>77910</price>
+      <price>78069</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50638,7 +50454,7 @@
     <offer sku="WD63PURU" xmlns="">
       <model>Накопитель на жестком магнитном диске WD WD63PURU  6ТБ 3,5" SATA-III для видеонаблюдения</model>
       <brand>WD</brand>
-      <price>78427</price>
+      <price>78587</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50646,7 +50462,7 @@
     <offer sku="H32EY1500B" xmlns="">
       <model>Телевизор Accesstyle HD 32" H32EY1500B</model>
       <brand>Accesstyle</brand>
-      <price>85356</price>
+      <price>85481</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50654,17 +50470,9 @@
     <offer sku="VR32G02MW" xmlns="">
       <model>Робот-пылесос Accesstyle VR32G02MW</model>
       <brand>Accesstyle</brand>
-      <price>115276</price>
+      <price>115439</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="64W34AA" xmlns="">
-      <model>HP P24h G5 FHD Monitor</model>
-      <brand>HP</brand>
-      <price>92629</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="CS-BC1C (4MP W1)" xmlns="">
@@ -50678,7 +50486,7 @@
     <offer sku="FQC-10547" xmlns="">
       <model>Win 11 Pro 64Bit Russian 1pk DSP OEI DVD</model>
       <brand>Microsoft</brand>
-      <price>89888</price>
+      <price>90058</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50686,7 +50494,7 @@
     <offer sku="272V8A/01" xmlns="">
       <model>272V8A/01 Монитор LCD 27'' 16:9 1920х1080(FHD) IPS, nonGLARE, 250cd/m2, H178°/V178°, 1000:1, 16.7M Color, 4ms, VGA, DP,HDMI, Tilt, Audio out, 2Y, Black</model>
       <brand>PHILIPS</brand>
-      <price>96247</price>
+      <price>96424</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50694,7 +50502,7 @@
     <offer sku="HH492-R1-1USB-5" xmlns="">
       <model>Scanner KIT,HH492,Wireless,2D,BLK,Charge and Communication Base(Base-100-2-492),1.5m USB CBL(50177360-001)</model>
       <brand>HONEYWELL</brand>
-      <price>99348</price>
+      <price>99531</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50702,7 +50510,7 @@
     <offer sku="27M1N3200VS/01" xmlns="">
       <model>Монитор жидкокристаллический PHILIPS 27M1N3200VS/01 LCD 27'' 16:9 1920х1080 165Hz, VA, nonGLARE, 250cd/m2, H178°/V178°, 1ms HDMIх2, DP, Tilt, Black</model>
       <brand>PHILIPS</brand>
-      <price>97798</price>
+      <price>97978</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50710,7 +50518,7 @@
     <offer sku="24M1N3200VA/01" xmlns="">
       <model>Монитор LCD 23.8'' 16:9 1920х1080(FHD) VA, nonGLARE, 165 Hz, 350 cd/m2, H178°/V178°, 3500:1, 50М:1, 16.7M, 1ms, 2xHDMI, DP, Height adj, Pivot, Tilt, Swivel, Speakers, 3Y, Black</model>
       <brand>PHILIPS</brand>
-      <price>95213</price>
+      <price>95388</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50718,7 +50526,7 @@
     <offer sku="7680GSR-2USB-1-R" xmlns="">
       <model>Genesis XP USB Kit: Tethered, 1D, PDF417, 2D, SR Focus, DRH, Black Scanner (7680GSR-2-R), USB Type A 3m straight cable (CBL-500-300-S00-09), Stand</model>
       <brand>HONEYWELL</brand>
-      <price>100382</price>
+      <price>100567</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50726,7 +50534,7 @@
     <offer sku="PC42TPE01013" xmlns="">
       <model>KIT, PC42T PLUS USB, EU power cord</model>
       <brand>HONEYWELL</brand>
-      <price>100434</price>
+      <price>100619</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50742,7 +50550,7 @@
     <offer sku="27MP400-B.ADRZ" xmlns="">
       <model>Монитор LCD 27'' 16:9 1920х1080(FHD) IPS, nonGLARE, 75 Гц, 300cd/m2, H178°/V178°, 1000:1, 16,7 миллионов цветов, 5ms, VGA, HDMI, Tilt, 2Y, Black</model>
       <brand>LG</brand>
-      <price>103483</price>
+      <price>103675</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50750,7 +50558,7 @@
     <offer sku="241B8QJEB/01" xmlns="">
       <model>Монитор LCD 23.8'' [16:9] 1920х1080(FHD) IPS, nonGLARE, 75 Hz, 250 cd/m2, H178°/V178°, 1000:1, 50М:1, 16.7M, 5ms, VGA, DVI, HDMI, DP, USB-Hub, Height adj, Pivot, Tilt, Swivel, Speakers, 3Y, Black</model>
       <brand>PHILIPS</brand>
-      <price>101416</price>
+      <price>101603</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50758,7 +50566,7 @@
     <offer sku="66EEGAC3EU" xmlns="">
       <model>Монитор Lenovo 66EEGAC3EU Q24i-20 23.8" IPS/1920x1080/75Hz/AMD FreeSync/4ms/1000:1/3M:1/300nit/Lift 80mm/2 x HDMI 2.0/DP 1.4/2 x 3W</model>
       <brand>Lenovo</brand>
-      <price>102036</price>
+      <price>102225</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50766,7 +50574,7 @@
     <offer sku="27M1N3200VA/01" xmlns="">
       <model>Монитор LCD 27'' 16:9 1920х1080(FHD) VA, nonGLARE, 165 Hz, 250 cd/m2, H178°/V178°, 3000:1, 16.7M, 1ms, 2xHDMI, DP, Height adj, Pivot, Tilt, Swivel, Speakers, 3Y, Black</model>
       <brand>PHILIPS</brand>
-      <price>102966</price>
+      <price>103157</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50774,7 +50582,7 @@
     <offer sku="VR32V02MW" xmlns="">
       <model>Робот-пылесос Accesstyle VR32V02MW</model>
       <brand>Accesstyle</brand>
-      <price>132094</price>
+      <price>132294</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50782,7 +50590,7 @@
     <offer sku="XUB2492HSU-B1" xmlns="">
       <model>Монитор LCD 23.8'' [16:9] 1920х1080(FHD) IPS, nonGLARE, 250cd/m2, H178°/V178°, 1000:1, 5M:1, 16.7M, 5ms, VGA, HDMI, DP, USB-Hub, Height adj, Pivot, Tilt, Swivel, Speakers, 3Y, Black</model>
       <brand>IIYAMA</brand>
-      <price>108135</price>
+      <price>108337</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50790,7 +50598,7 @@
     <offer sku="24MP500-B" xmlns="">
       <model>Монитор LCD 24'' 16:9 1920х1080(FHD) IPS, nonGLARE, 75 Гц, 200cd/m2, H178°/V178°, 1000:1, 16,7 миллионов цветов, 5ms, VGA, HDMI, Tilt, 2Y, Black 24MP500-B</model>
       <brand>LG</brand>
-      <price>101416</price>
+      <price>101603</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50798,7 +50606,7 @@
     <offer sku="24MP60G-B" xmlns="">
       <model>Монитор LCD 24'' 16:9 1920х1080(FHD) IPS, nonGLARE, 75 Гц, 200cd/m2, H178°/V178°, 1000:1, 16,7 миллионов цветов, 5ms, VGA, HDMI, Tilt, 2Y, Black 24MP60G-B</model>
       <brand>LG</brand>
-      <price>101933</price>
+      <price>102121</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50806,7 +50614,7 @@
     <offer sku="FQC-10572" xmlns="">
       <model>Win Pro 11 64-bit All Lng PK Lic Online DwnLd NR</model>
       <brand>Microsoft</brand>
-      <price>113663</price>
+      <price>113885</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50814,7 +50622,7 @@
     <offer sku="66D1GAC1EU" xmlns="">
       <model>Монитор Lenovo 66D1GAC1EU L24q-35 24 inch 2K QHD Gaming Monitor with Eyesafe (IPS Panel, 75Hz, 4ms, HDMI, DP, FreeSync™, Metal Stand with Speakers and Phone Holder) - Tilt Stand</model>
       <brand>Lenovo</brand>
-      <price>118007</price>
+      <price>118230</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50822,7 +50630,7 @@
     <offer sku="27M1N3200ZA/01" xmlns="">
       <model>Монитор LCD 27'' 16:9 1920х1080(FHD) IPS, nonGLARE, 165 Hz, 250 cd/m2, H178°/V178°, 1100:1, 16.7M, 1ms, 2xHDMI, DP, Height adj, Pivot, Tilt, Swivel, Speakers, 3Y, Black</model>
       <brand>PHILIPS</brand>
-      <price>118472</price>
+      <price>118697</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50846,7 +50654,7 @@
     <offer sku="MK3780-61A38" xmlns="">
       <model>USB Kit: dark grey scanner (MS3780-38), stand (46-00225-3), coiled low speed USB cable (53-53235-n-3), and documentation</model>
       <brand>HONEYWELL</brand>
-      <price>124674</price>
+      <price>124912</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50854,7 +50662,7 @@
     <offer sku="VR32L02MB" xmlns="">
       <model>Робот-пылесос Accesstyle VR32L02MB</model>
       <brand>Accesstyle</brand>
-      <price>178226</price>
+      <price>178471</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50862,7 +50670,7 @@
     <offer sku="AHD5-GD0" xmlns="">
       <model>Фен Dreame Hair Artist Grey</model>
       <brand>Dreame</brand>
-      <price>131908</price>
+      <price>132170</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50870,7 +50678,7 @@
     <offer sku="AHD5-RE0" xmlns="">
       <model>Фен Dreame Hair Artist Red</model>
       <brand>Dreame</brand>
-      <price>131908</price>
+      <price>132170</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50878,7 +50686,7 @@
     <offer sku="SRTRK2" xmlns="">
       <model>Smart-UPS RT 19'' Rail Kit</model>
       <brand>APC</brand>
-      <price>131596</price>
+      <price>131865</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50902,7 +50710,7 @@
     <offer sku="ZNMS16LM" xmlns="">
       <model>Умный дверной замок Aqara AQARA Door lock N100 ZNMS16LM</model>
       <brand>Aqara</brand>
-      <price>144007</price>
+      <price>144279</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50910,7 +50718,7 @@
     <offer sku="U43EY1500B" xmlns="">
       <model>Телевизор Accesstyle UHD 43" U43EY1500B</model>
       <brand>Accesstyle</brand>
-      <price>123763</price>
+      <price>123972</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50934,23 +50742,15 @@
     <offer sku="XUB2796HSU-B5" xmlns="">
       <model>Монитор LCD 27'' 16:9 1920х1080(FHD) IPS, nonGLARE, 250cd/m2, H178°/V178°, 1000:1, 80M:1, 16,7 миллионов цветов, 1ms, VGA, HDMI, DP, USB-Hub, Height adj, Pivot, Tilt, Swivel, Speakers, Swivel, 3Y, Black</model>
       <brand>IIYAMA</brand>
-      <price>154225</price>
+      <price>154513</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="YNDX-00071" xmlns="">
-      <model>Телевизор Яндекс - Умный телевизор с Алисой 43" - YNDX-00071</model>
-      <brand>Yandex</brand>
-      <price>167564</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="66F8GAC3EU" xmlns="">
       <model>Монитор Lenovo 66F8GAC3EU Y27-30 27" IPS/1920 x 1080/165Hz/180Hz OD/FreeSync Premium/0,5 ms/1000:1/3M:1/400nit/Lift 135mm, Swivel, Pivot/2 x HDMI 2.0/DP 1.4/5 x USB 3.2/2 x 3W/USB,DP in box</model>
       <brand>Lenovo</brand>
-      <price>158101</price>
+      <price>158398</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50982,7 +50782,7 @@
     <offer sku="11GDPAR1EU" xmlns="">
       <model>ThinkCentre TIO 24 Gen 4 23.8-inch WLED FHD 250nit 2xspeakers 1080p Camera</model>
       <brand>Lenovo</brand>
-      <price>154652</price>
+      <price>154955</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50990,7 +50790,7 @@
     <offer sku="67A6GAC3EU" xmlns="">
       <model>Монитор Lenovo 67A6GAC3EU Y27f-30 27" IPS/1920 x 1080/240Hz/280Hz OD/FreeSync Premium/0,5 ms/1000:1/3M:1/400nit/Lift 135mm, Swivel, Pivot/2 x HDMI 2.0/DP 1.4/4 x USB 3.2/2 x 3W/USB,DP in box</model>
       <brand>Lenovo</brand>
-      <price>166578</price>
+      <price>166893</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51006,7 +50806,7 @@
     <offer sku="66F0GACBEU" xmlns="">
       <model>Монитор Lenovo 66F0GACBEU Y25-30 24.5" IPS/1920 x 1080/240Hz/FreeSync Premium/1ms/1000:1/3M:1/400nit/Lift 135mm, Swivel, Pivot/HDMI 2.0/DP 1.4/5 x USB 3.2Gen 1/DP in box</model>
       <brand>Lenovo</brand>
-      <price>168076</price>
+      <price>168395</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51046,7 +50846,7 @@
     <offer sku="34WP500-B.ADRZ" xmlns="">
       <model>Монитор LCD 34'' 21:9 2560х1080(UW-UXGA) IPS, nonGLARE, 250cd/m2, H178°/V178°, 1000:1, 16,7 миллионов цветов, 5ms, 2xHDMI, Tilt, Audio out, 2Y, Black</model>
       <brand>LG</brand>
-      <price>171281</price>
+      <price>171607</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51086,7 +50886,7 @@
     <offer sku="27UL500-W.ADK" xmlns="">
       <model>Монитор LCD 27'' 16:9 3840x2160(UHD 4K) IPS,nonGLARE, 300cd/m2, H178°/V178°, 1000:1, 1.07B, 5ms, 2xHDMI, DP, Tilt, 2Y, Silver</model>
       <brand>LG</brand>
-      <price>169213</price>
+      <price>169535</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51099,18 +50899,10 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="NX.HS5ER.02E" xmlns="">
-      <model>Ноутбук Acer NX.HS5ER.02E Aspire 3 A315-56 15.6'' FHD(1920x1080) IPS nonGLARE/Intel Core i3-1005G1 1.20GHz Dual/8GB/512GB SSD/Integrated/WiFi/BT/0.3MP/1,78 kg/DOS/1Y/BLACK</model>
-      <brand>Acer</brand>
-      <price>187002</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="YEEDI VAC Hybrid" xmlns="">
       <model>DVX34 Робот-пылесос YEEDI VAC Station (K760)</model>
       <brand>YEEDI</brand>
-      <price>234703</price>
+      <price>235071</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51118,7 +50910,7 @@
     <offer sku="82KD0031RU" xmlns="">
       <model>Ноутбук Lenovo 82KD0031RU V15 G2 ALC 15.6" FHD(1920x1080) TN/AMD Ryzen 3 5300U 2,6Ghz Quad/4GB/1TB/Integrated/Wi-Fi/BT5.0/720P HD Camera/DOS/1Y/Black</model>
       <brand>Lenovo</brand>
-      <price>172328</price>
+      <price>172670</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51126,7 +50918,7 @@
     <offer sku="T2454MSC-B1AG" xmlns="">
       <model>Монитор LCD 23.8'' [16:9] 1920х1080(FHD) IPS, nonGLARE, TOUCH, 250cd/m2, H178°/V178°, 1000:1, 5М:1, 4ms, VGA, HDMI, USB-Hub, Height adj, Tilt, Speakers, 3Y, Black</model>
       <brand>IIYAMA</brand>
-      <price>200831</price>
+      <price>201208</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -51134,7 +50926,7 @@
     <offer sku="D86-05942" xmlns="">
       <model>Visio Std 2021 Win All Lng PK Lic Online DwnLd C2R NR</model>
       <brand>Microsoft</brand>
-      <price>204966</price>
+      <price>205352</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51150,7 +50942,7 @@
     <offer sku="27UP650-W" xmlns="">
       <model>Монитор LCD 27'' [16:9] 3840x2160(UHD 4K) IPS, nonGLARE, 400cd/m2, H178°/V178°, 1200:1, Mega, 1,07 миллиардов цветов, 5ms, 2xHDMI, DP, Height adj, Pivot, Tilt, Swivel, 2Y, Black</model>
       <brand>LG</brand>
-      <price>209618</price>
+      <price>210013</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51158,15 +50950,15 @@
     <offer sku="27UP650-W.ADRZ" xmlns="">
       <model>Монитор LCD 27'' 16:9 3840x2160(UHD 4K) IPS, nonGLARE, 400cd/m2, H178°/V178°, 1200:1, Mega, 1,07 миллиардов цветов, 5ms, 2xHDMI, DP, Height adj, Pivot, Tilt, Swivel, 2Y, Black</model>
       <brand>LG</brand>
-      <price>207034</price>
+      <price>207424</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="EDA51-0-B723SQGRK" xmlns="">
       <model>Android 10 with GMS,WLAN,802.11 a/b/g/n/ac, N3601 engine, 1.8 GHz 8 core, 2GB/16GB Memory, 13MP Camera, Bluetooth 4.2, NFC, Battery 4,000 mAh, USB Charger, Grey, ROW</model>
       <brand>HONEYWELL</brand>
-      <price>222539</price>
+      <price>222963</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51182,7 +50974,7 @@
     <offer sku="U55EY1500B" xmlns="">
       <model>Телевизор Accesstyle UHD 55" U55EY1500B</model>
       <brand>Accesstyle</brand>
-      <price>180917</price>
+      <price>181250</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -51190,7 +50982,7 @@
     <offer sku="269-17192" xmlns="">
       <model>Office Pro 2021 Win All Lng PK Lic Online Central/Eastern Euro Only DwnLd C2R NR</model>
       <brand>Microsoft</brand>
-      <price>233393</price>
+      <price>233840</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51214,7 +51006,7 @@
     <offer sku="DEEBOT N8" xmlns="">
       <model>DLN26 Робот-пылесос Ecovacs Floor Cleaning Robot DEEBOT N8 White</model>
       <brand>ECOVACS</brand>
-      <price>280196</price>
+      <price>280663</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51222,7 +51014,7 @@
     <offer sku="66F6UAC3EU" xmlns="">
       <model>Монитор Lenovo 66F6UAC3EU Y27h-30 27" IPS/IPS/2560 x 1440/165Hz/180Hz OD/FreeSync Premium/0,5 ms/1000:1/3M:1/400nit/Lift 135mm, Swivel, Pivot/HDMI 2.0/DP 1.4/5 x USB 3.2Gen 1/Y-out/DP in box</model>
       <brand>Lenovo</brand>
-      <price>246780</price>
+      <price>247256</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51230,7 +51022,7 @@
     <offer sku="66F1GAC1EU" xmlns="">
       <model>Монитор Lenovo 66F1GAC1EU G34w-30 34" VA/3440 x 1440/165/FreeSync Premium/1ms/2500:1/3M:1/350nit/1500R/Lift 135mm/2 x HDMI 2.0/DP 1.4</model>
       <brand>Lenovo</brand>
-      <price>248640</price>
+      <price>249121</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51238,7 +51030,7 @@
     <offer sku="21A2003TRU" xmlns="">
       <model>Ноутбук Lenovo ThinkBook 14 G3 ACL 14" FHD(1920x1080) IPS/AMD Ryzen 3 5300U 2.6Ghz Quad/8GB/512GB/Integrated/Wi-Fi/BT5.1/HD Web cam/4in1/7.5h/1.4kg/DOS/1Y/GREY</model>
       <brand>Lenovo</brand>
-      <price>197912</price>
+      <price>198310</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51246,7 +51038,7 @@
     <offer sku="HHR14B" xmlns="">
       <model>Беспроводной пылесос для влажной и сухой уборки Dreame Wet and Dry Vacuum H12 Black</model>
       <brand>Dreame</brand>
-      <price>319728</price>
+      <price>320226</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -51254,7 +51046,7 @@
     <offer sku="EDA61K-0NCE34PERK" xmlns="">
       <model>EDA61K, Numeric Keypad, WLAN, 3G/32G, S0703 scan engine, 4 inch WVGA, 13MP camera, Android 9 GMS, Extended battery, hot swap, SCP prelicensed, US, EU,ME,APACI,ROW</model>
       <brand>HONEYWELL</brand>
-      <price>291461</price>
+      <price>292007</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51262,7 +51054,7 @@
     <offer sku="DEEBOT N8 PRO" xmlns="">
       <model>DEEBOT N8 PRO Робот-пылесос Ecovacs Floor Cleaning Robot модели DLN11 c док-станцией модели CH1822 White</model>
       <brand>ECOVACS</brand>
-      <price>358260</price>
+      <price>358841</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51270,7 +51062,7 @@
     <offer sku="27QN880-B.ADRZ" xmlns="">
       <model>Монитор жидкокристаллический LG 27QN880-B.ADRZ LCD 27'' 16:9 2560х1440(WQHD) IPS, nonGLARE, 350cd/m2, H178°/V178°, 1000:1, 16.7M, 5ms, 2xHDMI, DP, USB-C, USB-Hub, Height adj, Pivot, Tilt, Swivel, Speakers, 2Y, Black</model>
       <brand>LG</brand>
-      <price>290764</price>
+      <price>291336</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51278,7 +51070,7 @@
     <offer sku="123N1EA" xmlns="">
       <model>HP 290 G4 MT / i3- 10100 / 8GB / 256GB SSD / W10p64 / DVD-WR / 1yw / kbd / Opt Mouse / Speakers / Sea and Rail</model>
       <brand>HP</brand>
-      <price>296449</price>
+      <price>297034</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -51286,7 +51078,7 @@
     <offer sku="TF2415MC-B2" xmlns="">
       <model>Монитор LCD 23.8'' [16:9] 1920х1080(FHD) VA, GLARE, TOUCH, 350cd/m2, H178°/V178°, 3000:1, 16.7M, 16ms, VGA, HDMI, DP, USB-Hub, Speakers, Open frame, 3Y, Black</model>
       <brand>IIYAMA</brand>
-      <price>303442</price>
+      <price>304042</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51294,7 +51086,7 @@
     <offer sku="82KD002SRU" xmlns="">
       <model>Ноутбук Lenovo 82KD002SRU V15 G2 ALC 15.6" FHD(1920x1080) TN/AMD Ryzen 7 5700U 1,8Ghz Octa/8GB/512GB/Integrated/Wi-Fi/BT5.0/720P HD Camera/DOS/1Y/Black</model>
       <brand>Lenovo</brand>
-      <price>258926</price>
+      <price>259429</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51302,7 +51094,7 @@
     <offer sku="90NX0421-M04U30" xmlns="">
       <model>Ноутбук Asus 90NX0421-M04U30 ExpertBook B1 B1400CEAE-EB6193 14" FHD(1920x1080)/Intel Core i5-1135G7 2,4Ghz Quad/8GB/512GB/Integrated/Wi-Fi 6/BT5.2/720P HD Camera/BKLT/FPR/Black</model>
       <brand>ASUS</brand>
-      <price>319449</price>
+      <price>320084</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51310,7 +51102,7 @@
     <offer sku="35WN75C-B" xmlns="">
       <model>Монитор LCD 35'' [21:9] 3440x1440(UWQHD) VA, Curved, nonGLARE, 300cd/m2, H178°/V178°, 2500:1, 16.7M, 5ms, 2xHDMI, DP, USB-Hub, Height adj, Tilt, Speakers, Audio out, 2Y, Black</model>
       <brand>LG</brand>
-      <price>347461</price>
+      <price>348101</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51318,7 +51110,7 @@
     <offer sku="6F2C2EA" xmlns="">
       <model>HP 250 G9 / UMA i3-1215U Trusted Platm Module / 15.6 FHD AG SVA 250 / 8GB 1D DDR4 3200 / 256GB PCIe NVMe Value / W11p64 / 1yw / Ash   kbd TP Imagepad with numeric keypad / AC 2x2+BT 5 / Asteroid Silver  with HD Webcam + TNR ID / SeaShipment</model>
       <brand>HP</brand>
-      <price>327461</price>
+      <price>328112</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51334,7 +51126,7 @@
     <offer sku="90NX0441-M037X0" xmlns="">
       <model>Ноутбук Asus 90NX0441-M037X0 ExpertBook B1 B1500CEAE-BQ4237W 15.6" FHD(1920x1080) IPS/Intel Core i5-1135G7 2,4Ghz Quad/8GB/512GB/Integrated/Wi-Fi 6/BT5.2/720P HD Camera/BKLT/Windows 11 Home/1Y/Black</model>
       <brand>ASUS</brand>
-      <price>360591</price>
+      <price>361315</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -51342,7 +51134,7 @@
     <offer sku="90NX0571-M02LM0" xmlns="">
       <model>Ноутбук Asus 90NX0571-M02LM0 ExpertBook B1 B1400CBA-EB2088X 14" FHD(1920x1080)/Intel Core i3-1215U 1,2Ghz (6Cores)/8GB/256GB/Integrated/Wi-Fi 6/BT5.1/720P HD Camera/Windows 11 Pro/1Y/Black/TS</model>
       <brand>ASUS</brand>
-      <price>358627</price>
+      <price>359346</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51350,7 +51142,7 @@
     <offer sku="90RC00PFKZ" xmlns="">
       <model>Системный блок Lenovo 90RC00PFKZ Legion T5 26AMR5 AMD Ryzen 7 3700X 3,6Ghz Octa/16GB/1TB+256GB/NVIDIA GeForce GTX1660 Super 6GB GDDR6/Wi-Fi 6/BT5.1/DOS/1Y/Black</model>
       <brand>Lenovo</brand>
-      <price>358575</price>
+      <price>359295</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51358,7 +51150,7 @@
     <offer sku="D87-07606" xmlns="">
       <model>Visio Pro 2021 Win All Lng PK Lic Online DwnLd C2R NR</model>
       <brand>Microsoft</brand>
-      <price>364157</price>
+      <price>364889</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51366,7 +51158,7 @@
     <offer sku="61F2GAR2EU" xmlns="">
       <model>ThinkVision T32p-20 31.5" 16:9 IPS 3840x2160 4ms 1000:1 350 178/178 //HDMI 2.0/DP1.2/USB-C/LTPS, USB-Hub, 75W USB-C</model>
       <brand>Lenovo</brand>
-      <price>392764</price>
+      <price>393530</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -51374,7 +51166,7 @@
     <offer sku="723Y0EA" xmlns="">
       <model>HP 250 G9 / UMA i5-1235U Trusted Platm Module / 15.6 FHD AG SVA 250 / 8GB 1D DDR4 3200 / 256GB PCIe NVMe Value / W11p64 / 1yw / Ash   kbd TP Imagepad with numeric keypad / </model>
       <brand>HP</brand>
-      <price>378629</price>
+      <price>379392</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51382,7 +51174,7 @@
     <offer sku="076-05905" xmlns="">
       <model>Project Standard 2021 Win All Lng PK Lic Online DwnLd C2R NR</model>
       <brand>Microsoft</brand>
-      <price>386899</price>
+      <price>387680</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51390,7 +51182,7 @@
     <offer sku="PD45S0C0010000200" xmlns="">
       <model>PD45S0C, color LCD, Direct Thermal and Thermal Transfer printer, Ethernet, 203dpi, no power cord</model>
       <brand>HONEYWELL</brand>
-      <price>405169</price>
+      <price>405962</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51398,7 +51190,7 @@
     <offer sku="82TT003YRU" xmlns="">
       <model>Ноутбук Lenovo 82TT003YRU V15 G3 IAP 15.6" FHD(1920x1080) IPS/Intel Core i7-1255U 10Cores/8GB/512GB/Integrated/Wi-Fi/BT5.0/720P HD Camera/DOS/1Y/Black</model>
       <brand>Lenovo</brand>
-      <price>332888</price>
+      <price>333551</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51406,7 +51198,7 @@
     <offer sku="PD45S0C0010000300" xmlns="">
       <model>PD45S0C, color LCD, Direct Thermal and Thermal Transfer printer, Ethernet, 300dpi, no power cord</model>
       <brand>HONEYWELL</brand>
-      <price>419640</price>
+      <price>420465</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51430,7 +51222,7 @@
     <offer sku="6A285EA" xmlns="">
       <model>HP ProBook 450 NB PC / UMA i3-1215U 450 G9 / 15.6 FHD AG UWVA 250 HD NarrowBezel bent / 8GB 1D DDR4 3200 / 256GB PCIe NVMe Value </model>
       <brand>HP</brand>
-      <price>392067</price>
+      <price>392860</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -51438,7 +51230,7 @@
     <offer sku="66F9UAC6EU" xmlns="">
       <model>Монитор Lenovo 66F9UAC6EU Y32p-30 31.5" IPS/3840 x 2160/144Hz/FreeSync Premium/1 ms/1000:1/3M:1/350nit/Lift 135mm, Swivel/2 x HDMI 2.1/DP 1.4/USB Type C/2 x USB 3.2 + USB 3.2 Type-C USB 3.2 + USB 3.2 Type-C (Upstream)/2 x 5W</model>
       <brand>Lenovo</brand>
-      <price>441166</price>
+      <price>442010</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51446,7 +51238,7 @@
     <offer sku="F0G0017DRU" xmlns="">
       <model>Моноблок Lenovo F0G0017DRU IdeaCentre AIO 3 24ITL6 23,8'' FHD (1920 x 1080) IPS/Intel Core i7-1165G7 2,8Ghz Quad/8GB/256GB/Integrated/Wi-Fi/BT5.0/720P HD Camera/USB mouse+keyboard/DOS/1Y/Black</model>
       <brand>Lenovo</brand>
-      <price>429306</price>
+      <price>430151</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51454,7 +51246,7 @@
     <offer sku="90PF02W1-M02S10" xmlns="">
       <model>Системный блок ASUS 90PF02W1-M02S10 D700SC-511500071X ExpertCenter D700SC, I5-11500, 8GbDDR4, 512SSDPCIE, 300W, DVD writer 8X, Win11Pro64, kb+mou, 1Ywarr/TS</model>
       <brand>ASUS</brand>
-      <price>429112</price>
+      <price>429971</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51462,7 +51254,7 @@
     <offer sku="YEEDI Mop Station" xmlns="">
       <model>DVX46 Робот-пылесос YEEDI Mop Station (K850+)</model>
       <brand>YEEDI</brand>
-      <price>495680</price>
+      <price>496533</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51470,7 +51262,7 @@
     <offer sku="11LA002GRU" xmlns="">
       <model>Моноблок Lenovo V30a-24IIL 23.8_ICL-U_NT_TOP_BEZEL/CORE_I3-1005G1_1.2G_2C_MB/8GB_DDR4_3200_SODIMM/256GB_SSD_M.2_2242_NVME_TLC/INTEGRATED_GRAPHICS/WINDOWS_10_PRO_64,W10_PRO/</model>
       <brand>Lenovo</brand>
-      <price>435146</price>
+      <price>436004</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51478,7 +51270,7 @@
     <offer sku="20TES37S00" xmlns="">
       <model>Ноутбук Lenovo ThinkPad E15 Gen 2 15.6" FHD i3-1115G4 8 GB DDR4 3200MHz 256 GB SSD Windows 10 Pro 1Y</model>
       <brand>Lenovo</brand>
-      <price>436607</price>
+      <price>437482</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51486,7 +51278,7 @@
     <offer sku="21DJ000CUA" xmlns="">
       <model>ThinkBook 15.6FHD_AG_300N_N/CORE_I5-1235U_1.3G_10C_12T/NONE,8GB(4X16GX16)_DDR4_3200/256GB_SSD_M.2_2242_G4_TLC/INTEGRATED_UHD_GRAPHICS/WIN_PRO_STD/N01_1Y_COURIER/CARRYIN/WLAN_2X2AX+BT/FINGERPRINT_READER_POWERBUTTON/FHD_CAMERA_W/DUAL_MIC/OFFICE_TRIAL/</model>
       <brand>Lenovo</brand>
-      <price>448067</price>
+      <price>448954</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51494,7 +51286,7 @@
     <offer sku="90NX0551-M00TU0" xmlns="">
       <model>Ноутбук Asus 90NX0551-M00TU0 ExpertBook B1 15.6'/i5-1235U / 16G / 512GB / W11Pro /TS</model>
       <brand>ASUS</brand>
-      <price>454490</price>
+      <price>455404</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51502,7 +51294,7 @@
     <offer sku="11T0003YRU" xmlns="">
       <model>Desktop Lenovo Neo 50s G3 SFF_7.4L_260W_90/CORE_I5-12400_2.5G_6C_12T/8GB_DDR4_3200_UDIMM/256GB_SSD_M.2_2280_G3_TLC_OP/INTEGRATED_GRAPHICS/WINDOWS_11_PRO_64,W11_PRO_DPK_WW/D01_1Y_COURIER/CARRYIN/SLIM_DVD_WRITER_9.0MM/NO_WIRELESS_LAN/NO_MICROSOFT_OFFICE/</model>
       <brand>Lenovo</brand>
-      <price>451685</price>
+      <price>452580</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51510,7 +51302,7 @@
     <offer sku="6A7V9EA" xmlns="">
       <model>HP Pro Tower 400 / TWR 400 G9 260W-BaseUnit RCTOI / i5-12500 6cores / 8GB / 256 SSD / W11p64DowngradeW10p64 / 9.5mm SuperMulti DVDRW / 1yw / 125 BLKkbd / 125mouse / Electronic TCO Certified labeling / DP Port  No Front Option</model>
       <brand>HP</brand>
-      <price>442292</price>
+      <price>443180</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51518,7 +51310,7 @@
     <offer sku="5Y4B0EA" xmlns="">
       <model>HP ProBook 450 NB PC / UMA i5-1235U Realtek USBC 450 G9 / 15.6 FHD AG UWVA 250 HD NarrowBezel bent / 8GB 1D DDR4 3200 / 256GB PCIe NVMe Value / W11p64 / </model>
       <brand>HP</brand>
-      <price>435573</price>
+      <price>436446</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51526,7 +51318,7 @@
     <offer sku="6A737EA" xmlns="">
       <model>HP Pro Tower 400 G9 / TWR 400 G9  260W RCTO / i5-12500 / 8GB / 256GB M.2 SSD Value / W11 Pro DGR / DVD-Writer / 1yw / 125 BLKkbd / 125mouse / Electronic TCO Certified labeling  Intel vPro Essentials / No Front Option</model>
       <brand>HP</brand>
-      <price>444876</price>
+      <price>445770</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51534,7 +51326,7 @@
     <offer sku="DEEBOT N8 PRO+" xmlns="">
       <model>DLN11 Робот-пылесос Ecovacs Floor Cleaning Robot DEEBOT N8 PRO+ White  с док-станцией модели CH1918</model>
       <brand>ECOVACS</brand>
-      <price>523181</price>
+      <price>524094</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51542,7 +51334,7 @@
     <offer sku="P73-07788" xmlns="">
       <model>Windows Svr Std 2019 64Bit English 1pk DSP OEI DVD 16 Core</model>
       <brand>Microsoft</brand>
-      <price>447888</price>
+      <price>448801</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51550,7 +51342,7 @@
     <offer sku="6F2M7EA" xmlns="">
       <model>HP ProBook 450 G9 / UMA i5-1235U Realtek USBC / 15.6 FHD AG UWVA 250 HD NarrowBezel bent / 8GB 1D DDR4 3200 / 256GB PCIe NVMe Value / W11p64 / 1yw / Dual AryMicUSB2 WFOVCamera / Clickpad Backlit with numeric key</model>
       <brand>HP</brand>
-      <price>444876</price>
+      <price>445770</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51558,7 +51350,7 @@
     <offer sku="6B2F3EA" xmlns="">
       <model>HP ProOne 440 / 440 G9 24 AiO BU-NTIDS / 440 23.8 G9 NT FY22 IDS / i3-12100T04cores / 8GB / 256GB SSD / W11p64DowngradeW10p64 / No  ODD / 1yw / 125 BLKkbd / 125mouse /</model>
       <brand>HP</brand>
-      <price>462966</price>
+      <price>463899</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51566,7 +51358,7 @@
     <offer sku="6A1X5EA" xmlns="">
       <model>HP ProBook 440 G9 /UMA i5-1235U Realtek USBC / 14 FHD AG UWVA 250 HD NarrowBezel bent / 8GB 1D DDR4 3200 / 256GB PCIe NVMe Value / W11p64 / 1yw / Dual AryMicUSB2 WFOVCamera / Clickpad </model>
       <brand>HP</brand>
-      <price>455213</price>
+      <price>456129</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51574,7 +51366,7 @@
     <offer sku="6B1Z1EA" xmlns="">
       <model>HP ProOne 240 G9/ 24 AiO BU - i5-1235UIDS / 23.8 inch AG FHD (1920x1080) LED UWVA IPS 250 LCD Panel / 8GB / 256 SSD / W11p64 / 1yw  3Y Service Upgrade /</model>
       <brand>HP</brand>
-      <price>466067</price>
+      <price>467007</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -51582,7 +51374,7 @@
     <offer sku="11VGS04500" xmlns="">
       <model>Desktop TC M90a Gen 3 I3-12100 1TB HDD 256 SSD 16 GB NO OS NO Keyboard NO Mouse</model>
       <brand>Lenovo</brand>
-      <price>482697</price>
+      <price>483658</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51590,7 +51382,7 @@
     <offer sku="P73-08337" xmlns="">
       <model>Windows Svr Std 2022 64Bit Russian 1pk DSP OEI DVD 16 Core</model>
       <brand>Microsoft</brand>
-      <price>487685</price>
+      <price>488685</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51598,7 +51390,7 @@
     <offer sku="6B2F4EA" xmlns="">
       <model>HP ProOne 440 / 440 G9 24 AiO BU-NT IDS / 440 23.8 G9 NT FY22 IDS / i5-12500T 6cores / 8GB / 256GB SSD / W11p64DowngradeW10p64 / No  ODD / 1yw / 125 BLKkbd / 125mouse / </model>
       <brand>HP</brand>
-      <price>493978</price>
+      <price>494978</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51606,7 +51398,7 @@
     <offer sku="21E6005FRT" xmlns="">
       <model>ThinkPad E15G4_I5-1235U_IG+8G/15.6FHD_AG_300N/CORE_I5-1235U_1.3G_10C_12T/NO_DIMM_MEMORY,8GB(4X16GX16)_DDR4_3200/256GB_SSD_M.2_2242_G4_TLC_OPAL/INTEGRATED_IRIS_XE_GRAPHICS/W11_PRO/</model>
       <brand>Lenovo</brand>
-      <price>523708</price>
+      <price>524731</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51614,7 +51406,7 @@
     <offer sku="11LA0073RU" xmlns="">
       <model>Моноблок Lenovo V30a-24IIL 23.8_ICL-U_NT_TOP_BEZEL/CORE_I5-1035G1_1.0G_4C_MB/8GB_DDR4_3200_SODIMM/256GB_SSD_M.2_2242_NVME_TLC/INTEGRATED_GRAPHICS/WINDOWS_10_PRO_64,W10_PRO/D04_1Y_ONSITE/</model>
       <brand>Lenovo</brand>
-      <price>523708</price>
+      <price>524731</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51622,7 +51414,7 @@
     <offer sku="DEEBOT T9+" xmlns="">
       <model>DLX13 Робот-пылесос Ecovacs Floor Cleaning Robot DEEBOT T9+ White (РУ версия) с док-станцией модели CH1918</model>
       <brand>ECOVACS</brand>
-      <price>611825</price>
+      <price>612876</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51630,7 +51422,7 @@
     <offer sku="11FJ005TRU" xmlns="">
       <model>Моноблок Lenovo V50a-24IMB_Intel CML B460_AIO_T_BK_UMA 23.8_NT_TOP_BEZEL/CORE_I5-10400T_2.0G_6C/8GB_DDR4_2666_SODIMM/256GB_SSD_M.2_2280_NVME_TLC_OP/INTEGRATED_GRAPHICS/WINDOWS_10_PRO_64,W10_PRO</model>
       <brand>Lenovo</brand>
-      <price>539213</price>
+      <price>540271</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51638,7 +51430,7 @@
     <offer sku="11FJ005SRU" xmlns="">
       <model>Моноблок Lenovo V50a-24IMB AIO FHD(1980x1080) I510400T 8GB RAM 256SSD M.2 DVDRW CAM 720p WIN 10 Pro Warranty 1-year, Onsite</model>
       <brand>Lenovo</brand>
-      <price>543865</price>
+      <price>544933</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51646,7 +51438,7 @@
     <offer sku="12CE004GRU" xmlns="">
       <model>Моноблок Lenovo 12CE004GRU ThinkCentre neo 30a 24 23,8'' FHD (1920 x 1080) IPS/Intel Core i5-1235U 1.3 Ghz (10Cores)/16GB/512GB/Integrated/Wi-Fi 6/BT5.1/720P HD Camera/USB mouse+keyboard/Windows 10 Pro/1Y/Black</model>
       <brand>Lenovo</brand>
-      <price>556270</price>
+      <price>557364</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51654,7 +51446,7 @@
     <offer sku="Monster 50S" xmlns="">
       <model>Электросамокат Accesstyle Monster 50S</model>
       <brand>Accesstyle</brand>
-      <price>650147</price>
+      <price>651336</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51662,7 +51454,7 @@
     <offer sku="F0GR005FRU" xmlns="">
       <model>Моноблок Lenovo F0GR005FRU IdeaCentre AIO 5 24IAH7 23,8'' FHD (1920 x 1080) IPS/Intel Core i5-12500H 2,5Ghz Quad/16GB/512GB/Integrated/Wi-Fi 6/BT5.0/5MP+IR Camera/USB mouse+keyboard/Windows 11 Home/1Y/Grey</model>
       <brand>Lenovo</brand>
-      <price>566452</price>
+      <price>567568</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51670,7 +51462,7 @@
     <offer sku="10T7S1AH00" xmlns="">
       <model>ThinkCentre M720q, Intel Core i7-9700T (2GHz, 12MB), Windows 10 Pro 64, 8.0GB, 1x500GB SATA III,1x256GB SSD PCIe, (x), 3 Year Depot</model>
       <brand>Lenovo</brand>
-      <price>568674</price>
+      <price>569796</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51678,7 +51470,7 @@
     <offer sku="12B00085RU" xmlns="">
       <model>Моноблок Lenovo 12B00085RU ThinkCentre neo 30a 24 23,8'' FHD (1920 x 1080) IPS/Intel Core i7-1260P 12Cores/16GB/512GB/Integrated/Wi-Fi 6/BT5.1/720P HD Camera/USB mouse+keyboard/DOS/1Y/Black</model>
       <brand>Lenovo</brand>
-      <price>572861</price>
+      <price>573991</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51686,7 +51478,7 @@
     <offer sku="5P6R6EA" xmlns="">
       <model>HP EliteBook 840 G9 / UMA i5-1235U Realtek USBC / 14.0 WUXGA  UWVA 250 5MP IR bnt Panel / 8GB 1D DDR5 4800 SODIMM Memory / 256GB PCIe NVMe Value / W11p64 / 1yw </model>
       <brand>HP</brand>
-      <price>545663</price>
+      <price>546775</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51694,7 +51486,7 @@
     <offer sku="RLS6TAC" xmlns="">
       <model>Робот-пылесос DreameBot W10 Pro White</model>
       <brand>Dreame</brand>
-      <price>668265</price>
+      <price>669439</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -51702,7 +51494,7 @@
     <offer sku="21E7S3AJ00" xmlns="">
       <model>Notebook ThinkPad E15 Gen 4 Intel Core i5-1235U/15'6 FHD/ 8GB RAM/ 256 GB SSD/ FHD Web/Windows 11 Pro/MS Office Home and Business 2021/2Y Warranty</model>
       <brand>Lenovo</brand>
-      <price>574090</price>
+      <price>575264</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51710,7 +51502,7 @@
     <offer sku="TF3239MSC-B1AG" xmlns="">
       <model>Интерактивная панель 32" 16:9 1920х1080(FHD) AMVA3, TOUCH, 12-touch point, 60 Hz, 500cd/m2, H178°/V178°, 3000:1, 1.07B, 8ms, VGA, 2xHDMI, DP, RJ-45, RS232C, USB Type A, USB Type B, Speakers, Open frame, 24/7, 3Y, Black</model>
       <brand>IIYAMA</brand>
-      <price>612239</price>
+      <price>613427</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51734,7 +51526,7 @@
     <offer sku="CK65-L0N-FLC210E" xmlns="">
       <model>CK65,4GB/32GB Memory,53 key,FlexRange XLR,Camera,SCP,GMS,Disinfectant Ready,Standard Environment,WW Mode</model>
       <brand>HONEYWELL</brand>
-      <price>610022</price>
+      <price>611234</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51742,7 +51534,7 @@
     <offer sku="H30-05939" xmlns="">
       <model>Project Pro 2021 Win All Lng PK Lic Online DwnLd C2R NR</model>
       <brand>Microsoft</brand>
-      <price>630337</price>
+      <price>631647</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51750,7 +51542,7 @@
     <offer sku="P73-07807" xmlns="">
       <model>Windows Server Std 2019 64B ENG 1PK 24Core</model>
       <brand>Microsoft</brand>
-      <price>655663</price>
+      <price>657028</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51758,7 +51550,7 @@
     <offer sku="21BV002VRT" xmlns="">
       <model>ThinkPad T16G1_I5-1235U_IG+8G+AX211/16_WUXGA_AG_300N/CORE_I5-1235U_1.3G_10C_12T/NONE,8GB(4X16GX16)_DDR4_3200/256GB_SSD_M.2_2280_NVME_TLC_OP/INTEGRATED_UHD_GRAPHICS/W11_PRO_DG/N03_3Y_COURIER</model>
       <brand>Lenovo</brand>
-      <price>731326</price>
+      <price>732746</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51766,7 +51558,7 @@
     <offer sku="90NR09Q3-M007B0" xmlns="">
       <model>Ноутбук Asus 90NR09Q3-M007B0 TUF DashF15 FX517ZM-HN093 15.6" FHD(1920x1080) IPS 144Hz/Intel Core i7-12650H 2,3Ghz (10Cores)/16GB/512GB/NVIDIA GeForce RTX3060 6GB/Wi-Fi 6/BT5.2/720P HD Camera/BKLT/NoOS/1Y/Black</model>
       <brand>ASUS</brand>
-      <price>693883</price>
+      <price>695304</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51774,7 +51566,7 @@
     <offer sku="6F700EA" xmlns="">
       <model>HP EliteBook 860 NB PC / UMA i7-1255U Realtek USBC 860 G9 / 16.0 WUXGA  UWVA 250 WWAN 5MP IR bnt Panel / 16GB (1x16GB) DDR5 4800 SODIMM Memory / 512GB PCIe NVMe Value</model>
       <brand>HP</brand>
-      <price>694090</price>
+      <price>695511</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51782,7 +51574,7 @@
     <offer sku="90S2002WRS" xmlns="">
       <model>Системный блок Lenovo 90S2002WRS Legion T7 34IAZ7 Intel Core i7-12700KF 3,6Ghz/16GB/512GB/NVIDIA GeForce RTX 3070 8GB GDDR6/Wi-Fi 6/BT5.1/Windows 11 Home/1Y/Black</model>
       <brand>Lenovo</brand>
-      <price>748124</price>
+      <price>749580</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51798,7 +51590,7 @@
     <offer sku="90NR0941-M002E0" xmlns="">
       <model>Ноутбук Asus 90NR0941-M002E0 ROG Zephyrus M16 GU603ZE-K8033 16" WQXGA(2560x1600) IPS 165Hz/Intel Core i7-12700H 2,3Ghz (14Cores)/16GB/512GB/NVIDIA GeForce RTX3050Ti 4GB/Wi-Fi 6E/BT5.2/IR+720P HD Camera/BKLT/NoOS/1Y/Black</model>
       <brand>ASUS</brand>
-      <price>786813</price>
+      <price>788436</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -51806,7 +51598,7 @@
     <offer sku="90PF0381-M00LJ0" xmlns="">
       <model>Системный блок ASUS 90PF0381-M00LJ0 S501MD-712700005X / 2B-BLACK/Intel® I7-12700/ NV RTX3050 PH 8GD6(AS) / 32Gb DDR4 (16+16) / 1Tb SSD +  1Tb HDD / 500W/ ACS_RU mouse and keyboard / Win11 PRO / 1Y / TS</model>
       <brand>ASUS</brand>
-      <price>808315</price>
+      <price>809984</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51814,7 +51606,7 @@
     <offer sku="90PF03C2-M00SC0" xmlns="">
       <model>Системный блок Asus 90PF03C2-M00SC0 G15CF-71270F0580 Intel Core i7-12700F 2,1Ghz/32GB/1TB+512GB/NVIDIA GeForce RTX 3080 10GB GDDR6X/Wi-Fi 6/BT5.2/DOS/1Y/Black</model>
       <brand>ASUS</brand>
-      <price>892510</price>
+      <price>894363</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51830,7 +51622,7 @@
     <offer sku="90Q900CWKZ" xmlns="">
       <model>Системный блок Lenovo 90Q900CWKZ  Legion T7 34IMZ5 Intel Core i7-11700KF 3,6Ghz Octa/4x8GB/1TB SSD+1TB SSD+1TB HDD/NVIDIA GeForce RTX 3080 10GB GDDR6X/Wi-Fi 6/BT5.0/Windows 11 Home/1Y/Black</model>
       <brand>Lenovo</brand>
-      <price>1021485</price>
+      <price>1023482</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51838,7 +51630,7 @@
     <offer sku="90NR07Y1-M00710" xmlns="">
       <model>Ноутбук Asus 90NR07Y1-M00710 ROG Flow Z13 GZ301ZA-LD142W 13,4" WUXGA (1920x1200) Touch IPS 120Hz/Intel Core i5-12500H 2,5Ghz (12Cores)/16GB/512GB/NVIDIA GeForce RTX3080 8GB/Wi-Fi 6E/BT5.2/720P HD Camera/BKLT/Windows 11 Home/1Y/Black</model>
       <brand>ASUS</brand>
-      <price>1531027</price>
+      <price>1534158</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -51846,9 +51638,9 @@
     <offer sku="7Z73A06BEA" xmlns="">
       <model>SR650 V2 Xeon Silver 4314 (16C 2.4GHz 24MB Cache/135W), 32GB  (1x32GB, 3200MHz 2Rx4 RDIMM), 8 SAS/SATA, 9350-8i, 1x750W Platinum, 5 Standard Fans, XCC Enterprise, Toolless V2 Rails</model>
       <brand>Lenovo</brand>
-      <price>2096539</price>
+      <price>2100818</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008979" xmlns="">
@@ -51920,7 +51712,7 @@
       <brand>Redmi</brand>
       <price>112022</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="008988" xmlns="">
@@ -51928,7 +51720,7 @@
       <brand>Redmi</brand>
       <price>112022</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="008989" xmlns="">
@@ -51936,7 +51728,7 @@
       <brand>Redmi</brand>
       <price>112022</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="008990" xmlns="">
@@ -51944,7 +51736,7 @@
       <brand>Redmi</brand>
       <price>112022</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="008991" xmlns="">
@@ -51958,7 +51750,7 @@
     <offer sku="008992" xmlns="">
       <model>Мобильный телефон Redmi Note 12 Pro+ 5G 8GB RAM 256GB ROM Polar White</model>
       <brand>Redmi</brand>
-      <price>211011</price>
+      <price>209876</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -52232,7 +52024,7 @@
       <brand>Gigabyte</brand>
       <price>44018</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009029" xmlns="">
@@ -52728,7 +52520,7 @@
       <brand>Kingston</brand>
       <price>188053</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009122" xmlns="">
@@ -53792,7 +53584,7 @@
       <brand>Deepcool</brand>
       <price>33567</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009263" xmlns="">
@@ -54584,7 +54376,7 @@
       <brand>Samsung</brand>
       <price>224719</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009365" xmlns="">
@@ -56144,7 +55936,7 @@
       <brand>HyperX</brand>
       <price>62090</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009564" xmlns="">
@@ -56152,7 +55944,7 @@
       <brand>HyperX</brand>
       <price>62090</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009565" xmlns="">
@@ -56366,7 +56158,7 @@
     <offer sku="009593" xmlns="">
       <model>Наушники Redmi Buds 4 Черный</model>
       <brand>Redmi</brand>
-      <price>26499</price>
+      <price>24978</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -56374,7 +56166,7 @@
     <offer sku="009594" xmlns="">
       <model>Наушники Redmi Buds 4 Pro Черный</model>
       <brand>Redmi</brand>
-      <price>39087</price>
+      <price>37472</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -56382,7 +56174,7 @@
     <offer sku="009595" xmlns="">
       <model>Наушники Redmi Buds 4 Pro Белый</model>
       <brand>Redmi</brand>
-      <price>39087</price>
+      <price>37472</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -56992,7 +56784,7 @@
       <brand>CyberPower</brand>
       <price>1155607</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009673" xmlns="">
@@ -57032,7 +56824,7 @@
       <brand>Legrand</brand>
       <price>481125</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009678" xmlns="">
@@ -57360,7 +57152,7 @@
       <brand>Razer</brand>
       <price>70090</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009723" xmlns="">
@@ -58480,7 +58272,7 @@
       <brand>Russell</brand>
       <price>102191</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009876" xmlns="">
@@ -58920,7 +58712,7 @@
       <brand>Scarlett</brand>
       <price>12472</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009935" xmlns="">
