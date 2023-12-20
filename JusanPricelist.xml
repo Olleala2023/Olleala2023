@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Jmart date="20.12.2023 10:37:04" xmlns="Jmart">
+<Jmart date="20.12.2023 10:45:19" xmlns="Jmart">
   <company>Hitech24.kz</company>
   <merchantid>Test</merchantid>
   <offers>
@@ -22,7 +22,7 @@
     <offer sku="000292" xmlns="">
       <model>ARATON cat sterilised 15 кг - корм для взрослых кошек после стерилизации</model>
       <brand>Araton</brand>
-      <price>35921</price>
+      <price>32837</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -198,7 +198,7 @@
     <offer sku="000293" xmlns="">
       <model>ARATON dog adult active 15 кг - корм для взрослых, активных собак</model>
       <brand>Araton</brand>
-      <price>23506</price>
+      <price>20275</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -214,7 +214,7 @@
     <offer sku="000295" xmlns="">
       <model>ARATON dog adult maxi 15 кг - корм для взрослых собак крупных пород</model>
       <brand>Araton</brand>
-      <price>24815</price>
+      <price>22146</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -465,14 +465,6 @@
       <price>39247</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="000537" xmlns="">
-      <model>NP Large Cat Adult 18 кг корм для кошек</model>
-      <brand>Nature's protection</brand>
-      <price>53124</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="000299" xmlns="">
@@ -1179,14 +1171,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="000594" xmlns="">
-      <model>13-inch MacBook Air, Model A2337: Apple M1 chip with 8-core CPU and 7-core GPU, 256GB - Silver</model>
-      <brand>Apple</brand>
-      <price>530598</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="001025" xmlns="">
       <model>Экран моторизированный (с пультом Д/У) Deluxe DLS-ERС350x270W (137"х106"), Ø - 174", 16:9</model>
       <brand>Deluxe</brand>
@@ -1270,7 +1254,7 @@
     <offer sku="SDSQXA1-400G-GN6MA" xmlns="">
       <model>SanDisk Extreme microSDXC 400GB + SD Adapter + Rescue Pro Deluxe 160MB/s A2 C10 V30 UHS-I U6; EAN: 619659165697</model>
       <brand>Sandisk</brand>
-      <price>35020</price>
+      <price>35058</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1326,7 +1310,7 @@
     <offer sku="ST4000NM003A" xmlns="">
       <model>Жесткий диск HDD 4TB Seagate Exos 7E8 HDD ST4000NM003A 3.5" SAS 12Gb/s 256Mb 7200rpm</model>
       <brand>Seagate</brand>
-      <price>85060</price>
+      <price>85158</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1334,7 +1318,7 @@
     <offer sku="ST4000NM005A" xmlns="">
       <model>Жесткий диск HDD 4TB Seagate Exos 7E8 HDD ST4000NM005A 3.5" SAS 12Gb/s 256Mb 7200rpm</model>
       <brand>Seagate</brand>
-      <price>85060</price>
+      <price>85158</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1342,7 +1326,7 @@
     <offer sku="ST6000VN001" xmlns="">
       <model>Жесткий диск HDD 6Tb Seagate IronWolf ST6000VN001 3.5" SATA 6Gb/s 128Mb 5900rpm для NAS</model>
       <brand>Seagate</brand>
-      <price>92770</price>
+      <price>92877</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1350,7 +1334,7 @@
     <offer sku="ST6000VX001" xmlns="">
       <model>Жесткий диск HDD 6TB Seagate SkyHawk ST6000VX001 3.5" SATA 6Gb/s 256Mb 5400rpm для систем видеонаблюдения</model>
       <brand>Seagate</brand>
-      <price>76785</price>
+      <price>76873</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1366,7 +1350,7 @@
     <offer sku="HDWD110UZSVA" xmlns="">
       <model>Жесткий диск TOSHIBA HDWD110UZSVA/HDKPC32ZKA01S P300 High-Performance 1ТБ 3,5" 7200RPM 64MB SATA-III</model>
       <brand>TOSHIBA</brand>
-      <price>24591</price>
+      <price>24617</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1382,7 +1366,7 @@
     <offer sku="WD6003FRYZ" xmlns="">
       <model>Жесткий диск WD GOLD WD6003FRYZ 6ТБ 3,5" 7200RPM 256MB 512E (SATA III)</model>
       <brand>WD</brand>
-      <price>128617</price>
+      <price>128764</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1390,7 +1374,7 @@
     <offer sku="WD84PURZ" xmlns="">
       <model>Жесткий диск WD Purple WD84PURZ 8ТБ 3,5" 5640M 128MB (SATA-III) DV&amp;NVR</model>
       <brand>WD</brand>
-      <price>120856</price>
+      <price>120993</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1398,7 +1382,7 @@
     <offer sku="WD10PURZ" xmlns="">
       <model>Жёсткий диск WD Purple™ WD10PURZ 1ТБ 3,5" 5400RPM 64MB (SATA-III) DV&amp;NVR</model>
       <brand>WD</brand>
-      <price>33997</price>
+      <price>34034</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1603,6 +1587,14 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="920-007584" xmlns="">
+      <model>Клавиатура беспроводная Logitech K380 (DARK GREY, Multi-Device, Bluetooth Classic (3.0), 2 батарейки типа ААА)</model>
+      <brand>Steelseries</brand>
+      <price>24448</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="920-008309" xmlns="">
       <model>Клавиатура игровая Logitech G413 CARBON (механическая, красная подсветка)</model>
       <brand>Steelseries</brand>
@@ -1647,14 +1639,6 @@
       <model>Монитор LCD 23.8'' 16:9 1920х1080(FHD) IPS, nonGLARE, 250cd/m2, H178°/V178°, 1000:1, 16.7M Color, 5ms, VGA, HDMI, Tilt, Audio out, 2Y, Black</model>
       <brand>LG</brand>
       <price>106982</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="243V7QDAB/01" xmlns="">
-      <model>Монитор LCD 23.8'' 16:9 1920х1080(FHD) IPS, nonGLARE, 250cd/m2, H178°/V178°, 10М:1, 5ms, VGA, DVI, HDMI, Tilt, Speakers, Audio out, 2Y, Black</model>
-      <brand>PHILIPS</brand>
-      <price>71164</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1742,7 +1726,7 @@
     <offer sku="8468B042" xmlns="">
       <model>i-SENSYS LBP6030B Bundle (чёрный) лазерный A4 монохромный ч.б. 18 стр/мин печать 600x600 стратовый картридж (емкость 700 стр.) + 2 доп картриджа</model>
       <brand>Canon</brand>
-      <price>133286</price>
+      <price>134216</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1758,9 +1742,9 @@
     <offer sku="1102RY3NL0" xmlns="">
       <model>Лазерный принтер Kyocera P2040dw (A4, 1200dpi, 256Mb, 40 ppm, 350 л., дуплекс, USB 2.0, Gigabit Ethernet, Wi-Fi), отгрузка только с доп. тонером TK-1160</model>
       <brand>KYOCERA</brand>
-      <price>269650</price>
+      <price>271556</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="Robot VC Kyvol E20" xmlns="">
@@ -1792,7 +1776,7 @@
       <brand>Nature's protection</brand>
       <price>43551</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001148" xmlns="">
@@ -1833,14 +1817,6 @@
       <price>37331</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="001170" xmlns="">
-      <model>7К 2982 Лежанка высокая с волной</model>
-      <brand>7 Котиков</brand>
-      <price>23904</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001176" xmlns="">
@@ -1976,21 +1952,13 @@
       <brand>Сибирская Кошка</brand>
       <price>4899</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001329" xmlns="">
       <model>CATLITTER наполн. 20 кг  комкующийся</model>
       <brand>CATLITTER</brand>
       <price>4629</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="001334" xmlns="">
-      <model>NP Lifestyle Grain Free Poultry  Adult All Breeds 1.5kg беззерновой корм для взрослых собак всех пор</model>
-      <brand>Nature's protection</brand>
-      <price>6596</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -2099,6 +2067,14 @@
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="001597" xmlns="">
+      <model>P3010DW</model>
+      <brand>PANTUM</brand>
+      <price>103079</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="001598" xmlns="">
       <model>Pantum P3300DN</model>
       <brand>PANTUM</brand>
@@ -2118,7 +2094,7 @@
     <offer sku="001607" xmlns="">
       <model>Intel CPU Desktop Core i5-9600KF (3.7GHz, 9MB, LGA1151) tray</model>
       <brand>INTEL</brand>
-      <price>117666</price>
+      <price>117793</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -2126,7 +2102,7 @@
     <offer sku="001624" xmlns="">
       <model>LEXAR NS100 256GB SSD, 2.5”, SATA (6Gb/s), up to 520MB/s Read and 440 MB/s write EAN: 843367116195</model>
       <brand>LEXAR</brand>
-      <price>15519</price>
+      <price>15532</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -2134,7 +2110,7 @@
     <offer sku="001625" xmlns="">
       <model>LEXAR NS100 512GB SSD, 2.5”, SATA (6Gb/s), up to 550MB/s Read and 450 MB/s write EAN: 843367116201</model>
       <brand>LEXAR</brand>
-      <price>23121</price>
+      <price>23143</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -2350,7 +2326,7 @@
     <offer sku="001917" xmlns="">
       <model>Твердотельный накопитель SSD 240 Gb, M.2 2280, Kingston DC1000B, SEDC1000BM8/240G NVMe PCIe</model>
       <brand>Kingston</brand>
-      <price>48027</price>
+      <price>48078</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -2374,7 +2350,7 @@
     <offer sku="001925" xmlns="">
       <model>Твердотельный накопитель SSD 960 Gb SATA 6Gb/s Kingston DC500R SEDC500R/960G 2.5"</model>
       <brand>Kingston</brand>
-      <price>52956</price>
+      <price>53013</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -2382,7 +2358,7 @@
     <offer sku="001926" xmlns="">
       <model>Твердотельный накопитель SSD 960 Gb SATA 6Gb/s Kingston DC500M SEDC500M/960G  2.5" 3D TLC для корпоративных систем</model>
       <brand>Kingston</brand>
-      <price>61288</price>
+      <price>61355</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -2390,7 +2366,7 @@
     <offer sku="001929" xmlns="">
       <model>Твердотельный накопитель SSD 1920 Gb Kingston DC1500M SEDC1500M/1920G, U.2 PCIe NVMe Gen3 x4</model>
       <brand>Kingston</brand>
-      <price>81333</price>
+      <price>81425</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -2398,7 +2374,7 @@
     <offer sku="001951" xmlns="">
       <model>Жёсткий диск HDD 2 Tb SATA 6Gb/s Western Digital Purple Surveillance WD22PURZ 3.5" 256Mb</model>
       <brand>Western Digital</brand>
-      <price>42221</price>
+      <price>42268</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -2422,7 +2398,7 @@
     <offer sku="001959" xmlns="">
       <model>Жёсткий диск HDD 2 Tb SATA 6Gb/s Western Digital Ultrastar  HUS722T2TALA604 3.5" 7200rpm 128Mb</model>
       <brand>Western Digital</brand>
-      <price>72211</price>
+      <price>72293</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -2430,7 +2406,7 @@
     <offer sku="001961" xmlns="">
       <model>Жёсткий диск HDD 8 Tb SATA 6Gb/s Western Digital Ultrastar HUS728T8TALE6L4 3.5" 7200rpm 256Mb</model>
       <brand>Western Digital</brand>
-      <price>122758</price>
+      <price>122897</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -2438,7 +2414,7 @@
     <offer sku="001962" xmlns="">
       <model>Жёсткий диск HDD 10 Tb SATA 6Gb/s WD Ultrastar WUS721010ALE6L4 (0B42266) 3.5"7200rpm 256Mb</model>
       <brand>Western Digital</brand>
-      <price>149742</price>
+      <price>149914</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -2446,7 +2422,7 @@
     <offer sku="001963" xmlns="">
       <model>Жёсткий диск HDD 16 Tb SATA 6Gb/s Western Digital Gold WD161KRYZ  3.5" 7200rpm 512Mb</model>
       <brand>Western Digital</brand>
-      <price>220772</price>
+      <price>221028</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -2454,7 +2430,7 @@
     <offer sku="001964" xmlns="">
       <model>Жёсткий диск HDD 8 Tb SATA 6Gb/s Seagate Barracuda ST8000DM004 3.5" 5400rpm 256Mb         </model>
       <brand>Seagate</brand>
-      <price>93027</price>
+      <price>93134</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -2462,7 +2438,7 @@
     <offer sku="001967" xmlns="">
       <model>Жёсткий диск HDD 4 Tb SATA 6Gb/s Seagate SkyHawk ST4000VX013 3.5" 5900rpm 256Mb</model>
       <brand>Seagate</brand>
-      <price>53066</price>
+      <price>53126</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -2470,7 +2446,7 @@
     <offer sku="001968" xmlns="">
       <model>Жесткий диск HDD 8TB SATA 6GB/S Seagate SkyHawk ST8000VX004 3.5' 7200rpm 256MB</model>
       <brand>Seagate</brand>
-      <price>107212</price>
+      <price>107338</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -2478,7 +2454,7 @@
     <offer sku="001969" xmlns="">
       <model>Жесткий диск HDD 8TB SATA 6GB/S Seagate SkyHawk AI ST8000VE001 3.5' 7200rpm 256MB</model>
       <brand>Seagate</brand>
-      <price>112352</price>
+      <price>112484</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -2486,7 +2462,7 @@
     <offer sku="001973" xmlns="">
       <model>Жесткий диск HDD 8 Tb SATA 6Gb/s Seagate IronWolf ST8000VN004 3.5” 7200rpm 256MB</model>
       <brand>Seagate</brand>
-      <price>133294</price>
+      <price>133447</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -2494,7 +2470,7 @@
     <offer sku="001977" xmlns="">
       <model>Жёсткий диск HDD 10 Tb SATA 6Gb/s Seagate Exos 7E10 ST10000NM017B 3.5" 7200rpm 256Mb</model>
       <brand>Seagate</brand>
-      <price>156989</price>
+      <price>157170</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -3280,7 +3256,7 @@
       <brand>Intel</brand>
       <price>89207</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="002329" xmlns="">
@@ -3430,7 +3406,7 @@
     <offer sku="002586" xmlns="">
       <model>SanDisk Ultra Light microSDHC 64GB 100MB/s Class 10; EAN: 619659185077</model>
       <brand>Sandisk</brand>
-      <price>5405</price>
+      <price>5407</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -3438,7 +3414,7 @@
     <offer sku="002587" xmlns="">
       <model>SANDISK 64GB Ultra microSDHC+SD Adapter</model>
       <brand>Sandisk</brand>
-      <price>5934</price>
+      <price>5937</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -3446,7 +3422,7 @@
     <offer sku="002634" xmlns="">
       <model>SanDisk Ultra USB Type C 64GB; EAN: 619659140342</model>
       <brand>Sandisk</brand>
-      <price>6345</price>
+      <price>6348</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -3454,7 +3430,7 @@
     <offer sku="002635" xmlns="">
       <model>SANDISK 64GB SanDisk Ultra USB 3.1 Gen 1 Type-C Flash Drive</model>
       <brand>Sandisk</brand>
-      <price>7270</price>
+      <price>7275</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -3462,7 +3438,7 @@
     <offer sku="002637" xmlns="">
       <model>SanDisk Ultra USB 3.0 64GB RED; EAN: 619659145897</model>
       <brand>Sandisk</brand>
-      <price>6397</price>
+      <price>6400</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -3470,7 +3446,7 @@
     <offer sku="002638" xmlns="">
       <model>SanDisk Ultra USB 3.0 128GB; EAN: 619659113568</model>
       <brand>Sandisk</brand>
-      <price>7630</price>
+      <price>7635</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -3478,7 +3454,7 @@
     <offer sku="002641" xmlns="">
       <model>SanDisk Cruzer Blade 128GB; EAN: 619659125905</model>
       <brand>Sandisk</brand>
-      <price>7424</price>
+      <price>7429</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -3486,7 +3462,7 @@
     <offer sku="002646" xmlns="">
       <model>SanDisk Cruzer Blade 64GB Electric Green; EAN: 619659146955</model>
       <brand>Sandisk</brand>
-      <price>5985</price>
+      <price>5988</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -3494,7 +3470,7 @@
     <offer sku="002649" xmlns="">
       <model>SanDisk Cruzer Glide 3.0 USB Flash Drive 64GB; EAN: 619659115906</model>
       <brand>Sandisk</brand>
-      <price>6242</price>
+      <price>6245</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -3502,7 +3478,7 @@
     <offer sku="002650" xmlns="">
       <model>SanDisk Cruzer Glide 3.0 USB Flash Drive 128GB; EAN: 619659115913</model>
       <brand>Sandisk</brand>
-      <price>8196</price>
+      <price>8201</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -3510,7 +3486,7 @@
     <offer sku="002652" xmlns="">
       <model>SanDisk Cruzer Spark USB 2.0 Flash Drive - 128GB; EAN: 619659167547</model>
       <brand>Sandisk</brand>
-      <price>8093</price>
+      <price>8098</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -3518,7 +3494,7 @@
     <offer sku="002654" xmlns="">
       <model>SanDisk Cruzer Force 64GB; EAN: 619659100865</model>
       <brand>Sandisk</brand>
-      <price>6397</price>
+      <price>6400</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -3526,7 +3502,7 @@
     <offer sku="002659" xmlns="">
       <model>SanDisk Ultra Flair USB 3.0 128GB - NEW Tropical Blue Color; EAN: 619659163082</model>
       <brand>Sandisk</brand>
-      <price>8093</price>
+      <price>8098</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -3534,7 +3510,7 @@
     <offer sku="002660" xmlns="">
       <model>SANDISK Ultra Luxe USB 3.1 Flash Drive 64GB</model>
       <brand>Sandisk</brand>
-      <price>6859</price>
+      <price>6863</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -3542,7 +3518,7 @@
     <offer sku="002662" xmlns="">
       <model>SANDISK ULTRA LOOP 32GB USB 3.0</model>
       <brand>Sandisk</brand>
-      <price>6756</price>
+      <price>6760</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -3550,7 +3526,7 @@
     <offer sku="002663" xmlns="">
       <model>SANDISK ULTRA LOOP 64GB USB 3.0</model>
       <brand>Sandisk</brand>
-      <price>7681</price>
+      <price>7686</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -3558,7 +3534,7 @@
     <offer sku="002664" xmlns="">
       <model>SANDISK ULTRA LOOP 128GB USB 3.0</model>
       <brand>Sandisk</brand>
-      <price>9840</price>
+      <price>9848</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -5616,7 +5592,7 @@
       <brand>Rapoo</brand>
       <price>18809</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003146" xmlns="">
@@ -6016,7 +5992,7 @@
       <brand>Genius</brand>
       <price>15416</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003230" xmlns="">
@@ -6320,7 +6296,7 @@
       <brand>HyperX</brand>
       <price>16562</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003302" xmlns="">
@@ -7899,14 +7875,6 @@
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
-    <offer sku="003647" xmlns="">
-      <model>Цилиндрическая видеокамера Dahua DH-IPC-HFW3449T1P-AS-PV-0280B</model>
-      <brand>Dahua</brand>
-      <price>116989</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
     <offer sku="003651" xmlns="">
       <model>Цилиндрическая видеокамера Dahua DH-IPC-HFW3849T1P-AS-PV-0280B</model>
       <brand>Dahua</brand>
@@ -9216,7 +9184,7 @@
       <brand>TP link</brand>
       <price>28396</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003888" xmlns="">
@@ -10614,7 +10582,7 @@
     <offer sku="BX8071512600KSRL4T" xmlns="">
       <model>Intel CPU Desktop Core i5-12600K (3.7GHz, 20MB, LGA1700) box</model>
       <brand>INTEL</brand>
-      <price>150153</price>
+      <price>150326</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10622,7 +10590,7 @@
     <offer sku="BX8071512700KSRL4N" xmlns="">
       <model>Intel CPU Desktop Core i7-12700K (3.6GHz, 25MB, LGA1700) box</model>
       <brand>INTEL</brand>
-      <price>195162</price>
+      <price>195384</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10630,7 +10598,7 @@
     <offer sku="CM8071504555227SRL4T" xmlns="">
       <model>Intel CPU Desktop Core i5-12600K (3.7GHz, 20MB, LGA1700) tray</model>
       <brand>INTEL</brand>
-      <price>143985</price>
+      <price>144151</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -10638,7 +10606,7 @@
     <offer sku="BX80684E2226GSRF7F" xmlns="">
       <model>Intel CPU Server 6-core Xeon E-2226G (3.40 GHz, 12M, LGA1151) box</model>
       <brand>INTEL</brand>
-      <price>187452</price>
+      <price>187665</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -10646,7 +10614,7 @@
     <offer sku="BX80684E2234SRFAX" xmlns="">
       <model>Intel CPU Server 4-core Xeon E-2234 (3.60 GHz, 8M, LGA1151) box</model>
       <brand>INTEL</brand>
-      <price>181284</price>
+      <price>181490</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10654,7 +10622,7 @@
     <offer sku="CD8068904657901SRKXN" xmlns="">
       <model>Intel CPU Server 12-core Xeon 4310 (2.10 GHz, 18M, FC-LGA14) tray</model>
       <brand>INTEL</brand>
-      <price>349869</price>
+      <price>350281</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -10662,7 +10630,7 @@
     <offer sku="CD8069504344500SRG24" xmlns="">
       <model>Intel CPU Server 10-core Xeon 4210R (2.40 GHz, 13.75M, FC-LGA3647) tray</model>
       <brand>INTEL</brand>
-      <price>349869</price>
+      <price>350281</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -10670,7 +10638,7 @@
     <offer sku="SNK-P0046A4" xmlns="">
       <model>Кулер Supermicro SNK-P0046A4 2U LGA 1150/1151 Active CPU Retail</model>
       <brand>SUPERMICRO</brand>
-      <price>22016</price>
+      <price>22038</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10678,7 +10646,7 @@
     <offer sku="SNK-P0046P" xmlns="">
       <model>Кулер Supermicro SNK-P0046P 1U LGA 1150/1151 Passive CPU Retail</model>
       <brand>SUPERMICRO</brand>
-      <price>20474</price>
+      <price>20494</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10686,7 +10654,7 @@
     <offer sku="SNK-P0051AP4" xmlns="">
       <model>Кулер Supermicro 4U Active CPU HS for Gaming and Socket H UP Systems</model>
       <brand>SUPERMICRO</brand>
-      <price>32673</price>
+      <price>32708</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10694,7 +10662,7 @@
     <offer sku="SNK-P0067PS" xmlns="">
       <model>Кулер Supermicro SNK-P0067PS 1U Heatsink</model>
       <brand>SUPERMICRO</brand>
-      <price>27156</price>
+      <price>27184</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10702,7 +10670,7 @@
     <offer sku="SNK-P0068AP4" xmlns="">
       <model>Кулер Supermicro SNK-P0068AP4 2U Active CPU Heat Sink for X11 Purley Platform</model>
       <brand>SUPERMICRO</brand>
-      <price>35243</price>
+      <price>35281</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10710,7 +10678,7 @@
     <offer sku="SNK-P0068APS4" xmlns="">
       <model>Кулер Supermicro SNK-P0068APS4 2U Heatsink</model>
       <brand>SUPERMICRO</brand>
-      <price>29726</price>
+      <price>29757</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -10718,7 +10686,7 @@
     <offer sku="SNK-P0068PS" xmlns="">
       <model>Кулер Supermicro 2U Passive CPU Heat Sink Socket LGA3647-0 (SNK-P0068PS)</model>
       <brand>SUPERMICRO</brand>
-      <price>22016</price>
+      <price>22038</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10726,7 +10694,7 @@
     <offer sku="SNK-P0068PSC" xmlns="">
       <model>Кулер Supermicro SNK-P0068PSC 2U Heatsink (Front)</model>
       <brand>SUPERMICRO</brand>
-      <price>22016</price>
+      <price>22038</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10734,7 +10702,7 @@
     <offer sku="MBD-X11DPL-I-O" xmlns="">
       <model>Серверная материнская плата SuperMicro X11DPL i Motherboard Dual Socket P (LGA 3647) supported, CPU TDP support Up to 140W, 2 UPI up to 10.4 GT/s.</model>
       <brand>SUPERMICRO</brand>
-      <price>341212</price>
+      <price>341596</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -10742,7 +10710,7 @@
     <offer sku="SSDPE2KX010T81V" xmlns="">
       <model>SK HYNIX SSD DC P4510 Series (1.0TB, 2.5in PCIe 3.1 x4, 3D2, TLC) Generic 10 Pack</model>
       <brand>INTEL</brand>
-      <price>80819</price>
+      <price>80910</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10798,7 +10766,7 @@
     <offer sku="KVR32N22S8/8" xmlns="">
       <model>Модуль памяти Kingston KVR32N22S8/8  DDR4 DIMM 8Gb 3200 MHz CL22</model>
       <brand>Kimtigo</brand>
-      <price>13775</price>
+      <price>13787</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -10838,7 +10806,7 @@
     <offer sku="HUS726T6TALE6L4" xmlns="">
       <model>Жёсткий диск HDD 6 Tb SATA 6Gb/s Western Digital Ultrastar HUS726T6TALE6L4 (0B36039) 3.5" 7200rpm 256Mb</model>
       <brand>WD</brand>
-      <price>106236</price>
+      <price>106360</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10894,7 +10862,7 @@
     <offer sku="1156C005" xmlns="">
       <model>MC31 Maintenance Cartridge TM200/TM300</model>
       <brand>Canon</brand>
-      <price>46154</price>
+      <price>46474</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10934,7 +10902,7 @@
     <offer sku="0488C002" xmlns="">
       <model>Drum Unit C-EXV 51, CMY 400,000 pages, Black 460,000 pages</model>
       <brand>Canon</brand>
-      <price>426587</price>
+      <price>429984</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -10942,7 +10910,7 @@
     <offer sku="2886C001" xmlns="">
       <model>PFI-120 Cyan (130 мл для ТМ-серии)</model>
       <brand>Canon</brand>
-      <price>48112</price>
+      <price>48470</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10950,7 +10918,7 @@
     <offer sku="2887C001" xmlns="">
       <model>PFI-120 Magenta (130 мл для ТМ-серии)</model>
       <brand>Canon</brand>
-      <price>48112</price>
+      <price>48470</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10958,7 +10926,7 @@
     <offer sku="6908B002" xmlns="">
       <model>Тонер C-EXV42 для iR2202/iR2202N</model>
       <brand>Canon</brand>
-      <price>27273</price>
+      <price>27468</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10966,7 +10934,7 @@
     <offer sku="1T02RY0NL0" xmlns="">
       <model>Тонер-картридж TK-1160 7 200 стр. для P2040dn/P2040dw</model>
       <brand>KYOCERA</brand>
-      <price>69372</price>
+      <price>69907</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10974,7 +10942,7 @@
     <offer sku="1T02R9CNL0" xmlns="">
       <model>Тонер-картридж TK-5230C 2 200 стр. Cyan для P5021cdn/cdw, M5521cdn/cdw</model>
       <brand>Kyocera</brand>
-      <price>63218</price>
+      <price>63701</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10982,7 +10950,7 @@
     <offer sku="1T02R90NL0" xmlns="">
       <model>Тонер-картридж TK-5230K 2 600 стр. Black для P5021cdn/cdw, M5521cdn/cdw</model>
       <brand>Kyocera</brand>
-      <price>44756</price>
+      <price>45086</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -10990,7 +10958,7 @@
     <offer sku="1T02R9BNL0" xmlns="">
       <model>Тонер-картридж TK-5230M 2 200 стр. Magenta для P5021cdn/cdw, M5521cdn/cdw</model>
       <brand>Kyocera</brand>
-      <price>63218</price>
+      <price>63701</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10998,7 +10966,7 @@
     <offer sku="1T02R9ANL0" xmlns="">
       <model>Тонер-картридж TK-5230Y 2 200 стр. Yellow для P5021cdn/cdw, M5521cdn/cdw</model>
       <brand>Kyocera</brand>
-      <price>63218</price>
+      <price>63701</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11015,6 +10983,14 @@
       <model>Мышь игровая беспроводная Logitech G903 LIGHTSPEED (HERO) (M/N: MR0081 / C-U0008)</model>
       <brand>Logitech</brand>
       <price>80921</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="920-008686" xmlns="">
+      <model>Комплект беспроводной Logitech MK540 ADVANCED (клавиатура+мышь) (M/N: Y-R0012 / M-R0050 / C-U0007)</model>
+      <brand>Logitech</brand>
+      <price>38658</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11038,7 +11014,7 @@
     <offer sku="100-100000263BOX" xmlns="">
       <model>AMD Ryzen 7 5700G, with Wraith Stealth Cooler</model>
       <brand>AMD</brand>
-      <price>119314</price>
+      <price>119449</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11046,7 +11022,7 @@
     <offer sku="100-000000065" xmlns="">
       <model>CPU AMD Ryzen 5 5600X OEM AM4, 100-000000065</model>
       <brand>AMD</brand>
-      <price>93615</price>
+      <price>93719</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11331,6 +11307,14 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="R0Q46A" xmlns="">
+      <model>HPE MSA 960GB SAS 12G Read Intensive SFF (2.5in) M2 3yr Wty SSD</model>
+      <brand>HPE</brand>
+      <price>379017</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="4XB7A38273" xmlns="">
       <model>ThinkSystem 2.5" Multi Vendor 960GB Entry SATA 6Gb Hot Swap SSD</model>
       <brand>Lenovo</brand>
@@ -11367,6 +11351,14 @@
       <model>ThinkSystem 8GB TruDDR4 2666MHz (1Rx8, 1.2V) UDIMM</model>
       <brand>Lenovo</brand>
       <price>30989</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="C8R24B" xmlns="">
+      <model>HPE MSA 16Gb SW FC SFP 4pk XCVR</model>
+      <brand>HPE</brand>
+      <price>216750</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11560,7 +11552,7 @@
       <brand>HP</brand>
       <price>90890</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="X2474HS-B2" xmlns="">
@@ -11598,7 +11590,7 @@
     <offer sku="0785C001" xmlns="">
       <model>PFI-1700 Chroma Optimizer</model>
       <brand>Canon</brand>
-      <price>184340</price>
+      <price>185767</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11606,7 +11598,7 @@
     <offer sku="0781C001" xmlns="">
       <model>PFI-1700 Grey</model>
       <brand>Canon</brand>
-      <price>184340</price>
+      <price>185767</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11614,7 +11606,7 @@
     <offer sku="0774C001" xmlns="">
       <model>PFI-1700 Matte Black</model>
       <brand>Canon</brand>
-      <price>184340</price>
+      <price>185767</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11622,7 +11614,7 @@
     <offer sku="0861C001" xmlns="">
       <model>Print head PF-10</model>
       <brand>Canon</brand>
-      <price>357072</price>
+      <price>359860</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11702,7 +11694,7 @@
     <offer sku="6705B001" xmlns="">
       <model>PFI 107 Black (130 ml)</model>
       <brand>Canon</brand>
-      <price>52588</price>
+      <price>52983</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11710,7 +11702,7 @@
     <offer sku="6706B001" xmlns="">
       <model>PFI 107 Cyan (130 ml)</model>
       <brand>Canon</brand>
-      <price>52588</price>
+      <price>52983</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11718,7 +11710,7 @@
     <offer sku="6707B001" xmlns="">
       <model>PFI 107 Magenta (130 ml)</model>
       <brand>Canon</brand>
-      <price>52588</price>
+      <price>52983</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11726,7 +11718,7 @@
     <offer sku="6708B001" xmlns="">
       <model>PFI 107 Yellow (130 ml)</model>
       <brand>Canon</brand>
-      <price>52588</price>
+      <price>52983</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11734,7 +11726,7 @@
     <offer sku="2885C001" xmlns="">
       <model>PFI-120 Black (130 мл для ТМ-серии)</model>
       <brand>Canon</brand>
-      <price>48112</price>
+      <price>48470</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11742,7 +11734,7 @@
     <offer sku="2884C001" xmlns="">
       <model>PFI-120 Matte Black (130 мл для ТМ-серии)</model>
       <brand>Canon</brand>
-      <price>48112</price>
+      <price>48470</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11750,7 +11742,7 @@
     <offer sku="2888C001" xmlns="">
       <model>PFI-120 Yellow (130 мл для ТМ-серии)</model>
       <brand>Canon</brand>
-      <price>48112</price>
+      <price>48470</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11758,7 +11750,7 @@
     <offer sku="2890C001" xmlns="">
       <model>PFI-320 Black (300 ml)</model>
       <brand>Canon</brand>
-      <price>85736</price>
+      <price>86396</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11766,7 +11758,7 @@
     <offer sku="8524B002" xmlns="">
       <model>TONER C-EXV 49 BLACK  Yield 36k for iR ADV C33xx</model>
       <brand>Canon</brand>
-      <price>43077</price>
+      <price>43393</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11774,7 +11766,7 @@
     <offer sku="8525B002" xmlns="">
       <model>TONER C-EXV 49 CYAN  Yield 19k for iR ADV C33xx</model>
       <brand>Canon</brand>
-      <price>63218</price>
+      <price>63701</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11782,7 +11774,7 @@
     <offer sku="8526B002" xmlns="">
       <model>TONER C-EXV 49 MAGENTA  Yield 19k for iR ADV C33xx</model>
       <brand>Canon</brand>
-      <price>63218</price>
+      <price>63701</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11790,7 +11782,7 @@
     <offer sku="8527B002" xmlns="">
       <model>TONER C-EXV 49 YELLOW  Yield 19k for iR ADV C33xx</model>
       <brand>Canon</brand>
-      <price>63218</price>
+      <price>63701</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11798,7 +11790,7 @@
     <offer sku="0484C002" xmlns="">
       <model>TONER C-EXV 51 YELLOW  60,000 pages for iR ADV C55xx</model>
       <brand>Canon</brand>
-      <price>227978</price>
+      <price>229767</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11806,47 +11798,15 @@
     <offer sku="0486C002" xmlns="">
       <model>TONER C-EXV 51L MAGENTA  26,000 pages for iR ADV C55xx</model>
       <brand>Canon</brand>
-      <price>120841</price>
+      <price>121762</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="1394C002" xmlns="">
-      <model>TONER C-EXV 54 Black 15,500 pages for iR ADV C30xx</model>
-      <brand>Canon</brand>
-      <price>37483</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="1395C002" xmlns="">
-      <model>TONER C-EXV 54 Cyan 8,500 pages for iR ADV C30xx</model>
-      <brand>Canon</brand>
-      <price>51469</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="1396C002" xmlns="">
-      <model>TONER C-EXV 54 Magenta 8,500 pages for iR ADV C30xx</model>
-      <brand>Canon</brand>
-      <price>51469</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="1397C002" xmlns="">
-      <model>TONER C-EXV 54 Yellow 8,500 pages for iR ADV C30xx</model>
-      <brand>Canon</brand>
-      <price>51469</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="3760C002" xmlns="">
       <model>TONER C-EXV 59 TONER BLAC Тонер черный для 2625i/2630i/2545i</model>
       <brand>Canon</brand>
-      <price>64896</price>
+      <price>65394</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11854,7 +11814,7 @@
     <offer sku="2788B002" xmlns="">
       <model>TONER CEXV43(IRADV4/500i)</model>
       <brand>Canon</brand>
-      <price>49791</price>
+      <price>50163</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11862,7 +11822,7 @@
     <offer sku="3526C002" xmlns="">
       <model>TONER T06 BK EUR Картридж с тонером для IR 1643I</model>
       <brand>Canon</brand>
-      <price>91331</price>
+      <price>92037</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11870,7 +11830,7 @@
     <offer sku="3019C006" xmlns="">
       <model>TONER T09 Cyan Синий тонер  5900 страниц для i-S X C1127</model>
       <brand>Canon</brand>
-      <price>93009</price>
+      <price>93729</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11886,7 +11846,7 @@
     <offer sku="1T02MS0NL0" xmlns="">
       <model>Тонер-картридж TK-3100 12 500 стр. Black для FS-2100D/2100DN/4100DN/4200DN/4300DN, M3040dn/M3540dn</model>
       <brand>Kyocera</brand>
-      <price>64896</price>
+      <price>65394</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11894,7 +11854,7 @@
     <offer sku="1T02XR0NL0" xmlns="">
       <model>Тонер-картридж TK-4145 15 000 стр. для TASKalfa 2020/2021/2320/2321</model>
       <brand>Kyocera</brand>
-      <price>40280</price>
+      <price>40573</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12152,7 +12112,7 @@
       <brand>Lenovo</brand>
       <price>9226</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="GX40Q17231" xmlns="">
@@ -12190,7 +12150,7 @@
     <offer sku="KVR26N19S8/16" xmlns="">
       <model>Модуль памяти Kingston KVR26N19S8/16  DDR4 DIMM 16Gb   2666 MHz CL19</model>
       <brand>Kingston</brand>
-      <price>21728</price>
+      <price>21750</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12206,7 +12166,7 @@
     <offer sku="KVR48U40BS8-16" xmlns="">
       <model>Модуль памяти Kingston KVR48U40BS8-16 DDR5 DIMM 16Gb 4800 MHz CL40</model>
       <brand>Kingston</brand>
-      <price>32190</price>
+      <price>32223</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12246,7 +12206,7 @@
     <offer sku="SEDC500M/480G Asbis" xmlns="">
       <model>Твердотельный накопитель SSD 480 Gb SATA 6Gb/s Kingston DC500M SEDC500M/480G  2.5" 3D TLC для корпоративных систем</model>
       <brand>Kingston</brand>
-      <price>47047</price>
+      <price>47100</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12270,7 +12230,7 @@
     <offer sku="AXX1300TCRPS" xmlns="">
       <model>Intel Common Redundant Power Supply AXX1300TCRPS, Single (1300W AC, 80+ Titanium efficiency, 2nd PSU)</model>
       <brand>INTEL</brand>
-      <price>147689</price>
+      <price>147865</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12278,7 +12238,7 @@
     <offer sku="AXX750DCCRPS" xmlns="">
       <model>750W DC Power Supply AXX750DCCRPS (Gold Efficiency), Single</model>
       <brand>INTEL</brand>
-      <price>168248</price>
+      <price>168449</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12286,7 +12246,7 @@
     <offer sku="AXXCBL875HDHD" xmlns="">
       <model>Intel SAS Cable kit AXXCBL875HDHD Single, (2x800mm long, straight SFF8643 to straight SFF8643)</model>
       <brand>INTEL</brand>
-      <price>24334</price>
+      <price>24360</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12294,7 +12254,7 @@
     <offer sku="AXXDCCRPSCBL" xmlns="">
       <model>Accessory DC Power Cable AXXDCCRPSCBL, Single</model>
       <brand>INTEL</brand>
-      <price>37184</price>
+      <price>37225</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12302,7 +12262,7 @@
     <offer sku="AXXELVRAIL" xmlns="">
       <model>Монтажный набор Intel Enhanced Value RAIL AXXELVRAIL, Single</model>
       <brand>INTEL</brand>
-      <price>34614</price>
+      <price>34652</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12310,7 +12270,7 @@
     <offer sku="AXXRPFKSSD2" xmlns="">
       <model>Intel RAID SSD Cache with Fast Path I/O (Gen2), Single</model>
       <brand>INTEL</brand>
-      <price>119420</price>
+      <price>119562</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12318,7 +12278,7 @@
     <offer sku="MCP-220-00080-0B" xmlns="">
       <model>Supermicro MCP-220-00080-0B набор для установки HDD 2.5" дисков в отсек 3.5"</model>
       <brand>SUPERMICRO</brand>
-      <price>11742</price>
+      <price>11752</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12326,7 +12286,7 @@
     <offer sku="RSC-RR1U-E8" xmlns="">
       <model>Supermicro RSC-RR1U-E8 Riser Card PCI-E 8x, 1U, Retail</model>
       <brand>SUPERMICRO</brand>
-      <price>16625</price>
+      <price>16640</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12342,7 +12302,7 @@
     <offer sku="RX-69XTATBD9" xmlns="">
       <model>XFX AMD Radeon RX-6900XT MERC 319, 16GB GDDR6 256bit, HDMI, 2x DP, USBC, 3 Fan, 3 Slot</model>
       <brand>XFX</brand>
-      <price>559387</price>
+      <price>560022</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12366,7 +12326,7 @@
     <offer sku="ST6000NM019B" xmlns="">
       <model>SEAGATE HDD Server Exos 7E10 512E/4kn (3.5'/ 6TB/ SATA 6Gb/s / 7200rpm)</model>
       <brand>SEAGATE</brand>
-      <price>100531</price>
+      <price>100648</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12374,7 +12334,7 @@
     <offer sku="ST4000VN006" xmlns="">
       <model>SEAGATE HDD NAS IronWolf  (3.5''/4TB/SATA 6Gb/s/rpm 5400)</model>
       <brand>SEAGATE</brand>
-      <price>64141</price>
+      <price>64213</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12478,7 +12438,7 @@
     <offer sku="CSE-745BTQ-R920B" xmlns="">
       <model>Корпус Supermicro CSE-745BTQ-R920B</model>
       <brand>SUPERMICRO</brand>
-      <price>670157</price>
+      <price>670944</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12486,7 +12446,7 @@
     <offer sku="CSE-825TQC-R802LPB" xmlns="">
       <model>Supermicro server chassis CSE-825TQC-R802LPB, 2U, Dual and Single Intel and AMD CPUs, 3 x 80mm Hot-swap PWM Fans, 8 x 3.5" hot-swap SAS3/SATA , 7 low-profile expansion slot(s), 1U 800W  RPSU</model>
       <brand>SUPERMICRO</brand>
-      <price>515964</price>
+      <price>516562</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12566,7 +12526,7 @@
     <offer sku="QLE2672-CK" xmlns="">
       <model>Qlogic 16Gb Dual Port FC HBA, PCIe Gen3 x4, LC multi-mode optic</model>
       <brand>QLOGIC</brand>
-      <price>477681</price>
+      <price>478247</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12582,7 +12542,7 @@
     <offer sku="BX80684E2224GSRFAW" xmlns="">
       <model>Intel CPU Server 4-core Xeon E-2224G (3.50 GHz, 8M, LGA1151) box</model>
       <brand>Intel</brand>
-      <price>157862</price>
+      <price>158045</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12590,7 +12550,7 @@
     <offer sku="CD8069504449200" xmlns="">
       <model>Intel Xeon Silver 4215R Processor (3.20 GHz, 11M Cache) FC-LGA3647, Tray</model>
       <brand>Intel</brand>
-      <price>431423</price>
+      <price>431933</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12606,7 +12566,7 @@
     <offer sku="LWF1304YS808605" xmlns="">
       <model>Intel L9 System based on R1304WFTYSR, 2 x Intel Xeon Silver 4208 Processor, 2 x 16GB DDR4 RDIMM, Dual-Port 1GbE LAN Card I350T2V2, AXXRMM4LITE2 Management Card</model>
       <brand>INTEL</brand>
-      <price>1479407</price>
+      <price>1481169</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12614,7 +12574,7 @@
     <offer sku="SYS-5039C-I" xmlns="">
       <model>Supermicro SuperWorkstation SYS-5039C-I Mid-Tower, LGA-1151, TDP 95W, Intel C242, 4xDDR4, 4xFixed 3.5'' drive, SATA3 (6Gbps); RAID 0, 1, 5, 10, 1xPCI-E 3.0 x8, 2xPCI-E 3.0 x4, 2x1GbE LAN, 4xUSB 3.2 Gen1, 2xUSB 2.0, 1xVGA, 1 COM, 400W</model>
       <brand>SUPERMICRO</brand>
-      <price>374885</price>
+      <price>375326</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12622,7 +12582,7 @@
     <offer sku="SYS-620P-TR" xmlns="">
       <model>Supermicro SYS-620P-TR 2U, LGA-4189, TDP 270W, Intel C621A, 18xDDR4, 8x 3.5" hot-swap, SATA3 (6Gbps), 4xPCI-E 4.0 x16 LP, 2xPCI-E 4.0 x8 LP 2x1GbE LAN,  1xRJ45 IPMI, 4xUSB 3.0, 2xUSB 2.0, 1xVGA, 2 COM, 2x1200W</model>
       <brand>SUPERMICRO</brand>
-      <price>1250687</price>
+      <price>1252169</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12638,7 +12598,7 @@
     <offer sku="SNK-P0078P" xmlns="">
       <model>Supermicro 2U Passive CPU HS for X12 Whitley and Cedar Island Platforms</model>
       <brand>SUPERMICRO</brand>
-      <price>37813</price>
+      <price>37854</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12646,7 +12606,7 @@
     <offer sku="SNK-P0078PC" xmlns="">
       <model>Supermicro 2U Passive CPU HS w/Side Air CH for X12 Whitley/Cedar Island</model>
       <brand>SUPERMICRO</brand>
-      <price>37813</price>
+      <price>37854</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12662,7 +12622,7 @@
     <offer sku="UF-MM-1G" xmlns="">
       <model>Ubiquiti U Fiber Multi-Mode - SFP (mini-GBIC) transceiver module - Gigabit Ethernet (pack of 2)SFP (mini-GBIC) transceiver modulePlug-in moduleGigabit Ethernet</model>
       <brand>UBIQUITI</brand>
-      <price>11999</price>
+      <price>12009</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12702,7 +12662,7 @@
     <offer sku="U6-LR" xmlns="">
       <model>WiFi6 Long-Range Enterprise AP</model>
       <brand>UBIQUITI</brand>
-      <price>114981</price>
+      <price>115106</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12894,7 +12854,7 @@
     <offer sku="4621C009" xmlns="">
       <model>PIXMA G540 черный, струйный с СНПЧ, A4, цветной, ч.б. 3,9 стр/мин, цвет 3,9 стр/мин, печать 4800x1200</model>
       <brand>Canon</brand>
-      <price>164057</price>
+      <price>165242</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12902,7 +12862,7 @@
     <offer sku="3029C003" xmlns="">
       <model>imageRUNNER 2206N MFP (А3, ч/б, 22 стр/мин, без тонера в комплекте)</model>
       <brand>Canon</brand>
-      <price>471333</price>
+      <price>474810</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12910,7 +12870,7 @@
     <offer sku="0859C001" xmlns="">
       <model>PFI-1100 Blue</model>
       <brand>Canon</brand>
-      <price>52588</price>
+      <price>52983</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12918,7 +12878,7 @@
     <offer sku="0856C001" xmlns="">
       <model>PFI-1100 Grey</model>
       <brand>Canon</brand>
-      <price>52588</price>
+      <price>52983</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12926,7 +12886,7 @@
     <offer sku="0857C001" xmlns="">
       <model>PFI-1100 Photo Grey</model>
       <brand>Canon</brand>
-      <price>52588</price>
+      <price>52983</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12934,7 +12894,7 @@
     <offer sku="0858C001" xmlns="">
       <model>PFI-1100 Red</model>
       <brand>Canon</brand>
-      <price>52588</price>
+      <price>52983</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12942,7 +12902,7 @@
     <offer sku="0784C001" xmlns="">
       <model>PFI-1700 Blue</model>
       <brand>Canon</brand>
-      <price>184340</price>
+      <price>185767</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12950,7 +12910,7 @@
     <offer sku="0780C001" xmlns="">
       <model>PFI-1700 Photo Magenta</model>
       <brand>Canon</brand>
-      <price>184340</price>
+      <price>185767</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13039,6 +12999,14 @@
       <model>Мышь игровая беспроводная Logitech G305 LIGHTSPEED Blue (M/N: M-R0071 / C-U0008)</model>
       <brand>Logitech</brand>
       <price>33775</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="920-009807" xmlns="">
+      <model>Комплект беспроводной Logitech MK295 с поддержкой SilentTouch (клавиатура+мышь, GRAPHITE, RUS, 2.4GHz) (M/N: Y-R0042 / MR0085 / C-U0010)</model>
+      <brand>Logitech</brand>
+      <price>24448</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13166,7 +13134,7 @@
     <offer sku="1483C025" xmlns="">
       <model>EOS 5D Mark IV Body без объектива, черный, 22Mpx CMOS 35мм, HD1080/30, экран 3.2'', Li-ion</model>
       <brand>Canon</brand>
-      <price>1039619</price>
+      <price>1048077</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13560,7 +13528,7 @@
       <brand>Lenovo</brand>
       <price>30769</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="R0Q53A" xmlns="">
@@ -13593,6 +13561,14 @@
       <price>35440</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="BV650I" xmlns="">
+      <model>Источник бесперебойного питания APC Easy UPS, Интерактивная, 650 ВА / 375 Вт, Tower, IEC, LCD</model>
+      <brand>APC</brand>
+      <price>33883</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="SMC1000I" xmlns="">
@@ -14299,14 +14275,6 @@
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
-    <offer sku="SEDC500M/3840G" xmlns="">
-      <model>Твердотельный накопитель SSD Kingston SEDC500M/3840G SATA 7мм</model>
-      <brand>Kingston</brand>
-      <price>183201</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
     <offer sku="HDS-M2TMTFDDAK3T8TDS1AW" xmlns="">
       <model>Твердотельный накопитель SSD Micron 5300 PRO 3.84TB SATA</model>
       <brand>Micron</brand>
@@ -14472,7 +14440,7 @@
       <brand>Deepcool</brand>
       <price>3169</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="DP-MCAL-GA" xmlns="">
@@ -14752,7 +14720,7 @@
       <brand>Aerocool</brand>
       <price>4207</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="CL-F006-PL12BL-A" xmlns="">
@@ -15960,7 +15928,7 @@
       <brand>SVC</brand>
       <price>42142</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="V-1000-F" xmlns="">
@@ -16064,7 +16032,7 @@
       <brand>SVC</brand>
       <price>529751</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="RT-10KL-LCD" xmlns="">
@@ -16336,7 +16304,7 @@
       <brand>Nature's protection</brand>
       <price>7247</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="4771317474414" xmlns="">
@@ -16353,14 +16321,6 @@
       <price>51657</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="4771317459954" xmlns="">
-      <model>NP SCare White Dogs Grain Free Salmon Junior All Breeds 17kg корм для мол. собак с белой шерстью, шт</model>
-      <brand>Nature's protection</brand>
-      <price>52854</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="4771317459985" xmlns="">
@@ -16624,7 +16584,7 @@
       <brand>Сибирская Кошка</brand>
       <price>4629</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="4607109233320" xmlns="">
@@ -16790,7 +16750,7 @@
     <offer sku="100-000000263" xmlns="">
       <model>Процессор CPU AMD Ryzen 7 5700G 3.8GHz/8core/4+16Mb/Radeon Graphics/105W Socket AM4</model>
       <brand>AMD</brand>
-      <price>99783</price>
+      <price>99894</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -16798,7 +16758,7 @@
     <offer sku="100-000000593" xmlns="">
       <model>Процессор CPU AMD Ryzen 5 7600X  4.7 GHz/6core/6+32Mb/105W Socket AM5</model>
       <brand>AMD</brand>
-      <price>126510</price>
+      <price>126654</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -16806,7 +16766,7 @@
     <offer sku="100-000000591" xmlns="">
       <model>Процессор CPU AMD Ryzen 7 7700X  4.5 GHz/6core/8+32Mb/105W Socket AM5</model>
       <brand>AMD</brand>
-      <price>174824</price>
+      <price>175027</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -16886,7 +16846,7 @@
     <offer sku="KF426C16BBAK2/16" xmlns="">
       <model>Модуль памяти Kingston Fury Beast RGB KF426C16BBAK2/16 DDR4 DIMM 16Gb KIT(2x8) 2666 MHz CL16</model>
       <brand>Kingston</brand>
-      <price>29691</price>
+      <price>29721</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -16910,7 +16870,7 @@
     <offer sku="KF432C16BBA/8" xmlns="">
       <model>Модуль памяти Kingston Fury Beast RGB KF432C16BBA/8 DDR4 DIMM 8Gb 3200 MHz CL16</model>
       <brand>Kingston</brand>
-      <price>16387</price>
+      <price>16403</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -16918,7 +16878,7 @@
     <offer sku="KF436C18BBAK2/64" xmlns="">
       <model>Модуль памяти Kingston Fury Beast RGB KF436C18BBAK2/64 DDR4 DIMM 64Gb KIT (2x32) 3600 MHz CL18</model>
       <brand>Kingston</brand>
-      <price>97586</price>
+      <price>97688</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -16926,7 +16886,7 @@
     <offer sku="KF436C18BWAK2/32" xmlns="">
       <model>Модуль памяти Kingston Fury Beast RGB SE KF436C18BWAK2/32 DDR4 DIMM 32Gb KIT (2x16) 3600 MHz CL18</model>
       <brand>Kingston</brand>
-      <price>56742</price>
+      <price>56804</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17094,7 +17054,7 @@
     <offer sku="HDWT720UZSVA" xmlns="">
       <model>Жёсткий диск HDD 2 Tb SATA 6Gb/s Toshiba S300 HDWT720UZSVA 3.5" 5400RPM 128Mb (SMR record)</model>
       <brand>Toshiba</brand>
-      <price>33021</price>
+      <price>33056</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17110,7 +17070,7 @@
     <offer sku="HDWT860UZSVA" xmlns="">
       <model>Жёсткий диск HDD 6 Tb SATA 6Gb/s Toshiba S300 HDWT860UZSVA 3.5" 5400RPM 256Mb (SMR record)</model>
       <brand>Toshiba</brand>
-      <price>74883</price>
+      <price>74969</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17118,7 +17078,7 @@
     <offer sku="HDWT380UZSVA" xmlns="">
       <model>Жёсткий диск HDD 8 Tb SATA 6Gb/s Toshiba S300 HDWT380UZSVA 3.5" 7200RPM 256Mb (SMR record)</model>
       <brand>Toshiba</brand>
-      <price>96933</price>
+      <price>97045</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17126,7 +17086,7 @@
     <offer sku="MG08ADA800E" xmlns="">
       <model>Жёсткий диск HDD 8Tb SATA 6Gb/s Toshiba MG08ADA800E 3.5" 7200rpm 256Mb</model>
       <brand>Toshiba</brand>
-      <price>103255</price>
+      <price>103375</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17134,7 +17094,7 @@
     <offer sku="MG06ACA10TE" xmlns="">
       <model>Жёсткий диск HDD 10 Tb SATA 6Gb/s Toshiba MG06ACA10TE 3.5" 7200rpm 256Mb</model>
       <brand>Toshiba</brand>
-      <price>133911</price>
+      <price>134064</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17142,7 +17102,7 @@
     <offer sku="MG07ACA12TE" xmlns="">
       <model>Жёсткий диск HDD 12Tb SATA 6Gb/s Toshiba MG07ACA12TE 3.5" 7200rpm 256Mb</model>
       <brand>Toshiba</brand>
-      <price>133603</price>
+      <price>133756</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17150,7 +17110,7 @@
     <offer sku="MG07ACA14TE" xmlns="">
       <model>Жёсткий диск HDD 14 Tb SATA 6Gb/s Toshiba  MG07ACA14TE 3.5" 7200rpm 256Mb</model>
       <brand>Toshiba</brand>
-      <price>149073</price>
+      <price>149245</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17158,7 +17118,7 @@
     <offer sku="WD8001PURP" xmlns="">
       <model>Жёсткий диск HDD 8 Tb SATA 6Gb/s Western Digital Purple Pro WD8001PURP 3.5" 7200rpm 256Mb</model>
       <brand>Western Digital</brand>
-      <price>131752</price>
+      <price>131903</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17174,7 +17134,7 @@
     <offer sku="WD141PURP" xmlns="">
       <model>Жесткий диск HDD 14 Tb SATA 6Gb/s Western Purple Pro WD141PURP, 7200rpm, 256Mb</model>
       <brand>Western Digital</brand>
-      <price>199699</price>
+      <price>199929</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17190,7 +17150,7 @@
     <offer sku="HUH721212ALE604" xmlns="">
       <model>Жёсткий диск HDD 12 Tb SATA 6Gb/s WD Ultrastar HUH721212ALE604 (0F30146) 3.5"7200rpm 256Mb</model>
       <brand>Western Digital</brand>
-      <price>163773</price>
+      <price>163963</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17198,7 +17158,7 @@
     <offer sku="ST10000VE001" xmlns="">
       <model>Жесткий диск HDD 10TB SATA 6GB/S Seagate SkyHawk AI ST10000VE001 3.5' 7200rpm 256MB</model>
       <brand>Seegate</brand>
-      <price>152877</price>
+      <price>153053</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17206,7 +17166,7 @@
     <offer sku="ST12000VE001" xmlns="">
       <model>Жесткий диск HDD 12 Tb SATA 6Gb/s Seagate SkyHawk AI ST12000VE001 3.5” 7200rpm 256MB cache</model>
       <brand>Seegate</brand>
-      <price>172100</price>
+      <price>172300</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17214,7 +17174,7 @@
     <offer sku="ST4000NM024B" xmlns="">
       <model>Жесткий диск HDD 4 Tb SATA 6Gb/s Seagate Exos 7E10 ST4000NM024B 3.5” 7200rpm 256MB</model>
       <brand>Seegate</brand>
-      <price>100531</price>
+      <price>100648</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17222,7 +17182,7 @@
     <offer sku="ST8000NM017B" xmlns="">
       <model>Жёсткий диск HDD 8 Tb SATA 6Gb/s Seagate Exos 7E10 ST8000NM017B 3.5" 7200rpm 256Mb</model>
       <brand>Seegate</brand>
-      <price>122501</price>
+      <price>122640</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17230,7 +17190,7 @@
     <offer sku="ST10000NM018G" xmlns="">
       <model>Жёсткий диск HDD 10 Tb SATA 6Gb/s Seagate Exos 7E10 ST10000NM018G 3.5" 7200rpm 256Mb</model>
       <brand>Seegate</brand>
-      <price>154265</price>
+      <price>154443</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17238,7 +17198,7 @@
     <offer sku="ST12000NM000J" xmlns="">
       <model>Жёсткий диск HDD 12 Tb SATA 6Gb/s Seagate Exos X18 ST12000NM000J 3.5" 7200rpm 256Mb</model>
       <brand>Seegate</brand>
-      <price>161512</price>
+      <price>161699</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17246,7 +17206,7 @@
     <offer sku="ST14000NM000J" xmlns="">
       <model>Жёсткий диск HDD 14 Tb SATA 6Gb/s Seagate Exos X18 ST14000NM000J 3.5" 7200rpm 256Mb</model>
       <brand>Seegate</brand>
-      <price>173333</price>
+      <price>173535</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17254,7 +17214,7 @@
     <offer sku="ST16000NM000J" xmlns="">
       <model>Жёсткий диск HDD 16 Tb SATA 6Gb/s Seagate Exos X18 ST16000NM000J 3.5" 7200rpm 256Mb                              </model>
       <brand>Seegate</brand>
-      <price>180270</price>
+      <price>180477</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17390,7 +17350,7 @@
     <offer sku="100-000000589" xmlns="">
       <model>Процессор AMD CPU Desktop Ryzen 9 12C/24T 7900X (4.7/5.0GHz  Boost,76MB,170W,AM5) tray, with Radeon Graphics</model>
       <brand>AMD</brand>
-      <price>226514</price>
+      <price>226775</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17398,7 +17358,7 @@
     <offer sku="100-100000059WOF" xmlns="">
       <model>Процессор AMD CPU Desktop Ryzen 9 16C/32T 5950X (3.4/4.9GHz Max Boost,72MB,105W,AM4) box</model>
       <brand>AMD</brand>
-      <price>288191</price>
+      <price>288528</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17406,7 +17366,7 @@
     <offer sku="100-100000061WOF" xmlns="">
       <model>Процессор AMD CPU Desktop Ryzen 9 12C/24T 5900X (3.7/4.8GHz Max Boost,70MB,105W,AM4) box</model>
       <brand>AMD</brand>
-      <price>203385</price>
+      <price>203618</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17414,7 +17374,7 @@
     <offer sku="100-100000147BOX" xmlns="">
       <model>Процессор AMD CPU Desktop Ryzen 5 6C/12T 4600G (3.7/4.2GHz Boost,11MB,65W,AM4) Box, with Radeon Graphics</model>
       <brand>AMD</brand>
-      <price>58603</price>
+      <price>58667</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17422,7 +17382,7 @@
     <offer sku="100-100000252BOX" xmlns="">
       <model>Процессор AMD CPU Desktop Ryzen 5 6C/12T 5600G (4.4GHz, 19MB,65W,AM4) box with Wraith Stealth Cooler and Radeon Graphics</model>
       <brand>AMD</brand>
-      <price>83336</price>
+      <price>83427</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17430,7 +17390,7 @@
     <offer sku="100-100000926WOF" xmlns="">
       <model>Процессор AMD CPU Desktop Ryzen 7 8C/16T 5700X (3.4/4.6GHz Boost,36MB,65W,AM4) Box</model>
       <brand>AMD</brand>
-      <price>119828</price>
+      <price>119964</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -17438,7 +17398,7 @@
     <offer sku="YD3200C5M4MFH" xmlns="">
       <model>Процессор AMD CPU Desktop Ryzen 3 4C/4T 3200G (4.0GHz,6MB,65W,AM4) tray</model>
       <brand>AMD</brand>
-      <price>43697</price>
+      <price>43744</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17446,7 +17406,7 @@
     <offer sku="BX8071512400SRL5Y" xmlns="">
       <model>Процессор Intel CPU Desktop Core i5-12400 (2.5GHz, 18MB, LGA1700) box</model>
       <brand>Intel</brand>
-      <price>100297</price>
+      <price>100409</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -17454,7 +17414,7 @@
     <offer sku="BX8071512700SRL4Q" xmlns="">
       <model>Процессор Intel CPU Desktop Core i7-12700 (2.1GHz, 25MB, LGA1700) box</model>
       <brand>Intel</brand>
-      <price>190536</price>
+      <price>190753</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -17462,7 +17422,7 @@
     <offer sku="BX8071513100FSRMBV" xmlns="">
       <model>Процессор Intel CPU Desktop Core i3-13100F (3.4GHz, 12MB, LGA1700) box</model>
       <brand>Intel</brand>
-      <price>75112</price>
+      <price>75193</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17470,7 +17430,7 @@
     <offer sku="BX8071513400FSRMBN" xmlns="">
       <model>Процессор Intel CPU Desktop Core i5-13400F (2.5GHz, 20MB, LGA1700) box</model>
       <brand>Intel</brand>
-      <price>125482</price>
+      <price>125625</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17478,7 +17438,7 @@
     <offer sku="CM8070104291321SRH3P" xmlns="">
       <model>Процессор Intel CPU Desktop Core i3-10105 (3.7GHz, 6MB, LGA1200) tray</model>
       <brand>Intel</brand>
-      <price>69972</price>
+      <price>70047</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17486,7 +17446,7 @@
     <offer sku="CM8070804488629SRKNL" xmlns="">
       <model>Процессор Intel CPU Desktop Core i7-11700K (3.6GHz, 16MB, LGA1200) tray</model>
       <brand>Intel</brand>
-      <price>215721</price>
+      <price>215969</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17494,7 +17454,7 @@
     <offer sku="CM8070804497015SRKP0" xmlns="">
       <model>Процессор Intel CPU Desktop Core i5-11400 (2.6GHz, 12MB, LGA1200) tray</model>
       <brand>Intel</brand>
-      <price>88476</price>
+      <price>88573</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17502,7 +17462,7 @@
     <offer sku="KF432S20IB/16" xmlns="">
       <model>Memory Gaming Mobile Kingston 16GB 3200MT/s DDR4 CL20 SODIMM FURY Impact, EAN: 740617318395</model>
       <brand>Kingston</brand>
-      <price>25285</price>
+      <price>25309</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17510,7 +17470,7 @@
     <offer sku="KF432S20IB/8" xmlns="">
       <model>Оперативная память Kingston 8GB 3200MT/s DDR4 CL20 SODIMM FURY Impact, EAN: 740617318449</model>
       <brand>Kingston</brand>
-      <price>14826</price>
+      <price>14840</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17518,7 +17478,7 @@
     <offer sku="KF432S20IBK2/16" xmlns="">
       <model>Оперативная память Kingston 16GB 3200MT/s DDR4 CL20 SODIMM (Kit of 2) FURY Impact, EAN: 740617318425</model>
       <brand>Kingston</brand>
-      <price>27134</price>
+      <price>27162</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17582,7 +17542,7 @@
     <offer sku="NS-5AC-EU" xmlns="">
       <model>Беспроводная точка доступа UBIQUITI NS-5AC-EU</model>
       <brand>UBIQUITI</brand>
-      <price>67225</price>
+      <price>67301</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17646,7 +17606,7 @@
     <offer sku="C30603-12D6X-167139AH" xmlns="">
       <model>Видеоплата INNO3D Video Card NVIDIA GeForce RTX 3060 iChill X3 RED LHR, 12GB 192bit GDDR6 1837/19G, 3xDP, HDMI, Dual fan, 2.7 slots</model>
       <brand>INNO3D</brand>
-      <price>224290</price>
+      <price>224546</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -17654,7 +17614,7 @@
     <offer sku="N30502-08D6-1190VA42" xmlns="">
       <model>Видеоплата INNO3D Video Card NVIDIA GeForce RTX 3050 Twin X2 8GB GDDR6 128 bit, 1777 MHz / 14 Gbps, 3x DP, 1x HDMI, 2 fan, 2 slot</model>
       <brand>INNO3D</brand>
-      <price>145013</price>
+      <price>145180</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17662,7 +17622,7 @@
     <offer sku="N30602-08D6-11902130" xmlns="">
       <model>Видеоплата INNO3D Video Card NVIDIA GeForce RTX 3060 Twin X2 8GB GDDR6 128 bit, 1777 MHz / 15 Gbps, 3x DP, 1x HDMI, 2 fan, 2 slot</model>
       <brand>INNO3D</brand>
-      <price>166600</price>
+      <price>166793</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17670,7 +17630,7 @@
     <offer sku="N306T2-08D6-119032DH" xmlns="">
       <model>Видеоплата INNO3D Video Card NVIDIA GeForce RTX 3060 TI TWIN X2 LHR (1665MHz/14Gbps) / 8GB GDDR6 / 256-bit   / DP+DP+DP+HDMI / VA32D / PG190 / GA104-202</model>
       <brand>INNO3D</brand>
-      <price>241508</price>
+      <price>241785</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17678,7 +17638,7 @@
     <offer sku="N30702-08D6X-171032LH" xmlns="">
       <model>Видеоплата INNO3D Video Card NVIDIA GeForce RTX 3070 Twin X2 OC LHR, 8GB 256bit GDDR6 1740MHz / 19G, PCI-E 4, 3x DP, HDMI, 2 fan, 2.7 slot</model>
       <brand>INNO3D</brand>
-      <price>317444</price>
+      <price>317807</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17710,7 +17670,7 @@
     <offer sku="ST16000VE002" xmlns="">
       <model>Жесткий диск для настольного ПК SEAGATE HDD SkyHawk AI (3.5'/ 16TB/ SATA/ rpm 7200)</model>
       <brand>Seagate</brand>
-      <price>181915</price>
+      <price>182124</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17718,7 +17678,7 @@
     <offer sku="HDWT360UZSVA" xmlns="">
       <model>Жесткий диск для сервера TOSHIBA S300 6TB 3.5-inch 7200 rpm Surveillance Hard Drive</model>
       <brand>Toshiba</brand>
-      <price>91947</price>
+      <price>92054</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -17726,7 +17686,7 @@
     <offer sku="WD20EZAZ" xmlns="">
       <model>Жесткий диск для настольного ПК HDD Desktop WD Blue (3.5'', 2TB, 256MB, 5400 RPM, SATA 6 Gb/s)</model>
       <brand>Western Digital</brand>
-      <price>37698</price>
+      <price>37739</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -17734,7 +17694,7 @@
     <offer sku="ST12000NM004J" xmlns="">
       <model>Жесткий диск для сервера SEAGATE HDD Server Exos X18 HDD 512E/4KN (3.5'/ 12TB/ SAS 12Gb/s / 7200rpm)</model>
       <brand>Seagate</brand>
-      <price>184331</price>
+      <price>184542</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17742,7 +17702,7 @@
     <offer sku="ST16000NM004J" xmlns="">
       <model>Жесткий диск для сервера SEAGATE HDD Server Exos X18 HDD 512E/4KN  ( 3.5'/ 16TB/ SAS 12Gb/s / 7200rpm)</model>
       <brand>Seagate</brand>
-      <price>196718</price>
+      <price>196944</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -17750,7 +17710,7 @@
     <offer sku="ST18000NM000J" xmlns="">
       <model>Жесткий диск для сервера SEAGATE HDD Server Exos X18 512E/4kn ( 3.5'/ 18TB/ SATA 6Gb/s / 7200rpm)</model>
       <brand>Seagate</brand>
-      <price>205301</price>
+      <price>205538</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17758,7 +17718,7 @@
     <offer sku="ST2000NM000B" xmlns="">
       <model>Жесткий диск для сервера SEAGATE HDD Server Exos 7E10 512N (3.5'/ 2TB/ SATA 6Gb/s / 7200rpm)</model>
       <brand>Seagate</brand>
-      <price>65837</price>
+      <price>65912</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17766,7 +17726,7 @@
     <offer sku="ST2000NM018B" xmlns="">
       <model>Жесткий диск для сервера SEAGATE HDD Server Exos 7E10 512E/4kn (3.5'/ 2TB/ SAS 12Gb/s / 7200rpm)</model>
       <brand>Seagate</brand>
-      <price>72827</price>
+      <price>72910</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17774,7 +17734,7 @@
     <offer sku="ST2000NX0253" xmlns="">
       <model>Жесткий диск для сервера SEAGATE HDD Server Exos 7E2000 512E (2.5' / 2TB / 128m/ SATA/ 7200rpm)</model>
       <brand>Seagate</brand>
-      <price>191424</price>
+      <price>191644</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -17782,7 +17742,7 @@
     <offer sku="ST2000NX0273" xmlns="">
       <model>Жесткий диск для сервера SEAGATE HDD Server Exos 7E2000 512E (2.5'/ 2TB / 128m/ SAS/ 7200rpm)</model>
       <brand>Seagate</brand>
-      <price>201549</price>
+      <price>201782</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17790,7 +17750,7 @@
     <offer sku="ST2400MM0129" xmlns="">
       <model>Жесткий диск для сервера SEAGATE HDD Server Exos 10E2400 512E/4KN (2.5'/2.4TB/SAS/12Gb/s/10000rpm)</model>
       <brand>Seagate</brand>
-      <price>164493</price>
+      <price>164683</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17798,7 +17758,7 @@
     <offer sku="ST4000NM025B" xmlns="">
       <model>Жесткий диск для сервера SEAGATE HDD Server Exos 7E10 512E/4kn (3.5'/ 4TB/ SAS 12Gb/s / 7200rpm)</model>
       <brand>Seagate</brand>
-      <price>85060</price>
+      <price>85158</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17806,7 +17766,7 @@
     <offer sku="ST6000NM020B" xmlns="">
       <model>Жесткий диск для сервера SEAGATE HDD Server Exos 7E10 512E/4kn (3.5'/ 6TB/ SAS 12Gb/s / 7200rpm)</model>
       <brand>Seagate</brand>
-      <price>135145</price>
+      <price>135299</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -17814,7 +17774,7 @@
     <offer sku="ST600MP0136" xmlns="">
       <model>Жесткий диск для сервера SEAGATE HDD Server Exos 15E900 4KN/512E ( 2.5'/ 600GB /SAS 12Gb/s/15000rpm)</model>
       <brand>Seagate</brand>
-      <price>106596</price>
+      <price>106720</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17822,7 +17782,7 @@
     <offer sku="ST8000NM018B" xmlns="">
       <model>Жесткий диск для сервера SEAGATE HDD Server Exos 7E10 512E/4kn (3.5'/ 8TB/ SAS 12Gb/s / 7200rpm)</model>
       <brand>Seagate</brand>
-      <price>140439</price>
+      <price>140600</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17830,7 +17790,7 @@
     <offer sku="MG04ACA200E" xmlns="">
       <model>Жесткий диск для сервера HDD Server TOSHIBA (3.5'', 2TB, 128MB, 7200 RPM, SATA 6 Gb/s)</model>
       <brand>Toshiba</brand>
-      <price>62085</price>
+      <price>62155</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17838,7 +17798,7 @@
     <offer sku="MG08ACA16TE" xmlns="">
       <model>Жесткий диск для сервера HDD Server TOSHIBA (3.5'', 16TB, 512MB, 7200 RPM, SATA 6 Gb/s)</model>
       <brand>Toshiba</brand>
-      <price>155858</price>
+      <price>156038</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17846,7 +17806,7 @@
     <offer sku="MG08ADA400E" xmlns="">
       <model>Жесткий диск для сервера HDD Server TOSHIBA (3.5'', 4TB, 256MB, 7200 RPM, SATA 6 Gb/s)</model>
       <brand>Toshiba</brand>
-      <price>78532</price>
+      <price>78622</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17854,7 +17814,7 @@
     <offer sku="MG08ADA600E" xmlns="">
       <model>Жесткий диск для сервера HDD Server TOSHIBA (3.5", 6TB, 256MB, 7200 RPM, SATA 6 GB/s, 512E)</model>
       <brand>Toshiba</brand>
-      <price>93746</price>
+      <price>93855</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -17862,7 +17822,7 @@
     <offer sku="MG09ACA18TE" xmlns="">
       <model>Жесткий диск для сервера HDD Server Toshiba (3.5", 18ΤΒ, 512Mb, 7200RPM, SATA 6Gb/s)</model>
       <brand>Toshiba</brand>
-      <price>179242</price>
+      <price>179448</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17870,7 +17830,7 @@
     <offer sku="HUH721212AL5204" xmlns="">
       <model>Жесткий диск для сервера Western Digital Ultrastar DC HDD Server HE12 (3.5’’, 12TB, 256MB, 7200 RPM, SAS 12Gb/s, 512E SE) SKU: 0F29532</model>
       <brand>Western Digital</brand>
-      <price>170198</price>
+      <price>170396</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17878,7 +17838,7 @@
     <offer sku="HUS726T4TALE6L4" xmlns="">
       <model>Жесткий диск для сервера Western Digital Ultrastar DC HDD Server 7K6 (3.5’’, 4TB, 256MB, 7200 RPM, SATA 6Gb/s, 512E SE), SKU: 0B36040</model>
       <brand>Western Digital</brand>
-      <price>92101</price>
+      <price>92208</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17886,7 +17846,7 @@
     <offer sku="HUS726T6TAL5204" xmlns="">
       <model>Жесткий диск для сервера Western Digital Ultrastar DC HDD Server 7K6 (3.5’’, 6TB, 256MB, 7200 RPM, SAS 12Gb/s, 512E SE), SKU: 0B36047</model>
       <brand>Western Digital</brand>
-      <price>111633</price>
+      <price>111763</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17894,7 +17854,7 @@
     <offer sku="WUH721414AL5204" xmlns="">
       <model>Жесткий диск для сервера Western Digital Ultrastar DC HDD Server HE14 (3.5’’, 14TB, 512MB, 7200 RPM, SAS 12Gb/s, 512E SE P3), SKU: 0F31052</model>
       <brand>Western Digital</brand>
-      <price>183560</price>
+      <price>183771</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17902,7 +17862,7 @@
     <offer sku="WUH721414ALE6L4" xmlns="">
       <model>Жесткий диск для сервера Western Digital Ultrastar DC HDD Server HE14 (3.5’’, 14TB, 512MB, 7200 RPM, SATA 6Gb/s, 512E SE), SKU: 0F31284</model>
       <brand>Western Digital</brand>
-      <price>179242</price>
+      <price>179448</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17910,7 +17870,7 @@
     <offer sku="WUH721816ALE6L4" xmlns="">
       <model>Жесткий диск для сервера HDD Server WD/HGST ULTRASTAR DC HC550 (3.5’’, 16TB, 512MB, 7200 RPM, SATA 6Gb/s, 512N SE NP3), SKU: 0F38462</model>
       <brand>Western Digital</brand>
-      <price>185718</price>
+      <price>185932</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17918,7 +17878,7 @@
     <offer sku="WUH721818ALE6L4" xmlns="">
       <model>Жесткий диск для сервера Western Digital Ultrastar DC HDD Server (3.5in 26.1MM 18TB 512MB 7200RPM SATA ULTRA 512E SE NP3 DC HC550) SKU: 0F38459</model>
       <brand>Western Digital</brand>
-      <price>189573</price>
+      <price>189791</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17926,7 +17886,7 @@
     <offer sku="WUH722020BLE6L4" xmlns="">
       <model>Жесткий диск для сервера HDD Server WD/HGST ULTRASTAR DC HC560 (3.5’’, 20TB, 512MB, 7200 RPM, SATA 6Gb/s, 512E SE NP3), SKU: 0F38785</model>
       <brand>Western Digital</brand>
-      <price>228636</price>
+      <price>228902</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17942,7 +17902,7 @@
     <offer sku="ST10000VN000" xmlns="">
       <model>Жесткий диск для СХД SEAGATE HDD Ironwolf NAS (3.5''/10TB/SATA/rmp 7200)</model>
       <brand>Seagate</brand>
-      <price>170147</price>
+      <price>170344</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18446,15 +18406,15 @@
     <offer sku="CSE-733TQ-668B" xmlns="">
       <model>Корпус для Сервера Supermicro Chassis SC733TQ-668B, Mid Tower, 4x 3.5" SAS/SATA Backplane for Hot-Swappable Drives, 2x 5.25" External HDD Drive Bays &amp; 4x 3.5" HDD Drive Bays, 7 x FH expansion slots, 668W PSU</model>
       <brand>Supermicro</brand>
-      <price>251531</price>
+      <price>251820</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="CSE-743TQ-903B-SQ" xmlns="">
       <model>Корпус для Сервера Supermicro SuperChassis CSE-743TQ-903B-SQ 4U (Tower), Max. MB sizes - E-ATX, 8x3.5" hot-swap, 7x FH exp. slots, 1x900W</model>
       <brand>Supermicro</brand>
-      <price>372316</price>
+      <price>372753</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -18462,7 +18422,7 @@
     <offer sku="CSE-825BTQC-R1K23LPB" xmlns="">
       <model>Корпус для Сервера Supermicro server chassis CSE-825BTQC-R1K23LPB 2U, Dual and Single Intel and AMD CPUs, 8 x 3.5" hot-swap SAS3/SATA drive bay, optional 2 x 3.5" fixed drive bay, 8-port 2U SAS3 12Gbps TQ backplane, </model>
       <brand>Supermicro</brand>
-      <price>670157</price>
+      <price>670944</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -18734,7 +18694,7 @@
     <offer sku="KF432C16BB/32" xmlns="">
       <model>Память для игрового ПК Kingston 32GB 3200MT/s DDR4 CL16 DIMM FURY Beast Black, EAN: 740617319828</model>
       <brand>Kingston</brand>
-      <price>40826</price>
+      <price>40870</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18742,7 +18702,7 @@
     <offer sku="KF432C16BB1/16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 3200MT/s DDR4 CL16 DIMM 1Gx8 FURY Beast Black, EAN: 740617319880</model>
       <brand>Kingston</brand>
-      <price>22705</price>
+      <price>22729</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18750,7 +18710,7 @@
     <offer sku="KF432C16BBA/32" xmlns="">
       <model>Память для игрового ПК Kingston 32GB 3200MT/s DDR4 CL16 DIMM FURY Beast RGB, EAN: 740617319125</model>
       <brand>Kingston</brand>
-      <price>44130</price>
+      <price>44176</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18774,7 +18734,7 @@
     <offer sku="KF432C16BBK2/8" xmlns="">
       <model>Память для игрового ПК Kingston 8GB 3200MT/s DDR4 CL16 DIMM (Kit of 2) FURY Beast Black, EAN: 740617319927</model>
       <brand>Kingston</brand>
-      <price>31736</price>
+      <price>31769</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18782,7 +18742,7 @@
     <offer sku="KF432C16BWA/16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 3200MT/s DDR4 CL16 DIMM FURY Beast White RGB SE, EAN: 740617330380</model>
       <brand>Kingston</brand>
-      <price>28214</price>
+      <price>28242</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18790,7 +18750,7 @@
     <offer sku="KF432C16BWAK2/16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 3200MT/s DDR4 CL16 DIMM (Kit of 2) FURY Beast White RGB SE, EAN: 740617330397</model>
       <brand>Kingston</brand>
-      <price>34690</price>
+      <price>34726</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18798,7 +18758,7 @@
     <offer sku="KF432C16BWAK2/32" xmlns="">
       <model>Память для игрового ПК Kingston 32GB 3200MT/s DDR4 CL16 DIMM (Kit of 2) FURY Beast White RGB SE, EAN: 740617330373</model>
       <brand>Kingston</brand>
-      <price>52538</price>
+      <price>52595</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18806,7 +18766,7 @@
     <offer sku="KF432C16RB/32" xmlns="">
       <model>Память для игрового ПК Kingston 32GB 3200MT/s DDR4 CL16 DIMM FURY Renegade Black, EAN: 740617322026</model>
       <brand>Kingston</brand>
-      <price>43788</price>
+      <price>43834</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18814,7 +18774,7 @@
     <offer sku="KF432C16RB1A/16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 3200MT/s DDR4 CL16 DIMM 1Gx8 FURY Renegade RGB, EAN: 740617321784</model>
       <brand>Kingston</brand>
-      <price>28668</price>
+      <price>28697</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18822,7 +18782,7 @@
     <offer sku="KF432C16RBAK2/16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 3200MT/s DDR4 CL16 DIMM (Kit of 2) FURY Renegade RGB, EAN: 740617321791</model>
       <brand>Kingston</brand>
-      <price>34577</price>
+      <price>34613</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18830,7 +18790,7 @@
     <offer sku="KF432C16RBK2/16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 3200MT/s DDR4 CL16 DIMM (Kit of 2) FURY Renegade Black, EAN: 740617322064</model>
       <brand>Kingston</brand>
-      <price>28441</price>
+      <price>28469</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18838,7 +18798,7 @@
     <offer sku="KF436C16RBAK2/16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 3600MT/s DDR4 CL16 DIMM (Kit of 2) FURY Renegade RGB, EAN: 740617322460</model>
       <brand>Kingston</brand>
-      <price>36713</price>
+      <price>36752</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18846,7 +18806,7 @@
     <offer sku="KF436C17BB/8" xmlns="">
       <model>Память для игрового ПК Kingston 8GB 3600MT/s DDR4 CL17 DIMM FURY Beast Black, EAN: 740617319798</model>
       <brand>Kingston</brand>
-      <price>15365</price>
+      <price>15380</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18854,7 +18814,7 @@
     <offer sku="KF436C18BB/16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 3600MT/s DDR4 CL18 DIMM FURY Beast Black, EAN: 740617319767</model>
       <brand>Kingston</brand>
-      <price>25941</price>
+      <price>25966</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18862,7 +18822,7 @@
     <offer sku="KF436C18BB/32" xmlns="">
       <model>Память для игрового ПК Kingston 32GB 3600MT/s DDR4 CL18 DIMM FURY Beast Black, EAN: 740617319736</model>
       <brand>Kingston</brand>
-      <price>46118</price>
+      <price>46167</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18878,7 +18838,7 @@
     <offer sku="KF437C19BBK2/16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 3733MT/s DDR4 CL19 DIMM (Kit of 2) FURY Beast Black, EAN: 740617319699</model>
       <brand>Kingston</brand>
-      <price>30509</price>
+      <price>30540</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18886,7 +18846,7 @@
     <offer sku="KF442C19RB1K2/32" xmlns="">
       <model>Память для игрового ПК Kingston 32GB 4266MT/s DDR4 CL19 DIMM (Kit of 2) 1Gx8 FURY Renegade Black, EAN: 740617322286</model>
       <brand>Kingston</brand>
-      <price>71872</price>
+      <price>71949</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -18894,7 +18854,7 @@
     <offer sku="KF442C19RBAK2/16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 4266MT/s DDR4 CL19 DIMM (Kit of 2) FURY Renegade RGB, EAN: 740617321685</model>
       <brand>Kingston</brand>
-      <price>47652</price>
+      <price>47703</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -18902,7 +18862,7 @@
     <offer sku="KF442C19RBK2/16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 4266MT/s DDR4 CL19 DIMM (Kit of 2) FURY Renegade Black, EAN: 740617321906</model>
       <brand>Kingston</brand>
-      <price>44357</price>
+      <price>44403</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18910,7 +18870,7 @@
     <offer sku="KF446C19RBK2/16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 4600MT/s DDR4 CL19 DIMM (Kit of 2) FURY Renegade Black, EAN: 740617321913</model>
       <brand>Kingston</brand>
-      <price>55833</price>
+      <price>55894</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -18918,7 +18878,7 @@
     <offer sku="KF448C19RBK2/16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 4800MT/s DDR4 CL19 DIMM (Kit of 2) FURY Renegade Black, EAN: 740617321920</model>
       <brand>Kingston</brand>
-      <price>64145</price>
+      <price>64212</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -18926,7 +18886,7 @@
     <offer sku="KF552C36BBE-16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 5200MT/s DDR5 CL36 DIMM FURY Beast Black EXPO, EAN: 740617330885</model>
       <brand>Kingston</brand>
-      <price>35148</price>
+      <price>35185</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18934,7 +18894,7 @@
     <offer sku="KF552C36BBEA-16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 5200MT/s DDR5 CL36 DIMM FURY Beast RGB EXPO, EAN: 740617330908</model>
       <brand>Kingston</brand>
-      <price>36395</price>
+      <price>36433</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -18942,7 +18902,7 @@
     <offer sku="KF552C36BBEA-32" xmlns="">
       <model>Память для игрового ПК Kingston 32GB 5200MT/s DDR5 CL36 DIMM FURY Beast RGB EXPO, EAN: 740617331974</model>
       <brand>Kingston</brand>
-      <price>63577</price>
+      <price>63644</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18950,7 +18910,7 @@
     <offer sku="KF556C36BBE-16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 5600MT/s DDR5 CL36 DIMM FURY Beast Black EXPO, EAN: 740617330809</model>
       <brand>Kingston</brand>
-      <price>34917</price>
+      <price>34954</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18958,7 +18918,7 @@
     <offer sku="KF556C36BBEA-16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 5600MT/s DDR5 CL36 DIMM FURY Beast RGB EXPO, EAN: 740617330786</model>
       <brand>Kingston</brand>
-      <price>37531</price>
+      <price>37570</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18966,7 +18926,7 @@
     <offer sku="KF556C36BBEA-32" xmlns="">
       <model>Память для игрового ПК Kingston 32GB 5600MT/s DDR5 CL36 DIMM FURY Beast RGB EXPO, EAN: 740617331936</model>
       <brand>Kingston</brand>
-      <price>65963</price>
+      <price>66033</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -18974,7 +18934,7 @@
     <offer sku="KF556C40BBK2-32" xmlns="">
       <model>Память для игрового ПК Kingston 32GB 5600MT/s DDR5 CL40 DIMM (Kit of 2) FURY Beast Black XMP, EAN: 740617325706</model>
       <brand>Kingston</brand>
-      <price>68463</price>
+      <price>68536</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -18982,7 +18942,7 @@
     <offer sku="KF560C32RSA-16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 6000MT/s DDR5 CL32 DIMM FURY Renegade RGB XMP, EAN: 740617329773</model>
       <brand>Kingston</brand>
-      <price>41621</price>
+      <price>41666</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -18990,7 +18950,7 @@
     <offer sku="KF560C32RSA-32" xmlns="">
       <model>Память для игрового ПК Kingston 32GB 6000MT/s DDR5 CL32 DIMM FURY Renegade RGB XMP, EAN: 740617331851</model>
       <brand>Kingston</brand>
-      <price>72781</price>
+      <price>72859</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -18998,7 +18958,7 @@
     <offer sku="KF560C36BBE-32" xmlns="">
       <model>Память для игрового ПК Kingston 32GB 6000MT/s DDR5 CL36 DIMM FURY Beast Black EXPO, EAN: 740617331714</model>
       <brand>Kingston</brand>
-      <price>67100</price>
+      <price>67171</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19006,7 +18966,7 @@
     <offer sku="KF560C36BBEA-16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 6000MT/s DDR5 CL36 DIMM FURY Beast RGB EXPO, EAN: 740617330748</model>
       <brand>Kingston</brand>
-      <price>40258</price>
+      <price>40301</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -19014,7 +18974,7 @@
     <offer sku="KF560C36BBEA-32" xmlns="">
       <model>Память для игрового ПК Kingston 32GB 6000MT/s DDR5 CL36 DIMM FURY Beast RGB EXPO, EAN: 740617331899</model>
       <brand>Kingston</brand>
-      <price>70167</price>
+      <price>70242</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -19022,7 +18982,7 @@
     <offer sku="KF560C40BB-32" xmlns="">
       <model>Память для игрового ПК Kingston 32GB 6000MT/s DDR5 CL40 DIMM FURY Beast Black XMP, EAN: 740617331691</model>
       <brand>Kingston</brand>
-      <price>67440</price>
+      <price>67512</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -19030,7 +18990,7 @@
     <offer sku="KF560C40BBA-32" xmlns="">
       <model>Память для игрового ПК Kingston 32GB 6000MT/s DDR5 CL40 DIMM FURY Beast RGB XMP, EAN: 740617331875</model>
       <brand>Kingston</brand>
-      <price>70167</price>
+      <price>70242</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19038,7 +18998,7 @@
     <offer sku="KF564C32RS-16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 6400MT/s DDR5 CL32 DIMM FURY Renegade Silver XMP, EAN: 740617329797</model>
       <brand>Kingston</brand>
-      <price>46062</price>
+      <price>46110</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -19046,7 +19006,7 @@
     <offer sku="KF564C32RSA-16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 6400MT/s DDR5 CL32 DIMM FURY Renegade RGB XMP, EAN: 740617329759</model>
       <brand>Kingston</brand>
-      <price>48334</price>
+      <price>48385</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -19054,7 +19014,7 @@
     <offer sku="KF568C36RS-16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 6800MT/s DDR5 CL36 DIMM FURY Renegade Silver XMP, EAN: 740617331509</model>
       <brand>Kingston</brand>
-      <price>53675</price>
+      <price>53733</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19062,7 +19022,7 @@
     <offer sku="KF568C36RSA-16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 6800MT/s DDR5 CL36 DIMM FURY Renegade RGB XMP, EAN: 740617331486</model>
       <brand>Kingston</brand>
-      <price>55947</price>
+      <price>56008</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19070,7 +19030,7 @@
     <offer sku="KF572C38RS-16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 7200MT/s DDR5 CL38 DIMM FURY Renegade Silver XMP, EAN: 740617331462</model>
       <brand>Kingston</brand>
-      <price>63349</price>
+      <price>63416</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19078,7 +19038,7 @@
     <offer sku="KF572C38RSA-16" xmlns="">
       <model>Память для игрового ПК Kingston 16GB 7200MT/s DDR5 CL38 DIMM FURY Renegade RGB XMP, EAN: 740617331448</model>
       <brand>Kingston</brand>
-      <price>65623</price>
+      <price>65692</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19086,7 +19046,7 @@
     <offer sku="KVR16S11/8WP" xmlns="">
       <model>Память для мобильного ПК Kingston 8GB 1600MT/s DDR3 Non-ECC CL11 SODIMM (Select Regions ONLY), EAN: 740617317299</model>
       <brand>Kingston</brand>
-      <price>23092</price>
+      <price>23115</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -19094,7 +19054,7 @@
     <offer sku="KVR16S11S8/4WP" xmlns="">
       <model>Память для мобильного ПК Kingston 4GB 1600MT/s DDR3 Non-ECC CL11 SODIMM 1Rx8 (Select Regions ONLY), EAN: 740617317305</model>
       <brand>Kingston</brand>
-      <price>14002</price>
+      <price>14014</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -19102,7 +19062,7 @@
     <offer sku="KVR32S22S6/4" xmlns="">
       <model>Память для мобильного ПК Kingston 4GB 3200MT/s DDR4 Non-ECC CL22 SODIMM 1Rx16, EAN: 740617296105</model>
       <brand>Kingston</brand>
-      <price>11843</price>
+      <price>11853</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -19110,7 +19070,7 @@
     <offer sku="KVR26N19S8/8" xmlns="">
       <model>Память для настольных систем Kingston 8GB 2666MT/s DDR4 Non-ECC CL19 DIMM 1Rx8, EAN: 740617270907</model>
       <brand>Kingston</brand>
-      <price>13433</price>
+      <price>13445</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19118,7 +19078,7 @@
     <offer sku="KF568C36RSK2-32" xmlns="">
       <model>Память для настольных систем Kingston 32GB 6800MT/s DDR5 CL36 DIMM (Kit of 2) FURY Renegade Silver XMP, EAN: 740617331493</model>
       <brand>Kingston</brand>
-      <price>108494</price>
+      <price>108610</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -19126,7 +19086,7 @@
     <offer sku="KVR16LN11/4WP" xmlns="">
       <model>Память для настольных систем Kingston 4GB 1600MT/s DDR3L Non-ECC CL11 DIMM 1.35V (Select Regions ONLY), EAN: 740617317336</model>
       <brand>Kingston</brand>
-      <price>13888</price>
+      <price>13901</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19134,7 +19094,7 @@
     <offer sku="KVR16LN11/8WP" xmlns="">
       <model>Память для настольных систем Kingston 8GB 1600MT/s DDR3L Non-ECC CL11 DIMM 1.35V(Select Regions ONLY), EAN: 740617317350</model>
       <brand>Kingston</brand>
-      <price>23092</price>
+      <price>23115</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19142,7 +19102,7 @@
     <offer sku="KVR16N11/8WP" xmlns="">
       <model>Память для настольных систем Kingston 8GB 1600MT/s DDR3 Non-ECC CL11 DIMM (Select Regions ONLY), EAN: 740617317473</model>
       <brand>Kingston</brand>
-      <price>23092</price>
+      <price>23115</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19150,7 +19110,7 @@
     <offer sku="KVR26N19D8/16" xmlns="">
       <model>Память для настольных систем Kingston 16GB 2666MT/s DDR4 Non-ECC CL19 DIMM 2Rx8, EAN: 740617270891</model>
       <brand>Kingston</brand>
-      <price>21955</price>
+      <price>21977</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19158,7 +19118,7 @@
     <offer sku="KVR26N19D8/32" xmlns="">
       <model>Память для настольных систем Kingston 32GB 2666MT/s DDR4 Non-ECC CL19 DIMM 2Rx8, EAN: 740617304381</model>
       <brand>Kingston</brand>
-      <price>39122</price>
+      <price>39164</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19166,7 +19126,7 @@
     <offer sku="KVR26N19S6/4" xmlns="">
       <model>Память для настольных систем Kingston 4GB 2666MT/s DDR4 Non-ECC CL19 DIMM 1Rx16, EAN: 740617282733</model>
       <brand>Kingston</brand>
-      <price>11730</price>
+      <price>11739</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19174,7 +19134,7 @@
     <offer sku="KVR26N19S8L/8" xmlns="">
       <model>Память для настольных систем Kingston 8GB 2666MT/s DDR4 Non-ECC CL19 DIMM 1Rx8 VLP, EAN: 740617290455</model>
       <brand>Kingston</brand>
-      <price>13433</price>
+      <price>13445</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19190,7 +19150,7 @@
     <offer sku="KVR32N22D8/32" xmlns="">
       <model>Память для настольных систем Kingston 32GB 3200MT/s DDR4 Non-ECC CL22 DIMM 2Rx8, EAN: 740617305975</model>
       <brand>Kingston</brand>
-      <price>40258</price>
+      <price>40301</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19198,7 +19158,7 @@
     <offer sku="KVR32N22S6/4" xmlns="">
       <model>Память для настольных систем Kingston 4GB 3200MT/s DDR4 Non-ECC CL22 DIMM 1Rx16, EAN: 740617296075</model>
       <brand>Kingston</brand>
-      <price>11843</price>
+      <price>11853</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19206,7 +19166,7 @@
     <offer sku="KVR32N22S8/16 Asbis" xmlns="">
       <model>Память для настольных систем Kingston 16GB 3200MT/s DDR4 Non-ECC CL22 DIMM 1Rx8, EAN: 740617310863</model>
       <brand>Kingston</brand>
-      <price>22070</price>
+      <price>22092</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19214,7 +19174,7 @@
     <offer sku="KVR48U40BD8-32" xmlns="">
       <model>Память для настольных систем Kingston 32GB 4800MT/s DDR5 Non-ECC CL40 DIMM 2Rx8, EAN: 740617325058</model>
       <brand>Kingston</brand>
-      <price>56288</price>
+      <price>56349</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19222,7 +19182,7 @@
     <offer sku="KVR52U42BS8K2-32" xmlns="">
       <model>Память для настольных систем Kingston 32GB 5200MT/s DDR5 Non-ECC CL42 DIMM (Kit of 2) 1Rx8, EAN: 740617332797</model>
       <brand>Kingston</brand>
-      <price>64145</price>
+      <price>64212</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19230,7 +19190,7 @@
     <offer sku="KVR56U46BS8K2-32" xmlns="">
       <model>Память для настольных систем Kingston 32GB 5600MT/s DDR5 Non-ECC CL46 DIMM (Kit of 2) 1Rx8, EAN: 740617332810</model>
       <brand>Kingston</brand>
-      <price>66758</price>
+      <price>66829</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19238,7 +19198,7 @@
     <offer sku="KSM26RD4/32HDI" xmlns="">
       <model>Память для серверов Kingston 32GB 2666MT/s DDR4 ECC Reg CL19 DIMM 2Rx4 Hynix D IDT, EAN: 740617308174</model>
       <brand>Kingston</brand>
-      <price>54298</price>
+      <price>54357</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -19246,7 +19206,7 @@
     <offer sku="KSM32ED8/16HD" xmlns="">
       <model>Память для серверов Kingston 16GB 3200MT/s DDR4 ECC CL22 DIMM 2Rx8 Hynix D, EAN: 740617312225</model>
       <brand>Kingston</brand>
-      <price>28158</price>
+      <price>28186</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19254,7 +19214,7 @@
     <offer sku="KSM32ES8/8HD" xmlns="">
       <model>Память для серверов Kingston 8GB 3200MT/s DDR4 ECC CL22 DIMM 1Rx8 Hynix D, EAN: 740617312218</model>
       <brand>Kingston</brand>
-      <price>17159</price>
+      <price>17175</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19262,7 +19222,7 @@
     <offer sku="KSM32RD4/32HDR" xmlns="">
       <model>Память для серверов Kingston 32GB 3200MT/s DDR4 ECC Reg CL22 DIMM 2Rx4 Hynix D Rambus, EAN: 740617308099</model>
       <brand>Kingston</brand>
-      <price>52134</price>
+      <price>52190</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19270,7 +19230,7 @@
     <offer sku="M393A4K40EB3-CWE" xmlns="">
       <model>Память для серверов SAMSUNG 32GB DDR4 3200MHz RDIMM Dual Rank x4 Module</model>
       <brand>Samsung</brand>
-      <price>49913</price>
+      <price>49967</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19278,7 +19238,7 @@
     <offer sku="RNUC12WSHI30002" xmlns="">
       <model>Платформа для ПК Intel NUC 12 Pro Kit NUC12WSHi3, EU cord, single unit</model>
       <brand>Intel</brand>
-      <price>173282</price>
+      <price>173483</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19494,7 +19454,7 @@
     <offer sku="MBD-X12DPI-N6-O" xmlns="">
       <model>Системная плата для сервера Supermicro mainboard server MBD-X12DPI-N6-O E-ATX, Dual Socket LGA-4189, Intel C621A, 2 PCI-E 4.0 x8, 4 PCI-E 4.0 x16, 2 PCI-E 4.0 NVMe x8 Internal Port(s),</model>
       <brand>Supermicro</brand>
-      <price>503115</price>
+      <price>503697</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19502,7 +19462,7 @@
     <offer sku="MBD-X12DPL-I6-O" xmlns="">
       <model>Системная плата для сервера Supermicro mainboard server MBD-X12DPL-i6-O, 3rd Gen Intel Xeon Scalable processors, Intel C621A, Intel C621A controller for 12 SATA3 (6 Gbps) ports; RAID 0,1,5,10, </model>
       <brand>Supermicro</brand>
-      <price>418308</price>
+      <price>418787</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19550,7 +19510,7 @@
     <offer sku="SSD7CS900-240-PB" xmlns="">
       <model>Твердотельный накопитель (SSD) PNY CS900 240GB SSD, 2.5” 7mm, SATA 6Gb/s, Read/Write: 535 / 500 MB/s</model>
       <brand>PNY</brand>
-      <price>13474</price>
+      <price>13486</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19558,7 +19518,7 @@
     <offer sku="SSD7CS900-480-PB" xmlns="">
       <model>Твердотельный накопитель (SSD) PNY CS900 480GB SSD, 2.5” 7mm, SATA 6Gb/s, Read/Write: 550 / 500 MB/s</model>
       <brand>PNY</brand>
-      <price>15509</price>
+      <price>15524</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19566,7 +19526,7 @@
     <offer sku="SSDPFKNU010TZX1" xmlns="">
       <model>Твердотельный накопитель (SSD) Solidigm™ P41 Plus Series (1.0TB, M.2 80mm PCIe x4, 3D4, QLC) Retail Box Single Pack, MM# 99C38K, EAN: 840307300225</model>
       <brand>Solidigm</brand>
-      <price>34100</price>
+      <price>34137</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19574,7 +19534,7 @@
     <offer sku="SSDPFKNU020TZX1" xmlns="">
       <model>Твердотельный накопитель (SSD) Solidigm™ P41 Plus Series (2.0TB, M.2 80mm PCIe x4, 3D4, QLC) Retail Box Single Pack, MM# 99C38L, EAN: 840307300249</model>
       <brand>Solidigm</brand>
-      <price>59592</price>
+      <price>59659</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19582,7 +19542,7 @@
     <offer sku="SSDPFKNU512GZX1" xmlns="">
       <model>Твердотельный накопитель (SSD) Solidigm™ P41 Plus Series (512GB, M.2 80mm PCIe x4, 3D4, QLC) Retail Box Single Pack, MM# 99C38J, EAN: 840307300010</model>
       <brand>Solidigm</brand>
-      <price>23306</price>
+      <price>23330</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19590,7 +19550,15 @@
     <offer sku="SSDPF2KE016T1N1" xmlns="">
       <model>Твердотельный накопитель (SSD) для сервера Intel SSD D7-P5620 Series (1.6TB, 2.5in PCIe 4.0 x4, 3D4, TLC) Generic No OPAL Single Pack</model>
       <brand>Intel</brand>
-      <price>224786</price>
+      <price>225056</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="SSDPF2KE032T1N1" xmlns="">
+      <model>Твердотельный накопитель (SSD) для сервера Intel SSD D7-P5620 Series (3.2TB, 2.5in PCIe 4.0 x4, 3D4, TLC) Generic No OPAL Single Pack</model>
+      <brand>Intel</brand>
+      <price>385618</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19598,7 +19566,7 @@
     <offer sku="SSDPF2KX019T1M1" xmlns="">
       <model>Твердотельный накопитель (SSD) для сервера SK HYNIX SSD D7-P5520 Series (1.92TB, 2.5in PCIe 4.0 x4, 3D4, TLC) Generic No OPAL Single Pack</model>
       <brand>Hyxin</brand>
-      <price>143577</price>
+      <price>143748</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19606,7 +19574,7 @@
     <offer sku="SSDPF2KX038T1N1" xmlns="">
       <model>Твердотельный накопитель (SSD) для сервера Intel SSD D7-P5520 Series (3.84TB, 2.5in PCIe 4.0 x4, 3D4, TLC) Generic No OPAL Single Pack</model>
       <brand>Intel</brand>
-      <price>221188</price>
+      <price>221454</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19614,7 +19582,7 @@
     <offer sku="SSDPF2KX076T1N1" xmlns="">
       <model>Твердотельный накопитель (SSD) для сервера SK HYNIX SSD D7-P5520 Series (7.68TB, 2.5in PCIe 4.0 x4, 3D4, TLC) Generic No OPAL Single Pack</model>
       <brand>Hyxin</brand>
-      <price>436563</price>
+      <price>437079</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19622,7 +19590,7 @@
     <offer sku="SSDSC2KB960GZ01" xmlns="">
       <model>Твердотельный накопитель (SSD) для сервера Intel SSD D3-S4520 Series (960GB, 2.5in SATA 6Gb/s, 3D4, TLC) Generic Single Pack, MM# 99A0AF, EAN: 735858482738</model>
       <brand>Intel</brand>
-      <price>87554</price>
+      <price>87656</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19630,7 +19598,7 @@
     <offer sku="SSDSC2KG019T801" xmlns="">
       <model>Твердотельный накопитель (SSD) для сервера Intel SSD D3-S4610 Series (1.92TB, 2.5in SATA 6Gb/s, 3D2, TLC) Generic Single Pack, MM# 963348, EAN: 735858362139</model>
       <brand>Intel</brand>
-      <price>183667</price>
+      <price>183888</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -19638,7 +19606,7 @@
     <offer sku="SSDSC2KG038TZ01" xmlns="">
       <model>Твердотельный накопитель (SSD) для сервера Intel SSD D3-S4620 Series (3.84TB, 2.5in SATA 6Gb/s, 3D4, TLC) Generic Single Pack, MM# 99A0DC, EAN: 735858482653</model>
       <brand>Intel</brand>
-      <price>407780</price>
+      <price>408261</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -19646,7 +19614,7 @@
     <offer sku="SSDSC2KG480GZ01" xmlns="">
       <model>Твердотельный накопитель (SSD) для сервера Intel SSD D3-S4620 Series (480GB, 2.5in SATA 6Gb/s, 3D4, TLC) Generic Single Pack, MM# 99A0D8, EAN: 735858482660</model>
       <brand>Intel</brand>
-      <price>83956</price>
+      <price>84054</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -19654,7 +19622,7 @@
     <offer sku="SSDSC2KG960GZ01" xmlns="">
       <model>Твердотельный накопитель (SSD) для сервера Intel SSD D3-S4620 Series (960GB, 2.5in SATA 6Gb/s, 3D4, TLC) Generic Single Pack, MM# 99A0D9, EAN: 735858482677</model>
       <brand>Intel</brand>
-      <price>118906</price>
+      <price>119047</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19662,7 +19630,7 @@
     <offer sku="SEDC1500M/960G" xmlns="">
       <model>Твердотельный накопитель (SSD) для сервера Kingston 960G DC1500M U.2 Enterprise NVMe SSD</model>
       <brand>Kingston</brand>
-      <price>53168</price>
+      <price>53229</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19678,7 +19646,7 @@
     <offer sku="MZ7L31T9HBNA-00A07" xmlns="">
       <model>Твердотельный накопитель (SSD) для сервера SAMSUNG PM897 1.92TB Data Center SSD, 2.5'' 7mm, SATA 6Gb/​s, Read/Write: 560/520 MB/s, Random Read/Write IOPS 97K/60K</model>
       <brand>Samsung</brand>
-      <price>193947</price>
+      <price>194180</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -19694,7 +19662,7 @@
     <offer sku="MZQL21T9HCJR-00A07" xmlns="">
       <model>Твердотельный накопитель (SSD) для сервера SAMSUNG PM9A3 1.92TB Data Center SSD, 2.5'' 7mm, PCIe Gen4 x4, Read/Write: 6800/4000 MB/s, Random Read/Write IOPS 1000K/180K</model>
       <brand>Samsung</brand>
-      <price>125074</price>
+      <price>125222</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19702,7 +19670,7 @@
     <offer sku="MZQLB960HAJR-00007" xmlns="">
       <model>Твердотельный накопитель (SSD) для сервера SAMSUNG PM983 960GB Data Center SSD, 2.5" 7mm, PCIe Gen3 x4, Read/Write: 3200/1100 MB/s, Random Read/Write IOPS 400K/40K</model>
       <brand>Samsung</brand>
-      <price>73162</price>
+      <price>73247</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19790,7 +19758,7 @@
     <offer sku="U6-MESH-EU" xmlns="">
       <model>Устройство беспроводного доступа Ubiquiti Indoor/outdoor, 4x4 WiFi 6 access point designed for mesh applications</model>
       <brand>UBIQUITI</brand>
-      <price>107944</price>
+      <price>108070</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -19798,7 +19766,7 @@
     <offer sku="U6-PRO" xmlns="">
       <model>Устройство беспроводного доступа Indoor 5.3Gbps WiFi6 AP with 300+ client capacity</model>
       <brand>UBIQUITI</brand>
-      <price>99921</price>
+      <price>100037</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -20064,7 +20032,7 @@
       <brand>POCO</brand>
       <price>67820</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004388" xmlns="">
@@ -21200,7 +21168,7 @@
       <brand>Gigabyte</brand>
       <price>404108</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004616" xmlns="">
@@ -22216,7 +22184,7 @@
       <brand>Kingston</brand>
       <price>38506</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004750" xmlns="">
@@ -22704,7 +22672,7 @@
       <brand>Deepcool</brand>
       <price>6820</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004822" xmlns="">
@@ -24536,7 +24504,7 @@
       <brand>Dream</brand>
       <price>16192</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005086" xmlns="">
@@ -24904,7 +24872,7 @@
       <brand>HyperX</brand>
       <price>29236</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005138" xmlns="">
@@ -25152,7 +25120,7 @@
       <brand>X-Game</brand>
       <price>7213</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005173" xmlns="">
@@ -26088,7 +26056,7 @@
       <brand>CyberPower</brand>
       <price>174171</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005308" xmlns="">
@@ -28664,7 +28632,7 @@
       <brand>Ninetygo</brand>
       <price>16460</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005643" xmlns="">
@@ -30766,7 +30734,7 @@
     <offer sku="005967" xmlns="">
       <model>Пылесос REDMOND RV-UR356 Красный</model>
       <brand>REDMOND</brand>
-      <price>69427</price>
+      <price>103135</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -30774,7 +30742,7 @@
     <offer sku="005968" xmlns="">
       <model>Пылесос REDMOND RV-UR380 Голубой</model>
       <brand>REDMOND</brand>
-      <price>103135</price>
+      <price>188079</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -30958,7 +30926,7 @@
     <offer sku="005991" xmlns="">
       <model>Пылесос-робот REDMOND RV-R640S Белый</model>
       <brand>REDMOND</brand>
-      <price>127629</price>
+      <price>231449</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31128,7 +31096,7 @@
       <brand>TEFAL</brand>
       <price>131225</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006017" xmlns="">
@@ -31438,7 +31406,7 @@
     <offer sku="006057" xmlns="">
       <model>Блендер REDMOND RHB-2941</model>
       <brand>REDMOND</brand>
-      <price>22596</price>
+      <price>32843</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31470,9 +31438,9 @@
     <offer sku="006062" xmlns="">
       <model>Блендер REDMOND RHB-2921 Белый/серый</model>
       <brand>REDMOND</brand>
-      <price>22596</price>
+      <price>40843</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006063" xmlns="">
@@ -31510,7 +31478,7 @@
     <offer sku="006069" xmlns="">
       <model>Блендер REDMOND RHB-2984B Серый/металл</model>
       <brand>REDMOND</brand>
-      <price>59944</price>
+      <price>95539</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31622,7 +31590,7 @@
     <offer sku="006088" xmlns="">
       <model>Гриль REDMOND SteakMaster RGM-M800 Черный/сталь</model>
       <brand>REDMOND</brand>
-      <price>38730</price>
+      <price>49966</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31646,7 +31614,7 @@
     <offer sku="006091" xmlns="">
       <model>Гриль-духовка REDMOND Steak&amp;Bake RGM-M803P Черный</model>
       <brand>REDMOND</brand>
-      <price>38730</price>
+      <price>44348</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31678,7 +31646,7 @@
     <offer sku="006095" xmlns="">
       <model>Гриль REDMOND SteakMaster RGM-M819D Серебро</model>
       <brand>REDMOND</brand>
-      <price>88708</price>
+      <price>124933</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31886,7 +31854,7 @@
     <offer sku="006126" xmlns="">
       <model>Мультикухня REDMOND RMK-M271</model>
       <brand>REDMOND</brand>
-      <price>50596</price>
+      <price>68843</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31942,7 +31910,7 @@
     <offer sku="006137" xmlns="">
       <model>Мультипекарь REDMOND RMB-M621/3 Черный</model>
       <brand>REDMOND</brand>
-      <price>24726</price>
+      <price>40213</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31974,7 +31942,7 @@
     <offer sku="006142" xmlns="">
       <model>Панель для мультипекаря REDMOND RAMB-01 (Сэндвич)</model>
       <brand>REDMOND</brand>
-      <price>5742</price>
+      <price>7989</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -31982,7 +31950,7 @@
     <offer sku="006144" xmlns="">
       <model>Панель для мультипекаря REDMOND RAMB-09 (Палочки)</model>
       <brand>REDMOND</brand>
-      <price>5742</price>
+      <price>7989</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -32294,7 +32262,7 @@
     <offer sku="006190" xmlns="">
       <model>Соковыжималка REDMOND RJ-980S Красный</model>
       <brand>REDMOND</brand>
-      <price>50596</price>
+      <price>81202</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -32670,7 +32638,7 @@
     <offer sku="006243" xmlns="">
       <model>Кофеварка REDMOND RCM-M1523 Черный</model>
       <brand>REDMOND</brand>
-      <price>36843</price>
+      <price>51449</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -32942,7 +32910,7 @@
     <offer sku="006280" xmlns="">
       <model>Выпрямитель для волос REDMOND RCI-2337 Шампань</model>
       <brand>REDMOND</brand>
-      <price>13742</price>
+      <price>22865</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -32966,7 +32934,7 @@
     <offer sku="006283" xmlns="">
       <model>Выпрямитель для волос REDMOND RCI-2314</model>
       <brand>REDMOND</brand>
-      <price>13742</price>
+      <price>21180</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -33008,7 +32976,7 @@
       <brand>ROWENTA</brand>
       <price>28483</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006289" xmlns="">
@@ -41288,7 +41256,7 @@
       <brand>SE</brand>
       <price>31685</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007427" xmlns="">
@@ -44200,7 +44168,7 @@
       <brand>HyperX</brand>
       <price>22764</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007856" xmlns="">
@@ -45232,7 +45200,7 @@
       <brand>Xerox</brand>
       <price>197624</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="008196" xmlns="">
@@ -45424,7 +45392,7 @@
       <brand>Xerox</brand>
       <price>88082</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="008220" xmlns="">
@@ -45440,7 +45408,7 @@
       <brand>Xerox</brand>
       <price>88082</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="008222" xmlns="">
@@ -47072,7 +47040,7 @@
       <brand>7К</brand>
       <price>4242</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008488" xmlns="">
@@ -47147,26 +47115,10 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="008505" xmlns="">
-      <model>7К Домик угловой большой с качелькой (50*35*165), шт</model>
-      <brand>7К</brand>
-      <price>48354</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="008506" xmlns="">
       <model>7К Домик угловой большой с туннелем (50*35*165), шт</model>
       <brand>7К</brand>
       <price>48354</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="008507" xmlns="">
-      <model>7К Комплекс "Арсиноя-2" (60*50*160), шт</model>
-      <brand>7К</brand>
-      <price>66219</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -47291,14 +47243,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="008546" xmlns="">
-      <model>Muzzle Защитный воск для лап собак и кошек, 100 мл - 1/24шт, шт</model>
-      <brand>Muzzle</brand>
-      <price>3691</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="008547" xmlns="">
       <model>Muzzle Крем для лап и носа для собак и кошек, 50 мл - 1/35шт, шт</model>
       <brand>Muzzle</brand>
@@ -47319,14 +47263,6 @@
       <model>Muzzle Нейтрализатор запаха животных, 250 мл - 1/12шт, шт</model>
       <brand>Muzzle</brand>
       <price>2685</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="008551" xmlns="">
-      <model>Muzzle Очищающий лосьон для глаз собак и кошек, 30 мл - 1/35шт, шт</model>
-      <brand>Muzzle</brand>
-      <price>1371</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -47360,7 +47296,7 @@
       <brand>Muzzle</brand>
       <price>1972</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008565" xmlns="">
@@ -47579,14 +47515,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="008626" xmlns="">
-      <model>Дана® Ультра ошейник инсектоакарицидный (для кошек, 35 см), маджента (розовый), шт</model>
-      <brand>Дана</brand>
-      <price>2197</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="008627" xmlns="">
       <model>Дана® Ультра ошейник инсектоакарицидный (для кошек, 35 см), синий, шт</model>
       <brand>Дана</brand>
@@ -47721,14 +47649,6 @@
       <price>2865</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="008662" xmlns="">
-      <model>НМ Ошейник 10 экокожа, шт</model>
-      <brand>НМ</brand>
-      <price>1539</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008663" xmlns="">
@@ -47955,14 +47875,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="008722" xmlns="">
-      <model>Жорка п/пак д/хомяков 400 гр, шт</model>
-      <brand>Жорка</brand>
-      <price>1264</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="008723" xmlns="">
       <model>Жорка палочка для грызунов "Орех" (2шт), шт</model>
       <brand>Жорка</brand>
@@ -48024,7 +47936,7 @@
       <brand>Сибирская кошка</brand>
       <price>2230</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008740" xmlns="">
@@ -48363,6 +48275,14 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="008811" xmlns="">
+      <model>FG 05207 GOOD CAT Мультивитаминное лакомcтво для кошек со вкусом "НОРВЕЖСКОГО ЛОСОСЯ" 90 таб., шт</model>
+      <brand>GOOT CAT</brand>
+      <price>1506</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="008813" xmlns="">
       <model>GOOD CAT Мультивитаминное лакомcтво для Кошек "В ПЕРИОД ЛИНЬКИ" 90 таб. (ш/б=6шт.), шт</model>
       <brand>GOOT CAT</brand>
@@ -48465,14 +48385,6 @@
       <price>1303</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="008831" xmlns="">
-      <model>FG03201 Good Cat Спрей для котят и кошек ЛИКВИДАТОР МЕТОК И ЗАПАХА, шт</model>
-      <brand>FAVORITE</brand>
-      <price>1848</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008832" xmlns="">
@@ -48616,7 +48528,7 @@
       <brand>Релаксивет</brand>
       <price>2753</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008918" xmlns="">
@@ -49859,14 +49771,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="YNDX-00021 Blue" xmlns="">
-      <model>Яндекс.Станция Мини Плюс Синяя YNDX-00021 без часов (Умная колонка с голосовым помощником)</model>
-      <brand>Yandex</brand>
-      <price>48261</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="1470G2D-2USB-1-R" xmlns="">
       <model>EMEA USB kit: Omni-directional, 1D, PDF, 2D, black scanner (1470g2D-2), flexible presentation stand (STND-15F03-009-6), USB Type A 1.5m straight cable (CBL-500-150-S00)</model>
       <brand>HONEYWELL</brand>
@@ -50096,7 +50000,7 @@
       <brand>Lenovo</brand>
       <price>70437</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="VR30R01DW" xmlns="">
@@ -50200,7 +50104,7 @@
       <brand>Microsoft</brand>
       <price>86076</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="KW9-00664" xmlns="">
@@ -50303,6 +50207,14 @@
       <model>Робот-пылесос Accesstyle VR32G02MW</model>
       <brand>Accesstyle</brand>
       <price>115602</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="64W34AA" xmlns="">
+      <model>HP P24h G5 FHD Monitor</model>
+      <brand>HP</brand>
+      <price>92966</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50558,7 +50470,7 @@
     <offer sku="3981V746" xmlns="">
       <model>сканер Canon IRISCAN DESK 6, Г-образный (A4, Scanner, 12MP, 300 dpi, 1 sec, USB 2.0)</model>
       <brand>Canon</brand>
-      <price>157903</price>
+      <price>159037</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -50715,14 +50627,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="3853V999" xmlns="">
-      <model>Сканер IRISCAN DESK 5 PRO, Г-образный (A3, Scanner, 12MP, 300 dpi, 3 sec, USB 2.0)</model>
-      <brand>Canon</brand>
-      <price>197242</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="YEEDI VAC Hybrid" xmlns="">
       <model>DVX34 Робот-пылесос YEEDI VAC Station (K760)</model>
       <brand>YEEDI</brand>
@@ -50758,7 +50662,7 @@
     <offer sku="3981V745" xmlns="">
       <model>Сканер Canon IRISCAN DESK 6 PRO, Г-образный (A3, Scanner, 21MP, 300 dpi, 1 sec, USB 2.0)</model>
       <brand>Canon</brand>
-      <price>216225</price>
+      <price>217791</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -51390,7 +51294,7 @@
     <offer sku="1102TG3NL0" xmlns="">
       <model>Лазерный копир-принтер-сканер-факс Kyocera M3645dn (А4, 45 ppm, 1200dpi, 1 Gb, USB, Net, RADP, тонер) отгрузка только с доп. тонером TK-3160</model>
       <brand>KYOCERA</brand>
-      <price>789109</price>
+      <price>795225</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51422,7 +51326,7 @@
     <offer sku="1102V33NL0" xmlns="">
       <model>Лазерный копир-принтер-сканер-факс Kyocera M3645idn (А4, 45 ppm, 1200dpi, 1 Gb, USB, Net, touch panel, RADP, тонер) отгрузка только с доп. тонером TK-3060</model>
       <brand>KYOCERA</brand>
-      <price>942403</price>
+      <price>949792</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -51433,14 +51337,6 @@
       <price>1025478</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="90NR07Y1-M00710" xmlns="">
-      <model>Ноутбук Asus 90NR07Y1-M00710 ROG Flow Z13 GZ301ZA-LD142W 13,4" WUXGA (1920x1200) Touch IPS 120Hz/Intel Core i5-12500H 2,5Ghz (12Cores)/16GB/512GB/NVIDIA GeForce RTX3080 8GB/Wi-Fi 6E/BT5.2/720P HD Camera/BKLT/Windows 11 Home/1Y/Black</model>
-      <brand>ASUS</brand>
-      <price>1537290</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="7Z73A06BEA" xmlns="">
@@ -51568,7 +51464,7 @@
       <brand>Xiaomi</brand>
       <price>216854</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="008994" xmlns="">
@@ -58270,7 +58166,7 @@
     <offer sku="009899" xmlns="">
       <model>Сушилка для овощей и фруктов REDMOND FD1100</model>
       <brand>Redmond</brand>
-      <price>34596</price>
+      <price>50596</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -58294,7 +58190,7 @@
     <offer sku="009902" xmlns="">
       <model>Сушилка для овощей и фруктов REDMOND FD1101</model>
       <brand>Redmond</brand>
-      <price>40213</price>
+      <price>69966</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -58464,7 +58360,7 @@
       <brand>Centek</brand>
       <price>5474</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009926" xmlns="">
@@ -58622,7 +58518,7 @@
     <offer sku="009948" xmlns="">
       <model>Чайник REDMOND RK-G193 Черный</model>
       <brand>Redmond</brand>
-      <price>17112</price>
+      <price>27360</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -58646,7 +58542,7 @@
     <offer sku="009951" xmlns="">
       <model>Чайник REDMOND RK-M158 Черный</model>
       <brand>Redmond</brand>
-      <price>19360</price>
+      <price>32753</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -58654,7 +58550,7 @@
     <offer sku="009953" xmlns="">
       <model>Чайник REDMOND RK-M179 Бежевый</model>
       <brand>Redmond</brand>
-      <price>18236</price>
+      <price>34101</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -58670,7 +58566,7 @@
     <offer sku="009955" xmlns="">
       <model>Чайник REDMOND RK-M155 Сталь</model>
       <brand>Redmond</brand>
-      <price>19360</price>
+      <price>43090</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -59254,7 +59150,7 @@
     <offer sku="010029" xmlns="">
       <model>Фен-стайлер REDMOND RMS-4305 Черный</model>
       <brand>Redmond</brand>
-      <price>15854</price>
+      <price>28213</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
