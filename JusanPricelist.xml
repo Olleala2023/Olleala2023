@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Jmart date="26.12.2023 15:21:26" xmlns="Jmart">
+<Jmart date="27.12.2023 17:10:40" xmlns="Jmart">
   <company>Hitech24.kz</company>
   <merchantid>Test</merchantid>
   <offers>
@@ -1043,6 +1043,14 @@
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
+    <offer sku="000664" xmlns="">
+      <model>AirPods Max - Space Gray, Model A2096</model>
+      <brand>Apple</brand>
+      <price>351710</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="000897" xmlns="">
       <model>Графический планшет Wacom Intuos Pro Large Paper Edition R/N (PTH-860P-N) Чёрный</model>
       <brand>Wacom</brand>
@@ -1296,7 +1304,7 @@
       <brand>Seagate</brand>
       <price>47470</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="ST1000DM010" xmlns="">
@@ -1304,7 +1312,7 @@
       <brand>Seagate</brand>
       <price>25733</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="ST4000NM003A" xmlns="">
@@ -1352,7 +1360,7 @@
       <brand>WD</brand>
       <price>145972</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="WD6003FRYZ" xmlns="">
@@ -1696,7 +1704,7 @@
       <brand>Canon</brand>
       <price>111607</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="1102RY3NL0" xmlns="">
@@ -2011,6 +2019,14 @@
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="001577" xmlns="">
+      <model>SanDisk_Ultra microSDXC_256GB + SD Adapter_120MB/s  A1 Class 10 UHS-I</model>
+      <brand>SANDISK</brand>
+      <price>13391</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="001595" xmlns="">
       <model>P2500NW</model>
       <brand>PANTUM</brand>
@@ -2075,6 +2091,14 @@
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="MME73RU/A" xmlns="">
+      <model>AirPods (3rd generation), Model A2565 A2564 A2566</model>
+      <brand>APPLE</brand>
+      <price>121879</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="001686" xmlns="">
       <model>Samsung G990 Gray 256GB</model>
       <brand>Samsung</brand>
@@ -2120,7 +2144,7 @@
       <brand>Lenovo</brand>
       <price>171933</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001744" xmlns="">
@@ -2136,7 +2160,7 @@
       <brand>Gigabyte</brand>
       <price>536024</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001799" xmlns="">
@@ -2144,7 +2168,7 @@
       <brand>Kingston</brand>
       <price>13165</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001849" xmlns="">
@@ -2152,7 +2176,7 @@
       <brand>Intel</brand>
       <price>112207</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001862" xmlns="">
@@ -2176,7 +2200,7 @@
       <brand>Kimtigo</brand>
       <price>9346</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001884" xmlns="">
@@ -2184,7 +2208,7 @@
       <brand>Patriot</brand>
       <price>9346</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001886" xmlns="">
@@ -2192,7 +2216,7 @@
       <brand>Kimtigo</brand>
       <price>9346</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001889" xmlns="">
@@ -2200,7 +2224,7 @@
       <brand>Patriot</brand>
       <price>12439</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001890" xmlns="">
@@ -2208,7 +2232,7 @@
       <brand>Kimtigo</brand>
       <price>12189</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001893" xmlns="">
@@ -2216,7 +2240,7 @@
       <brand>Patriot</brand>
       <price>19419</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001894" xmlns="">
@@ -2224,7 +2248,7 @@
       <brand>Gigabyte</brand>
       <price>14581</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001898" xmlns="">
@@ -2232,7 +2256,7 @@
       <brand>Kimtigo</brand>
       <price>12439</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001901" xmlns="">
@@ -2240,7 +2264,7 @@
       <brand>Kimtigo</brand>
       <price>19744</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001905" xmlns="">
@@ -2248,7 +2272,7 @@
       <brand>Patriot</brand>
       <price>31019</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001906" xmlns="">
@@ -2256,7 +2280,7 @@
       <brand>Kimtigo</brand>
       <price>32002</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001917" xmlns="">
@@ -2272,7 +2296,7 @@
       <brand>Kingston</brand>
       <price>17830</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001921" xmlns="">
@@ -2280,7 +2304,7 @@
       <brand>Kingston</brand>
       <price>21185</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001925" xmlns="">
@@ -2304,7 +2328,7 @@
       <brand>Kingston</brand>
       <price>184563</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001929" xmlns="">
@@ -2320,7 +2344,7 @@
       <brand>Kingston</brand>
       <price>128739</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001951" xmlns="">
@@ -3288,7 +3312,7 @@
       <brand>Intel</brand>
       <price>70134</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="002341" xmlns="">
@@ -3320,7 +3344,7 @@
       <brand>Gigabyte</brand>
       <price>345903</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="SDCS2/32GB" xmlns="">
@@ -3336,15 +3360,7 @@
       <brand>Kingston</brand>
       <price>7292</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="SDCG3/128GB" xmlns="">
-      <model>Карта памяти MicroSD, Kingston Canvas Go! Plus, 128GB, SDCG3/128GB, Class 10, UHS-I, R170/W90</model>
-      <brand>Kingston</brand>
-      <price>9555</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="SDCG3/256GB" xmlns="">
@@ -3352,7 +3368,7 @@
       <brand>Kingston</brand>
       <price>13129</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="SDCG3/512GB" xmlns="">
@@ -3360,7 +3376,7 @@
       <brand>Kingston</brand>
       <price>27254</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="002381" xmlns="">
@@ -3373,6 +3389,14 @@
     </offer>
     <offer sku="002582" xmlns="">
       <model>SanDisk Ultra Light microSDHC + SD Adapter 32GB 100MB/s Class 10</model>
+      <brand>Sandisk</brand>
+      <price>5472</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="002584" xmlns="">
+      <model>SANDISK 32GB Ultra microSDHC+SD Adapter</model>
       <brand>Sandisk</brand>
       <price>5472</price>
       <availabilities>
@@ -3443,6 +3467,14 @@
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="002640" xmlns="">
+      <model>SanDisk Cruzer Blade 64GB; EAN: 619659097318</model>
+      <brand>Sandisk</brand>
+      <price>5729</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="002641" xmlns="">
       <model>SanDisk Cruzer Blade 128GB; EAN: 619659125905</model>
       <brand>Sandisk</brand>
@@ -3451,10 +3483,34 @@
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="002642" xmlns="">
+      <model>SanDisk Cruzer Blade 32GB Electric Blue; EAN: 619659146924</model>
+      <brand>Sandisk</brand>
+      <price>5318</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="002645" xmlns="">
       <model>SanDisk Cruzer Blade 64GB Electric Blue; EAN: 619659146931</model>
       <brand>Sandisk</brand>
       <price>5986</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="002646" xmlns="">
+      <model>SanDisk Cruzer Blade 64GB Electric Green; EAN: 619659146955</model>
+      <brand>Sandisk</brand>
+      <price>5986</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="002648" xmlns="">
+      <model>SanDisk Cruzer Glide 3.0 USB Flash Drive 32GB; EAN: 619659115890</model>
+      <brand>Sandisk</brand>
+      <price>5575</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -3491,6 +3547,14 @@
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="002658" xmlns="">
+      <model>SanDisk Ultra Flair USB 3.0 128GB ; EAN: 619659136710</model>
+      <brand>Sandisk</brand>
+      <price>8094</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="002659" xmlns="">
       <model>SanDisk Ultra Flair USB 3.0 128GB - NEW Tropical Blue Color; EAN: 619659163082</model>
       <brand>Sandisk</brand>
@@ -3503,6 +3567,14 @@
       <model>SANDISK Ultra Luxe USB 3.1 Flash Drive 64GB</model>
       <brand>Sandisk</brand>
       <price>6860</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="002661" xmlns="">
+      <model>SANDISK Ultra Luxe USB 3.1 Flash Drive 128GB</model>
+      <brand>Sandisk</brand>
+      <price>8660</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -3527,6 +3599,14 @@
       <model>SANDISK ULTRA LOOP 128GB USB 3.0</model>
       <brand>Sandisk</brand>
       <price>9843</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="002666" xmlns="">
+      <model>SanDisk Ultra Dual Drive m3.0 128GB Grey &amp; Silver; EAN: 619659149697</model>
+      <brand>Sandisk</brand>
+      <price>8712</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -4832,7 +4912,7 @@
       <brand>Deepcool</brand>
       <price>63163</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="002990" xmlns="">
@@ -10648,7 +10728,7 @@
       <brand>Genesis</brand>
       <price>17249</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="NMG-1629" xmlns="">
@@ -10656,7 +10736,7 @@
       <brand>Genesis</brand>
       <price>22511</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="100-000000252" xmlns="">
@@ -10664,7 +10744,7 @@
       <brand>Ryzen</brand>
       <price>69788</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="004241" xmlns="">
@@ -10672,7 +10752,7 @@
       <brand>Intel</brand>
       <price>64725</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="004243" xmlns="">
@@ -10680,7 +10760,7 @@
       <brand>Intel</brand>
       <price>48322</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="004244" xmlns="">
@@ -10688,7 +10768,7 @@
       <brand>Intel</brand>
       <price>59029</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="KMKU 3200 16GB" xmlns="">
@@ -10696,7 +10776,7 @@
       <brand>Kimtigo</brand>
       <price>18485</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="KVR32N22S8/8" xmlns="">
@@ -10728,15 +10808,7 @@
       <brand>SATA</brand>
       <price>9545</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="SA400S37/960G" xmlns="">
-      <model>Твердотельный накопитель SSD 960 Gb SATA 6Gb/s Kingston A400  SA400S37/960G  2.5" TLC</model>
-      <brand>Kingston</brand>
-      <price>32702</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="SEDC450R/7680G" xmlns="">
@@ -10744,7 +10816,7 @@
       <brand>Kingston</brand>
       <price>415125</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="HUS726T6TALE6L4" xmlns="">
@@ -10760,7 +10832,7 @@
       <brand>Foxline</brand>
       <price>20193</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="FL-815-FZ450R" xmlns="">
@@ -10768,7 +10840,7 @@
       <brand>Foxline</brand>
       <price>18783</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="11LA0055RU" xmlns="">
@@ -11008,7 +11080,7 @@
       <brand>WD</brand>
       <price>195673</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="A00028615" xmlns="">
@@ -12048,7 +12120,7 @@
       <brand>Kingston</brand>
       <price>11357</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="DT80/128GB" xmlns="">
@@ -12056,7 +12128,7 @@
       <brand>Kingston</brand>
       <price>10736</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="SDG3/512GB" xmlns="">
@@ -12064,7 +12136,7 @@
       <brand>Kingston</brand>
       <price>27891</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="Z690 AORUS MASTER" xmlns="">
@@ -12080,7 +12152,7 @@
       <brand>Intel</brand>
       <price>88400</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="KVR26N19S8/16" xmlns="">
@@ -12112,7 +12184,7 @@
       <brand>Kimtigo</brand>
       <price>13583</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="SFYRS/500G" xmlns="">
@@ -12120,7 +12192,7 @@
       <brand>Kingston</brand>
       <price>31470</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="DK-03" xmlns="">
@@ -12128,7 +12200,7 @@
       <brand>ID-Cooling</brand>
       <price>5809</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="DK-03A RGB PWM" xmlns="">
@@ -12152,7 +12224,7 @@
       <brand>Kingston</brand>
       <price>5900</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="DT70/64GB" xmlns="">
@@ -12160,7 +12232,7 @@
       <brand>Kingston</brand>
       <price>5033</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="AXX1300TCRPS" xmlns="">
@@ -13808,7 +13880,7 @@
       <brand>Lenovo</brand>
       <price>21213</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="2201117SG TB" xmlns="">
@@ -14303,6 +14375,14 @@
       <model>Процессор (CPU) Intel Core i7 Processor 11700 1200</model>
       <brand>Intel</brand>
       <price>122174</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="" />
+      </availabilities>
+    </offer>
+    <offer sku="004258" xmlns="">
+      <model>Процессор (CPU) Intel Core i7 Processor 11700KF 1200</model>
+      <brand>Intel</brand>
+      <price>116239</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -15504,7 +15584,7 @@
       <brand>Deluxe</brand>
       <price>8619</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="K290 " xmlns="">
@@ -16608,7 +16688,7 @@
       <brand>Kingston</brand>
       <price>7313</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="DT70/256GB" xmlns="">
@@ -16616,7 +16696,7 @@
       <brand>Kingston</brand>
       <price>11922</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="DT80M/64GB" xmlns="">
@@ -16624,7 +16704,7 @@
       <brand>Kingston</brand>
       <price>6136</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="DT80M/256GB" xmlns="">
@@ -16632,7 +16712,7 @@
       <brand>Kingston</brand>
       <price>12622</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="DT80M/128GB" xmlns="">
@@ -16640,7 +16720,7 @@
       <brand>Kingston</brand>
       <price>8698</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="DTMAX/256GB" xmlns="">
@@ -16648,7 +16728,7 @@
       <brand>Kingston</brand>
       <price>19044</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="DTMAX/512GB" xmlns="">
@@ -16656,7 +16736,7 @@
       <brand>Kingston</brand>
       <price>31748</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="DTMAX/1TB" xmlns="">
@@ -16664,7 +16744,7 @@
       <brand>Kingston</brand>
       <price>53078</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="DTMC3G2/64GB" xmlns="">
@@ -16672,7 +16752,7 @@
       <brand>Kingston</brand>
       <price>7428</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="DTDUO3CG3/256GB" xmlns="">
@@ -16680,7 +16760,7 @@
       <brand>Kingston</brand>
       <price>13762</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="SDR2/32GB" xmlns="">
@@ -16696,7 +16776,7 @@
       <brand>Kingston</brand>
       <price>26747</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="SDR2/256GB" xmlns="">
@@ -16704,7 +16784,7 @@
       <brand>Kingston</brand>
       <price>123526</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="Z790 UD AX" xmlns="">
@@ -16744,7 +16824,7 @@
       <brand>Intel</brand>
       <price>51719</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="004268" xmlns="">
@@ -16752,7 +16832,7 @@
       <brand>Intel</brand>
       <price>75938</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="DK-17 PWM" xmlns="">
@@ -16776,7 +16856,7 @@
       <brand>ID-Cooling</brand>
       <price>12439</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="SE-914XT-Basic V2" xmlns="">
@@ -16784,7 +16864,7 @@
       <brand>ID-Cooling</brand>
       <price>12100</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="SE-214-XT ARGB" xmlns="">
@@ -16792,7 +16872,7 @@
       <brand>ID-Cooling</brand>
       <price>11253</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="NTBSD4P32SP-16" xmlns="">
@@ -16800,7 +16880,7 @@
       <brand>Netac</brand>
       <price>18334</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="NTBSD5P48SP-16" xmlns="">
@@ -16808,7 +16888,7 @@
       <brand>Netac</brand>
       <price>33852</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="PSD516G480081" xmlns="">
@@ -16816,7 +16896,7 @@
       <brand>Patriot Viper</brand>
       <price>28401</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="KF426C16BBAK2/16" xmlns="">
@@ -16840,7 +16920,7 @@
       <brand>Kingston</brand>
       <price>14566</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="KF432C16BBA/8" xmlns="">
@@ -16864,7 +16944,7 @@
       <brand>Netac</brand>
       <price>8343</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="NT01NV3000-250-E4X" xmlns="">
@@ -16872,7 +16952,7 @@
       <brand>Netac</brand>
       <price>13380</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="NT01N930E-512G-E4X" xmlns="">
@@ -16880,7 +16960,7 @@
       <brand>Netac</brand>
       <price>18647</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="NT01N930E-001T-E4X" xmlns="">
@@ -16888,7 +16968,7 @@
       <brand>Netac</brand>
       <price>30456</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="NT01N535N-001T-N8X" xmlns="">
@@ -16896,7 +16976,7 @@
       <brand>Netac</brand>
       <price>31178</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="NT01NV2000-1T0-E4X" xmlns="">
@@ -16904,7 +16984,7 @@
       <brand>Netac</brand>
       <price>32134</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="NT01NV3000RGB-1T0-E4X" xmlns="">
@@ -16920,7 +17000,7 @@
       <brand>Netac</brand>
       <price>18109</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="NT01SA500-512-S3X" xmlns="">
@@ -16928,7 +17008,7 @@
       <brand>Netac</brand>
       <price>18490</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="NT01N535S-960G-S3X" xmlns="">
@@ -16936,7 +17016,7 @@
       <brand>Netac</brand>
       <price>31521</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="WDS500G3X0E" xmlns="">
@@ -16952,7 +17032,7 @@
       <brand>Kingston</brand>
       <price>42453</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="SKC3000D/4096G" xmlns="">
@@ -16976,7 +17056,15 @@
       <brand>Netac</brand>
       <price>29400</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="NT05K331N-001T-30BK" xmlns="">
+      <model>Внешний жесткий диск 1Tb, Netac K331, USB 3.0, Black, Plastic Case</model>
+      <brand>Netac</brand>
+      <price>28287</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="SXS2000/4000G" xmlns="">
@@ -16984,7 +17072,7 @@
       <brand>Kingston</brand>
       <price>148710</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="HDWR21EUZSVA" xmlns="">
@@ -17072,7 +17160,7 @@
       <brand>Western Digital</brand>
       <price>161680</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="WD141PURP" xmlns="">
@@ -17088,7 +17176,7 @@
       <brand>Western Digital</brand>
       <price>98582</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="HUH721212ALE604" xmlns="">
@@ -17176,7 +17264,7 @@
       <brand>Foxline</brand>
       <price>17764</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="FL-816-FZ450R-U31" xmlns="">
@@ -17184,7 +17272,7 @@
       <brand>Foxline</brand>
       <price>19353</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="FX-120-3" xmlns="">
@@ -17192,7 +17280,7 @@
       <brand>PCcooler</brand>
       <price>6127</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="23201" xmlns="">
@@ -17664,7 +17752,7 @@
       <brand>Seagate</brand>
       <price>56994</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="WD20EZAZ" xmlns="">
@@ -18488,7 +18576,7 @@
       <brand>PANTUM</brand>
       <price>161629</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="M7100DW" xmlns="">
@@ -18496,7 +18584,7 @@
       <brand>PANTUM</brand>
       <price>170019</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="910-001793" xmlns="">
@@ -18736,7 +18824,7 @@
       <brand>Kingston</brand>
       <price>25779</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="KF432C16BBK2/32" xmlns="">
@@ -18744,7 +18832,7 @@
       <brand>Kingston</brand>
       <price>43763</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="KF432C16BBK2/8" xmlns="">
@@ -18848,7 +18936,7 @@
       <brand>Kingston</brand>
       <price>29191</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="KF437C19BBK2/16" xmlns="">
@@ -20280,7 +20368,7 @@
       <brand>LDNIO</brand>
       <price>2708</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004430" xmlns="">
@@ -20800,7 +20888,7 @@
       <brand>AsRock</brand>
       <price>117404</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004524" xmlns="">
@@ -20848,7 +20936,7 @@
       <brand>Intel</brand>
       <price>116860</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004532" xmlns="">
@@ -21256,7 +21344,7 @@
       <brand>Patriot</brand>
       <price>10274</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004629" xmlns="">
@@ -21752,7 +21840,7 @@
       <brand>G.SKILL</brand>
       <price>51818</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004691" xmlns="">
@@ -22160,7 +22248,7 @@
       <brand>Kingston</brand>
       <price>53153</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004749" xmlns="">
@@ -22304,7 +22392,7 @@
       <brand>Patriot</brand>
       <price>17844</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004772" xmlns="">
@@ -23608,7 +23696,7 @@
       <brand>HuntKey</brand>
       <price>59300</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004971" xmlns="">
@@ -25768,7 +25856,7 @@
       <brand>Brateck</brand>
       <price>27882</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005280" xmlns="">
@@ -25824,7 +25912,7 @@
       <brand>CyberPower</brand>
       <price>17551</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005287" xmlns="">
@@ -28976,7 +29064,7 @@
       <brand>Spectra</brand>
       <price>55393</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005736" xmlns="">
@@ -29000,7 +29088,7 @@
       <brand>COMIX</brand>
       <price>16764</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005741" xmlns="">
@@ -31751,22 +31839,6 @@
       <model>Планетарный миксер Centek CT-1139 Beige</model>
       <brand>Centek</brand>
       <price>40980</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="006135" xmlns="">
-      <model>Мультипекарь REDMOND RMB-M614/1</model>
-      <brand>REDMOND</brand>
-      <price>33472</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="006137" xmlns="">
-      <model>Мультипекарь REDMOND RMB-M621/3 Черный</model>
-      <brand>REDMOND</brand>
-      <price>40213</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -38736,7 +38808,7 @@
       <brand>SHIP</brand>
       <price>146669</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007096" xmlns="">
@@ -39112,7 +39184,7 @@
       <brand>SHIP</brand>
       <price>7622</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007144" xmlns="">
@@ -39216,7 +39288,7 @@
       <brand>SHIP</brand>
       <price>6227</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007157" xmlns="">
@@ -39432,7 +39504,7 @@
       <brand>SHIP</brand>
       <price>5136</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007184" xmlns="">
@@ -49464,7 +49536,7 @@
       <brand>Nokia</brand>
       <price>74879</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="ZMM1010B" xmlns="">
@@ -51304,7 +51376,7 @@
       <brand>ASRock</brand>
       <price>102110</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009027" xmlns="">
@@ -51432,7 +51504,7 @@
       <brand>Gigabyte</brand>
       <price>211008</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009045" xmlns="">
@@ -52696,7 +52768,7 @@
       <brand>Deepcool</brand>
       <price>102073</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009265" xmlns="">
@@ -52816,7 +52888,7 @@
       <brand>Deepcool</brand>
       <price>103933</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009280" xmlns="">
@@ -52824,7 +52896,7 @@
       <brand>Deepcool</brand>
       <price>89966</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009281" xmlns="">
@@ -56272,7 +56344,7 @@
       <brand>HSM</brand>
       <price>174146</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009736" xmlns="">
@@ -56288,7 +56360,7 @@
       <brand>HSM</brand>
       <price>375944</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009738" xmlns="">
