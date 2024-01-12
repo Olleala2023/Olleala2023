@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Jmart date="11.01.2024 17:13:23" xmlns="Jmart">
+<Jmart date="12.01.2024 17:13:28" xmlns="Jmart">
   <company>Hitech24.kz</company>
   <merchantid>Test</merchantid>
   <offers>
@@ -6566,7 +6566,7 @@
     <offer sku="003406" xmlns="">
       <model>Источник бесперебойного питания SVC V-600-L</model>
       <brand>SVC</brand>
-      <price>20531</price>
+      <price>25565</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6574,7 +6574,7 @@
     <offer sku="003408" xmlns="">
       <model>Источник бесперебойного питания SVC V-650-L</model>
       <brand>SVC</brand>
-      <price>21655</price>
+      <price>26689</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6582,7 +6582,7 @@
     <offer sku="003410" xmlns="">
       <model>Источник бесперебойного питания SVC V-600-L-LCD</model>
       <brand>SVC</brand>
-      <price>24239</price>
+      <price>29273</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6590,7 +6590,7 @@
     <offer sku="003411" xmlns="">
       <model>Источник бесперебойного питания SVC V-800-L-LCD</model>
       <brand>SVC</brand>
-      <price>27274</price>
+      <price>32308</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6598,7 +6598,7 @@
     <offer sku="003412" xmlns="">
       <model>Источник бесперебойного питания SVC V-2000-L</model>
       <brand>SVC</brand>
-      <price>71121</price>
+      <price>78672</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6606,7 +6606,7 @@
     <offer sku="003413" xmlns="">
       <model>Источник бесперебойного питания SVC V-500-F</model>
       <brand>SVC</brand>
-      <price>22910</price>
+      <price>27944</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6614,7 +6614,7 @@
     <offer sku="003414" xmlns="">
       <model>Источник бесперебойного питания SVC V-600-F</model>
       <brand>SVC</brand>
-      <price>27362</price>
+      <price>32396</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6622,7 +6622,7 @@
     <offer sku="003415" xmlns="">
       <model>Источник бесперебойного питания SVC V-650-F</model>
       <brand>SVC</brand>
-      <price>29219</price>
+      <price>34253</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6630,7 +6630,7 @@
     <offer sku="003416" xmlns="">
       <model>Источник бесперебойного питания SVC V-1200-F</model>
       <brand>SVC</brand>
-      <price>51461</price>
+      <price>59011</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6638,7 +6638,7 @@
     <offer sku="003417" xmlns="">
       <model>Источник бесперебойного питания SVC V-1500-F</model>
       <brand>SVC</brand>
-      <price>65231</price>
+      <price>72782</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6646,7 +6646,7 @@
     <offer sku="003418" xmlns="">
       <model>Источник бесперебойного питания SVC V-1200-L-LCD</model>
       <brand>SVC</brand>
-      <price>47591</price>
+      <price>55142</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6654,7 +6654,7 @@
     <offer sku="003419" xmlns="">
       <model>Источник бесперебойного питания SVC V-650-F-LCD</model>
       <brand>SVC</brand>
-      <price>33657</price>
+      <price>38691</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6662,7 +6662,7 @@
     <offer sku="003420" xmlns="">
       <model>Источник бесперебойного питания SVC V-1200-F-LCD</model>
       <brand>SVC</brand>
-      <price>59978</price>
+      <price>67528</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6670,7 +6670,7 @@
     <offer sku="003421" xmlns="">
       <model>Источник бесперебойного питания SVC V-1500-F-LCD</model>
       <brand>SVC</brand>
-      <price>65676</price>
+      <price>73227</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6678,7 +6678,7 @@
     <offer sku="003422" xmlns="">
       <model>Источник бесперебойного питания SVC V-2000-F-LCD</model>
       <brand>SVC</brand>
-      <price>86548</price>
+      <price>94099</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6686,7 +6686,7 @@
     <offer sku="003423" xmlns="">
       <model>Источник бесперебойного питания SVC U-650-L</model>
       <brand>SVC</brand>
-      <price>30169</price>
+      <price>35202</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6694,7 +6694,7 @@
     <offer sku="003424" xmlns="">
       <model>Источник бесперебойного питания SVC U-600</model>
       <brand>SVC</brand>
-      <price>37708</price>
+      <price>42742</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6702,7 +6702,7 @@
     <offer sku="003425" xmlns="">
       <model>Источник бесперебойного питания SVC U-1000</model>
       <brand>SVC</brand>
-      <price>44719</price>
+      <price>49753</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6710,7 +6710,7 @@
     <offer sku="003426" xmlns="">
       <model>Источник бесперебойного питания SVC V-500-L</model>
       <brand>SVC</brand>
-      <price>20307</price>
+      <price>25340</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6718,7 +6718,7 @@
     <offer sku="003427" xmlns="">
       <model>Источник бесперебойного питания SVC PT-10K-LCD</model>
       <brand>SVC</brand>
-      <price>475230</price>
+      <price>500399</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6726,7 +6726,7 @@
     <offer sku="003428" xmlns="">
       <model>Источник бесперебойного питания SVC PTS-1KL-LCD</model>
       <brand>SVC</brand>
-      <price>123531</price>
+      <price>133599</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6734,7 +6734,7 @@
     <offer sku="003429" xmlns="">
       <model>Источник бесперебойного питания SVC PTS-2KL-LCD</model>
       <brand>SVC</brand>
-      <price>198562</price>
+      <price>209888</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6742,7 +6742,7 @@
     <offer sku="003430" xmlns="">
       <model>Источник бесперебойного питания SVC PTS-3KL-LCD</model>
       <brand>SVC</brand>
-      <price>194883</price>
+      <price>206209</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6750,7 +6750,7 @@
     <offer sku="003431" xmlns="">
       <model>Источник бесперебойного питания SVC PTS-6KL-LCD</model>
       <brand>SVC</brand>
-      <price>478913</price>
+      <price>504082</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6758,7 +6758,7 @@
     <offer sku="003432" xmlns="">
       <model>Источник бесперебойного питания SVC RTO-1.5K-LCD</model>
       <brand>SVC</brand>
-      <price>80607</price>
+      <price>88157</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6766,7 +6766,7 @@
     <offer sku="003433" xmlns="">
       <model>Источник бесперебойного питания SVC RTL-800-LCD</model>
       <brand>SVC</brand>
-      <price>71665</price>
+      <price>79216</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6774,7 +6774,7 @@
     <offer sku="003434" xmlns="">
       <model>Источник бесперебойного питания SVC RTL-1K-LCD</model>
       <brand>SVC</brand>
-      <price>114712</price>
+      <price>124780</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6782,7 +6782,7 @@
     <offer sku="003435" xmlns="">
       <model>Источник бесперебойного питания SVC RTL-2K-LCD</model>
       <brand>SVC</brand>
-      <price>182469</price>
+      <price>193794</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6790,7 +6790,7 @@
     <offer sku="003436" xmlns="">
       <model>Источник бесперебойного питания SVC RTL-5KL-LCD</model>
       <brand>SVC</brand>
-      <price>253099</price>
+      <price>278267</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6798,7 +6798,7 @@
     <offer sku="003437" xmlns="">
       <model>Источник бесперебойного питания SVC RTU-2KL-LCD</model>
       <brand>SVC</brand>
-      <price>134247</price>
+      <price>144315</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6806,7 +6806,7 @@
     <offer sku="003438" xmlns="">
       <model>Источник бесперебойного питания SVC LRT-1KL-LCD</model>
       <brand>SVC</brand>
-      <price>132936</price>
+      <price>143003</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6814,7 +6814,7 @@
     <offer sku="003439" xmlns="">
       <model>Источник бесперебойного питания SVC LRT-3KL-LCD</model>
       <brand>SVC</brand>
-      <price>218347</price>
+      <price>229673</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6822,7 +6822,7 @@
     <offer sku="003440" xmlns="">
       <model>Источник бесперебойного питания SVC RT-1KL-LCD</model>
       <brand>SVC</brand>
-      <price>180143</price>
+      <price>191469</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6830,7 +6830,7 @@
     <offer sku="003441" xmlns="">
       <model>Источник бесперебойного питания SVC RT-2KL-LCD</model>
       <brand>SVC</brand>
-      <price>261616</price>
+      <price>286784</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6838,7 +6838,7 @@
     <offer sku="003442" xmlns="">
       <model>Источник бесперебойного питания SVC RT-3KL-LCD</model>
       <brand>SVC</brand>
-      <price>283289</price>
+      <price>308457</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6846,7 +6846,7 @@
     <offer sku="003443" xmlns="">
       <model>Стабилизатор SVC AVR-600-L</model>
       <brand>SVC</brand>
-      <price>10066</price>
+      <price>15100</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6854,7 +6854,7 @@
     <offer sku="003444" xmlns="">
       <model>Стабилизатор SVC AVR-1000-L</model>
       <brand>SVC</brand>
-      <price>12764</price>
+      <price>17798</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6862,7 +6862,7 @@
     <offer sku="003445" xmlns="">
       <model>Стабилизатор SVC AVR-1200-U</model>
       <brand>SVC</brand>
-      <price>15697</price>
+      <price>20730</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6870,7 +6870,7 @@
     <offer sku="003446" xmlns="">
       <model>Стабилизатор SVC AVR-1005-U</model>
       <brand>SVC</brand>
-      <price>10066</price>
+      <price>15100</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6878,7 +6878,7 @@
     <offer sku="003447" xmlns="">
       <model>Стабилизатор SVC AVR-1008-U</model>
       <brand>SVC</brand>
-      <price>12483</price>
+      <price>17517</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6886,7 +6886,7 @@
     <offer sku="003449" xmlns="">
       <model>Стабилизатор SVC AVR-600-S</model>
       <brand>SVC</brand>
-      <price>9712</price>
+      <price>14746</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -6894,7 +6894,7 @@
     <offer sku="003450" xmlns="">
       <model>Стабилизатор SVC AVR-1000-S</model>
       <brand>SVC</brand>
-      <price>10209</price>
+      <price>15243</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -6902,7 +6902,7 @@
     <offer sku="003451" xmlns="">
       <model>Стабилизатор SVC AVR-1500-S</model>
       <brand>SVC</brand>
-      <price>10707</price>
+      <price>15740</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6910,7 +6910,7 @@
     <offer sku="003452" xmlns="">
       <model>Стабилизатор SVC R-600</model>
       <brand>SVC</brand>
-      <price>13512</price>
+      <price>18546</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6918,7 +6918,7 @@
     <offer sku="003453" xmlns="">
       <model>Стабилизатор SVC R-2000</model>
       <brand>SVC</brand>
-      <price>19967</price>
+      <price>25001</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6926,7 +6926,7 @@
     <offer sku="003456" xmlns="">
       <model>Стабилизатор SVC W-500</model>
       <brand>SVC</brand>
-      <price>12715</price>
+      <price>17748</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6934,7 +6934,7 @@
     <offer sku="003459" xmlns="">
       <model>Инвертор SVC SI-300</model>
       <brand>SVC</brand>
-      <price>12052</price>
+      <price>17085</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -6942,7 +6942,7 @@
     <offer sku="003460" xmlns="">
       <model>Инвертор SVC SI-500</model>
       <brand>SVC</brand>
-      <price>13845</price>
+      <price>18879</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6950,7 +6950,7 @@
     <offer sku="003461" xmlns="">
       <model>Инвертор SVC SI-1000</model>
       <brand>SVC</brand>
-      <price>25942</price>
+      <price>30975</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6958,7 +6958,7 @@
     <offer sku="003462" xmlns="">
       <model>Инвертор SVC SI-1500</model>
       <brand>SVC</brand>
-      <price>28573</price>
+      <price>33607</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6966,7 +6966,7 @@
     <offer sku="003463" xmlns="">
       <model>Инвертор SVC SI-2000</model>
       <brand>SVC</brand>
-      <price>54087</price>
+      <price>61637</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -6974,7 +6974,7 @@
     <offer sku="003464" xmlns="">
       <model>Инвертор SVC DIL-600</model>
       <brand>SVC</brand>
-      <price>41089</price>
+      <price>46122</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -6982,7 +6982,7 @@
     <offer sku="003465" xmlns="">
       <model>Инвертор SVC DIL-800</model>
       <brand>SVC</brand>
-      <price>52879</price>
+      <price>60429</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -6990,7 +6990,7 @@
     <offer sku="003466" xmlns="">
       <model>Инвертор SVC DI-600-F-LCD</model>
       <brand>SVC</brand>
-      <price>46090</price>
+      <price>51124</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -6998,7 +6998,7 @@
     <offer sku="003467" xmlns="">
       <model>Инвертор SVC DI-800-F-LCD</model>
       <brand>SVC</brand>
-      <price>62408</price>
+      <price>69958</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -7006,7 +7006,7 @@
     <offer sku="003468" xmlns="">
       <model>Инвертор SVC DI-1000-F-LCD</model>
       <brand>SVC</brand>
-      <price>66033</price>
+      <price>73583</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -7014,7 +7014,7 @@
     <offer sku="003469" xmlns="">
       <model>Инвертор SVC MP-2012</model>
       <brand>SVC</brand>
-      <price>215476</price>
+      <price>226802</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -7022,7 +7022,7 @@
     <offer sku="003470" xmlns="">
       <model>Инвертор SVC MP-3024</model>
       <brand>SVC</brand>
-      <price>220643</price>
+      <price>231969</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -11070,7 +11070,7 @@
     <offer sku="GXTRT-1000IRT2UXL" xmlns="">
       <model>Vertiv GXT RT+ 1ph UPS, 1kVA, input plug IEC60320 C14, 2U, output – 230V, output socket groups (6)C13</model>
       <brand>Vertiv</brand>
-      <price>143060</price>
+      <price>154385</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11078,7 +11078,7 @@
     <offer sku="GXT5-1000IRT2UXLE" xmlns="">
       <model>Vertiv Liebert GXT5 1ph UPS, 1kVA, input plug IEC C14 inlet, 2U, output – 230V, output socket groups (8)C13</model>
       <brand>Vertiv</brand>
-      <price>285707</price>
+      <price>310875</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11086,7 +11086,7 @@
     <offer sku="RAILKITPS3G" xmlns="">
       <model>AEC Rail Kit for Liebert PSI3G Rack/Tower UPS</model>
       <brand>Vertiv</brand>
-      <price>39719</price>
+      <price>44753</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11758,7 +11758,7 @@
     <offer sku="LI32111CT00" xmlns="">
       <model>LIEBERT itON 600VA E 230V</model>
       <brand>Vertiv</brand>
-      <price>26369</price>
+      <price>31402</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11766,7 +11766,7 @@
     <offer sku="GXT5-10KIRT5UXLE" xmlns="">
       <model>Vertiv Liebert GXT5 1ph UPS, 10kVA, input plug - hardwired, 5U, output – 230V, hardwired, output socket groups (4)C13 &amp; (4)C19</model>
       <brand>Vertiv</brand>
-      <price>1469748</price>
+      <price>1517569</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13286,7 +13286,7 @@
     <offer sku="BV500I" xmlns="">
       <model>Источник бесперебойного питания APC Easy UPS, Интерактивная, 500 ВА / 300 Вт, Tower, IEC, LCD</model>
       <brand>APC</brand>
-      <price>35098</price>
+      <price>40131</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13294,7 +13294,7 @@
     <offer sku="BV500I-GR" xmlns="">
       <model>Источник бесперебойного питания APC Easy UPS, Интерактивная, 500 ВА / 300 Вт, Tower, Schuko, LED</model>
       <brand>APC</brand>
-      <price>32017</price>
+      <price>37051</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13302,7 +13302,7 @@
     <offer sku="BV650I" xmlns="">
       <model>Источник бесперебойного питания APC Easy UPS, Интерактивная, 650 ВА / 375 Вт, Tower, IEC, LCD</model>
       <brand>APC</brand>
-      <price>33557</price>
+      <price>38591</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13310,7 +13310,7 @@
     <offer sku="SMC1000I" xmlns="">
       <model>Smart-UPS SC, Line-Interactive, 1000VA / 600W, Tower, IEC, LCD, USB</model>
       <brand>APC</brand>
-      <price>288274</price>
+      <price>313443</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13318,7 +13318,7 @@
     <offer sku="SMC2000I" xmlns="">
       <model>Smart-UPS SC, Line-Interactive, 2000VA / 1300W, Tower, IEC, LCD, USB</model>
       <brand>APC</brand>
-      <price>543475</price>
+      <price>568644</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13326,7 +13326,7 @@
     <offer sku="SMC3000I" xmlns="">
       <model>Smart-UPS SC, Line-Interactive, 3000VA / 2100W, Tower, IEC, LCD, USB</model>
       <brand>APC</brand>
-      <price>822246</price>
+      <price>870066</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13334,7 +13334,7 @@
     <offer sku="SMT2200I" xmlns="">
       <model>Smart-UPS SMT, Line-Interactive, 2200VA / 1980W, Tower, IEC, LCD, Serial+USB, SmartSlot</model>
       <brand>APC</brand>
-      <price>743683</price>
+      <price>791503</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -13342,7 +13342,7 @@
     <offer sku="SRT2200XLI" xmlns="">
       <model>Источник бесперебойного питания APC Smart-UPS SRT, On-Line, 2200VA / 1980W, Tower, IEC, LCD, Serial+USB, SmartSlot, подкл. доп. батарей</model>
       <brand>APC</brand>
-      <price>1069231</price>
+      <price>1117052</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -13350,7 +13350,7 @@
     <offer sku="RMKIT 18-32" xmlns="">
       <model>Liebert GXT3 / GXT4 Rack Slide Kits</model>
       <brand>Vertiv</brand>
-      <price>34071</price>
+      <price>39104</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -15574,7 +15574,7 @@
     <offer sku="V-800-L" xmlns="">
       <model>Источник бесперебойного питания SVC V-800-L</model>
       <brand>SVC</brand>
-      <price>24966</price>
+      <price>30000</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -15582,7 +15582,7 @@
     <offer sku="V-500-L-LCD" xmlns="">
       <model>Источник бесперебойного питания SVC V-500-L-LCD</model>
       <brand>SVC</brand>
-      <price>22207</price>
+      <price>27240</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -15590,7 +15590,7 @@
     <offer sku="V-1200-L" xmlns="">
       <model>Источник бесперебойного питания SVC V-1200-L</model>
       <brand>SVC</brand>
-      <price>42142</price>
+      <price>47175</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -15598,7 +15598,7 @@
     <offer sku="V-1000-F" xmlns="">
       <model>Источник бесперебойного питания SVC V-1000-F</model>
       <brand>SVC</brand>
-      <price>50170</price>
+      <price>57720</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -15606,7 +15606,7 @@
     <offer sku="V-800-F-LCD" xmlns="">
       <model>Источник бесперебойного питания SVC V-800-F-LCD</model>
       <brand>SVC</brand>
-      <price>34927</price>
+      <price>39961</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -15614,7 +15614,7 @@
     <offer sku="V-3000-F-LCD" xmlns="">
       <model>Источник бесперебойного питания SVC V-3000-F-LCD</model>
       <brand>SVC</brand>
-      <price>106013</price>
+      <price>116081</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -15622,7 +15622,7 @@
     <offer sku="U-850-L" xmlns="">
       <model>Источник бесперебойного питания SVC U-850-L</model>
       <brand>SVC</brand>
-      <price>31820</price>
+      <price>36854</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -15630,7 +15630,7 @@
     <offer sku="PTL-2K-LCD" xmlns="">
       <model>Источник бесперебойного питания SVC PTL-2K-LCD</model>
       <brand>SVC</brand>
-      <price>151448</price>
+      <price>162774</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -15638,7 +15638,7 @@
     <offer sku="PTL-3K-LCD" xmlns="">
       <model>Источник бесперебойного питания SVC PTL-3K-LCD</model>
       <brand>SVC</brand>
-      <price>172546</price>
+      <price>183872</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -15646,7 +15646,7 @@
     <offer sku="PTL-5K-LCD" xmlns="">
       <model>Источник бесперебойного питания SVC PTL-5K-LCD</model>
       <brand>SVC</brand>
-      <price>290400</price>
+      <price>315569</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -15654,7 +15654,7 @@
     <offer sku="PT-6K-LCD" xmlns="">
       <model>Источник бесперебойного питания SVC PT-6K-LCD</model>
       <brand>SVC</brand>
-      <price>415940</price>
+      <price>441109</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -15662,7 +15662,7 @@
     <offer sku="PTS-10KL-LCD" xmlns="">
       <model>Источник бесперебойного питания SVC PTS-10KL-LCD</model>
       <brand>SVC</brand>
-      <price>602746</price>
+      <price>627915</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -15670,7 +15670,7 @@
     <offer sku="RTL-3K-LCD" xmlns="">
       <model>Источник бесперебойного питания SVC RTL-3K-LCD</model>
       <brand>SVC</brand>
-      <price>201442</price>
+      <price>212767</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -15678,7 +15678,7 @@
     <offer sku="RTU-1KL-LCD" xmlns="">
       <model>Источник бесперебойного питания SVC RTU-1KL-LCD</model>
       <brand>SVC</brand>
-      <price>119524</price>
+      <price>129591</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -15686,7 +15686,7 @@
     <offer sku="RTU-3KL-LCD" xmlns="">
       <model>Источник бесперебойного питания SVC RTU-3KL-LCD</model>
       <brand>SVC</brand>
-      <price>194331</price>
+      <price>205657</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -15694,7 +15694,7 @@
     <offer sku="RT-6KL-LCD" xmlns="">
       <model>Источник бесперебойного питания SVC RT-6KL-LCD</model>
       <brand>SVC</brand>
-      <price>529751</price>
+      <price>554919</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -15702,7 +15702,7 @@
     <offer sku="RT-10KL-LCD" xmlns="">
       <model>Источник бесперебойного питания SVC RT-10KL-LCD</model>
       <brand>SVC</brand>
-      <price>633287</price>
+      <price>658455</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25310,7 +25310,7 @@
     <offer sku="005286" xmlns="">
       <model>Источник бесперебойного питания CyberPower UTI675E</model>
       <brand>CyberPower</brand>
-      <price>17551</price>
+      <price>22584</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -25318,7 +25318,7 @@
     <offer sku="005287" xmlns="">
       <model>Источник бесперебойного питания CyberPower UTI875E</model>
       <brand>CyberPower</brand>
-      <price>23730</price>
+      <price>28764</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25326,7 +25326,7 @@
     <offer sku="005288" xmlns="">
       <model>Источник бесперебойного питания SVC V-650-L-LCD</model>
       <brand>SVC</brand>
-      <price>24689</price>
+      <price>29722</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25334,7 +25334,7 @@
     <offer sku="005289" xmlns="">
       <model>Источник бесперебойного питания SVC V-1500-L</model>
       <brand>SVC</brand>
-      <price>54430</price>
+      <price>61981</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25342,7 +25342,7 @@
     <offer sku="005290" xmlns="">
       <model>Источник бесперебойного питания SVC V-800-F</model>
       <brand>SVC</brand>
-      <price>32566</price>
+      <price>37600</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25350,7 +25350,7 @@
     <offer sku="005291" xmlns="">
       <model>Источник бесперебойного питания SVC V-1500-L-LCD</model>
       <brand>SVC</brand>
-      <price>55449</price>
+      <price>63000</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25358,7 +25358,7 @@
     <offer sku="005292" xmlns="">
       <model>Источник бесперебойного питания CyberPower UTC650EI</model>
       <brand>CyberPower</brand>
-      <price>18951</price>
+      <price>23984</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25366,7 +25366,7 @@
     <offer sku="005293" xmlns="">
       <model>Источник бесперебойного питания CyberPower UTC650E</model>
       <brand>CyberPower</brand>
-      <price>18951</price>
+      <price>23984</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25374,7 +25374,7 @@
     <offer sku="005294" xmlns="">
       <model>Источник бесперебойного питания CyberPower UTC850E</model>
       <brand>CyberPower</brand>
-      <price>25366</price>
+      <price>30400</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25382,7 +25382,7 @@
     <offer sku="005295" xmlns="">
       <model>Источник бесперебойного питания CyberPower UT650EG</model>
       <brand>CyberPower</brand>
-      <price>24978</price>
+      <price>30011</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -25390,7 +25390,7 @@
     <offer sku="005296" xmlns="">
       <model>Источник бесперебойного питания CyberPower UT1100EG</model>
       <brand>CyberPower</brand>
-      <price>61576</price>
+      <price>69127</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -25398,7 +25398,7 @@
     <offer sku="005297" xmlns="">
       <model>Источник бесперебойного питания CyberPower UT1200EG</model>
       <brand>CyberPower</brand>
-      <price>65510</price>
+      <price>73061</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25406,7 +25406,7 @@
     <offer sku="005298" xmlns="">
       <model>Источник бесперебойного питания CyberPower UT2200E</model>
       <brand>CyberPower</brand>
-      <price>79897</price>
+      <price>87447</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -25414,7 +25414,7 @@
     <offer sku="005299" xmlns="">
       <model>Источник бесперебойного питания CyberPower BU600E</model>
       <brand>CyberPower</brand>
-      <price>24103</price>
+      <price>29137</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -25422,7 +25422,7 @@
     <offer sku="005300" xmlns="">
       <model>Источник бесперебойного питания CyberPower BU725E</model>
       <brand>CyberPower</brand>
-      <price>26047</price>
+      <price>31081</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25430,7 +25430,7 @@
     <offer sku="005301" xmlns="">
       <model>Источник бесперебойного питания CyberPower BU1000E</model>
       <brand>CyberPower</brand>
-      <price>42809</price>
+      <price>47843</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -25438,7 +25438,7 @@
     <offer sku="005302" xmlns="">
       <model>Источник бесперебойного питания CyberPower BR700ELCD</model>
       <brand>CyberPower</brand>
-      <price>62982</price>
+      <price>70533</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25446,7 +25446,7 @@
     <offer sku="005303" xmlns="">
       <model>Источник бесперебойного питания CyberPower BR1000ELCD</model>
       <brand>CyberPower</brand>
-      <price>69034</price>
+      <price>76584</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -25454,7 +25454,7 @@
     <offer sku="005304" xmlns="">
       <model>Источник бесперебойного питания CyberPower BR1200ELCD</model>
       <brand>CyberPower</brand>
-      <price>75760</price>
+      <price>83310</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25462,7 +25462,7 @@
     <offer sku="005305" xmlns="">
       <model>Источник бесперебойного питания CyberPower CP900EPFCLCD</model>
       <brand>CyberPower</brand>
-      <price>106717</price>
+      <price>116784</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25470,7 +25470,7 @@
     <offer sku="005306" xmlns="">
       <model>Источник бесперебойного питания CyberPower CP1300EPFCLCD</model>
       <brand>CyberPower</brand>
-      <price>116473</price>
+      <price>126540</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25478,7 +25478,7 @@
     <offer sku="005307" xmlns="">
       <model>Источник бесперебойного питания CyberPower CP1500EPFCLCD</model>
       <brand>CyberPower</brand>
-      <price>174171</price>
+      <price>185497</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -25486,7 +25486,7 @@
     <offer sku="005308" xmlns="">
       <model>Источник бесперебойного питания CyberPower VP700ELCD</model>
       <brand>CyberPower</brand>
-      <price>45810</price>
+      <price>50844</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25494,7 +25494,7 @@
     <offer sku="005309" xmlns="">
       <model>Источник бесперебойного питания CyberPower VP1200ELCD</model>
       <brand>CyberPower</brand>
-      <price>81887</price>
+      <price>89437</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25502,7 +25502,7 @@
     <offer sku="005310" xmlns="">
       <model>Источник бесперебойного питания CyberPower VP1600ELCD</model>
       <brand>CyberPower</brand>
-      <price>134382</price>
+      <price>144449</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -25510,7 +25510,7 @@
     <offer sku="005311" xmlns="">
       <model>Источник бесперебойного питания CyberPower BS650E</model>
       <brand>CyberPower</brand>
-      <price>29297</price>
+      <price>34330</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25518,7 +25518,7 @@
     <offer sku="005312" xmlns="">
       <model>Источник бесперебойного питания CyberPower BS850E</model>
       <brand>CyberPower</brand>
-      <price>39462</price>
+      <price>44496</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25526,7 +25526,7 @@
     <offer sku="005313" xmlns="">
       <model>Источник бесперебойного питания SVC W-600L</model>
       <brand>SVC</brand>
-      <price>39825</price>
+      <price>44858</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25534,7 +25534,7 @@
     <offer sku="005314" xmlns="">
       <model>Источник бесперебойного питания SVC PT-1K-LCD</model>
       <brand>SVC</brand>
-      <price>90512</price>
+      <price>98063</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25542,7 +25542,7 @@
     <offer sku="005315" xmlns="">
       <model>Источник бесперебойного питания SVC PT-2K-LCD</model>
       <brand>SVC</brand>
-      <price>159776</price>
+      <price>171102</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -25550,7 +25550,7 @@
     <offer sku="005316" xmlns="">
       <model>Источник бесперебойного питания SVC PT-3K-LCD</model>
       <brand>SVC</brand>
-      <price>186190</price>
+      <price>197516</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -25558,7 +25558,7 @@
     <offer sku="005317" xmlns="">
       <model>Источник бесперебойного питания SVC PTX-6KL-LCD</model>
       <brand>SVC</brand>
-      <price>353688</price>
+      <price>378856</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -25566,7 +25566,7 @@
     <offer sku="005318" xmlns="">
       <model>Источник бесперебойного питания CyberPower PR750ELCD</model>
       <brand>CyberPower</brand>
-      <price>187663</price>
+      <price>198989</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25574,7 +25574,7 @@
     <offer sku="005319" xmlns="">
       <model>Источник бесперебойного питания CyberPower PR1000ELCD</model>
       <brand>CyberPower</brand>
-      <price>273258</price>
+      <price>298427</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25582,7 +25582,7 @@
     <offer sku="005320" xmlns="">
       <model>Источник бесперебойного питания CyberPower PR1500ELCD</model>
       <brand>CyberPower</brand>
-      <price>273527</price>
+      <price>298696</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25590,7 +25590,7 @@
     <offer sku="005321" xmlns="">
       <model>Источник бесперебойного питания CyberPower PR2200ELCDSL</model>
       <brand>CyberPower</brand>
-      <price>279753</price>
+      <price>304921</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25598,7 +25598,7 @@
     <offer sku="005322" xmlns="">
       <model>Источник бесперебойного питания CyberPower PR3000ELCDSL</model>
       <brand>CyberPower</brand>
-      <price>348126</price>
+      <price>373294</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25606,7 +25606,7 @@
     <offer sku="005323" xmlns="">
       <model>Источник бесперебойного питания CyberPower OLS1000E</model>
       <brand>CyberPower</brand>
-      <price>175753</price>
+      <price>187079</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25614,7 +25614,7 @@
     <offer sku="005324" xmlns="">
       <model>Источник бесперебойного питания CyberPower OLS1500E</model>
       <brand>CyberPower</brand>
-      <price>162517</price>
+      <price>173843</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25622,7 +25622,7 @@
     <offer sku="005325" xmlns="">
       <model>Источник бесперебойного питания CyberPower OLS2000E</model>
       <brand>CyberPower</brand>
-      <price>277191</price>
+      <price>302360</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -25630,7 +25630,7 @@
     <offer sku="005326" xmlns="">
       <model>Источник бесперебойного питания CyberPower OLS3000E</model>
       <brand>CyberPower</brand>
-      <price>310337</price>
+      <price>335506</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25638,7 +25638,7 @@
     <offer sku="005327" xmlns="">
       <model>Источник бесперебойного питания CyberPower OR600ELCDRM1U</model>
       <brand>CyberPower</brand>
-      <price>117281</price>
+      <price>127348</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25646,7 +25646,7 @@
     <offer sku="005328" xmlns="">
       <model>Источник бесперебойного питания CyberPower PR1000ELCDRT1U</model>
       <brand>CyberPower</brand>
-      <price>291169</price>
+      <price>316337</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25654,7 +25654,7 @@
     <offer sku="005329" xmlns="">
       <model>Источник бесперебойного питания CyberPower PR1500ERTXL2U</model>
       <brand>CyberPower</brand>
-      <price>424607</price>
+      <price>449775</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -25662,7 +25662,7 @@
     <offer sku="005330" xmlns="">
       <model>Источник бесперебойного питания CyberPower PR2200ERTXL2U</model>
       <brand>CyberPower</brand>
-      <price>488202</price>
+      <price>513371</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25670,7 +25670,7 @@
     <offer sku="005331" xmlns="">
       <model>Источник бесперебойного питания CyberPower PR3000ERTXL2U</model>
       <brand>CyberPower</brand>
-      <price>612921</price>
+      <price>638090</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25678,7 +25678,7 @@
     <offer sku="005332" xmlns="">
       <model>Источник бесперебойного питания CyberPower PR2200ERTXL2UA</model>
       <brand>CyberPower</brand>
-      <price>545491</price>
+      <price>570660</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25686,7 +25686,7 @@
     <offer sku="005333" xmlns="">
       <model>Источник бесперебойного питания CyberPower PR3000ERTXL2UA</model>
       <brand>CyberPower</brand>
-      <price>730551</price>
+      <price>778371</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25694,7 +25694,7 @@
     <offer sku="005334" xmlns="">
       <model>Источник бесперебойного питания CyberPower PR6000ELCDRTXL5U</model>
       <brand>CyberPower</brand>
-      <price>1615512</price>
+      <price>1663333</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -25702,7 +25702,7 @@
     <offer sku="005335" xmlns="">
       <model>Источник бесперебойного питания CyberPower OL2000ERTXL2U</model>
       <brand>CyberPower</brand>
-      <price>557247</price>
+      <price>582416</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25710,7 +25710,7 @@
     <offer sku="005336" xmlns="">
       <model>Источник бесперебойного питания CyberPower OL3000ERTXL2U</model>
       <brand>CyberPower</brand>
-      <price>718135</price>
+      <price>765955</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25718,7 +25718,7 @@
     <offer sku="005337" xmlns="">
       <model>Источник бесперебойного питания CyberPower OL6KERT3UPM</model>
       <brand>CyberPower</brand>
-      <price>1199146</price>
+      <price>1246966</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25726,7 +25726,7 @@
     <offer sku="005338" xmlns="">
       <model>Источник бесперебойного питания CyberPower OLS2000ERT2U</model>
       <brand>CyberPower</brand>
-      <price>416742</price>
+      <price>441910</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25734,7 +25734,7 @@
     <offer sku="005339" xmlns="">
       <model>Источник бесперебойного питания CyberPower OLS3000ERT2U</model>
       <brand>CyberPower</brand>
-      <price>425393</price>
+      <price>450562</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -25742,7 +25742,7 @@
     <offer sku="005340" xmlns="">
       <model>Источник бесперебойного питания CyberPower OLS6000ERT6U</model>
       <brand>CyberPower</brand>
-      <price>1403865</price>
+      <price>1451685</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -25750,7 +25750,7 @@
     <offer sku="005341" xmlns="">
       <model>Источник бесперебойного питания CyberPower OLS10000ERT6U</model>
       <brand>CyberPower</brand>
-      <price>1499933</price>
+      <price>1547753</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25758,7 +25758,7 @@
     <offer sku="005342" xmlns="">
       <model>Стабилизатор SVC R-3000</model>
       <brand>SVC</brand>
-      <price>28943</price>
+      <price>33976</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -25766,7 +25766,7 @@
     <offer sku="005343" xmlns="">
       <model>Стабилизатор SVC R-5000</model>
       <brand>SVC</brand>
-      <price>36419</price>
+      <price>41453</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25774,7 +25774,7 @@
     <offer sku="005344" xmlns="">
       <model>Стабилизатор SVC W-1500</model>
       <brand>SVC</brand>
-      <price>18492</price>
+      <price>23526</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25782,7 +25782,7 @@
     <offer sku="005345" xmlns="">
       <model>Стабилизатор SVC W-2000</model>
       <brand>SVC</brand>
-      <price>20339</price>
+      <price>25373</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25790,7 +25790,7 @@
     <offer sku="005346" xmlns="">
       <model>Стабилизатор SVC W-3000</model>
       <brand>SVC</brand>
-      <price>30818</price>
+      <price>35852</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -25798,7 +25798,7 @@
     <offer sku="005347" xmlns="">
       <model>Стабилизатор SVC W-5000</model>
       <brand>SVC</brand>
-      <price>34863</price>
+      <price>39897</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25806,7 +25806,7 @@
     <offer sku="005348" xmlns="">
       <model>Стабилизатор SVC W-10000</model>
       <brand>SVC</brand>
-      <price>82443</price>
+      <price>89993</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25814,7 +25814,7 @@
     <offer sku="005349" xmlns="">
       <model>Стабилизатор SVC T-10000</model>
       <brand>SVC</brand>
-      <price>69843</price>
+      <price>77393</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -25822,7 +25822,7 @@
     <offer sku="005350" xmlns="">
       <model>Стабилизатор SVC T-12000</model>
       <brand>SVC</brand>
-      <price>89370</price>
+      <price>96920</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -48822,7 +48822,7 @@
     <offer sku="SRTRK2" xmlns="">
       <model>Smart-UPS RT 19'' Rail Kit</model>
       <brand>APC</brand>
-      <price>130787</price>
+      <price>140854</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -54390,7 +54390,7 @@
     <offer sku="009654" xmlns="">
       <model>Источник бесперебойного питания CyberPower UT850EG</model>
       <brand>CyberPower</brand>
-      <price>32755</price>
+      <price>37789</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54398,7 +54398,7 @@
     <offer sku="009655" xmlns="">
       <model>Источник бесперебойного питания CyberPower UT1500E</model>
       <brand>CyberPower</brand>
-      <price>66967</price>
+      <price>74518</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54406,7 +54406,7 @@
     <offer sku="009656" xmlns="">
       <model>Источник бесперебойного питания CyberPower VP1000ELCD</model>
       <brand>CyberPower</brand>
-      <price>51333</price>
+      <price>58883</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54414,7 +54414,7 @@
     <offer sku="009657" xmlns="">
       <model>Источник бесперебойного питания Legrand Keor SPX 600 ВА</model>
       <brand>Legrand</brand>
-      <price>28516</price>
+      <price>33549</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54422,7 +54422,7 @@
     <offer sku="009658" xmlns="">
       <model>Источник бесперебойного питания Legrand Keor SPX 800 ВА</model>
       <brand>Legrand</brand>
-      <price>35996</price>
+      <price>41029</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54430,7 +54430,7 @@
     <offer sku="009659" xmlns="">
       <model>Источник бесперебойного питания Legrand Keor Multiplug 600 ВА</model>
       <brand>Legrand</brand>
-      <price>41182</price>
+      <price>46216</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -54438,7 +54438,7 @@
     <offer sku="009660" xmlns="">
       <model>Источник бесперебойного питания Legrand Keor SP 600 ВА</model>
       <brand>Legrand</brand>
-      <price>42508</price>
+      <price>47542</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54446,7 +54446,7 @@
     <offer sku="009661" xmlns="">
       <model>Источник бесперебойного питания Legrand Keor SP 800 ВА</model>
       <brand>Legrand</brand>
-      <price>54713</price>
+      <price>62264</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54454,7 +54454,7 @@
     <offer sku="009662" xmlns="">
       <model>Источник бесперебойного питания Legrand Keor SP 1000 ВА</model>
       <brand>Legrand</brand>
-      <price>88666</price>
+      <price>96217</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54462,7 +54462,7 @@
     <offer sku="009663" xmlns="">
       <model>Источник бесперебойного питания Legrand Keor SP 1500 ВА</model>
       <brand>Legrand</brand>
-      <price>95355</price>
+      <price>105422</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54470,7 +54470,7 @@
     <offer sku="009664" xmlns="">
       <model>Источник бесперебойного питания Legrand Keor SP 2000 ВА</model>
       <brand>Legrand</brand>
-      <price>116840</price>
+      <price>126908</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54478,7 +54478,7 @@
     <offer sku="009665" xmlns="">
       <model>Источник бесперебойного питания SVC PTX-2KL-LCD</model>
       <brand>SVC</brand>
-      <price>182274</price>
+      <price>193600</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -54486,7 +54486,7 @@
     <offer sku="009666" xmlns="">
       <model>Источник бесперебойного питания CyberPower OLS6000E</model>
       <brand>CyberPower</brand>
-      <price>1034506</price>
+      <price>1082326</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54494,7 +54494,7 @@
     <offer sku="009667" xmlns="">
       <model>Источник бесперебойного питания CyberPower OLS10000E</model>
       <brand>CyberPower</brand>
-      <price>1184534</price>
+      <price>1232354</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54502,7 +54502,7 @@
     <offer sku="009668" xmlns="">
       <model>Источник бесперебойного питания Legrand Keor SPE TOWER 1000 ВА</model>
       <brand>Legrand</brand>
-      <price>160465</price>
+      <price>171791</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54510,7 +54510,7 @@
     <offer sku="009669" xmlns="">
       <model>Источник бесперебойного питания Legrand Keor SPE TOWER 3000 ВА</model>
       <brand>Legrand</brand>
-      <price>301210</price>
+      <price>326379</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54518,7 +54518,7 @@
     <offer sku="009670" xmlns="">
       <model>Источник бесперебойного питания Legrand Keor S 6 kВA 17'</model>
       <brand>Legrand</brand>
-      <price>1401460</price>
+      <price>1449280</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54526,7 +54526,7 @@
     <offer sku="009671" xmlns="">
       <model>Источник бесперебойного питания CyberPower PR1000ERTXL2U</model>
       <brand>CyberPower</brand>
-      <price>355461</price>
+      <price>380629</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54534,7 +54534,7 @@
     <offer sku="009672" xmlns="">
       <model>Источник бесперебойного питания CyberPower OL10KERT3UPM</model>
       <brand>CyberPower</brand>
-      <price>1155607</price>
+      <price>1203427</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -54542,7 +54542,7 @@
     <offer sku="009673" xmlns="">
       <model>Источник бесперебойного питания CyberPower OL6KERTHD</model>
       <brand>CyberPower</brand>
-      <price>1669937</price>
+      <price>1717757</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54550,7 +54550,7 @@
     <offer sku="009674" xmlns="">
       <model>Источник бесперебойного питания CyberPower OLS1500ERT2U</model>
       <brand>CyberPower</brand>
-      <price>337865</price>
+      <price>363034</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54558,7 +54558,7 @@
     <offer sku="009675" xmlns="">
       <model>Источник бесперебойного питания Legrand Keor PDU 800ВА 8 IEC</model>
       <brand>Legrand</brand>
-      <price>66161</price>
+      <price>73711</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54566,7 +54566,7 @@
     <offer sku="009676" xmlns="">
       <model>Источник бесперебойного питания Legrand Keor PDU 800ВА 8 GR/IT</model>
       <brand>Legrand</brand>
-      <price>66161</price>
+      <price>73711</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54574,7 +54574,7 @@
     <offer sku="009677" xmlns="">
       <model>Источник бесперебойного питания Legrand Daker DK Plus 3 кВА</model>
       <brand>Legrand</brand>
-      <price>481125</price>
+      <price>506293</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54582,7 +54582,7 @@
     <offer sku="009678" xmlns="">
       <model>Источник бесперебойного питания Legrand Daker DK Plus 6 кВА</model>
       <brand>Legrand</brand>
-      <price>1266229</price>
+      <price>1314049</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -54590,7 +54590,7 @@
     <offer sku="009679" xmlns="">
       <model>Источник бесперебойного питания Legrand Daker DK Plus 10 кВА (без батарей)</model>
       <brand>Legrand</brand>
-      <price>1024713</price>
+      <price>1072534</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
