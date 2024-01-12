@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2024-01-11 17:12">
+<fm_catalog date="2024-01-12 17:12">
   <shop>
     <merchant-id>AAH99GhybQaI1s7QCe</merchant-id>
     <offers>
@@ -6689,7 +6689,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>23610</price>
+        <price>28760</price>
       </offer>
       <offer sku="003408">
         <name>Источник бесперебойного питания SVC V-650-L SVC 003408</name>
@@ -6700,7 +6700,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>24762</price>
+        <price>29912</price>
       </offer>
       <offer sku="003410">
         <name>Источник бесперебойного питания SVC V-600-L-LCD SVC 003410</name>
@@ -6711,7 +6711,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>27409</price>
+        <price>32558</price>
       </offer>
       <offer sku="003411">
         <name>Источник бесперебойного питания SVC V-800-L-LCD SVC 003411</name>
@@ -6722,7 +6722,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>30514</price>
+        <price>35664</price>
       </offer>
       <offer sku="003412">
         <name>Источник бесперебойного питания SVC V-2000-L SVC 003412</name>
@@ -6733,7 +6733,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>75371</price>
+        <price>83095</price>
       </offer>
       <offer sku="003413">
         <name>Источник бесперебойного питания SVC V-500-F SVC 003413</name>
@@ -6744,7 +6744,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>26053</price>
+        <price>31202</price>
       </offer>
       <offer sku="003414">
         <name>Источник бесперебойного питания SVC V-600-F SVC 003414</name>
@@ -6755,7 +6755,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>30608</price>
+        <price>35757</price>
       </offer>
       <offer sku="003415">
         <name>Источник бесперебойного питания SVC V-650-F SVC 003415</name>
@@ -6766,7 +6766,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>32509</price>
+        <price>37659</price>
       </offer>
       <offer sku="003416">
         <name>Источник бесперебойного питания SVC V-1200-F SVC 003416</name>
@@ -6777,7 +6777,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>55263</price>
+        <price>62988</price>
       </offer>
       <offer sku="003417">
         <name>Источник бесперебойного питания SVC V-1500-F SVC 003417</name>
@@ -6788,7 +6788,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>69352</price>
+        <price>77076</price>
       </offer>
       <offer sku="003418">
         <name>Источник бесперебойного питания SVC V-1200-L-LCD SVC 003418</name>
@@ -6799,7 +6799,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>51307</price>
+        <price>59032</price>
       </offer>
       <offer sku="003419">
         <name>Источник бесперебойного питания SVC V-650-F-LCD SVC 003419</name>
@@ -6810,7 +6810,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>37055</price>
+        <price>42204</price>
       </offer>
       <offer sku="003420">
         <name>Источник бесперебойного питания SVC V-1200-F-LCD SVC 003420</name>
@@ -6821,7 +6821,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>63981</price>
+        <price>71705</price>
       </offer>
       <offer sku="003421">
         <name>Источник бесперебойного питания SVC V-1500-F-LCD SVC 003421</name>
@@ -6832,7 +6832,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>69812</price>
+        <price>77537</price>
       </offer>
       <offer sku="003422">
         <name>Источник бесперебойного питания SVC V-2000-F-LCD SVC 003422</name>
@@ -6843,7 +6843,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>91165</price>
+        <price>98890</price>
       </offer>
       <offer sku="003423">
         <name>Источник бесперебойного питания SVC U-650-L SVC 003423</name>
@@ -6854,7 +6854,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>33491</price>
+        <price>38640</price>
       </offer>
       <offer sku="003424">
         <name>Источник бесперебойного питания SVC U-600 SVC 003424</name>
@@ -6865,7 +6865,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>41205</price>
+        <price>46354</price>
       </offer>
       <offer sku="003425">
         <name>Источник бесперебойного питания SVC U-1000 SVC 003425</name>
@@ -6876,7 +6876,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>49666</price>
+        <price>57390</price>
       </offer>
       <offer sku="003426">
         <name>Источник бесперебойного питания SVC V-500-L SVC 003426</name>
@@ -6887,7 +6887,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>23406</price>
+        <price>28556</price>
       </offer>
       <offer sku="003427">
         <name>Источник бесперебойного питания SVC PT-10K-LCD SVC 003427</name>
@@ -6898,7 +6898,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>488789</price>
+        <price>514536</price>
       </offer>
       <offer sku="003428">
         <name>Источник бесперебойного питания SVC PTS-1KL-LCD SVC 003428</name>
@@ -6909,7 +6909,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>129006</price>
+        <price>139305</price>
       </offer>
       <offer sku="003429">
         <name>Источник бесперебойного питания SVC PTS-2KL-LCD SVC 003429</name>
@@ -6920,7 +6920,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>205763</price>
+        <price>217349</price>
       </offer>
       <offer sku="003430">
         <name>Источник бесперебойного питания SVC PTS-3KL-LCD SVC 003430</name>
@@ -6931,7 +6931,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>202001</price>
+        <price>213587</price>
       </offer>
       <offer sku="003431">
         <name>Источник бесперебойного питания SVC PTS-6KL-LCD SVC 003431</name>
@@ -6942,7 +6942,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>492562</price>
+        <price>518309</price>
       </offer>
       <offer sku="003432">
         <name>Источник бесперебойного питания SVC RTO-1.5K-LCD SVC 003432</name>
@@ -6953,7 +6953,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>85100</price>
+        <price>92824</price>
       </offer>
       <offer sku="003433">
         <name>Источник бесперебойного питания SVC RTL-800-LCD SVC 003433</name>
@@ -6964,7 +6964,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>75954</price>
+        <price>83678</price>
       </offer>
       <offer sku="003434">
         <name>Источник бесперебойного питания SVC RTL-1K-LCD SVC 003434</name>
@@ -6975,7 +6975,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>119992</price>
+        <price>130291</price>
       </offer>
       <offer sku="003435">
         <name>Источник бесперебойного питания SVC RTL-2K-LCD SVC 003435</name>
@@ -6986,7 +6986,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>189307</price>
+        <price>200894</price>
       </offer>
       <offer sku="003436">
         <name>Источник бесперебойного питания SVC RTL-5KL-LCD SVC 003436</name>
@@ -6997,7 +6997,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>261563</price>
+        <price>287310</price>
       </offer>
       <offer sku="003437">
         <name>Источник бесперебойного питания SVC RTU-2KL-LCD SVC 003437</name>
@@ -7008,7 +7008,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>139980</price>
+        <price>150279</price>
       </offer>
       <offer sku="003438">
         <name>Источник бесперебойного питания SVC LRT-1KL-LCD SVC 003438</name>
@@ -7019,7 +7019,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>138640</price>
+        <price>148939</price>
       </offer>
       <offer sku="003439">
         <name>Источник бесперебойного питания SVC LRT-3KL-LCD SVC 003439</name>
@@ -7030,7 +7030,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>226016</price>
+        <price>237602</price>
       </offer>
       <offer sku="003440">
         <name>Источник бесперебойного питания SVC RT-1KL-LCD SVC 003440</name>
@@ -7041,7 +7041,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>186935</price>
+        <price>198521</price>
       </offer>
       <offer sku="003441">
         <name>Источник бесперебойного питания SVC RT-2KL-LCD SVC 003441</name>
@@ -7052,7 +7052,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>270282</price>
+        <price>296029</price>
       </offer>
       <offer sku="003442">
         <name>Источник бесперебойного питания SVC RT-3KL-LCD SVC 003442</name>
@@ -7063,7 +7063,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>292454</price>
+        <price>318202</price>
       </offer>
       <offer sku="003443">
         <name>Стабилизатор SVC AVR-600-L SVC 003443</name>
@@ -7074,7 +7074,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>12952</price>
+        <price>18102</price>
       </offer>
       <offer sku="003444">
         <name>Стабилизатор SVC AVR-1000-L SVC 003444</name>
@@ -7085,7 +7085,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>15713</price>
+        <price>20863</price>
       </offer>
       <offer sku="003445">
         <name>Стабилизатор SVC AVR-1200-U SVC 003445</name>
@@ -7096,7 +7096,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>18715</price>
+        <price>23864</price>
       </offer>
       <offer sku="003446">
         <name>Стабилизатор SVC AVR-1005-U SVC 003446</name>
@@ -7107,7 +7107,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>12956</price>
+        <price>18106</price>
       </offer>
       <offer sku="003447">
         <name>Стабилизатор SVC AVR-1008-U SVC 003447</name>
@@ -7118,7 +7118,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>15430</price>
+        <price>20579</price>
       </offer>
       <offer sku="003451">
         <name>Стабилизатор SVC AVR-1500-S SVC 003451</name>
@@ -7129,7 +7129,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>13618</price>
+        <price>18767</price>
       </offer>
       <offer sku="003452">
         <name>Стабилизатор SVC R-600 SVC 003452</name>
@@ -7140,7 +7140,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>16489</price>
+        <price>21639</price>
       </offer>
       <offer sku="003453">
         <name>Стабилизатор SVC R-2000 SVC 003453</name>
@@ -7151,7 +7151,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>23094</price>
+        <price>28243</price>
       </offer>
       <offer sku="003456">
         <name>Стабилизатор SVC W-500 SVC 003456</name>
@@ -7162,7 +7162,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>15678</price>
+        <price>20828</price>
       </offer>
       <offer sku="003460">
         <name>Инвертор SVC SI-500 SVC 003460</name>
@@ -7173,7 +7173,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>16840</price>
+        <price>21989</price>
       </offer>
       <offer sku="003461">
         <name>Инвертор SVC SI-1000 SVC 003461</name>
@@ -7184,7 +7184,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>29216</price>
+        <price>34365</price>
       </offer>
       <offer sku="003462">
         <name>Инвертор SVC SI-1500 SVC 003462</name>
@@ -7195,7 +7195,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>31909</price>
+        <price>37058</price>
       </offer>
       <offer sku="003463">
         <name>Инвертор SVC SI-2000 SVC 003463</name>
@@ -7206,7 +7206,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>58010</price>
+        <price>65734</price>
       </offer>
       <offer sku="003477">
         <name>Внешний жёсткий диск Apacer 1TB 2.5" AC236 Красный Apacer 003477</name>
@@ -11232,7 +11232,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>148923</price>
+        <price>160509</price>
       </offer>
       <offer sku="GXT5-1000IRT2UXLE">
         <name>Vertiv Liebert GXT5 1ph UPS, 1kVA, input plug IEC C14 inlet, 2U, output – 230V, output socket groups (8)C13 Vertiv GXT5-1000IRT2UXLE</name>
@@ -11243,7 +11243,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>294849</price>
+        <price>320597</price>
       </offer>
       <offer sku="R3J22A">
         <name>Aruba Instant On AP11 (EU) Bundle HPE R3J22A</name>
@@ -11815,7 +11815,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>29549</price>
+        <price>34699</price>
       </offer>
       <offer sku="GX40V10007">
         <name>Рюкзак Lenovo Legion 17” Armored Backpack II Lenovo GX40V10007</name>
@@ -13421,7 +13421,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>38479</price>
+        <price>43629</price>
       </offer>
       <offer sku="BV500I-GR">
         <name>Источник бесперебойного питания APC Easy UPS, Интерактивная, 500 ВА / 300 Вт, Tower, Schuko, LED APC BV500I-GR</name>
@@ -13432,7 +13432,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>35328</price>
+        <price>40477</price>
       </offer>
       <offer sku="BV650I">
         <name>Источник бесперебойного питания APC Easy UPS, Интерактивная, 650 ВА / 375 Вт, Tower, IEC, LCD APC BV650I</name>
@@ -13443,7 +13443,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>36903</price>
+        <price>42053</price>
       </offer>
       <offer sku="SRT2200XLI">
         <name>Источник бесперебойного питания APC Smart-UPS SRT, On-Line, 2200VA / 1980W, Tower, IEC, LCD, Serial+USB, SmartSlot, подкл. доп. батарей APC SRT2200XLI</name>
@@ -13454,7 +13454,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>1096386</price>
+        <price>1145306</price>
       </offer>
       <offer sku="RMKIT 18-32">
         <name>Liebert GXT3 / GXT4 Rack Slide Kits Vertiv RMKIT 18-32</name>
@@ -13465,7 +13465,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>37429</price>
+        <price>42578</price>
       </offer>
       <offer sku="27012046">
         <name>Directional Antenna,51505850MHz,14dBi,30deg/30deg,N/Female,3port,with mounting parts,wall mounting Huawei 27012046</name>
@@ -15368,7 +15368,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>28115</price>
+        <price>33264</price>
       </offer>
       <offer sku="V-500-L-LCD">
         <name>Источник бесперебойного питания SVC V-500-L-LCD SVC V-500-L-LCD</name>
@@ -15379,7 +15379,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>25292</price>
+        <price>30441</price>
       </offer>
       <offer sku="V-1200-L">
         <name>Источник бесперебойного питания SVC V-1200-L SVC V-1200-L</name>
@@ -15390,7 +15390,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>45685</price>
+        <price>50834</price>
       </offer>
       <offer sku="V-800-F-LCD">
         <name>Источник бесперебойного питания SVC V-800-F-LCD SVC V-800-F-LCD</name>
@@ -15401,7 +15401,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>38305</price>
+        <price>43454</price>
       </offer>
       <offer sku="V-3000-F-LCD">
         <name>Источник бесперебойного питания SVC V-3000-F-LCD SVC V-3000-F-LCD</name>
@@ -15412,7 +15412,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>111025</price>
+        <price>121324</price>
       </offer>
       <offer sku="U-850-L">
         <name>Источник бесперебойного питания SVC U-850-L SVC U-850-L</name>
@@ -15423,7 +15423,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>35126</price>
+        <price>40276</price>
       </offer>
       <offer sku="PTL-2K-LCD">
         <name>Источник бесперебойного питания SVC PTL-2K-LCD SVC PTL-2K-LCD</name>
@@ -15434,7 +15434,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>157505</price>
+        <price>169091</price>
       </offer>
       <offer sku="PTL-3K-LCD">
         <name>Источник бесперебойного питания SVC PTL-3K-LCD SVC PTL-3K-LCD</name>
@@ -15445,7 +15445,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>179087</price>
+        <price>190674</price>
       </offer>
       <offer sku="PTL-5K-LCD">
         <name>Источник бесперебойного питания SVC PTL-5K-LCD SVC PTL-5K-LCD</name>
@@ -15456,7 +15456,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>299651</price>
+        <price>325398</price>
       </offer>
       <offer sku="PT-6K-LCD">
         <name>Источник бесперебойного питания SVC PT-6K-LCD SVC PT-6K-LCD</name>
@@ -15467,7 +15467,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>428077</price>
+        <price>453824</price>
       </offer>
       <offer sku="PTS-10KL-LCD">
         <name>Источник бесперебойного питания SVC PTS-10KL-LCD SVC PTS-10KL-LCD</name>
@@ -15478,7 +15478,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>619177</price>
+        <price>644924</price>
       </offer>
       <offer sku="RTU-1KL-LCD">
         <name>Источник бесперебойного питания SVC RTU-1KL-LCD SVC RTU-1KL-LCD</name>
@@ -15489,7 +15489,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>124846</price>
+        <price>135145</price>
       </offer>
       <offer sku="RTU-3KL-LCD">
         <name>Источник бесперебойного питания SVC RTU-3KL-LCD SVC RTU-3KL-LCD</name>
@@ -15500,7 +15500,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>201374</price>
+        <price>212960</price>
       </offer>
       <offer sku="RT-6KL-LCD">
         <name>Источник бесперебойного питания SVC RT-6KL-LCD SVC RT-6KL-LCD</name>
@@ -15511,7 +15511,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>544503</price>
+        <price>570251</price>
       </offer>
       <offer sku="RT-10KL-LCD">
         <name>Источник бесперебойного питания SVC RT-10KL-LCD SVC RT-10KL-LCD</name>
@@ -15522,7 +15522,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>650420</price>
+        <price>676167</price>
       </offer>
       <offer sku="004219">
         <name>Мобильный телефон POCO M5 4GB RAM 64GB ROM Green POCO 004219</name>
@@ -25675,7 +25675,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>26851</price>
+        <price>32000</price>
       </offer>
       <offer sku="005288">
         <name>Источник бесперебойного питания SVC V-650-L-LCD SVC 005288</name>
@@ -25686,7 +25686,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>27831</price>
+        <price>32980</price>
       </offer>
       <offer sku="005289">
         <name>Источник бесперебойного питания SVC V-1500-L SVC 005289</name>
@@ -25697,7 +25697,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>58256</price>
+        <price>65980</price>
       </offer>
       <offer sku="005290">
         <name>Источник бесперебойного питания SVC V-800-F SVC 005290</name>
@@ -25708,7 +25708,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>35890</price>
+        <price>41039</price>
       </offer>
       <offer sku="005291">
         <name>Источник бесперебойного питания SVC V-1500-L-LCD SVC 005291</name>
@@ -25719,7 +25719,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>59299</price>
+        <price>67023</price>
       </offer>
       <offer sku="005292">
         <name>Источник бесперебойного питания CyberPower UTC650EI CyberPower 005292</name>
@@ -25730,7 +25730,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>21961</price>
+        <price>27110</price>
       </offer>
       <offer sku="005293">
         <name>Источник бесперебойного питания CyberPower UTC650E CyberPower 005293</name>
@@ -25741,7 +25741,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>21961</price>
+        <price>27110</price>
       </offer>
       <offer sku="005294">
         <name>Источник бесперебойного питания CyberPower UTC850E CyberPower 005294</name>
@@ -25752,7 +25752,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>28524</price>
+        <price>33674</price>
       </offer>
       <offer sku="005297">
         <name>Источник бесперебойного питания CyberPower UT1200EG CyberPower 005297</name>
@@ -25763,7 +25763,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>69591</price>
+        <price>77315</price>
       </offer>
       <offer sku="005300">
         <name>Источник бесперебойного питания CyberPower BU725E CyberPower 005300</name>
@@ -25774,7 +25774,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>29221</price>
+        <price>34370</price>
       </offer>
       <offer sku="005302">
         <name>Источник бесперебойного питания CyberPower BR700ELCD CyberPower 005302</name>
@@ -25785,7 +25785,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>67005</price>
+        <price>74729</price>
       </offer>
       <offer sku="005304">
         <name>Источник бесперебойного питания CyberPower BR1200ELCD CyberPower 005304</name>
@@ -25796,7 +25796,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>80076</price>
+        <price>87800</price>
       </offer>
       <offer sku="005305">
         <name>Источник бесперебойного питания CyberPower CP900EPFCLCD CyberPower 005305</name>
@@ -25807,7 +25807,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>111745</price>
+        <price>122044</price>
       </offer>
       <offer sku="005306">
         <name>Источник бесперебойного питания CyberPower CP1300EPFCLCD CyberPower 005306</name>
@@ -25818,7 +25818,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>121725</price>
+        <price>132024</price>
       </offer>
       <offer sku="005308">
         <name>Источник бесперебойного питания CyberPower VP700ELCD CyberPower 005308</name>
@@ -25829,7 +25829,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>50725</price>
+        <price>58449</price>
       </offer>
       <offer sku="005309">
         <name>Источник бесперебойного питания CyberPower VP1200ELCD CyberPower 005309</name>
@@ -25840,7 +25840,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>86344</price>
+        <price>94068</price>
       </offer>
       <offer sku="005311">
         <name>Источник бесперебойного питания CyberPower BS650E CyberPower 005311</name>
@@ -25851,7 +25851,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>32545</price>
+        <price>37694</price>
       </offer>
       <offer sku="005312">
         <name>Источник бесперебойного питания CyberPower BS850E CyberPower 005312</name>
@@ -25862,7 +25862,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>42944</price>
+        <price>48093</price>
       </offer>
       <offer sku="005313">
         <name>Источник бесперебойного питания SVC W-600L SVC 005313</name>
@@ -25873,7 +25873,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>43315</price>
+        <price>48464</price>
       </offer>
       <offer sku="005314">
         <name>Источник бесперебойного питания SVC PT-1K-LCD SVC 005314</name>
@@ -25884,7 +25884,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>97743</price>
+        <price>108041</price>
       </offer>
       <offer sku="005318">
         <name>Источник бесперебойного питания CyberPower PR750ELCD CyberPower 005318</name>
@@ -25895,7 +25895,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>194552</price>
+        <price>206138</price>
       </offer>
       <offer sku="005319">
         <name>Источник бесперебойного питания CyberPower PR1000ELCD CyberPower 005319</name>
@@ -25906,7 +25906,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>282115</price>
+        <price>307862</price>
       </offer>
       <offer sku="005320">
         <name>Источник бесперебойного питания CyberPower PR1500ELCD CyberPower 005320</name>
@@ -25917,7 +25917,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>282390</price>
+        <price>308137</price>
       </offer>
       <offer sku="005321">
         <name>Источник бесперебойного питания CyberPower PR2200ELCDSL CyberPower 005321</name>
@@ -25928,7 +25928,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>288759</price>
+        <price>314506</price>
       </offer>
       <offer sku="005322">
         <name>Источник бесперебойного питания CyberPower PR3000ELCDSL CyberPower 005322</name>
@@ -25939,7 +25939,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>358703</price>
+        <price>384451</price>
       </offer>
       <offer sku="005323">
         <name>Источник бесперебойного питания CyberPower OLS1000E CyberPower 005323</name>
@@ -25950,7 +25950,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>182368</price>
+        <price>193954</price>
       </offer>
       <offer sku="005324">
         <name>Источник бесперебойного питания CyberPower OLS1500E CyberPower 005324</name>
@@ -25961,7 +25961,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>168828</price>
+        <price>180414</price>
       </offer>
       <offer sku="005326">
         <name>Источник бесперебойного питания CyberPower OLS3000E CyberPower 005326</name>
@@ -25972,7 +25972,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>320046</price>
+        <price>345793</price>
       </offer>
       <offer sku="005327">
         <name>Источник бесперебойного питания CyberPower OR600ELCDRM1U CyberPower 005327</name>
@@ -25983,7 +25983,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>122552</price>
+        <price>132851</price>
       </offer>
       <offer sku="005328">
         <name>Источник бесперебойного питания CyberPower PR1000ELCDRT1U CyberPower 005328</name>
@@ -25994,7 +25994,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>300437</price>
+        <price>326184</price>
       </offer>
       <offer sku="005330">
         <name>Источник бесперебойного питания CyberPower PR2200ERTXL2U CyberPower 005330</name>
@@ -26005,7 +26005,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>502000</price>
+        <price>527747</price>
       </offer>
       <offer sku="005331">
         <name>Источник бесперебойного питания CyberPower PR3000ERTXL2U CyberPower 005331</name>
@@ -26016,7 +26016,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>629586</price>
+        <price>655333</price>
       </offer>
       <offer sku="005332">
         <name>Источник бесперебойного питания CyberPower PR2200ERTXL2UA CyberPower 005332</name>
@@ -26027,7 +26027,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>560606</price>
+        <price>586353</price>
       </offer>
       <offer sku="005333">
         <name>Источник бесперебойного питания CyberPower PR3000ERTXL2UA CyberPower 005333</name>
@@ -26038,7 +26038,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>749920</price>
+        <price>798839</price>
       </offer>
       <offer sku="005335">
         <name>Источник бесперебойного питания CyberPower OL2000ERTXL2U CyberPower 005335</name>
@@ -26049,7 +26049,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>572632</price>
+        <price>598379</price>
       </offer>
       <offer sku="005336">
         <name>Источник бесперебойного питания CyberPower OL3000ERTXL2U CyberPower 005336</name>
@@ -26060,7 +26060,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>737218</price>
+        <price>786138</price>
       </offer>
       <offer sku="005337">
         <name>Источник бесперебойного питания CyberPower OL6KERT3UPM CyberPower 005337</name>
@@ -26071,7 +26071,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>1229287</price>
+        <price>1278207</price>
       </offer>
       <offer sku="005338">
         <name>Источник бесперебойного питания CyberPower OLS2000ERT2U CyberPower 005338</name>
@@ -26082,7 +26082,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>428897</price>
+        <price>454644</price>
       </offer>
       <offer sku="005341">
         <name>Источник бесперебойного питания CyberPower OLS10000ERT6U CyberPower 005341</name>
@@ -26093,7 +26093,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>1536989</price>
+        <price>1585908</price>
       </offer>
       <offer sku="005343">
         <name>Стабилизатор SVC R-5000 SVC 005343</name>
@@ -26104,7 +26104,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>39831</price>
+        <price>44980</price>
       </offer>
       <offer sku="005344">
         <name>Стабилизатор SVC W-1500 SVC 005344</name>
@@ -26115,7 +26115,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>21492</price>
+        <price>26641</price>
       </offer>
       <offer sku="005345">
         <name>Стабилизатор SVC W-2000 SVC 005345</name>
@@ -26126,7 +26126,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>23382</price>
+        <price>28531</price>
       </offer>
       <offer sku="005347">
         <name>Стабилизатор SVC W-5000 SVC 005347</name>
@@ -26137,7 +26137,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>38239</price>
+        <price>43389</price>
       </offer>
       <offer sku="005348">
         <name>Стабилизатор SVC W-10000 SVC 005348</name>
@@ -26148,7 +26148,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>86913</price>
+        <price>94637</price>
       </offer>
       <offer sku="005349">
         <name>Стабилизатор SVC T-10000 SVC 005349</name>
@@ -26159,7 +26159,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>74023</price>
+        <price>81747</price>
       </offer>
       <offer sku="005351">
         <name>Солнечная панель SVC PC-50 SVC 005351</name>
@@ -51426,7 +51426,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>136368</price>
+        <price>146667</price>
       </offer>
       <offer sku="RMSL1R21">
         <name>Портативная колонка Sonos Roam White SL, RMSL1R21 SONOS RMSL1R21</name>
@@ -57641,7 +57641,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>36083</price>
+        <price>41232</price>
       </offer>
       <offer sku="009655">
         <name>Источник бесперебойного питания CyberPower UT1500E CyberPower 009655</name>
@@ -57652,7 +57652,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>71082</price>
+        <price>78806</price>
       </offer>
       <offer sku="009656">
         <name>Источник бесперебойного питания CyberPower VP1000ELCD CyberPower 009656</name>
@@ -57663,7 +57663,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>55087</price>
+        <price>62811</price>
       </offer>
       <offer sku="009657">
         <name>Источник бесперебойного питания Legrand Keor SPX 600 ВА Legrand 009657</name>
@@ -57674,7 +57674,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>31746</price>
+        <price>36895</price>
       </offer>
       <offer sku="009658">
         <name>Источник бесперебойного питания Legrand Keor SPX 800 ВА Legrand 009658</name>
@@ -57685,7 +57685,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>39398</price>
+        <price>44547</price>
       </offer>
       <offer sku="009660">
         <name>Источник бесперебойного питания Legrand Keor SP 600 ВА Legrand 009660</name>
@@ -57696,7 +57696,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>46060</price>
+        <price>51209</price>
       </offer>
       <offer sku="009661">
         <name>Источник бесперебойного питания Legrand Keor SP 800 ВА Legrand 009661</name>
@@ -57707,7 +57707,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>58546</price>
+        <price>66270</price>
       </offer>
       <offer sku="009662">
         <name>Источник бесперебойного питания Legrand Keor SP 1000 ВА Legrand 009662</name>
@@ -57718,7 +57718,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>93279</price>
+        <price>101003</price>
       </offer>
       <offer sku="009663">
         <name>Источник бесперебойного питания Legrand Keor SP 1500 ВА Legrand 009663</name>
@@ -57729,7 +57729,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>100122</price>
+        <price>110421</price>
       </offer>
       <offer sku="009664">
         <name>Источник бесперебойного питания Legrand Keor SP 2000 ВА Legrand 009664</name>
@@ -57740,7 +57740,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>122101</price>
+        <price>132400</price>
       </offer>
       <offer sku="009666">
         <name>Источник бесперебойного питания CyberPower OLS6000E CyberPower 009666</name>
@@ -57751,7 +57751,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>1060862</price>
+        <price>1109782</price>
       </offer>
       <offer sku="009667">
         <name>Источник бесперебойного питания CyberPower OLS10000E CyberPower 009667</name>
@@ -57762,7 +57762,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>1214339</price>
+        <price>1263259</price>
       </offer>
       <offer sku="009668">
         <name>Источник бесперебойного питания Legrand Keor SPE TOWER 1000 ВА Legrand 009668</name>
@@ -57773,7 +57773,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>166729</price>
+        <price>178315</price>
       </offer>
       <offer sku="009669">
         <name>Источник бесперебойного питания Legrand Keor SPE TOWER 3000 ВА Legrand 009669</name>
@@ -57784,7 +57784,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>310709</price>
+        <price>336456</price>
       </offer>
       <offer sku="009670">
         <name>Источник бесперебойного питания Legrand Keor S 6 kВA 17' Legrand 009670</name>
@@ -57795,7 +57795,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>1436252</price>
+        <price>1485171</price>
       </offer>
       <offer sku="009671">
         <name>Источник бесперебойного питания CyberPower PR1000ERTXL2U CyberPower 009671</name>
@@ -57806,7 +57806,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>366207</price>
+        <price>391954</price>
       </offer>
       <offer sku="009673">
         <name>Источник бесперебойного питания CyberPower OL6KERTHD CyberPower 009673</name>
@@ -57817,7 +57817,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>1710901</price>
+        <price>1759821</price>
       </offer>
       <offer sku="009674">
         <name>Источник бесперебойного питания CyberPower OLS1500ERT2U CyberPower 009674</name>
@@ -57828,7 +57828,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>348207</price>
+        <price>373954</price>
       </offer>
       <offer sku="009675">
         <name>Источник бесперебойного питания Legrand Keor PDU 800ВА 8 IEC Legrand 009675</name>
@@ -57839,7 +57839,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>70256</price>
+        <price>77980</price>
       </offer>
       <offer sku="009676">
         <name>Источник бесперебойного питания Legrand Keor PDU 800ВА 8 GR/IT Legrand 009676</name>
@@ -57850,7 +57850,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>70256</price>
+        <price>77980</price>
       </offer>
       <offer sku="009677">
         <name>Источник бесперебойного питания Legrand Daker DK Plus 3 кВА Legrand 009677</name>
@@ -57861,7 +57861,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>494760</price>
+        <price>520507</price>
       </offer>
       <offer sku="009678">
         <name>Источник бесперебойного питания Legrand Daker DK Plus 6 кВА Legrand 009678</name>
@@ -57872,7 +57872,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>1297913</price>
+        <price>1346832</price>
       </offer>
       <offer sku="009679">
         <name>Источник бесперебойного питания Legrand Daker DK Plus 10 кВА (без батарей) Legrand 009679</name>
@@ -57883,7 +57883,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>1050845</price>
+        <price>1099764</price>
       </offer>
       <offer sku="009680">
         <name>Сетевой Фильтр CyberPower B0520SB0-DE CyberPower 009680</name>
