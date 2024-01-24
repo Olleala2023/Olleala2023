@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2024-01-23 17:10">
+<fm_catalog date="2024-01-24 17:23">
   <shop>
     <merchant-id>AAH99GhybQaI1s7QCe</merchant-id>
     <offers>
@@ -2114,17 +2114,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>28430</price>
-      </offer>
-      <offer sku="001545">
-        <name>JBL Tune 125BT - Wireless In-Ear Headset - Black JBL 001545</name>
-        <vendor>JBL</vendor>
-        <barcodes>
-          <barcode>001545</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>26990</price>
       </offer>
       <offer sku="001553">
         <name>JBL Tune 510BT - Wireless On-Ear Headset - Black JBL 001553</name>
