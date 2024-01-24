@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Jmart date="23.01.2024 17:11:09" xmlns="Jmart">
+<Jmart date="24.01.2024 17:23:52" xmlns="Jmart">
   <company>Hitech24.kz</company>
   <merchantid>Test</merchantid>
   <offers>
@@ -2121,14 +2121,6 @@
       <price>24016</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="001545" xmlns="">
-      <model>JBL Tune 125BT - Wireless In-Ear Headset - Black</model>
-      <brand>JBL</brand>
-      <price>26990</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="001553" xmlns="">
