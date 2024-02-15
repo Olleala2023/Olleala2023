@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Jmart date="15.02.2024 15:05:19" xmlns="Jmart">
+<Jmart date="15.02.2024 18:01:20" xmlns="Jmart">
   <company>Hitech24.kz</company>
   <merchantid>Test</merchantid>
   <offers>
@@ -89,6 +89,14 @@
       <price>256630</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
+      </availabilities>
+    </offer>
+    <offer sku="000612" xmlns="">
+      <model>20W USB-C Power Adapter</model>
+      <brand>Apple</brand>
+      <price>14576</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="000269" xmlns="">
@@ -280,7 +288,7 @@
       <brand>XP-Pen</brand>
       <price>42213</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="000298" xmlns="">
@@ -1011,6 +1019,14 @@
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
+    <offer sku="000763" xmlns="">
+      <model>AirPods Max - Sky Blue, Model A2096</model>
+      <brand>Apple</brand>
+      <price>351710</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="000897" xmlns="">
       <model>Графический планшет Wacom Intuos Pro Large Paper Edition R/N (PTH-860P-N) Чёрный</model>
       <brand>Wacom</brand>
@@ -1321,6 +1337,14 @@
       <price>141503</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="WD121KRYZ" xmlns="">
+      <model>Жесткий диск WD GOLD WD121KRYZ 12ТБ 3,5" 7200RPM 256MB 512E (SATA-III)</model>
+      <brand>WD</brand>
+      <price>168182</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="WD4003FRYZ" xmlns="">
@@ -1891,14 +1915,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="JBLCLIP4SQUAD" xmlns="">
-      <model>JBL Clip 4 - Portable Bluetooth Speaker with Carabiner - Squad</model>
-      <brand>JBL</brand>
-      <price>37464</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="001468" xmlns="">
       <model>JBL Charge 5 - Portable Bluetooth Speaker with Power Bank - Black</model>
       <brand>JBL</brand>
@@ -1920,7 +1936,7 @@
       <brand>JBL</brand>
       <price>23002</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="001554" xmlns="">
@@ -2944,7 +2960,7 @@
       <brand>AsRock</brand>
       <price>83197</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="002288" xmlns="">
@@ -3200,7 +3216,7 @@
       <brand>Intel</brand>
       <price>244047</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="002339" xmlns="">
@@ -3648,7 +3664,7 @@
       <brand>Xiaomi</brand>
       <price>16409</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="002765" xmlns="">
@@ -6240,7 +6256,7 @@
       <brand>Xiaomi</brand>
       <price>29917</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003389" xmlns="">
@@ -6976,7 +6992,7 @@
       <brand>Ninetygo</brand>
       <price>50140</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003523" xmlns="">
@@ -9376,7 +9392,7 @@
       <brand>Bestway</brand>
       <price>110980</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004017" xmlns="">
@@ -9416,7 +9432,7 @@
       <brand>Bestway</brand>
       <price>32365</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004026" xmlns="">
@@ -9961,6 +9977,14 @@
       <price>75910</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="960-001364" xmlns="">
+      <model>Веб-камера Logitech C505 HD Webcam (M/N: V-U0018)</model>
+      <brand>Logitech</brand>
+      <price>22702</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="960-001055" xmlns="">
@@ -10627,14 +10651,6 @@
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="0486C002" xmlns="">
-      <model>TONER C-EXV 51L MAGENTA  26,000 pages for iR ADV C55xx</model>
-      <brand>Canon</brand>
-      <price>113813</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="3760C002" xmlns="">
       <model>TONER C-EXV 59 TONER BLAC Тонер черный для 2625i/2630i/2545i</model>
       <brand>Canon</brand>
@@ -10664,15 +10680,7 @@
       <brand>Canon</brand>
       <price>66321</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="3019C006" xmlns="">
-      <model>TONER T09 Cyan Синий тонер  5900 страниц для i-S X C1127</model>
-      <brand>Canon</brand>
-      <price>99298</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="3018C006" xmlns="">
@@ -10680,7 +10688,7 @@
       <brand>Canon</brand>
       <price>99298</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="3017C006" xmlns="">
@@ -10688,7 +10696,7 @@
       <brand>Canon</brand>
       <price>99298</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="2185C002" xmlns="">
@@ -11224,7 +11232,7 @@
       <brand>SUPERMICRO</brand>
       <price>615538</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="CSE-813MFTQC-350CB2" xmlns="">
@@ -11240,7 +11248,7 @@
       <brand>SUPERMICRO</brand>
       <price>505002</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="M6550NW" xmlns="">
@@ -11915,14 +11923,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="W-V673-02_Black" xmlns="">
-      <model>Смартфон WIKO T10  Rally  W-V673-02 Black</model>
-      <brand>WIKO</brand>
-      <price>53518</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="W-V673-02_Green" xmlns="">
       <model>Смартфон WIKO T10  Rally  W-V673-02 Green</model>
       <brand>WIKO</brand>
@@ -12129,14 +12129,6 @@
       <price>53036</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="YNDX-00020 Blue" xmlns="">
-      <model>Яндекс.Станция Мини Плюс Синяя YNDX-00020 с часами (Умная колонка с голосовым помощником)</model>
-      <brand>Yandex</brand>
-      <price>53036</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="YNDX-00020 Black" xmlns="">
@@ -13176,7 +13168,7 @@
       <brand>Deepcool</brand>
       <price>8000</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="R-AK400-WHNNMN-G-1" xmlns="">
@@ -14584,7 +14576,7 @@
       <brand>SVC</brand>
       <price>441109</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="PTS-10KL-LCD" xmlns="">
@@ -15512,7 +15504,7 @@
       <brand>Western Digital</brand>
       <price>163660</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="HUS726T4TALE6L4-0B36040" xmlns="">
@@ -15902,7 +15894,7 @@
     <offer sku="YD3200C5M4MFH" xmlns="">
       <model>Процессор AMD CPU Desktop Ryzen 3 4C/4T 3200G (4.0GHz,6MB,65W,AM4) tray</model>
       <brand>AMD</brand>
-      <price>42090</price>
+      <price>38321</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -15974,7 +15966,7 @@
     <offer sku="CM8071504651012SRL62" xmlns="">
       <model>Процессор Intel CPU Desktop Core i3-12100 (3.3GHz, 12MB, LGA1700) tray</model>
       <brand>Intel</brand>
-      <price>66087</price>
+      <price>64077</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -15992,7 +15984,7 @@
       <brand>Kingston</brand>
       <price>26638</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="JBLREFLMININCBLK" xmlns="">
@@ -16131,14 +16123,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="JBLFLIP6RED" xmlns="">
-      <model>Динамики беспроводные JBL Flip 6 - Portable Waterproof Speaker - Red</model>
-      <brand>JBL</brand>
-      <price>78733</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="AEO0001" xmlns="">
       <model>Духовые шкафы AENO Electric Oven EO1: 1600W, 30L, 6 automatic programs+Defrost+Proofing Dough, Grill, Convection, 6 Heating Modes, Double-Glass Door, Timer 120min, LCD-display</model>
       <brand>AENO</brand>
@@ -16201,6 +16185,14 @@
       <price>194213</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="ST18000NM000J" xmlns="">
+      <model>Жесткий диск для сервера SEAGATE HDD Server Exos X18 512E/4kn ( 3.5'/ 18TB/ SATA 6Gb/s / 7200rpm)</model>
+      <brand>Seagate</brand>
+      <price>207980</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="ST18000NM004J" xmlns="">
@@ -16824,7 +16816,7 @@
       <brand>Supermicro</brand>
       <price>246223</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="BM5100ADN" xmlns="">
@@ -17224,7 +17216,7 @@
       <brand>Kingston</brand>
       <price>43502</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="KF448C19RBK2/16" xmlns="">
@@ -17551,6 +17543,14 @@
       <model>Платформа для ПК Intel NUC 11 Pro Kit NUC11TNHi50Z, no cord, single pack</model>
       <brand>Intel</brand>
       <price>217321</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="RNUC12WSHI50002" xmlns="">
+      <model>Платформа для ПК Intel NUC 12 Pro Kit NUC12WSHi5, EU cord, single unit</model>
+      <brand>Intel</brand>
+      <price>222345</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -20088,7 +20088,7 @@
       <brand>Patriot</brand>
       <price>59149</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004728" xmlns="">
@@ -27456,7 +27456,7 @@
       <brand>TEFAL</brand>
       <price>5315</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005817" xmlns="">
@@ -27632,7 +27632,7 @@
       <brand>TEFAL</brand>
       <price>11180</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005841" xmlns="">
@@ -27992,7 +27992,7 @@
       <brand>TEFAL</brand>
       <price>15989</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005893" xmlns="">
@@ -28200,7 +28200,7 @@
       <brand>TEFAL</brand>
       <price>40483</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005925" xmlns="">
@@ -28840,7 +28840,7 @@
       <brand>TEFAL</brand>
       <price>166281</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006017" xmlns="">
@@ -29592,7 +29592,7 @@
       <brand>REDMOND</brand>
       <price>68843</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006127" xmlns="">
@@ -34344,7 +34344,7 @@
       <brand>D-link</brand>
       <price>19573</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006825" xmlns="">
@@ -35408,7 +35408,7 @@
       <brand>SHIP</brand>
       <price>90516</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006969" xmlns="">
@@ -36192,7 +36192,7 @@
       <brand>SHIP</brand>
       <price>1334</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007068" xmlns="">
@@ -37008,7 +37008,7 @@
       <brand>Legrand</brand>
       <price>38948</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007171" xmlns="">
@@ -41776,7 +41776,7 @@
       <brand>Bestway</brand>
       <price>233211</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007893" xmlns="">
@@ -41824,7 +41824,7 @@
       <brand>Bestway</brand>
       <price>409747</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007901" xmlns="">
@@ -42032,7 +42032,7 @@
       <brand>Bestway</brand>
       <price>4082</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007931" xmlns="">
@@ -42096,7 +42096,7 @@
       <brand>Bestway</brand>
       <price>47728</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007939" xmlns="">
@@ -42280,7 +42280,7 @@
       <brand>Bestway</brand>
       <price>6925</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007965" xmlns="">
@@ -42368,7 +42368,7 @@
       <brand>Bestway</brand>
       <price>27870</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007983" xmlns="">
@@ -42376,7 +42376,7 @@
       <brand>Bestway</brand>
       <price>2357</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007988" xmlns="">
@@ -42591,14 +42591,6 @@
       <model>Аквапалка для плавания Bestway 32217</model>
       <brand>Bestway</brand>
       <price>5937</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="008023" xmlns="">
-      <model>Надувные нарукавники для плавания Bestway 32033</model>
-      <brand>Bestway</brand>
-      <price>2612</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -45363,14 +45355,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="W-V770_Black" xmlns="">
-      <model>Смартфон WIKO T3 W-V770_Black</model>
-      <brand>WIKO</brand>
-      <price>79136</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="871-230-101" xmlns="">
       <model>Not for customers in California and Oregon. Quad Battery Charger, CK65/CK3 (AC20)/EDA60K (Requires Power Supply 851-810-002 and country specific AC power cord. Not compatible with battery: 318-046-011)</model>
       <brand>HONEYWELL</brand>
@@ -45984,7 +45968,7 @@
       <brand>Accesstyle</brand>
       <price>177919</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="RAYG1EU1" xmlns="">
@@ -46936,7 +46920,7 @@
       <brand>Gigabyte</brand>
       <price>62609</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009035" xmlns="">
@@ -48326,7 +48310,7 @@
     <offer sku="009274" xmlns="">
       <model>Блок питания Gamemax RGB1050 PRO 5.0 ATX3.0 Gold</model>
       <brand>Gamemax</brand>
-      <price>48135</price>
+      <price>60916</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -48960,7 +48944,7 @@
       <brand>Samsung</brand>
       <price>60112</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009359" xmlns="">
@@ -54656,7 +54640,7 @@
       <brand>CHINT</brand>
       <price>4188</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="010152" xmlns="">
@@ -55711,6 +55695,54 @@
       <model>AENO Hand Garment Steamer GS2, 1190W</model>
       <brand>AENO</brand>
       <price>29000</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="010323" xmlns="">
+      <model>Apple Watch Series 9 GPS 41mm Midnight Aluminium Case with Midnight Sport Band - S/M,Model A2978 MR8W3QI/A</model>
+      <brand>APPLE</brand>
+      <price>256733</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="010325" xmlns="">
+      <model>Apple Watch Ultra 2 GPS + Cellular, 49mm Titanium Case with Indigo Alpine Loop - Small,Model A2986</model>
+      <brand>APPLE</brand>
+      <price>509699</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="010334" xmlns="">
+      <model>Apple Watch Ultra 2 GPS + Cellular, 49mm Titanium Case with Green/Grey Trail Loop - S/M,Model A2986</model>
+      <brand>APPLE</brand>
+      <price>509699</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="010338" xmlns="">
+      <model>Apple Watch Series 9 GPS 41mm Pink Aluminium Case with Light Pink Sport Band - M/L,Model A2978</model>
+      <brand>APPLE</brand>
+      <price>256733</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="010346" xmlns="">
+      <model>Apple Watch Series 9 GPS 41mm Midnight Aluminium Case with Midnight Sport Band - S/M,Model A2978</model>
+      <brand>APPLE</brand>
+      <price>256733</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="010351" xmlns="">
+      <model>Apple Watch SE GPS 40mm Silver Aluminium Case with Storm Blue Sport Band - S/M,Model A2722</model>
+      <brand>APPLE</brand>
+      <price>163339</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -57435,14 +57467,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="010603" xmlns="">
-      <model>13-inch MacBook Air: Apple M2 chip with 8-core CPU and 10-core GPU, 512GB - Starlight,Model A2681</model>
-      <brand>APPLE</brand>
-      <price>861609</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="010604" xmlns="">
       <model>USB-C to Lightning Adapter,Model A2868</model>
       <brand>APPLE</brand>
@@ -57608,7 +57632,7 @@
       <brand>JBL</brand>
       <price>84644</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="010628" xmlns="">
@@ -57616,7 +57640,7 @@
       <brand>JBL</brand>
       <price>84644</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="010629" xmlns="">
@@ -57624,7 +57648,7 @@
       <brand>JBL</brand>
       <price>84644</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="010630" xmlns="">
@@ -57632,7 +57656,7 @@
       <brand>JBL</brand>
       <price>89970</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="010631" xmlns="">
@@ -57640,7 +57664,7 @@
       <brand>JBL</brand>
       <price>89970</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="010633" xmlns="">
@@ -57656,7 +57680,7 @@
       <brand>JBL</brand>
       <price>51902</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="010635" xmlns="">
@@ -60832,7 +60856,7 @@
       <brand>Gigabyte</brand>
       <price>54962</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="011154" xmlns="">
