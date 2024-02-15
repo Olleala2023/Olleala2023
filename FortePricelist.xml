@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<fm_catalog date="2024-02-15 15:04">
+<fm_catalog date="2024-02-15 18:00">
   <shop>
     <merchant-id>AAH99GhybQaI1s7QCe</merchant-id>
     <offers>
@@ -90,6 +90,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>281270</price>
+      </offer>
+      <offer sku="000612">
+        <name>20W USB-C Power Adapter Apple 000612</name>
+        <vendor>Apple</vendor>
+        <barcodes>
+          <barcode>000612</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>18574</price>
       </offer>
       <offer sku="000269">
         <name>Портативное зарядное устройство, Awei, P28K, Power Bank 10000mAh, Выход USB1: 5V⎓1A / USB2: 5V⎓2.1A, Индикатор заряда батареи, Кабель Micro USB в комплекте, Чёрный Awei 000269</name>
@@ -288,17 +299,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>14667</price>
-      </offer>
-      <offer sku="000867">
-        <name>Графический планшет XP-Pen Star G960S PLUS XP-Pen 000867</name>
-        <vendor>XP-Pen</vendor>
-        <barcodes>
-          <barcode>000867</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>48549</price>
       </offer>
       <offer sku="000298">
         <name>ARATON dog junior lamb 15 кг - корм для молодых собак с мясом ягненка, шт Araton 000298</name>
@@ -1081,6 +1081,17 @@
         </pickup-options>
         <price>1375673</price>
       </offer>
+      <offer sku="000763">
+        <name>AirPods Max - Sky Blue, Model A2096 Apple 000763</name>
+        <vendor>Apple</vendor>
+        <barcodes>
+          <barcode>000763</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>384466</price>
+      </offer>
       <offer sku="000902">
         <name>Графический планшет Huion Kamvas Pro 20 Huion 000902</name>
         <vendor>Huion</vendor>
@@ -1432,6 +1443,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>31369</price>
+      </offer>
+      <offer sku="WD121KRYZ">
+        <name>Жесткий диск WD GOLD WD121KRYZ 12ТБ 3,5" 7200RPM 256MB 512E (SATA-III) WD WD121KRYZ</name>
+        <vendor>WD</vendor>
+        <barcodes>
+          <barcode>WD121KRYZ</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>185271</price>
       </offer>
       <offer sku="WD4003FRYZ">
         <name>Жесткий диск WD GOLD WD4003FRYZ 4ТБ 3,5" 7200RPM 256MB 512E (SATA III) WD WD4003FRYZ</name>
@@ -2115,17 +2137,6 @@
         </pickup-options>
         <price>209364</price>
       </offer>
-      <offer sku="JBLCLIP4SQUAD">
-        <name>JBL Clip 4 - Portable Bluetooth Speaker with Carabiner - Squad JBL JBLCLIP4SQUAD</name>
-        <vendor>JBL</vendor>
-        <barcodes>
-          <barcode>JBLCLIP4SQUAD</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>43402</price>
-      </offer>
       <offer sku="001468">
         <name>JBL Charge 5 - Portable Bluetooth Speaker with Power Bank - Black JBL 001468</name>
         <vendor>JBL</vendor>
@@ -2147,6 +2158,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>30163</price>
+      </offer>
+      <offer sku="001553">
+        <name>JBL Tune 510BT - Wireless On-Ear Headset - Black JBL 001553</name>
+        <vendor>JBL</vendor>
+        <barcodes>
+          <barcode>001553</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>27698</price>
       </offer>
       <offer sku="001607">
         <name>Intel CPU Desktop Core i5-9600KF (3.7GHz, 9MB, LGA1151) tray INTEL 001607</name>
@@ -2973,17 +2995,6 @@
         </pickup-options>
         <price>59963</price>
       </offer>
-      <offer sku="002285">
-        <name>Материнская плата ASRock B660M STEEL LEGEND AsRock 002285</name>
-        <vendor>AsRock</vendor>
-        <barcodes>
-          <barcode>002285</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>93030</price>
-      </offer>
       <offer sku="002288">
         <name>Материнская плата ASRock H670 STEEL LEGEND AsRock 002288</name>
         <vendor>AsRock</vendor>
@@ -3281,6 +3292,17 @@
         </pickup-options>
         <price>196921</price>
       </offer>
+      <offer sku="002337">
+        <name>Процессор (CPU) Intel Core i9 Processor 12900K 1700 Intel 002337</name>
+        <vendor>Intel</vendor>
+        <barcodes>
+          <barcode>002337</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>267612</price>
+      </offer>
       <offer sku="002339">
         <name>Процессор (CPU) AMD Ryzen 5 PRO 4650G 65W AM4 Intel 002339</name>
         <vendor>Intel</vendor>
@@ -3467,6 +3489,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>17610</price>
+      </offer>
+      <offer sku="002764">
+        <name>Портативный внешний аккумулятор Xiaomi 10W Wireless Power Bank 10000 Xiaomi 002764</name>
+        <vendor>Xiaomi</vendor>
+        <barcodes>
+          <barcode>002764</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>20541</price>
       </offer>
       <offer sku="002765">
         <name>Беспроводное зарядное устройство Mi 20W Wireless Charging Stand Xiaomi 002765</name>
@@ -6460,6 +6493,17 @@
         </pickup-options>
         <price>153833</price>
       </offer>
+      <offer sku="003380">
+        <name>Приставка телевизионная Mi TV Stick MDZ-24-AA Xiaomi 003380</name>
+        <vendor>Xiaomi</vendor>
+        <barcodes>
+          <barcode>003380</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>35207</price>
+      </offer>
       <offer sku="003390">
         <name>Кронштейн Brateck EAT2-220 для ТВ и мониторов, 23"-42" Brateck 003390</name>
         <vendor>Brateck</vendor>
@@ -7235,17 +7279,6 @@
         <vendor>Ninetygo</vendor>
         <barcodes>
           <barcode>003509</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>57169</price>
-      </offer>
-      <offer sku="003510">
-        <name>Чемодан NINETYGO Rhine PRO Luggage 24" Серый Ninetygo 003510</name>
-        <vendor>Ninetygo</vendor>
-        <barcodes>
-          <barcode>003510</barcode>
         </barcodes>
         <pickup-options>
           <pickup-option id="PP1" />
@@ -9331,6 +9364,17 @@
         </pickup-options>
         <price>11960</price>
       </offer>
+      <offer sku="004016">
+        <name>Фильтрующий насос Bestway 58486 Bestway 004016</name>
+        <vendor>Bestway</vendor>
+        <barcodes>
+          <barcode>004016</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>123185</price>
+      </offer>
       <offer sku="004017">
         <name>Проточный водонагреватель Bestway 58259 Bestway 004017</name>
         <vendor>Bestway</vendor>
@@ -9341,6 +9385,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>69402</price>
+      </offer>
+      <offer sku="004024">
+        <name>Набор для чистки бассейна Bestway 58237 (мусороуловитель, сачок, вакуумный очиститель, ручка) Bestway 004024</name>
+        <vendor>Bestway</vendor>
+        <barcodes>
+          <barcode>004024</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>37860</price>
       </offer>
       <offer sku="MM6F3ZM/A">
         <name>Polishing Cloth Apple MM6F3ZM/A</name>
@@ -10585,50 +10640,6 @@
         </pickup-options>
         <price>69463</price>
       </offer>
-      <offer sku="3020C006">
-        <name>TONER T09 BK Тонер черный 7600 страниц для i-S X C1127 Canon 3020C006</name>
-        <vendor>Canon</vendor>
-        <barcodes>
-          <barcode>3020C006</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>74714</price>
-      </offer>
-      <offer sku="3019C006">
-        <name>TONER T09 Cyan Синий тонер  5900 страниц для i-S X C1127 Canon 3019C006</name>
-        <vendor>Canon</vendor>
-        <barcodes>
-          <barcode>3019C006</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>110506</price>
-      </offer>
-      <offer sku="3018C006">
-        <name>TONER T09 Magenta Красный тонер 5900 страниц для i-S X C1127 Canon 3018C006</name>
-        <vendor>Canon</vendor>
-        <barcodes>
-          <barcode>3018C006</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>110506</price>
-      </offer>
-      <offer sku="3017C006">
-        <name>TONER T09 Yellow Желтый тонер 5900 страниц для i-S X C1127 Canon 3017C006</name>
-        <vendor>Canon</vendor>
-        <barcodes>
-          <barcode>3017C006</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>110506</price>
-      </offer>
       <offer sku="1T02XR0NL0">
         <name>Тонер-картридж TK-4145 15 000 стр. для TASKalfa 2020/2021/2320/2321 Kyocera 1T02XR0NL0</name>
         <vendor>Kyocera</vendor>
@@ -11068,6 +11079,28 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>10298</price>
+      </offer>
+      <offer sku="CSE-745BTQ-R920B">
+        <name>Корпус Supermicro CSE-745BTQ-R920B SUPERMICRO CSE-745BTQ-R920B</name>
+        <vendor>SUPERMICRO</vendor>
+        <barcodes>
+          <barcode>CSE-745BTQ-R920B</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>670816</price>
+      </offer>
+      <offer sku="CSE-825TQC-R802LPB">
+        <name>Supermicro server chassis CSE-825TQC-R802LPB, 2U, Dual and Single Intel and AMD CPUs, 3 x 80mm Hot-swap PWM Fans, 8 x 3.5" hot-swap SAS3/SATA , 7 low-profile expansion slot(s), 1U 800W  RPSU SUPERMICRO CSE-825TQC-R802LPB</name>
+        <vendor>SUPERMICRO</vendor>
+        <barcodes>
+          <barcode>CSE-825TQC-R802LPB</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>550843</price>
       </offer>
       <offer sku="M6550NW">
         <name>Pantum M6550NW PANTUM M6550NW</name>
@@ -11706,17 +11739,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>226829</price>
-      </offer>
-      <offer sku="W-V673-02_Black">
-        <name>Смартфон WIKO T10  Rally  W-V673-02 Black WIKO W-V673-02_Black</name>
-        <vendor>WIKO</vendor>
-        <barcodes>
-          <barcode>W-V673-02_Black</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>60818</price>
       </offer>
       <offer sku="W-V673-02_Green">
         <name>Смартфон WIKO T10  Rally  W-V673-02 Green WIKO W-V673-02_Green</name>
@@ -12839,17 +12861,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>9446</price>
-      </offer>
-      <offer sku="DP-MCH2-GMX200T">
-        <name>Кулер для процессора Deepcool GAMMAXX 200T Deepcool DP-MCH2-GMX200T</name>
-        <vendor>Deepcool</vendor>
-        <barcodes>
-          <barcode>DP-MCH2-GMX200T</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>11421</price>
       </offer>
       <offer sku="R-AK400-WHNNMN-G-1">
         <name>Кулер для процессора Deepcool AK400 WH Deepcool R-AK400-WHNNMN-G-1</name>
@@ -14380,6 +14391,17 @@
         </pickup-options>
         <price>345239</price>
       </offer>
+      <offer sku="PT-6K-LCD">
+        <name>Источник бесперебойного питания SVC PT-6K-LCD SVC PT-6K-LCD</name>
+        <vendor>SVC</vendor>
+        <barcodes>
+          <barcode>PT-6K-LCD</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>481496</price>
+      </offer>
       <offer sku="PTS-10KL-LCD">
         <name>Источник бесперебойного питания SVC PTS-10KL-LCD SVC PTS-10KL-LCD</name>
         <vendor>SVC</vendor>
@@ -14974,6 +14996,17 @@
         </pickup-options>
         <price>142740</price>
       </offer>
+      <offer sku="WD101PURP">
+        <name>Жёсткий диск HDD 10 Tb SATA 6Gb/s Western Digital Purple Pro WD101PURP 3.5" 7200rpm 256Mb Western Digital WD101PURP</name>
+        <vendor>Western Digital</vendor>
+        <barcodes>
+          <barcode>WD101PURP</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>180367</price>
+      </offer>
       <offer sku="HUH721212ALE604">
         <name>Жёсткий диск HDD 12 Tb SATA 6Gb/s WD Ultrastar HUH721212ALE604 (0F30146) 3.5"7200rpm 256Mb Western Digital HUH721212ALE604</name>
         <vendor>Western Digital</vendor>
@@ -15456,7 +15489,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>48414</price>
+        <price>44325</price>
       </offer>
       <offer sku="BX8071512400SRL5Y">
         <name>Процессор Intel CPU Desktop Core i5-12400 (2.5GHz, 18MB, LGA1700) box Intel BX8071512400SRL5Y</name>
@@ -15555,7 +15588,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>74460</price>
+        <price>72279</price>
       </offer>
       <offer sku="CM8071504651013SRL63">
         <name>Процессор Intel CPU Desktop Core i3-12100F (3.3GHz, 12MB, LGA1700) tray Intel CM8071504651013SRL63</name>
@@ -15567,17 +15600,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>55504</price>
-      </offer>
-      <offer sku="KF432S20IBK2/16">
-        <name>Оперативная память Kingston 16GB 3200MT/s DDR4 CL20 SODIMM (Kit of 2) FURY Impact, EAN: 740617318425 Kingston KF432S20IBK2/16</name>
-        <vendor>Kingston</vendor>
-        <barcodes>
-          <barcode>KF432S20IBK2/16</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>31651</price>
       </offer>
       <offer sku="JBLREFLMININCBLK">
         <name>TWS Bluetooth гарнитуры JBL Reflect Mini NC - TWS Bluetooth Headset - Black JBL JBLREFLMININCBLK</name>
@@ -15809,6 +15831,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>200383</price>
+      </offer>
+      <offer sku="ST18000NM000J">
+        <name>Жесткий диск для сервера SEAGATE HDD Server Exos X18 512E/4kn ( 3.5'/ 18TB/ SATA 6Gb/s / 7200rpm) Seagate ST18000NM000J</name>
+        <vendor>Seagate</vendor>
+        <barcodes>
+          <barcode>ST18000NM000J</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>228580</price>
       </offer>
       <offer sku="ST18000NM004J">
         <name>Жесткий диск для сервера SEAGATE HDD Server Exos X18 512E/4kn ( 3.5'/ 18TB/ SAS 12Gb/s / 7200rpm) Seagate ST18000NM004J</name>
@@ -16613,6 +16646,17 @@
         </pickup-options>
         <price>21619</price>
       </offer>
+      <offer sku="CSE-733TQ-668B">
+        <name>Корпус для Сервера Supermicro Chassis SC733TQ-668B, Mid Tower, 4x 3.5" SAS/SATA Backplane for Hot-Swappable Drives, 2x 5.25" External HDD Drive Bays &amp; 4x 3.5" HDD Drive Bays, 7 x FH expansion slots, 668W PSU Supermicro CSE-733TQ-668B</name>
+        <vendor>Supermicro</vendor>
+        <barcodes>
+          <barcode>CSE-733TQ-668B</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>270288</price>
+      </offer>
       <offer sku="BM5100ADN">
         <name>МФУ BM5100ADN (копир, принтер, цв. сканер) (чб., A4, 40ppm, 512MB, 1.2GHz, 60-200 г/м2, 1200x1200 dpi, макс. 100т мес., двухсторонняя печать, DADF (50 листов), USB-fdp, PCL5e/6, PostScript, USB 2.0, Ethernet 10/100/1000, PANTUM BM5100ADN</name>
         <vendor>PANTUM</vendor>
@@ -17096,17 +17140,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>35658</price>
-      </offer>
-      <offer sku="KF442C19RBK2/16">
-        <name>Память для игрового ПК Kingston 16GB 4266MT/s DDR4 CL19 DIMM (Kit of 2) FURY Renegade Black, EAN: 740617321906 Kingston KF442C19RBK2/16</name>
-        <vendor>Kingston</vendor>
-        <barcodes>
-          <barcode>KF442C19RBK2/16</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>50390</price>
       </offer>
       <offer sku="KF552C36BBE-16">
         <name>Память для игрового ПК Kingston 16GB 5200MT/s DDR5 CL36 DIMM FURY Beast Black EXPO, EAN: 740617330885 Kingston KF552C36BBE-16</name>
@@ -19824,6 +19857,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>19101</price>
+      </offer>
+      <offer sku="004727">
+        <name>Комплект модулей памяти Patriot VIPER VENOM PVV532G560C36K DDR5 32GB (Kit 2x16GB) 5600MHz Patriot 004727</name>
+        <vendor>Patriot</vendor>
+        <barcodes>
+          <barcode>004727</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>70228</price>
       </offer>
       <offer sku="004728">
         <name>Комплект модулей памяти Patriot VIPER VENOM RGB PVVR532G560C36K DDR5 32GB (Kit 2x16GB) 5600MHz Patriot 004728</name>
@@ -28130,17 +28174,6 @@
         </pickup-options>
         <price>7280</price>
       </offer>
-      <offer sku="005816">
-        <name>Bienvenue ложка TEFAL 2743912 TEFAL 005816</name>
-        <vendor>TEFAL</vendor>
-        <barcodes>
-          <barcode>005816</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>8500</price>
-      </offer>
       <offer sku="005817">
         <name>Bienvenue длинная лопатка TEFAL 2744112 TEFAL 005817</name>
         <vendor>TEFAL</vendor>
@@ -28349,17 +28382,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>12915</price>
-      </offer>
-      <offer sku="005840">
-        <name>Нож универсальный 12 см TEFAL K1220704 TEFAL 005840</name>
-        <vendor>TEFAL</vendor>
-        <barcodes>
-          <barcode>005840</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>14866</price>
       </offer>
       <offer sku="005841">
         <name>Нож д/овощей 9 см TEFAL K1701174 TEFAL 005841</name>
@@ -28724,17 +28746,6 @@
         </pickup-options>
         <price>64134</price>
       </offer>
-      <offer sku="005891">
-        <name>Сковорода 24 SIMPLY CLEAN TEFAL 4205124 TEFAL 005891</name>
-        <vendor>TEFAL</vendor>
-        <barcodes>
-          <barcode>005891</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>20085</price>
-      </offer>
       <offer sku="005893">
         <name>Сковорода 20 Day by Day TEFAL 4216120 TEFAL 005893</name>
         <vendor>TEFAL</vendor>
@@ -28976,17 +28987,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>44841</price>
-      </offer>
-      <offer sku="005924">
-        <name>Сковорода 30 TEFAL G2700772 TEFAL 005924</name>
-        <vendor>TEFAL</vendor>
-        <barcodes>
-          <barcode>005924</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>46671</price>
       </offer>
       <offer sku="005925">
         <name>Сковорода ВОК 28 TEFAL G2701972 TEFAL 005925</name>
@@ -29647,17 +29647,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>36085</price>
-      </offer>
-      <offer sku="006015">
-        <name>Парогенератор TEFAL SV8011E0 TEFAL 006015</name>
-        <vendor>TEFAL</vendor>
-        <barcodes>
-          <barcode>006015</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>183207</price>
       </offer>
       <offer sku="006017">
         <name>Парогенератор TEFAL GV9221E0 TEFAL 006017</name>
@@ -30417,17 +30406,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>106720</price>
-      </offer>
-      <offer sku="006126">
-        <name>Мультикухня REDMOND RMK-M271 REDMOND 006126</name>
-        <vendor>REDMOND</vendor>
-        <barcodes>
-          <barcode>006126</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>77451</price>
       </offer>
       <offer sku="006127">
         <name>Мультиварка REDMOND SkyCooker RMC-M903S Черный REDMOND 006127</name>
@@ -35181,17 +35159,6 @@
         </pickup-options>
         <price>24820</price>
       </offer>
-      <offer sku="006824">
-        <name>Медиаконвертер D-Link DMC-F02SC/B1A D-link 006824</name>
-        <vendor>D-link</vendor>
-        <barcodes>
-          <barcode>006824</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>23976</price>
-      </offer>
       <offer sku="006825">
         <name>Модем TP-Link Archer VR600 TP-link 006825</name>
         <vendor>TP-link</vendor>
@@ -36435,6 +36402,17 @@
         </pickup-options>
         <price>4516</price>
       </offer>
+      <offer sku="006968">
+        <name>Кабель сетевой SHIP D165-P Cat.6 UTP 30В PVC SHIP 006968</name>
+        <vendor>SHIP</vendor>
+        <barcodes>
+          <barcode>006968</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>100995</price>
+      </offer>
       <offer sku="006969">
         <name>Кабель сетевой SHIP D165S-P Cat.6 UTP 30В PVC SHIP 006969</name>
         <vendor>SHIP</vendor>
@@ -37138,6 +37116,17 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>4181</price>
+      </offer>
+      <offer sku="007067">
+        <name>Коннектор телекоммуникационный RJ 45 SHIP S901D SHIP 007067</name>
+        <vendor>SHIP</vendor>
+        <barcodes>
+          <barcode>007067</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>4200</price>
       </offer>
       <offer sku="007068">
         <name>Коннектор телекоммуникационный RJ 45 SHIP S901E SHIP 007068</name>
@@ -38040,17 +38029,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>46684</price>
-      </offer>
-      <offer sku="007170">
-        <name>Блок распределения питания Legrand 8 розеток 2К+3 - немецкий стандарт 3м. 220 в. Legrand 007170</name>
-        <vendor>Legrand</vendor>
-        <barcodes>
-          <barcode>007170</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>45005</price>
       </offer>
       <offer sku="007172">
         <name>Специализированный ключ SHIP 701901001 SHIP 007172</name>
@@ -42969,6 +42947,17 @@
         </pickup-options>
         <price>57849</price>
       </offer>
+      <offer sku="007892">
+        <name>Каркасный бассейн Bestway 5612X Bestway 007892</name>
+        <vendor>Bestway</vendor>
+        <barcodes>
+          <barcode>007892</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>255851</price>
+      </offer>
       <offer sku="007893">
         <name>Каркасный бассейн Bestway 5612Z Bestway 007893</name>
         <vendor>Bestway</vendor>
@@ -42980,6 +42969,17 @@
         </pickup-options>
         <price>318479</price>
       </offer>
+      <offer sku="007900">
+        <name>Каркасный бассейн Bestway 5619Q Bestway 007900</name>
+        <vendor>Bestway</vendor>
+        <barcodes>
+          <barcode>007900</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>447457</price>
+      </offer>
       <offer sku="007927">
         <name>Картридж для фильтра Bestway 58093 (в упаковке 2шт.) Bestway 007927</name>
         <vendor>Bestway</vendor>
@@ -42990,6 +42990,28 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>5716</price>
+      </offer>
+      <offer sku="007930">
+        <name>Картридж для фильтра Bestway 58095 Bestway 007930</name>
+        <vendor>Bestway</vendor>
+        <barcodes>
+          <barcode>007930</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>7162</price>
+      </offer>
+      <offer sku="007938">
+        <name>Фильтрующий насос Bestway 58515 Bestway 007938</name>
+        <vendor>Bestway</vendor>
+        <barcodes>
+          <barcode>007938</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>54534</price>
       </offer>
       <offer sku="007942">
         <name>Лестница для бассейна Bestway 58430 Bestway 007942</name>
@@ -43046,6 +43068,17 @@
         </pickup-options>
         <price>40421</price>
       </offer>
+      <offer sku="007964">
+        <name>Тент для бассейна Bestway 58241 Bestway 007964</name>
+        <vendor>Bestway</vendor>
+        <barcodes>
+          <barcode>007964</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>10248</price>
+      </offer>
       <offer sku="007974">
         <name>Набор для ремонта надувных изделий Bestway 62068 (в упаковке 10 шт заплаток) Bestway 007974</name>
         <vendor>Bestway</vendor>
@@ -43067,6 +43100,28 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>4709</price>
+      </offer>
+      <offer sku="007982">
+        <name>Проточный водонагреватель Bestway 58423 Bestway 007982</name>
+        <vendor>Bestway</vendor>
+        <barcodes>
+          <barcode>007982</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>32980</price>
+      </offer>
+      <offer sku="007983">
+        <name>Дозатор плавающий Bestway 58210 Bestway 007983</name>
+        <vendor>Bestway</vendor>
+        <barcodes>
+          <barcode>007983</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>5290</price>
       </offer>
       <offer sku="007990">
         <name>Насадка-сачок для чистки бассейна Bestway 58277 Bestway 007990</name>
@@ -47182,6 +47237,17 @@
         </pickup-options>
         <price>243841</price>
       </offer>
+      <offer sku="U55EY1500B">
+        <name>Телевизор Accesstyle UHD 55" U55EY1500B Accesstyle U55EY1500B</name>
+        <vendor>Accesstyle</vendor>
+        <barcodes>
+          <barcode>U55EY1500B</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>196577</price>
+      </offer>
       <offer sku="RAYG1EU1">
         <name>Саундбар Sonos Ray White, RAYG1EU1 SONOS RAYG1EU1</name>
         <vendor>SONOS</vendor>
@@ -48215,17 +48281,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>60245</price>
-      </offer>
-      <offer sku="009034">
-        <name>Материнская плата Gigabyte B760M DS3H DDR4 Gigabyte 009034</name>
-        <vendor>Gigabyte</vendor>
-        <barcodes>
-          <barcode>009034</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>71330</price>
       </offer>
       <offer sku="009037">
         <name>Материнская плата Gigabyte B760M GAMING X DDR4 Gigabyte 009037</name>
@@ -49754,7 +49809,7 @@
         <pickup-options>
           <pickup-option id="PP1" />
         </pickup-options>
-        <price>54976</price>
+        <price>68848</price>
       </offer>
       <offer sku="009275">
         <name>Блок питания Thermaltake Smart Pro RGB 500W Thermaltake 009275</name>
@@ -50470,17 +50525,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>52001</price>
-      </offer>
-      <offer sku="009358">
-        <name>Монитор Samsung 24" LS24C314EAIXCI Samsung 009358</name>
-        <vendor>Samsung</vendor>
-        <barcodes>
-          <barcode>009358</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>67977</price>
       </offer>
       <offer sku="009359">
         <name>Монитор Samsung 27” LF27T450FQIXCI Samsung 009359</name>
@@ -56928,17 +56972,6 @@
         </pickup-options>
         <price>7710</price>
       </offer>
-      <offer sku="010151">
-        <name>Дифференциальный автомат CHINT NXBLE-63Y 1P+N 25А C 30mA AC 4,5kA CHINT 010151</name>
-        <vendor>CHINT</vendor>
-        <barcodes>
-          <barcode>010151</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>7277</price>
-      </offer>
       <offer sku="010152">
         <name>Дифференциальный автомат CHINT NXBLE-63Y 1P+N 32А C 30mA AC 4,5kA CHINT 010152</name>
         <vendor>CHINT</vendor>
@@ -58291,6 +58324,39 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>36939</price>
+      </offer>
+      <offer sku="010323">
+        <name>Apple Watch Series 9 GPS 41mm Midnight Aluminium Case with Midnight Sport Band - S/M,Model A2978 MR8W3QI/A APPLE 010323</name>
+        <vendor>APPLE</vendor>
+        <barcodes>
+          <barcode>010323</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>282129</price>
+      </offer>
+      <offer sku="010346">
+        <name>Apple Watch Series 9 GPS 41mm Midnight Aluminium Case with Midnight Sport Band - S/M,Model A2978 APPLE 010346</name>
+        <vendor>APPLE</vendor>
+        <barcodes>
+          <barcode>010346</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>282129</price>
+      </offer>
+      <offer sku="010351">
+        <name>Apple Watch SE GPS 40mm Silver Aluminium Case with Storm Blue Sport Band - S/M,Model A2722 APPLE 010351</name>
+        <vendor>APPLE</vendor>
+        <barcodes>
+          <barcode>010351</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>180763</price>
       </offer>
       <offer sku="010353">
         <name>Corsair Flash Voyager Slider X1 USB 3.0 128GB, Capless Design, Read 130MBs, Plug and Play, EAN:0843591057004 CORSAIR 010353</name>
@@ -60459,17 +60525,6 @@
         </pickup-options>
         <price>22111</price>
       </offer>
-      <offer sku="010603">
-        <name>13-inch MacBook Air: Apple M2 chip with 8-core CPU and 10-core GPU, 512GB - Starlight,Model A2681 APPLE 010603</name>
-        <vendor>APPLE</vendor>
-        <barcodes>
-          <barcode>010603</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>937895</price>
-      </offer>
       <offer sku="010604">
         <name>USB-C to Lightning Adapter,Model A2868 APPLE 010604</name>
         <vendor>APPLE</vendor>
@@ -60656,6 +60711,72 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>82545</price>
+      </offer>
+      <offer sku="010627">
+        <name>JBL Live Pro 2 TWS - True Wireless In-Ear Headset - Blue JBL 010627</name>
+        <vendor>JBL</vendor>
+        <barcodes>
+          <barcode>010627</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>97721</price>
+      </offer>
+      <offer sku="010628">
+        <name>JBL Live Pro 2 TWS - True Wireless In-Ear Headset - Silver JBL 010628</name>
+        <vendor>JBL</vendor>
+        <barcodes>
+          <barcode>010628</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>97721</price>
+      </offer>
+      <offer sku="010629">
+        <name>JBL Live Pro 2 TWS - True Wireless In-Ear Headset - Black JBL 010629</name>
+        <vendor>JBL</vendor>
+        <barcodes>
+          <barcode>010629</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>97721</price>
+      </offer>
+      <offer sku="010630">
+        <name>JBL Live Flex - True Wireless In-Ear Headset - Blue JBL 010630</name>
+        <vendor>JBL</vendor>
+        <barcodes>
+          <barcode>010630</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>100770</price>
+      </offer>
+      <offer sku="010631">
+        <name>JBL Live Flex - True Wireless In-Ear Headset - Black JBL 010631</name>
+        <vendor>JBL</vendor>
+        <barcodes>
+          <barcode>010631</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>100770</price>
+      </offer>
+      <offer sku="010634">
+        <name>JBL Tune 670NC - Wireless Over-Ear Headset with Noice Cancelling - White JBL 010634</name>
+        <vendor>JBL</vendor>
+        <barcodes>
+          <barcode>010634</barcode>
+        </barcodes>
+        <pickup-options>
+          <pickup-option id="PP1" />
+        </pickup-options>
+        <price>59453</price>
       </offer>
       <offer sku="КМР24">
         <name>Календарь постер 2024 эксклюзивный  ФермаПривычек КМР24</name>
@@ -63846,17 +63967,6 @@
           <pickup-option id="PP1" />
         </pickup-options>
         <price>41216</price>
-      </offer>
-      <offer sku="011153">
-        <name>Блок питания Gigabyte GP-P750GM GP-P750GM Gigabyte 011153</name>
-        <vendor>Gigabyte</vendor>
-        <barcodes>
-          <barcode>011153</barcode>
-        </barcodes>
-        <pickup-options>
-          <pickup-option id="PP1" />
-        </pickup-options>
-        <price>62385</price>
       </offer>
       <offer sku="011154">
         <name>Блок питания Gigabyte GP-P850GM GP-P850GM Gigabyte 011154</name>
