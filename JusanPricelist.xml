@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<Jmart date="02.04.2024 18:31:49" xmlns="Jmart">
+<Jmart date="03.04.2024 19:10:15" xmlns="Jmart">
   <company>Hitech24.kz</company>
   <merchantid>Test</merchantid>
   <offers>
@@ -96,7 +96,7 @@
       <brand>Savic</brand>
       <price>7847</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="000267" xmlns="">
@@ -296,7 +296,7 @@
       <brand>Nature's protection</brand>
       <price>7665</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="000439" xmlns="">
@@ -1091,18 +1091,18 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="980-000029" xmlns="">
-      <model>Колонки Logitech S150 (система 2.0)</model>
-      <brand>Logitech</brand>
-      <price>17687</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="981-000271" xmlns="">
       <model>Гарнитура Logitech H110 (2 x 3.5мм, кабель 1.8м)</model>
       <brand>Logitech</brand>
       <price>10031</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="981-000406" xmlns="">
+      <model>Гарнитура Logitech H390 (USB, элементы управления на кабеле, кабель 2.33м)</model>
+      <brand>Logitech</brand>
+      <price>22000</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1127,14 +1127,6 @@
       <model>Гарнитура игровая Logitech G Pro X Gaming Headset - 7.1 / Blue Microphone</model>
       <brand>Logitech</brand>
       <price>83957</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="ST1000LM048" xmlns="">
-      <model>Жесткий диск HDD 1Tb Seagate Barracuda ST1000LM048 2.5" SATA 6Gb/s 128Mb 5400rpm</model>
-      <brand>Seagate</brand>
-      <price>35085</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1208,7 +1200,7 @@
       <brand>WD</brand>
       <price>89671</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="WD6003FRYZ" xmlns="">
@@ -1267,10 +1259,34 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="910-004424" xmlns="">
+      <model>Мышь беспроводная Logitech M171 Black (черная, оптическая, 1000dpi, 2.4 GHz/USB-ресивер)</model>
+      <brand>Logitech</brand>
+      <price>8448</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="910-004640" xmlns="">
+      <model>Мышь беспроводная Logitech M171 Blue (синяя, оптическая, 1000dpi, 2.4 GHz/USB-ресивер)</model>
+      <brand>Logitech</brand>
+      <price>8448</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="910-004641" xmlns="">
+      <model>Мышь беспроводная Logitech M171 Red (красная, оптическая, 1000dpi, 2.4 GHz/USB-ресивер)</model>
+      <brand>Logitech</brand>
+      <price>8448</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="910-002239" xmlns="">
       <model>Мышь беспроводная Logitech M185 Blue (синяя, оптическая, 1000dpi, 2.4 GHz/USB-ресивер)</model>
       <brand>Logitech</brand>
-      <price>11342</price>
+      <price>10751</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1291,18 +1307,18 @@
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="910-005908" xmlns="">
-      <model>Мышь беспроводная полноразмерная Logitech M190 Red</model>
+    <offer sku="910-005905" xmlns="">
+      <model>Мышь беспроводная полноразмерная Logitech M190 Charcoal</model>
       <brand>Logitech</brand>
-      <price>7914</price>
+      <price>7643</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="910-005823" xmlns="">
-      <model>Мышь игровая Logitech G102 LIGHTSYNC, Black</model>
+    <offer sku="910-005908" xmlns="">
+      <model>Мышь беспроводная полноразмерная Logitech M190 Red</model>
       <brand>Logitech</brand>
-      <price>17591</price>
+      <price>7914</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1343,14 +1359,6 @@
       <model>Клавиатура Logitech K280e</model>
       <brand>Steelseries</brand>
       <price>14172</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="920-007584" xmlns="">
-      <model>Клавиатура беспроводная Logitech K380 (DARK GREY, Multi-Device, Bluetooth Classic (3.0), 2 батарейки типа ААА)</model>
-      <brand>Steelseries</brand>
-      <price>25914</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1486,7 +1494,7 @@
     <offer sku="8468B042" xmlns="">
       <model>i-SENSYS LBP6030B Bundle (чёрный) лазерный A4 монохромный ч.б. 18 стр/мин печать 600x600 стратовый картридж (емкость 700 стр.) + 2 доп картриджа</model>
       <brand>Canon</brand>
-      <price>131235</price>
+      <price>131116</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1502,7 +1510,7 @@
     <offer sku="1102RX3NL0" xmlns="">
       <model>Лазерный принтер Kyocera P2040dn (A4, 1200dpi, 256Mb, 40 ppm, 350 л., дуплекс, USB 2.0, Gigabit Ethernet), отгрузка только с доп. тонером TK-1160</model>
       <brand>KYOCERA</brand>
-      <price>215225</price>
+      <price>215021</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -1510,7 +1518,7 @@
     <offer sku="1102RY3NL0" xmlns="">
       <model>Лазерный принтер Kyocera P2040dw (A4, 1200dpi, 256Mb, 40 ppm, 350 л., дуплекс, USB 2.0, Gigabit Ethernet, Wi-Fi), отгрузка только с доп. тонером TK-1160</model>
       <brand>KYOCERA</brand>
-      <price>260186</price>
+      <price>259947</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -2344,7 +2352,7 @@
       <brand>Apacer</brand>
       <price>28237</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="002117" xmlns="">
@@ -2939,22 +2947,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="SDCG3/64GB" xmlns="">
-      <model>Карта памяти MicroSD, Kingston Canvas Go! Plus, 64GB, SDCG3/64GB, Class 10, UHS-I, R170/W70</model>
-      <brand>Kingston</brand>
-      <price>7127</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="SDCG3/128GB" xmlns="">
-      <model>Карта памяти MicroSD, Kingston Canvas Go! Plus, 128GB, SDCG3/128GB, Class 10, UHS-I, R170/W90</model>
-      <brand>Kingston</brand>
-      <price>9198</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="SDCG3/512GB" xmlns="">
       <model>Карта памяти MicroSD, Kingston Canvas Go! Plus, 512GB, SDCG3/512GB, Class 10, UHS-I, R170/W90</model>
       <brand>Kingston</brand>
@@ -3019,22 +3011,6 @@
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
-    <offer sku="002713" xmlns="">
-      <model>Мобильный телефон Redmi 9C 3GB RAM 64GB ROM Twilight Blue</model>
-      <brand>Xiaomi</brand>
-      <price>38914</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="002716" xmlns="">
-      <model>Мобильный телефон Redmi 9C 4GB RAM 128GB ROM Lavender Purple</model>
-      <brand>Xiaomi</brand>
-      <price>49667</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
     <offer sku="002718" xmlns="">
       <model>Мобильный телефон Redmi 10C 4GB RAM 64GB ROM Ocean Blue</model>
       <brand>Xiaomi</brand>
@@ -3079,22 +3055,6 @@
       <model>Мобильный телефон Redmi 10 4GB RAM 64GB ROM Carbon Gray</model>
       <brand>Xiaomi</brand>
       <price>49667</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="002724" xmlns="">
-      <model>Мобильный телефон Redmi 10 4GB RAM 64GB ROM Pebble White</model>
-      <brand>Xiaomi</brand>
-      <price>49667</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="002726" xmlns="">
-      <model>Мобильный телефон Redmi 10 4GB RAM 128GB ROM Pebble White</model>
-      <brand>Xiaomi</brand>
-      <price>60419</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -3179,38 +3139,6 @@
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
-    <offer sku="002743" xmlns="">
-      <model>Мобильный телефон Xiaomi 11T 8GB RAM 128GB ROM Celestial Blue</model>
-      <brand>Xiaomi</brand>
-      <price>121968</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="002744" xmlns="">
-      <model>Мобильный телефон Xiaomi 11T 8GB RAM 128GB ROM Meteorite Gray</model>
-      <brand>Xiaomi</brand>
-      <price>121968</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="002745" xmlns="">
-      <model>Мобильный телефон Xiaomi 12X 8GB RAM 128GB ROM Gray</model>
-      <brand>Xiaomi</brand>
-      <price>164978</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="002749" xmlns="">
-      <model>Мобильный телефон Xiaomi 12 8GB RAM 256GB ROM Blue</model>
-      <brand>Xiaomi</brand>
-      <price>207989</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
     <offer sku="002750" xmlns="">
       <model>Мобильный телефон Xiaomi 12 12GB RAM 256GB ROM Gray</model>
       <brand>Xiaomi</brand>
@@ -3255,14 +3183,6 @@
       <model>Мобильный телефон Poco M4 PRO 5G 4GB RAM 64GB ROM POCO Yellow</model>
       <brand>Xiaomi</brand>
       <price>76548</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="002758" xmlns="">
-      <model>Мобильный телефон Poco M4 PRO 5G 6GB RAM 128GB ROM Power Black</model>
-      <brand>Xiaomi</brand>
-      <price>98054</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -4720,7 +4640,7 @@
       <brand>Steelseries</brand>
       <price>66946</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003122" xmlns="">
@@ -4792,7 +4712,7 @@
       <brand>Rapoo</brand>
       <price>9043</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003138" xmlns="">
@@ -5072,7 +4992,7 @@
       <brand>Steelseries</brand>
       <price>11247</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003197" xmlns="">
@@ -5256,7 +5176,7 @@
       <brand>Streamplify</brand>
       <price>24596</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003234" xmlns="">
@@ -6200,7 +6120,7 @@
       <brand>SVC</brand>
       <price>75809</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003434" xmlns="">
@@ -7408,7 +7328,7 @@
       <brand>Dahua</brand>
       <price>46257</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003742" xmlns="">
@@ -8832,7 +8752,7 @@
       <brand>Bestway</brand>
       <price>257022</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="003993" xmlns="">
@@ -8904,7 +8824,7 @@
       <brand>Intex</brand>
       <price>8186</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004008" xmlns="">
@@ -9979,14 +9899,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="BX80684E2236SRF7G" xmlns="">
-      <model>Intel CPU Server 6-core Xeon E-2236 (3.40 GHz, 12M, LGA1151) box</model>
-      <brand>INTEL</brand>
-      <price>192710</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="CD8068904657901SRKXN" xmlns="">
       <model>Intel CPU Server 12-core Xeon 4310 (2.10 GHz, 18M, FC-LGA14) tray</model>
       <brand>INTEL</brand>
@@ -10123,14 +10035,6 @@
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="TP3000 512GB" xmlns="">
-      <model>Твердотельный накопитель SSD 512 Gb, M.2 NVMe 2280, Kimtigo TP3000-512G, R2500/W1800</model>
-      <brand>Kimtigo</brand>
-      <price>20148</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="SA400S37/960G" xmlns="">
       <model>Твердотельный накопитель SSD 960 Gb SATA 6Gb/s Kingston A400  SA400S37/960G  2.5" TLC</model>
       <brand>Kingston</brand>
@@ -10206,7 +10110,7 @@
     <offer sku="4293C003" xmlns="">
       <model>imageRUNNER 2425 (А3, Ч/б печать 25 стр.мин А4/ 15 стр. мин. А3, в комплекте крышка сканера, кассета 250 листов, 2гб ОЗУ, Ethernet, WiFi, без тонера )</model>
       <brand>Canon</brand>
-      <price>604392</price>
+      <price>603794</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10214,7 +10118,7 @@
     <offer sku="1156C005" xmlns="">
       <model>MC31 Maintenance Cartridge TM200/TM300</model>
       <brand>Canon</brand>
-      <price>43974</price>
+      <price>43934</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10222,23 +10126,15 @@
     <offer sku="1569B003" xmlns="">
       <model>1569B003 CADP8042 бумага (рулонная)  - 1 рулон Standard Paper 80gsm 42", 50 m</model>
       <brand>Canon</brand>
-      <price>9395</price>
+      <price>9389</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="4999B002" xmlns="">
-      <model>4999B002 Front Print Backlit Film 230 мm 914 mm x 30 m 1 Roll</model>
-      <brand>Canon</brand>
-      <price>19932</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="6061B004" xmlns="">
       <model>6061B004 Satin Photo Paper FSC 200 g/mІ 1067 mm x 30 m 1 Roll</model>
       <brand>Canon</brand>
-      <price>9395</price>
+      <price>9389</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10254,7 +10150,7 @@
     <offer sku="0488C002" xmlns="">
       <model>Drum Unit C-EXV 51, CMY 400,000 pages, Black 460,000 pages</model>
       <brand>Canon</brand>
-      <price>268066</price>
+      <price>267792</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10262,7 +10158,7 @@
     <offer sku="2886C001" xmlns="">
       <model>PFI-120 Cyan (130 мл для ТМ-серии)</model>
       <brand>Canon</brand>
-      <price>46224</price>
+      <price>46179</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10270,7 +10166,7 @@
     <offer sku="2887C001" xmlns="">
       <model>PFI-120 Magenta (130 мл для ТМ-серии)</model>
       <brand>Canon</brand>
-      <price>46224</price>
+      <price>46179</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10278,7 +10174,7 @@
     <offer sku="2891C001" xmlns="">
       <model>PFI-320 Cyan (300 ml)</model>
       <brand>Canon</brand>
-      <price>84694</price>
+      <price>84609</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10286,7 +10182,7 @@
     <offer sku="2892C001" xmlns="">
       <model>PFI-320 Magenta (300 ml)</model>
       <brand>Canon</brand>
-      <price>84694</price>
+      <price>84609</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10294,7 +10190,7 @@
     <offer sku="2893C001" xmlns="">
       <model>PFI-320 Yellow (300 ml)</model>
       <brand>Canon</brand>
-      <price>84694</price>
+      <price>84609</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10302,7 +10198,7 @@
     <offer sku="0384B006" xmlns="">
       <model>Тонер C-EXV14</model>
       <brand>Canon</brand>
-      <price>23799</price>
+      <price>23777</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10310,7 +10206,7 @@
     <offer sku="6908B002" xmlns="">
       <model>Тонер C-EXV42 для iR2202/iR2202N</model>
       <brand>Canon</brand>
-      <price>24834</price>
+      <price>24811</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10318,7 +10214,7 @@
     <offer sku="1T02RY0NL0" xmlns="">
       <model>Тонер-картридж TK-1160 7 200 стр. для P2040dn/P2040dw</model>
       <brand>KYOCERA</brand>
-      <price>65167</price>
+      <price>65102</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10326,7 +10222,7 @@
     <offer sku="1T02R9CNL0" xmlns="">
       <model>Тонер-картридж TK-5230C 2 200 стр. Cyan для P5021cdn/cdw, M5521cdn/cdw</model>
       <brand>Kyocera</brand>
-      <price>61875</price>
+      <price>61814</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10334,7 +10230,7 @@
     <offer sku="1T02R9BNL0" xmlns="">
       <model>Тонер-картридж TK-5230M 2 200 стр. Magenta для P5021cdn/cdw, M5521cdn/cdw</model>
       <brand>Kyocera</brand>
-      <price>61875</price>
+      <price>61814</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10342,7 +10238,7 @@
     <offer sku="1T02R9ANL0" xmlns="">
       <model>Тонер-картридж TK-5230Y 2 200 стр. Yellow для P5021cdn/cdw, M5521cdn/cdw</model>
       <brand>Kyocera</brand>
-      <price>61875</price>
+      <price>61814</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10355,20 +10251,12 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="920-008232" xmlns="">
-      <model>Комплект беспроводной Logitech MK850 Performance 2.4GHZ/BT  (клавиатура+мышь) (M/N: Y-R0061/M-R0062 (C-U0007))</model>
+    <offer sku="910-002201" xmlns="">
+      <model>Мышь беспроводная Logitech M235 Colt Matte (серая, оптическая, 1000dpi, 2.4 GHz/USB-ресивер (Logitech Unifying®)) (M/N: M-R0038 / C-U0008)</model>
       <brand>Logitech</brand>
-      <price>72645</price>
+      <price>13176</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="960-001063" xmlns="">
-      <model>Веб-камера Logitech C270 (HD 720p/30fps, фокус постоянный, угол обзора 60°, кабель 1.5м) (M/N: V-U0018)</model>
-      <brand>Logitech</brand>
-      <price>13613</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="100-100000263BOX" xmlns="">
@@ -10567,14 +10455,6 @@
       <model>HPE 240GB SATA RI M.2 2280 SSD</model>
       <brand>HPE</brand>
       <price>110408</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="872475-B21" xmlns="">
-      <model>HPE 300GB SAS 10K SFF SC DS HDD</model>
-      <brand>HPE</brand>
-      <price>71229</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -10819,18 +10699,10 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="3103C024" xmlns="">
-      <model>i-SENSYS X C1127P (Принтер А4, Цветная печать 27 стр.мин, UFR II, PCL 6, Adobe PS, ОЗУ 1,0 ГБ, Ethernet, USB, Toner T09 в комплекте нет)</model>
-      <brand>Canon</brand>
-      <price>348568</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="1928B006" xmlns="">
       <model>1928B006 Glossy Photo Quality Paper FSC 300 g/mІ 1524 mm x 30 m 1 Roll</model>
       <brand>Canon</brand>
-      <price>9395</price>
+      <price>9389</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -10846,7 +10718,7 @@
     <offer sku="1929B006" xmlns="">
       <model>1929B006 Glacier Photo Quality Paper FSC 300 g/mІ 1524 mm x 30 m 1 Roll</model>
       <brand>Canon</brand>
-      <price>9395</price>
+      <price>9389</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -10875,18 +10747,10 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="4999B001" xmlns="">
-      <model>4999B001 Front Print Backlit Film 230 мm 610 mm x 30 m 1 Roll</model>
-      <brand>Canon</brand>
-      <price>14748</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="9634A002" xmlns="">
       <model>C-EXV12 TONER BLACK</model>
       <brand>Canon</brand>
-      <price>8789</price>
+      <price>8783</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10894,7 +10758,7 @@
     <offer sku="0385B002" xmlns="">
       <model>DRUM IR 2016/2020</model>
       <brand>Canon</brand>
-      <price>54251</price>
+      <price>54196</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -10902,7 +10766,7 @@
     <offer sku="3872B001" xmlns="">
       <model>PF05 PRINTHEAD</model>
       <brand>Canon</brand>
-      <price>259447</price>
+      <price>259179</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -10910,7 +10774,7 @@
     <offer sku="6705B001" xmlns="">
       <model>PFI 107 Black (130 ml)</model>
       <brand>Canon</brand>
-      <price>49329</price>
+      <price>49281</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10918,7 +10782,7 @@
     <offer sku="2885C001" xmlns="">
       <model>PFI-120 Black (130 мл для ТМ-серии)</model>
       <brand>Canon</brand>
-      <price>46224</price>
+      <price>46179</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10926,7 +10790,7 @@
     <offer sku="2884C001" xmlns="">
       <model>PFI-120 Matte Black (130 мл для ТМ-серии)</model>
       <brand>Canon</brand>
-      <price>46224</price>
+      <price>46179</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10934,7 +10798,7 @@
     <offer sku="2888C001" xmlns="">
       <model>PFI-120 Yellow (130 мл для ТМ-серии)</model>
       <brand>Canon</brand>
-      <price>46224</price>
+      <price>46179</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10942,7 +10806,7 @@
     <offer sku="2890C001" xmlns="">
       <model>PFI-320 Black (300 ml)</model>
       <brand>Canon</brand>
-      <price>84694</price>
+      <price>84609</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10950,7 +10814,7 @@
     <offer sku="8524B002" xmlns="">
       <model>TONER C-EXV 49 BLACK  Yield 36k for iR ADV C33xx</model>
       <brand>Canon</brand>
-      <price>39495</price>
+      <price>39458</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10958,7 +10822,7 @@
     <offer sku="8525B002" xmlns="">
       <model>TONER C-EXV 49 CYAN  Yield 19k for iR ADV C33xx</model>
       <brand>Canon</brand>
-      <price>60198</price>
+      <price>60138</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10966,7 +10830,7 @@
     <offer sku="8526B002" xmlns="">
       <model>TONER C-EXV 49 MAGENTA  Yield 19k for iR ADV C33xx</model>
       <brand>Canon</brand>
-      <price>60198</price>
+      <price>60138</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10974,7 +10838,7 @@
     <offer sku="8527B002" xmlns="">
       <model>TONER C-EXV 49 YELLOW  Yield 19k for iR ADV C33xx</model>
       <brand>Canon</brand>
-      <price>60198</price>
+      <price>60138</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10982,7 +10846,7 @@
     <offer sku="0484C002" xmlns="">
       <model>TONER C-EXV 51 YELLOW  60,000 pages for iR ADV C55xx</model>
       <brand>Canon</brand>
-      <price>193196</price>
+      <price>193001</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -10990,7 +10854,7 @@
     <offer sku="1396C002" xmlns="">
       <model>TONER C-EXV 54 Magenta 8,500 pages for iR ADV C30xx</model>
       <brand>Canon</brand>
-      <price>47259</price>
+      <price>47213</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -10998,7 +10862,7 @@
     <offer sku="1397C002" xmlns="">
       <model>TONER C-EXV 54 Yellow 8,500 pages for iR ADV C30xx</model>
       <brand>Canon</brand>
-      <price>47259</price>
+      <price>47213</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11006,7 +10870,7 @@
     <offer sku="3760C002" xmlns="">
       <model>TONER C-EXV 59 TONER BLAC Тонер черный для 2625i/2630i/2545i</model>
       <brand>Canon</brand>
-      <price>59163</price>
+      <price>59105</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11014,7 +10878,7 @@
     <offer sku="2788B002" xmlns="">
       <model>TONER CEXV43(IRADV4/500i)</model>
       <brand>Canon</brand>
-      <price>45706</price>
+      <price>45662</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11022,7 +10886,7 @@
     <offer sku="2184C002" xmlns="">
       <model>Toner Magenta(C-EXV 55 TONER M EUR) IRC 256i/356i  ресурс: 18000 стр</model>
       <brand>Canon</brand>
-      <price>85729</price>
+      <price>85643</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11030,7 +10894,7 @@
     <offer sku="3020C006" xmlns="">
       <model>TONER T09 BK Тонер черный 7600 страниц для i-S X C1127</model>
       <brand>Canon</brand>
-      <price>61234</price>
+      <price>61173</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11038,7 +10902,7 @@
     <offer sku="3019C006" xmlns="">
       <model>TONER T09 Cyan Синий тонер  5900 страниц для i-S X C1127</model>
       <brand>Canon</brand>
-      <price>91422</price>
+      <price>91330</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11046,7 +10910,7 @@
     <offer sku="3018C006" xmlns="">
       <model>TONER T09 Magenta Красный тонер 5900 страниц для i-S X C1127</model>
       <brand>Canon</brand>
-      <price>91422</price>
+      <price>91330</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11054,7 +10918,7 @@
     <offer sku="3017C006" xmlns="">
       <model>TONER T09 Yellow Желтый тонер 5900 страниц для i-S X C1127</model>
       <brand>Canon</brand>
-      <price>91422</price>
+      <price>91330</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11062,7 +10926,7 @@
     <offer sku="2185C002" xmlns="">
       <model>Toner Yellow (C-EXV 55 TONER CYEUR) IRC 256i/356i  ресурс: 18000 стр</model>
       <brand>Canon</brand>
-      <price>85729</price>
+      <price>85643</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11070,7 +10934,7 @@
     <offer sku="3009C002" xmlns="">
       <model>Картридж-тонер CRG057 для LBP223 MF443, MF446  (3.100 стр.)</model>
       <brand>Canon</brand>
-      <price>56058</price>
+      <price>56002</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11086,7 +10950,7 @@
     <offer sku="1T02MS0NL0" xmlns="">
       <model>Тонер-картридж TK-3100 12 500 стр. Black для FS-2100D/2100DN/4100DN/4200DN/4300DN, M3040dn/M3540dn</model>
       <brand>Kyocera</brand>
-      <price>69115</price>
+      <price>69046</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11094,7 +10958,7 @@
     <offer sku="1T02XR0NL0" xmlns="">
       <model>Тонер-картридж TK-4145 15 000 стр. для TASKalfa 2020/2021/2320/2321</model>
       <brand>Kyocera</brand>
-      <price>40478</price>
+      <price>40440</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11127,6 +10991,14 @@
       <model>Веб-камера Logitech C922 Pro Stream (Full HD 1080p/30fps, 720p/60fps, автофокус, угол обзора 78°, стереомикрофон, лицензия XSplit на 3мес, кабель 1.5м, штатив) (M/N: V-U0028)</model>
       <brand>Logitech</brand>
       <price>65970</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="960-001297" xmlns="">
+      <model>Веб-камера Logitech StreamCam OffWhite (1080p/60fps, автофокус, угол обзора 78° по диагонали, два всенаправленных микрофона с шумоподавляющим фильтром, кабель 1.5м, приспособления для крепления на мониторе и штативе, премиум-лицензия XSplit на 3 мес)</model>
+      <brand>Logitech</brand>
+      <price>88037</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11295,14 +11167,6 @@
       <model>Сумка для ноутбука Lenovo 15.6 Toploader T210 Grey</model>
       <brand>Lenovo</brand>
       <price>8167</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="DTXM/256GB" xmlns="">
-      <model>Флеш-накопитель Kingston 256Gb USB3.2 Gen1 Data Traveler Exodia M (Black+Teal)</model>
-      <brand>Kingston</brand>
-      <price>10957</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11611,14 +11475,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="CSE-825TQC-R802LPB" xmlns="">
-      <model>Supermicro server chassis CSE-825TQC-R802LPB, 2U, Dual and Single Intel and AMD CPUs, 3 x 80mm Hot-swap PWM Fans, 8 x 3.5" hot-swap SAS3/SATA , 7 low-profile expansion slot(s), 1U 800W  RPSU</model>
-      <brand>SUPERMICRO</brand>
-      <price>482658</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="M6550NW" xmlns="">
       <model>Pantum M6550NW</model>
       <brand>PANTUM</brand>
@@ -11641,14 +11497,6 @@
       <price>5978</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="CNE-CMSW1BL" xmlns="">
-      <model>CNE-CMSW1BL CANYON мышь, цвет - синий, беспроводная 2.4 Гц, DPI 800/1000/1200 DPI, 3 кнопки и колесо прокрутки, прорезиненное покрытие</model>
-      <brand>CANYON</brand>
-      <price>5753</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="CNE-CEP3DG" xmlns="">
@@ -11851,18 +11699,18 @@
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="90Q900CXKZ" xmlns="">
+      <model>Системный блок Lenovo 90Q900CXKZ  Legion T7 34IMZ5 Intel Core i7-11700KF 3,6Ghz Octa/4x8GB/1TB SSD+1TB HDD/NVIDIA GeForce RTX 3080 10GB GDDR6X/Wi-Fi 6/BT5.0/Windows 11 Home/1Y/Black</model>
+      <brand>Lenovo</brand>
+      <price>851041</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="DS-D5019QE-B" xmlns="">
       <model>Монитор Hikvision 18.5" 1366768, HDMI/VGA input, view angle:90°/65°, plastic casing, ERP level A,VESA, base bracket included</model>
       <brand>Hikvision</brand>
       <price>106634</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="TF2234MC-B7X" xmlns="">
-      <model>Монитор LCD 21.5'' [16:9] 1920х1080(FHD) IPS, nonGLARE, TOUCH, 350cd/m2, H178°/V178°, 1000:1, 16.7M, 8ms, VGA, HDMI, DP, Open frame, 3Y, Black</model>
-      <brand>Iiyama</brand>
-      <price>247635</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11873,6 +11721,14 @@
       <price>113742</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="242B1TC/00" xmlns="">
+      <model>Монитор жидкокристаллический Philips 242B1TC/00 23.8'' 16:9 1920х1080(FHD) IPS, nonGLARE, TOUCH, 250cd/m2, H178°/V178°, 1000:1, 50M:1, 16,7М, 4ms, VGA, DVI, 1,4, 1,2, Height adj, Tilt, Swivel, Speakers, 3Y, Black</model>
+      <brand>Philips</brand>
+      <price>175656</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="DS-D5027FN(M)" xmlns="">
@@ -11947,18 +11803,10 @@
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="4471C009" xmlns="">
-      <model>MAXIFY GX7040</model>
-      <brand>Canon</brand>
-      <price>453776</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="4044C003" xmlns="">
       <model>4044C003 Сканер Протяжной Сканер DOCUMENT READER DR-S150,  А4, АПД 60 листов, 45 стр/мин, ежедневный объем - 4000 листов, USB 3.2, Ethernet, WiFi</model>
       <brand>Canon</brand>
-      <price>478134</price>
+      <price>477659</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11966,15 +11814,23 @@
     <offer sku="4812C001" xmlns="">
       <model>4812C001Протяжной Сканер DOCUMENT READER DR-S130,  А4, АПД 60 листов, 45 стр/мин, ежедневный объем - 4000 листов, USB 3.2, WiFi</model>
       <brand>Canon</brand>
-      <price>318255</price>
+      <price>317940</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="2646C003" xmlns="">
+      <model>Протяжной Сканер DOCUMENT READER C230</model>
+      <brand>Canon</brand>
+      <price>298267</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="3029C003" xmlns="">
       <model>imageRUNNER 2206N MFP (А3, ч/б, 22 стр/мин, без тонера в комплекте)</model>
       <brand>Canon</brand>
-      <price>438766</price>
+      <price>438347</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11982,7 +11838,7 @@
     <offer sku="4293C004" xmlns="">
       <model>imageRUNNER 2425I (А3, Ч/б печать 25 стр.мин А4/ 15 стр. мин. А3, в комплекте с ADF, без тонера )</model>
       <brand>Canon</brand>
-      <price>790721</price>
+      <price>789921</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -11990,7 +11846,7 @@
     <offer sku="0859C001" xmlns="">
       <model>PFI-1100 Blue</model>
       <brand>Canon</brand>
-      <price>19140</price>
+      <price>19124</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -11998,7 +11854,7 @@
     <offer sku="0856C001" xmlns="">
       <model>PFI-1100 Grey</model>
       <brand>Canon</brand>
-      <price>19140</price>
+      <price>19124</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12006,7 +11862,7 @@
     <offer sku="0857C001" xmlns="">
       <model>PFI-1100 Photo Grey</model>
       <brand>Canon</brand>
-      <price>19140</price>
+      <price>19124</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12014,7 +11870,7 @@
     <offer sku="0858C001" xmlns="">
       <model>PFI-1100 Red</model>
       <brand>Canon</brand>
-      <price>19140</price>
+      <price>19124</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12022,7 +11878,7 @@
     <offer sku="0784C001" xmlns="">
       <model>PFI-1700 Blue</model>
       <brand>Canon</brand>
-      <price>51399</price>
+      <price>51349</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12030,7 +11886,7 @@
     <offer sku="0776C001" xmlns="">
       <model>PFI-1700 Cyan</model>
       <brand>Canon</brand>
-      <price>168532</price>
+      <price>168360</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12038,7 +11894,7 @@
     <offer sku="0775C001" xmlns="">
       <model>PFI-1700 Photo Black</model>
       <brand>Canon</brand>
-      <price>180257</price>
+      <price>180075</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12046,7 +11902,7 @@
     <offer sku="0779C001" xmlns="">
       <model>PFI-1700 Photo Cyan</model>
       <brand>Canon</brand>
-      <price>168532</price>
+      <price>168360</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12054,7 +11910,7 @@
     <offer sku="0780C001" xmlns="">
       <model>PFI-1700 Photo Magenta</model>
       <brand>Canon</brand>
-      <price>168532</price>
+      <price>168360</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -12062,7 +11918,7 @@
     <offer sku="0778C001" xmlns="">
       <model>PFI-1700 Yellow</model>
       <brand>Canon</brand>
-      <price>168532</price>
+      <price>168360</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12099,6 +11955,14 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="910-006475" xmlns="">
+      <model>Мышь беспроводная Logitech LIFT PALE GREY (400-4000 dpi, Bluetooth, USB-ресивер Logi Bolt®, 4 настраиваемые кнопки)</model>
+      <brand>Logitech</brand>
+      <price>40301</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="910-006559" xmlns="">
       <model>Мышь беспроводная Logitech MX Master 3S GRAPHITE</model>
       <brand>Logitech</brand>
@@ -12123,14 +11987,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="910-005801" xmlns="">
-      <model>Мышь игровая Logitech G102 BLUE - EER - Lightsync (M/N: MU0054)</model>
-      <brand>Logitech</brand>
-      <price>17591</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="910-006014" xmlns="">
       <model>Мышь игровая беспроводная Logitech G305 LIGHTSPEED Blue (M/N: M-R0071 / C-U0008)</model>
       <brand>Logitech</brand>
@@ -12143,14 +11999,6 @@
       <model>Комплект беспроводной Logitech MK220 (клавиатура+мышь) (M/N: M-R0037/ Y-R0035 / C-U0011)</model>
       <brand>Logitech</brand>
       <price>13742</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="920-008213" xmlns="">
-      <model>Комплект беспроводной Logitech MK240 Nano Black/Yellow (клавиатура+мышь) (M/N: M-R0041 / Y-R0036 / C-U0010)</model>
-      <brand>Logitech</brand>
-      <price>15677</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12191,30 +12039,6 @@
       <model>USB-приемник Logitech USB Unifying receiver (STANDALONE) (M/N: C-U0012)</model>
       <brand>Logitech</brand>
       <price>11355</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="956-000051" xmlns="">
-      <model>Коврик для мыши Logitech Mouse Pad Studio Series, BLUE GREY (M/N: NONE)</model>
-      <brand>Logitech</brand>
-      <price>7785</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="956-000049" xmlns="">
-      <model>Коврик для мыши Logitech Mouse Pad Studio Series, GRAPHITE (M/N: NONE)</model>
-      <brand>Logitech</brand>
-      <price>8000</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="956-000054" xmlns="">
-      <model>Коврик для стола Logitech Desk Mat, LAVENDER</model>
-      <brand>Logitech</brand>
-      <price>14581</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12275,18 +12099,10 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="16GMNW01A01" xmlns="">
-      <model>NOKIA 125 DS TA-1253 WHITE, 2.4'', 1 Core, 4MB + 4MB (ROM/RAM), Micro SD, up to 32GB flash, GSM, 2 Sim, Micro-USB, 1020mAh, 91g, 50.5x132x15</model>
-      <brand>Nokia</brand>
-      <price>25159</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="1483C025" xmlns="">
       <model>EOS 5D Mark IV Body без объектива, черный, 22Mpx CMOS 35мм, HD1080/30, экран 3.2'', Li-ion</model>
       <brand>Canon</brand>
-      <price>848602</price>
+      <price>847708</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12387,12 +12203,12 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="YNDX-00025 Yellow" xmlns="">
-      <model>Яндекс.Станция Лайт Желтая YNDX-00025 (Умная колонка с голосовым помощником)</model>
+    <offer sku="YNDX-00025 Beige" xmlns="">
+      <model>Яндекс.Станция Лайт Бежевая YNDX-00025 (Умная колонка с голосовым помощником)</model>
       <brand>Yandex</brand>
       <price>36091</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="YNDX-00025 Green" xmlns="">
@@ -12407,22 +12223,6 @@
       <model>Яндекс.Станция Лайт Розовая YNDX-00025 (Умная колонка с голосовым помощником)</model>
       <brand>Yandex</brand>
       <price>36091</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="YNDX-00020 Gray" xmlns="">
-      <model>Яндекс.Станция Мини Плюс Серая YNDX-00020 с часами (Умная колонка с голосовым помощником)</model>
-      <brand>Yandex</brand>
-      <price>52447</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="941-000158" xmlns="">
-      <model>Контроллер для игровых симуляторов Logitech G923 (гоночный руль и педали для Xbox Series X/S, Xbox One и ПК) (M/N: WU0007)</model>
-      <brand>Logitech</brand>
-      <price>247140</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -12891,22 +12691,6 @@
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
-    <offer sku="21121210G SB" xmlns="">
-      <model>Мобильный телефон POCO F4 GT 12GB RAM 256GB ROM Stealth Black</model>
-      <brand>POCO</brand>
-      <price>233108</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="21121210G CY" xmlns="">
-      <model>Мобильный телефон POCO F4 GT 12GB RAM 256GB ROM Cyber Yellow</model>
-      <brand>POCO</brand>
-      <price>297624</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
     <offer sku="21121210G KS" xmlns="">
       <model>Мобильный телефон POCO F4 GT 12GB RAM 256GB ROM Knight Silver</model>
       <brand>POCO</brand>
@@ -12928,7 +12712,7 @@
       <brand>Xiaomi</brand>
       <price>2913</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="AL401" xmlns="">
@@ -13112,7 +12896,7 @@
       <brand>Deepcool</brand>
       <price>7883</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="DP-N123-N180FS" xmlns="">
@@ -14736,7 +14520,7 @@
       <brand>SVC</brand>
       <price>45146</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="V-1000-F" xmlns="">
@@ -14963,14 +14747,6 @@
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
-    <offer sku="004212" xmlns="">
-      <model>Мобильный телефон Xiaomi 12 Lite 8GB RAM 256GB ROM Black</model>
-      <brand>Xiaomi</brand>
-      <price>175731</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
     <offer sku="004213" xmlns="">
       <model>Мобильный телефон Xiaomi 12 Lite 8GB RAM 256GB ROM Lite Green</model>
       <brand>Xiaomi</brand>
@@ -14991,22 +14767,6 @@
       <model>Мобильный телефон POCO C40 4GB RAM 64GB ROM POCO Yellow</model>
       <brand>POCO</brand>
       <price>47527</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="004217" xmlns="">
-      <model>Мобильный телефон POCO M4 PRO 6GB RAM 128GB ROM POCO Yellow</model>
-      <brand>POCO</brand>
-      <price>87301</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="004218" xmlns="">
-      <model>Мобильный телефон POCO M4 PRO 8GB RAM 256GB ROM POCO Yellow</model>
-      <brand>POCO</brand>
-      <price>92677</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -15099,8 +14859,48 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="4823089318912" xmlns="">
+      <model>Поводок-рулетка WAUDOG  с рисунком "NASA", размер L, до 50 кг, 5 м черная, шт</model>
+      <brand>Waudog</brand>
+      <price>12932</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="4823089324500" xmlns="">
       <model>Поводок-рулетка WAUDOG с рисунком "Бэтмен Черный", размер L, до 50 кг, 5 м, черный, шт</model>
+      <brand>Waudog</brand>
+      <price>21250</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="4823089324142" xmlns="">
+      <model>Поводок-рулетка WAUDOG с рисунком "Джокер Зеленый", размер L, до 50 кг, 5 м, черный, шт</model>
+      <brand>Waudog</brand>
+      <price>21250</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="4823089324159" xmlns="">
+      <model>Поводок-рулетка WAUDOG с рисунком "Джокер Зеленый", размер M, до 25 кг, 5 м черная, шт</model>
+      <brand>Waudog</brand>
+      <price>16955</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="4823089324166" xmlns="">
+      <model>Поводок-рулетка WAUDOG с рисунком "Джокер Зеленый", размер S, до 15 кг, 5 м , черный, шт</model>
+      <brand>Waudog</brand>
+      <price>14977</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="4823089324340" xmlns="">
+      <model>Поводок-рулетка WAUDOG с рисунком "Супермен Герой", размер L, до 50 кг, 5 м, черный, шт</model>
       <brand>Waudog</brand>
       <price>21250</price>
       <availabilities>
@@ -15115,12 +14915,44 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="4823089324388" xmlns="">
+      <model>Поводок-рулетка WAUDOG с рисунком "Супермен Лого Красный", размер L, до 50 кг, 5 м, черный, шт</model>
+      <brand>Waudog</brand>
+      <price>21250</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="4823089324302" xmlns="">
       <model>Поводок-рулетка WAUDOG с рисунком "Супермен Лого", размер L, до 50 кг, 5 м, черный, шт</model>
       <brand>Waudog</brand>
       <price>21250</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="4823089324319" xmlns="">
+      <model>Поводок-рулетка WAUDOG с рисунком "Супермен Лого", размер M, до 25 кг, 5 м, черный, шт</model>
+      <brand>Waudog</brand>
+      <price>16955</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="4823089324326" xmlns="">
+      <model>Поводок-рулетка WAUDOG с рисунком "Супермен Лого", размер S, до 15 кг, 5 м , черный, шт</model>
+      <brand>Waudog</brand>
+      <price>14977</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="4823089320410" xmlns="">
+      <model>Поводок-рулетка WAUDOG с рисунком "Шотландка",  размер S, до 15 кг, 5 м черная, шт</model>
+      <brand>Waudog</brand>
+      <price>11693</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="4603774234617" xmlns="">
@@ -15406,7 +15238,7 @@
     <offer sku="DTKN/128GB" xmlns="">
       <model>Флэш-накопитель Kingston 128Gb USB3.2 Gen1 Data Traveler Kyson (Metal Case)</model>
       <brand>Kingston</brand>
-      <price>8158</price>
+      <price>7249</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -15439,6 +15271,14 @@
       <model>Процессор CPU AMD Ryzen 5 7600X  4.7 GHz/6core/6+32Mb/105W Socket AM5</model>
       <brand>AMD</brand>
       <price>118283</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="100-000000591" xmlns="">
+      <model>Процессор CPU AMD Ryzen 7 7700X  4.5 GHz/6core/8+32Mb/105W Socket AM5</model>
+      <brand>AMD</brand>
+      <price>164859</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -15499,14 +15339,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="DK-19 PWM" xmlns="">
-      <model>Кулер для процессора ID-Cooling DK-19 PWM, S1700, 95W, 9cm fan, 600-2200rpm, 45.8CFM, 4pin</model>
-      <brand>ID-Cooling</brand>
-      <price>6106</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="Paladin EX400" xmlns="">
       <model>Кулер для процессора PCCooler Paladin EX400, S1700/1200/115x/AM4, 800-1800rpm, 73.6CFM, 180W</model>
       <brand>PCcooler</brand>
@@ -15526,7 +15358,7 @@
     <offer sku="NTBSD4P32SP-16" xmlns="">
       <model>Модуль памяти Netac Basic, NTBSD4P32SP-16, DDR4 DIMM, 16Gb, 3200Mhz, C16</model>
       <brand>Netac</brand>
-      <price>17947</price>
+      <price>17806</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -15535,14 +15367,6 @@
       <model>Модуль памяти Netac Basic, NTBSD5P48SP-16, DDR5 DIMM, 16Gb, 4800Mhz, C40</model>
       <brand>Netac</brand>
       <price>29539</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="KF432C16BB/8" xmlns="">
-      <model>Модуль памяти Kingston Fury Beast KF432C16BB/8 DDR4 DIMM 8Gb 3200 MHz CL16</model>
-      <brand>Kingston</brand>
-      <price>14238</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -15655,14 +15479,6 @@
       <model>Внешний жесткий диск 1Tb, Netac K331, USB 3.0, Black, Plastic Case</model>
       <brand>Netac</brand>
       <price>30336</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="NT05K338N-001T-30SL" xmlns="">
-      <model>Внешний жесткий диск 1Tb, Netac K338, USB 3.0, Silver+Grey, Aluminium Alloy, Plastic Housing</model>
-      <brand>Netac</brand>
-      <price>30282</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -15792,7 +15608,7 @@
       <brand>Western Digital</brand>
       <price>158828</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="HUS726T4TALE6L4-0B36040" xmlns="">
@@ -15871,14 +15687,6 @@
       <model>Жёсткий диск HDD 14 Tb SATA 6Gb/s Seagate Exos X18 ST14000NM000J 3.5" 7200rpm 256Mb</model>
       <brand>Seegate</brand>
       <price>182664</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="GP-AP1200PM" xmlns="">
-      <model>Блок питания Gigabyte AORUS GP-AP1200PM, 1200W, Modular, 13.5cm fan, Active PFC, 80 Plus PLATINUM</model>
-      <brand>Gigabyte</brand>
-      <price>118228</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -16699,6 +16507,14 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="WUH721414AL5204" xmlns="">
+      <model>Жесткий диск для сервера Western Digital Ultrastar DC HDD Server HE14 (3.5’’, 14TB, 512MB, 7200 RPM, SAS 12Gb/s, 512E SE P3), SKU: 0F31052</model>
+      <brand>Western Digital</brand>
+      <price>177766</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="WUH721816ALE6L4" xmlns="">
       <model>Жесткий диск для сервера HDD Server WD/HGST ULTRASTAR DC HC550 (3.5’’, 16TB, 512MB, 7200 RPM, SATA 6Gb/s, 512N SE NP3), SKU: 0F38462</model>
       <brand>Western Digital</brand>
@@ -16811,14 +16627,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="981-000864" xmlns="">
-      <model>Игровая гарнитура LOGITECH G733 LIGHTSPEED Wireless RGB Gaming Headset - BLACK</model>
-      <brand>Logitech</brand>
-      <price>84817</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="981-000890" xmlns="">
       <model>Игровая гарнитура LOGITECH G733 LIGHTSPEED Wireless RGB Gaming Headset - LILAC</model>
       <brand>Logitech</brand>
@@ -16879,14 +16687,6 @@
       <model>Игровая клавиатура LOGITECH G915 TKL LIGHTSPEED Wireless Mechanical Gaming Keyboard - WHITE - RUS - TACTILE</model>
       <brand>Logitech</brand>
       <price>119570</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="920-010438" xmlns="">
-      <model>Игровая клавиатура LOGITECH G413 SE Corded Mechanical Gaming Keyboard - BLACK - RUS - USB - TACTILE</model>
-      <brand>Logitech</brand>
-      <price>46344</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17219,18 +17019,18 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="910-001949" xmlns="">
-      <model>Мышь (Box) LOGITECH M705 Marathon Wireless Mouse - BLACK</model>
+    <offer sku="910-001793" xmlns="">
+      <model>Мышь (Box) LOGITECH M90 Corded Mouse - GREY - USB - EWR2</model>
       <brand>Logitech</brand>
-      <price>27065</price>
+      <price>6075</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="910-002496" xmlns="">
-      <model>Мышь (Box) LOGITECH M235 Wireless Mouse - RED</model>
+    <offer sku="910-001949" xmlns="">
+      <model>Мышь (Box) LOGITECH M705 Marathon Wireless Mouse - BLACK</model>
       <brand>Logitech</brand>
-      <price>13318</price>
+      <price>27065</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -17401,14 +17201,6 @@
       <price>50839</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="KF426C16BB/32" xmlns="">
-      <model>Память для игрового ПК Kingston 32GB 2666MT/s DDR4 CL16 DIMM FURY Beast Black, EAN: 740617320091</model>
-      <brand>Kingston</brand>
-      <price>38017</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="KF432C16BBA/32" xmlns="">
@@ -17728,7 +17520,7 @@
       <brand>Samsung</brand>
       <price>52358</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="MEGARAID SAS 9560- 8I" xmlns="">
@@ -17923,14 +17715,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="MBD-X12DPI-N6-O" xmlns="">
-      <model>Системная плата для сервера Supermicro mainboard server MBD-X12DPI-N6-O E-ATX, Dual Socket LGA-4189, Intel C621A, 2 PCI-E 4.0 x8, 4 PCI-E 4.0 x16, 2 PCI-E 4.0 NVMe x8 Internal Port(s),</model>
-      <brand>Supermicro</brand>
-      <price>470654</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="MBD-X12DPL-I6-O" xmlns="">
       <model>Системная плата для сервера Supermicro mainboard server MBD-X12DPL-i6-O, 3rd Gen Intel Xeon Scalable processors, Intel C621A, Intel C621A controller for 12 SATA3 (6 Gbps) ports; RAID 0,1,5,10, </model>
       <brand>Supermicro</brand>
@@ -18099,26 +17883,10 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="MZQL21T9HCJR-00A07" xmlns="">
-      <model>Твердотельный накопитель (SSD) для сервера SAMSUNG PM9A3 1.92TB Data Center SSD, 2.5'' 7mm, PCIe Gen4 x4, Read/Write: 6800/4000 MB/s, Random Read/Write IOPS 1000K/180K</model>
-      <brand>Samsung</brand>
-      <price>157268</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="MZQLB960HAJR-00007" xmlns="">
       <model>Твердотельный накопитель (SSD) для сервера SAMSUNG PM983 960GB Data Center SSD, 2.5" 7mm, PCIe Gen3 x4, Read/Write: 3200/1100 MB/s, Random Read/Write IOPS 400K/40K</model>
       <brand>Samsung</brand>
       <price>68436</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="910-005843" xmlns="">
-      <model>Указательное устройство в коробке LOGITECH R500s Bluetooth Presentation Remote - GRAPHITE</model>
-      <brand>Logitech</brand>
-      <price>24839</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -18203,14 +17971,6 @@
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
-    <offer sku="004360" xmlns="">
-      <model>Мобильный телефон Redmi A1+ 2GB RAM 32GB ROM Light Green</model>
-      <brand>Redmi</brand>
-      <price>23903</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
     <offer sku="004361" xmlns="">
       <model>Мобильный телефон Redmi 12C 3GB RAM 64GB ROM Graphite Gray</model>
       <brand>Redmi</brand>
@@ -18251,14 +18011,6 @@
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
-    <offer sku="004366" xmlns="">
-      <model>Мобильный телефон Redmi 12C 4GB RAM 128GB ROM Lavender Purple</model>
-      <brand>Redmi</brand>
-      <price>57366</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
     <offer sku="004367" xmlns="">
       <model>Мобильный телефон Redmi 10 2022 4GB RAM 64GB ROM Sea Blue</model>
       <brand>Redmi</brand>
@@ -18277,14 +18029,6 @@
     </offer>
     <offer sku="004369" xmlns="">
       <model>Мобильный телефон Redmi Note 12 6GB RAM 128GB ROM Onyx Gray</model>
-      <brand>Redmi</brand>
-      <price>78871</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="004370" xmlns="">
-      <model>Мобильный телефон Redmi Note 12 4GB RAM 128GB ROM Ice Blue</model>
       <brand>Redmi</brand>
       <price>78871</price>
       <availabilities>
@@ -18479,14 +18223,6 @@
       <model>Мобильный телефон Poco X5 Pro 5G 8GB RAM 256GB ROM Yellow</model>
       <brand>Poco</brand>
       <price>169710</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="004396" xmlns="">
-      <model>Мобильный телефон Poco F5 12GB RAM 256GB ROM Blue</model>
-      <brand>Poco</brand>
-      <price>195527</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -19163,14 +18899,6 @@
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
-    <offer sku="004556" xmlns="">
-      <model>Материнская плата Gigabyte B760I AORUS PRO DDR4</model>
-      <brand>Gigabyte</brand>
-      <price>111144</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
     <offer sku="004557" xmlns="">
       <model>Материнская плата Gigabyte B760M G X AX DDR4</model>
       <brand>Gigabyte</brand>
@@ -19392,7 +19120,7 @@
       <brand>PALIT</brand>
       <price>1088306</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004611" xmlns="">
@@ -19504,7 +19232,7 @@
       <brand>Kingston</brand>
       <price>11647</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004630" xmlns="">
@@ -20360,7 +20088,7 @@
       <brand>Kingston</brand>
       <price>36549</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004750" xmlns="">
@@ -20872,7 +20600,7 @@
       <brand>Deepcool</brand>
       <price>18972</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004832" xmlns="">
@@ -21376,7 +21104,7 @@
       <brand>X-Game</brand>
       <price>16366</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004897" xmlns="">
@@ -21424,7 +21152,7 @@
       <brand>Deepcool</brand>
       <price>28151</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="004905" xmlns="">
@@ -22728,7 +22456,7 @@
       <brand>HyperX</brand>
       <price>14000</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005110" xmlns="">
@@ -22896,7 +22624,7 @@
       <brand>HyperX</brand>
       <price>27978</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005138" xmlns="">
@@ -22984,7 +22712,7 @@
       <brand>Glorious</brand>
       <price>10269</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005149" xmlns="">
@@ -24408,7 +24136,7 @@
       <brand>Ipower</brand>
       <price>9018</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005359" xmlns="">
@@ -25960,7 +25688,7 @@
       <brand>Kingstone</brand>
       <price>3891</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005564" xmlns="">
@@ -26944,7 +26672,7 @@
       <brand>Xerox</brand>
       <price>200317</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005751" xmlns="">
@@ -27520,7 +27248,7 @@
       <brand>Xiaomi</brand>
       <price>155261</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="005971" xmlns="">
@@ -27960,7 +27688,7 @@
       <brand>REDMOND</brand>
       <price>80677</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006075" xmlns="">
@@ -27975,6 +27703,14 @@
       <model>Электрошашлычница Centek CT-1460</model>
       <brand>Centek</brand>
       <price>22142</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="" />
+      </availabilities>
+    </offer>
+    <offer sku="006088" xmlns="">
+      <model>Гриль REDMOND SteakMaster RGM-M800 Черный/сталь</model>
+      <brand>REDMOND</brand>
+      <price>42441</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -28000,7 +27736,7 @@
       <brand>REDMOND</brand>
       <price>71731</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006095" xmlns="">
@@ -28008,7 +27744,7 @@
       <brand>REDMOND</brand>
       <price>112032</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006096" xmlns="">
@@ -28104,7 +27840,7 @@
       <brand>REDMOND</brand>
       <price>38484</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006119" xmlns="">
@@ -28120,13 +27856,21 @@
       <brand>REDMOND</brand>
       <price>51645</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006122" xmlns="">
       <model>Мультиварка Centek CT-1472 Ceramic</model>
       <brand>Centek</brand>
       <price>44712</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="" />
+      </availabilities>
+    </offer>
+    <offer sku="006124" xmlns="">
+      <model>Мультиварка REDMOND SkyCooker RMC-M224S Черный</model>
+      <brand>REDMOND</brand>
+      <price>54871</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -28144,7 +27888,7 @@
       <brand>REDMOND</brand>
       <price>65882</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006127" xmlns="">
@@ -28152,7 +27896,7 @@
       <brand>REDMOND</brand>
       <price>83086</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006129" xmlns="">
@@ -28176,7 +27920,7 @@
       <brand>REDMOND</brand>
       <price>32032</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006136" xmlns="">
@@ -28200,7 +27944,7 @@
       <brand>REDMOND</brand>
       <price>35258</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006141" xmlns="">
@@ -28256,7 +28000,7 @@
       <brand>REDMOND</brand>
       <price>63731</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006163" xmlns="">
@@ -28296,7 +28040,7 @@
       <brand>REDMOND</brand>
       <price>29882</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006168" xmlns="">
@@ -28483,12 +28227,20 @@
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
+    <offer sku="006278" xmlns="">
+      <model>Щипцы ROWENTA CF2133F0</model>
+      <brand>ROWENTA</brand>
+      <price>18728</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="" />
+      </availabilities>
+    </offer>
     <offer sku="006283" xmlns="">
       <model>Выпрямитель для волос REDMOND RCI-2314</model>
       <brand>REDMOND</brand>
       <price>17641</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006287" xmlns="">
@@ -28664,7 +28416,7 @@
       <brand>REDMOND</brand>
       <price>18598</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006320" xmlns="">
@@ -28768,7 +28520,7 @@
       <brand>Soocas</brand>
       <price>4757</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006333" xmlns="">
@@ -30528,7 +30280,7 @@
       <brand>Dahua</brand>
       <price>306178</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006620" xmlns="">
@@ -31224,7 +30976,7 @@
       <brand>TP-link</brand>
       <price>219841</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006717" xmlns="">
@@ -31232,7 +30984,7 @@
       <brand>TP-link</brand>
       <price>153454</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006718" xmlns="">
@@ -31456,7 +31208,7 @@
       <brand>BDCOM</brand>
       <price>45419</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006749" xmlns="">
@@ -31784,7 +31536,7 @@
       <brand>TP-link</brand>
       <price>340733</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006791" xmlns="">
@@ -31824,7 +31576,7 @@
       <brand>Dahua</brand>
       <price>177806</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="006796" xmlns="">
@@ -34656,7 +34408,7 @@
       <brand>SHIP</brand>
       <price>15444</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007168" xmlns="">
@@ -35072,7 +34824,7 @@
       <brand>SE</brand>
       <price>5367</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007221" xmlns="">
@@ -35096,7 +34848,7 @@
       <brand>SE</brand>
       <price>5593</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007224" xmlns="">
@@ -35331,6 +35083,14 @@
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
+    <offer sku="007255" xmlns="">
+      <model>Автоматический выключатель SE R9F12110 (АВ) 1P С 10А 6 kA</model>
+      <brand>SE</brand>
+      <price>3507</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="" />
+      </availabilities>
+    </offer>
     <offer sku="007256" xmlns="">
       <model>Автоматический выключатель SE R9F12120 (АВ) 1P С 20А 6 kA</model>
       <brand>SE</brand>
@@ -35473,6 +35233,14 @@
       <price>8918</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
+      </availabilities>
+    </offer>
+    <offer sku="007274" xmlns="">
+      <model>Автоматический выключатель SE R9F12325 (АВ) 3P С 25А 6 kA</model>
+      <brand>SE</brand>
+      <price>8918</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007275" xmlns="">
@@ -35886,7 +35654,7 @@
     <offer sku="007350" xmlns="">
       <model>Автоматический выключатель SE A9K24106 Acti9 iK60 1P С 6А 6 kA</model>
       <brand>SE</brand>
-      <price>4073</price>
+      <price>4002</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -35894,7 +35662,7 @@
     <offer sku="007351" xmlns="">
       <model>Автоматический выключатель SE A9K24110 Acti9 iK60 1P С 10А 6 kA</model>
       <brand>SE</brand>
-      <price>3443</price>
+      <price>3389</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -35902,7 +35670,7 @@
     <offer sku="007352" xmlns="">
       <model>Автоматический выключатель SE A9K24116 Acti9 iK60 1P С 16А 6 kA</model>
       <brand>SE</brand>
-      <price>3344</price>
+      <price>3292</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -35910,7 +35678,7 @@
     <offer sku="007353" xmlns="">
       <model>Автоматический выключатель SE A9K24120 Acti9 iK60 1P С 20А 6 kA</model>
       <brand>SE</brand>
-      <price>3443</price>
+      <price>3389</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -35918,7 +35686,7 @@
     <offer sku="007354" xmlns="">
       <model>Автоматический выключатель SE A9K24125 Acti9 iK60 1P С 25А 6 kA</model>
       <brand>SE</brand>
-      <price>3344</price>
+      <price>3292</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -35926,7 +35694,7 @@
     <offer sku="007355" xmlns="">
       <model>Автоматический выключатель SE A9K24206 Acti9 iK60 2P С 6А 6 kA</model>
       <brand>SE</brand>
-      <price>8244</price>
+      <price>8100</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -36792,7 +36560,7 @@
       <brand>АПЭК</brand>
       <price>3799</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007490" xmlns="">
@@ -36808,7 +36576,7 @@
       <brand>АПЭК</brand>
       <price>3799</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007492" xmlns="">
@@ -37203,22 +36971,6 @@
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
-    <offer sku="007571" xmlns="">
-      <model>Перфоратор Makita HR4002</model>
-      <brand>Makita</brand>
-      <price>302740</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="007573" xmlns="">
-      <model>Перфоратор BOSCH GBH 220</model>
-      <brand>BOSCH</brand>
-      <price>59123</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
     <offer sku="007575" xmlns="">
       <model>Перфоратор BOSCH GBH 2-26 DRE</model>
       <brand>BOSCH</brand>
@@ -37311,14 +37063,6 @@
       <model>Аккумуляторный шуроповёрт BOSCH GSR 12V-30</model>
       <brand>BOSCH</brand>
       <price>83082</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="007605" xmlns="">
-      <model>Аккумуляторный шуроповёрт BOSCH GSR 18V-50</model>
-      <brand>BOSCH</brand>
-      <price>117917</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -39179,14 +38923,6 @@
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
-    <offer sku="007869" xmlns="">
-      <model>Надувной бассейн Bestway 57448</model>
-      <brand>Bestway</brand>
-      <price>15803</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
     <offer sku="007870" xmlns="">
       <model>Надувной бассейн Intex 28108NP</model>
       <brand>Intex</brand>
@@ -39347,14 +39083,6 @@
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
-    <offer sku="007892" xmlns="">
-      <model>Каркасный бассейн Bestway 5612X</model>
-      <brand>Bestway</brand>
-      <price>230620</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
     <offer sku="007893" xmlns="">
       <model>Каркасный бассейн Bestway 5612Z</model>
       <brand>Bestway</brand>
@@ -39448,7 +39176,7 @@
       <brand>Intex</brand>
       <price>43627</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007909" xmlns="">
@@ -39528,15 +39256,7 @@
       <brand>Intex</brand>
       <price>231293</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="007920" xmlns="">
-      <model>Каркасный бассейн Intex 26744NP</model>
-      <brand>Intex</brand>
-      <price>312528</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007921" xmlns="">
@@ -39672,7 +39392,7 @@
       <brand>Intex</brand>
       <price>80110</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007940" xmlns="">
@@ -39745,14 +39465,6 @@
       <price>4207</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="007951" xmlns="">
-      <model>Тент для бассейна Bestway 58248</model>
-      <brand>Bestway</brand>
-      <price>8408</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="007952" xmlns="">
@@ -40520,7 +40232,7 @@
       <brand>Xerox</brand>
       <price>132395</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="008090" xmlns="">
@@ -42848,7 +42560,7 @@
       <brand>Europrint</brand>
       <price>36129</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="008421" xmlns="">
@@ -43440,7 +43152,7 @@
       <brand>Дана</brand>
       <price>2097</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008623" xmlns="">
@@ -43499,20 +43211,12 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="008634" xmlns="">
-      <model>Празицид®-комплекс (для собак и щенков менее 5 кг), 1*0,5 мл, шт</model>
-      <brand>Празицид</brand>
-      <price>2352</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="008635" xmlns="">
       <model>Празицид®-комплекс (для собак и щенков от 10 до 20 кг), 1*2 мл, шт</model>
       <brand>Празицид</brand>
       <price>2688</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008636" xmlns="">
@@ -43531,10 +43235,10 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="008644" xmlns="">
-      <model>Стоп-стресс® таблетки 5 (для собак крупных пород), 20*500 мг, шт</model>
-      <brand>Стоп-стресс</brand>
-      <price>4358</price>
+    <offer sku="008657" xmlns="">
+      <model>Поводок-рулетка WAUDOG с рисунком "ВАУ", размер S, до 15 кг, 5 м черная, шт</model>
+      <brand>Waudog</brand>
+      <price>14625</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -44323,6 +44027,78 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="008810" xmlns="">
+      <model>FG 05206 GOOD CAT Мультивитаминное лакомcтво для кошек со вкусом "ГОЛЛАНДСКОГО СЫРА" 90 таб., шт</model>
+      <brand>GOOT CAT</brand>
+      <price>1523</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="008811" xmlns="">
+      <model>FG 05207 GOOD CAT Мультивитаминное лакомcтво для кошек со вкусом "НОРВЕЖСКОГО ЛОСОСЯ" 90 таб., шт</model>
+      <brand>GOOT CAT</brand>
+      <price>1523</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="008812" xmlns="">
+      <model>FG-05215 GOOD CAT Мультивитаминное лакомcтво для Кошек со вкусом "СОЧНОЙ БАРАНИНЫ" 90 таб, шт</model>
+      <brand>GOOT CAT</brand>
+      <price>1523</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="008813" xmlns="">
+      <model>GOOD CAT Мультивитаминное лакомcтво для Кошек "В ПЕРИОД ЛИНЬКИ" 90 таб. (ш/б=6шт.), шт</model>
+      <brand>GOOT CAT</brand>
+      <price>1523</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="008814" xmlns="">
+      <model>GOOD CAT Мультивитаминное лакомcтво для Кошек "ВЫВЕДЕНИЕ ШЕРСТИ " 90 таб. (ш/б=6шт.), шт</model>
+      <brand>GOOT CAT</brand>
+      <price>1523</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="008820" xmlns="">
+      <model>FAVORITE миска пластиковая двойная нескользящая 0,45л. мятная, шт</model>
+      <brand>FAVORITE</brand>
+      <price>3233</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="008821" xmlns="">
+      <model>FG 17913 FAVORITE миска пластиковая двойная нескользящая 0,45л. голубая, шт</model>
+      <brand>FAVORITE</brand>
+      <price>1706</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="008822" xmlns="">
+      <model>FG 17917 FAVORITE миска пластиковая двойная нескользящая 0,45л. черная, шт</model>
+      <brand>FAVORITE</brand>
+      <price>1706</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="008823" xmlns="">
+      <model>FG 17918 FAVORITE миска пластиковая двойная нескользящая 0,45л. мраморная, шт</model>
+      <brand>FAVORITE</brand>
+      <price>1706</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="008824" xmlns="">
       <model>FG04102 Антипаразитарный БИОошейник для СОБАК от блох и клещей 65 см, шт</model>
       <brand>FAVORITE</brand>
@@ -44347,18 +44123,74 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="008829" xmlns="">
+      <model>FG11204 Good Cat Антипаразитарные БИО капли для Котят и Кошек от блох и клещей 1мл (уп. 3шт), шт</model>
+      <brand>FAVORITE</brand>
+      <price>1619</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="008830" xmlns="">
+      <model>FG11902 Good Dog&amp;Cat Лосьон для УШЕЙ для Кошек и Собак 30мл, шт</model>
+      <brand>FAVORITE</brand>
+      <price>1318</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="008831" xmlns="">
+      <model>FG03201 Good Cat Спрей для котят и кошек ЛИКВИДАТОР МЕТОК И ЗАПАХА, шт</model>
+      <brand>FAVORITE</brand>
+      <price>1869</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="008832" xmlns="">
+      <model>FG02108 Good Dog Шампунь для СОБАК и ЩЕНКОВ с ароматом АБРИКОСА, 250 мл., шт</model>
+      <brand>FAVORITE</brand>
+      <price>1369</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="008833" xmlns="">
       <model>FG02113 Good Dog Шампунь для СОБАК и ЩЕНКОВ с эктрактом АЛОЭ ВЕРА, 250 мл., шт</model>
       <brand>FAVORITE</brand>
       <price>1369</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="008834" xmlns="">
+      <model>FG02201 Good Cat Антипаразитарный шампунь для КОТЯТ И КОШЕК от блох и клещей, 250 мл., шт</model>
+      <brand>FAVORITE</brand>
+      <price>1898</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008835" xmlns="">
       <model>FG02213 Good Cat Шампунь для КОШЕК и КОТЯТ с экстрактом АЛОЭ ВЕРА, 250 мл., шт</model>
       <brand>FAVORITE</brand>
       <price>1369</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="008836" xmlns="">
+      <model>FG02215 Good Cat Шампунь для КОШЕК и КОТЯТ с ароматом BUBBLE GUM, 250 мл., шт</model>
+      <brand>FAVORITE</brand>
+      <price>1369</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="008837" xmlns="">
+      <model>FG02901 Good Dog&amp;Cat Антипаразитарный шампунь УНИВЕРСАЛЬНЫЙ для КОШЕК И СОБАК, 250 мл., шт</model>
+      <brand>FAVORITE</brand>
+      <price>1386</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -44376,7 +44208,7 @@
       <brand>Cliny</brand>
       <price>5591</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="008847" xmlns="">
@@ -44627,14 +44459,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="008906" xmlns="">
-      <model>Stop-спрей "Не царапает, не грызет" S302, шт</model>
-      <brand>Stop</brand>
-      <price>1699</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="008909" xmlns="">
       <model>Unitabs BreversComplex с Q 10 для мелк. соб U203, шт</model>
       <brand>Unitabs</brand>
@@ -44856,7 +44680,7 @@
       <brand>Intex</brand>
       <price>45682</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="008951" xmlns="">
@@ -45827,14 +45651,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="YNDX-00020 Red" xmlns="">
-      <model>Яндекс.Станция Мини Плюс Красная YNDX-00020 с часами (Умная колонка с голосовым помощником)</model>
-      <brand>Yandex</brand>
-      <price>52447</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="CS-LC3 (4MP W1)" xmlns="">
       <model>Сетевая IP видеокамера Ezviz CS-LC3 (4MP W1)</model>
       <brand>Ezviz</brand>
@@ -46072,7 +45888,7 @@
       <brand>HP</brand>
       <price>87194</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="CS-BC1C (4MP W1)" xmlns="">
@@ -46086,7 +45902,7 @@
     <offer sku="FQC-10547" xmlns="">
       <model>Win 11 Pro 64Bit Russian 1pk DSP OEI DVD</model>
       <brand>Microsoft</brand>
-      <price>84551</price>
+      <price>83581</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -46216,7 +46032,7 @@
       <brand>Lenovo</brand>
       <price>119055</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="MK3780-61A38" xmlns="">
@@ -46302,7 +46118,7 @@
     <offer sku="3981V746" xmlns="">
       <model>сканер Canon IRISCAN DESK 6, Г-образный (A4, Scanner, 12MP, 300 dpi, 1 sec, USB 2.0)</model>
       <brand>Canon</brand>
-      <price>139517</price>
+      <price>139388</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -46438,9 +46254,9 @@
     <offer sku="3853V999" xmlns="">
       <model>Сканер IRISCAN DESK 5 PRO, Г-образный (A3, Scanner, 12MP, 300 dpi, 3 sec, USB 2.0)</model>
       <brand>Canon</brand>
-      <price>167984</price>
+      <price>167824</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="YEEDI VAC Hybrid" xmlns="">
@@ -46454,15 +46270,7 @@
     <offer sku="1102VN3RU0" xmlns="">
       <model>Лазерный принтер Kyocera P2335dw (A4, 1200dpi, 256Mb, 35 ppm, 350 л., дуплекс, USB 2.0, Gigabit Ethernet, Wi-Fi) отгрузка только с доп. тонером TK-1200</model>
       <brand>KYOCERA</brand>
-      <price>219614</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="EDA51-0-B723SQGRK" xmlns="">
-      <model>Android 10 with GMS,WLAN,802.11 a/b/g/n/ac, N3601 engine, 1.8 GHz 8 core, 2GB/16GB Memory, 13MP Camera, Bluetooth 4.2, NFC, Battery 4,000 mAh, USB Charger, Grey, ROW</model>
-      <brand>HONEYWELL</brand>
-      <price>209319</price>
+      <price>219406</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -46494,7 +46302,7 @@
     <offer sku="5777C009" xmlns="">
       <model>МФУ Canon MAXIFY GX3040  (A4, Printer/Scanner/Copier/Duplex, 600x1200 dpi, inkjet, Color, 18 ppm, tray 100+250 pages, LCD Color (3,4 см), USB 2.0, WIFI cart. GI-46)</model>
       <brand>Canon</brand>
-      <price>228351</price>
+      <price>228133</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -46510,9 +46318,9 @@
     <offer sku="5455C023" xmlns="">
       <model>МФУ  Canon i-SENSYS MF754Cdw (A4,Printer/ Scanner/ Copier/FAX/ DADF/Duplex, 1200 dpi, Color, 33 ppm, 1 Gb,  1200 Mhz DualCore, tray 100+250 pages, LCD Color (12,7 см), USB 2.0, RJ-45, WIFI cart. 069)</model>
       <brand>Canon</brand>
-      <price>238703</price>
+      <price>238473</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="66F1GAC1EU" xmlns="">
@@ -46526,7 +46334,7 @@
     <offer sku="5779C009" xmlns="">
       <model>МФУ Canon MAXIFY GX4040  (A4, Printer/Scanner/Copier/FAX, 600x1200 dpi, inkjet, Color, 18 ppm, tray 100+250 pages, LCD Color (6,7 см), USB 2.0, LAN, WIFI cart. GI-46)</model>
       <brand>Canon</brand>
-      <price>271449</price>
+      <price>271197</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -46563,14 +46371,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="6F2C2EA" xmlns="">
-      <model>HP 250 G9 / UMA i3-1215U Trusted Platm Module / 15.6 FHD AG SVA 250 / 8GB 1D DDR4 3200 / 256GB PCIe NVMe Value / W11p64 </model>
-      <brand>HP</brand>
-      <price>303884</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="MOVE1EU1BLK" xmlns="">
       <model>Беспроводная аудиосистема Sonos Move Black, MOVE1EU1BLK</model>
       <brand>SONOS</brand>
@@ -46595,18 +46395,10 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="90RC00PFKZ" xmlns="">
-      <model>Системный блок Lenovo 90RC00PFKZ Legion T5 26AMR5 AMD Ryzen 7 3700X 3,6Ghz Octa/16GB/1TB+256GB/NVIDIA GeForce GTX1660 Super 6GB GDDR6/Wi-Fi 6/BT5.1/DOS/1Y/Black</model>
-      <brand>Lenovo</brand>
-      <price>336957</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="1102R73NL0" xmlns="">
       <model>Цветной копир-принтер-сканер-факс Kyocera M5526cdw (А4,26 ppm,1200 dpi,512 Mb,USB,Network,Wi-Fi,дуплекс,автоподатчик,тонер) продажа только с доп. тонерами TK-5240K/C/M/Y</model>
       <brand>KYOCERA</brand>
-      <price>369913</price>
+      <price>369555</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -46617,6 +46409,14 @@
       <price>369271</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="723Y0EA" xmlns="">
+      <model>HP 250 G9 / UMA i5-1235U Trusted Platm Module / 15.6 FHD AG SVA 250 / 8GB 1D DDR4 3200 / 256GB PCIe NVMe Value / W11p64 / 1yw / Ash   kbd TP Imagepad with numeric keypad / </model>
+      <brand>HP</brand>
+      <price>353833</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="PD45S0C0010000200" xmlns="">
@@ -46718,7 +46518,7 @@
     <offer sku="4470C009" xmlns="">
       <model>МФУ Canon MAXIFY GX6040  (A4, Printer/Scanner/Copier/DADF/Duplex, 600x1200 dpi, inkjet, Color, 24 ppm, tray 100+250 pages, LCD Color (6,9 см), USB 2.0, RJ-45, WIFI cart. GI-46)</model>
       <brand>Canon</brand>
-      <price>343910</price>
+      <price>343580</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -46731,10 +46531,18 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="P73-07788" xmlns="">
+      <model>Windows Svr Std 2019 64Bit English 1pk DSP OEI DVD 16 Core</model>
+      <brand>Microsoft</brand>
+      <price>396509</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="1102TY3NL1" xmlns="">
       <model>Цветной копир-принтер-сканер Kyocera M6230cidn (А4, 30 ppm, 1200 dpi, 1024 Mb, USB, Gigabit Ethernet, дуплекс, автоподатчик, тонер) продажа только с доп. тонерами TK-5270K/Y/M/C</model>
       <brand>KYOCERA</brand>
-      <price>484003</price>
+      <price>483534</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -46771,14 +46579,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="6B2F4EA" xmlns="">
-      <model>HP ProOne 440 / 440 G9 24 AiO BU-NT IDS / 440 23.8 G9 NT FY22 IDS / i5-12500T 6cores / 8GB / 256GB SSD / W11p64DowngradeW10p64 / No  ODD / 1yw / 125 BLKkbd / 125mouse / </model>
-      <brand>HP</brand>
-      <price>456844</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="21E6005FRT" xmlns="">
       <model>ThinkPad E15G4_I5-1235U_IG+8G/15.6FHD_AG_300N/CORE_I5-1235U_1.3G_10C_12T/NO_DIMM_MEMORY,8GB(4X16GX16)_DDR4_3200/256GB_SSD_M.2_2242_G4_TLC_OPAL/INTEGRATED_IRIS_XE_GRAPHICS/W11_PRO/</model>
       <brand>Lenovo</brand>
@@ -46791,14 +46591,6 @@
       <model>Моноблок Lenovo V30a-24IIL 23.8_ICL-U_NT_TOP_BEZEL/CORE_I5-1035G1_1.0G_4C_MB/8GB_DDR4_3200_SODIMM/256GB_SSD_M.2_2242_NVME_TLC/INTEGRATED_GRAPHICS/WINDOWS_10_PRO_64,W10_PRO/D04_1Y_ONSITE/</model>
       <brand>Lenovo</brand>
       <price>435224</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="5160C023" xmlns="">
-      <model>МФУ  Canon i-SENSYS MF553dw (A4, Printer/ Scanner/ Copier/FAX/ DADF/Duplex, 1200 dpi, Mono, 43  ppm, 1 Gb,  800 Mhz DualCore, tray 100+250 pages, LCD Color (12,7 см), USB 2.0, RJ-45, WIFI cart. 056)</model>
-      <brand>Canon</brand>
-      <price>484831</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -46847,14 +46639,6 @@
       <model>ThinkCentre M720q, Intel Core i7-9700T (2GHz, 12MB), Windows 10 Pro 64, 8.0GB, 1x500GB SATA III,1x256GB SSD PCIe, (x), 3 Year Depot</model>
       <brand>Lenovo</brand>
       <price>411461</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="12B00085RU" xmlns="">
-      <model>Моноблок Lenovo 12B00085RU ThinkCentre neo 30a 24 23,8'' FHD (1920 x 1080) IPS/Intel Core i7-1260P 12Cores/16GB/512GB/Integrated/Wi-Fi 6/BT5.1/720P HD Camera/USB mouse+keyboard/DOS/1Y/Black</model>
-      <brand>Lenovo</brand>
-      <price>512540</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -46950,7 +46734,7 @@
     <offer sku="1102V33NL0" xmlns="">
       <model>Лазерный копир-принтер-сканер-факс Kyocera M3645idn (А4, 45 ppm, 1200dpi, 1 Gb, USB, Net, touch panel, RADP, тонер) отгрузка только с доп. тонером TK-3060</model>
       <brand>KYOCERA</brand>
-      <price>933884</price>
+      <price>932930</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -46958,7 +46742,7 @@
     <offer sku="1102P43NL0" xmlns="">
       <model>Цветной копир-принтер-сканер Kyocera M8124cidn (А3, 24/12 ppm A4/A3 1,5 GB, USB, Network, дуплекс, автоподатчик, пуск. комплект)</model>
       <brand>KYOCERA</brand>
-      <price>1216431</price>
+      <price>1215172</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -46992,7 +46776,7 @@
       <brand>Redmi</brand>
       <price>73333</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="008981" xmlns="">
@@ -47035,14 +46819,6 @@
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
-    <offer sku="008986" xmlns="">
-      <model>Мобильный телефон Redmi Note 12 6GB RAM 128GB ROM Sunrise Gold</model>
-      <brand>Redmi</brand>
-      <price>87301</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
     <offer sku="008987" xmlns="">
       <model>Мобильный телефон Redmi Note 12 8GB RAM 256GB ROM Onyx Gray</model>
       <brand>Redmi</brand>
@@ -47061,14 +46837,6 @@
     </offer>
     <offer sku="008989" xmlns="">
       <model>Мобильный телефон Redmi Note 12 8GB RAM 256GB ROM Mint Green</model>
-      <brand>Redmi</brand>
-      <price>97828</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="008990" xmlns="">
-      <model>Мобильный телефон Redmi Note 12 8GB RAM 256GB ROM Sunrise Gold</model>
       <brand>Redmi</brand>
       <price>97828</price>
       <availabilities>
@@ -47240,7 +47008,7 @@
       <brand>Xiaomi</brand>
       <price>11747</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009013" xmlns="">
@@ -47270,7 +47038,7 @@
     <offer sku="009018" xmlns="">
       <model>Ноутбук Gigabyte AORUS 15 BSF 15.6" QHD 165Hz i7-13700H 16GB 1TB RTX4070 DOS</model>
       <brand>Gigabyte</brand>
-      <price>795484</price>
+      <price>800860</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -47305,14 +47073,6 @@
       <price>159892</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="009024" xmlns="">
-      <model>Моноблок 23.8" X-Game M600 (All in One)</model>
-      <brand>X-Game</brand>
-      <price>412473</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009025" xmlns="">
@@ -48080,7 +47840,7 @@
       <brand>Deepcool</brand>
       <price>50603</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009197" xmlns="">
@@ -48688,7 +48448,7 @@
       <brand>XPG</brand>
       <price>74151</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009287" xmlns="">
@@ -49584,7 +49344,7 @@
       <brand>Zowie</brand>
       <price>101591</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009418" xmlns="">
@@ -50264,7 +50024,7 @@
       <brand>Jabra</brand>
       <price>20366</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009516" xmlns="">
@@ -50608,7 +50368,7 @@
       <brand>Razer</brand>
       <price>122398</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009561" xmlns="">
@@ -52184,7 +51944,7 @@
       <brand>Redmond</brand>
       <price>71731</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009875" xmlns="">
@@ -52200,7 +51960,7 @@
       <brand>Russell</brand>
       <price>157452</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009877" xmlns="">
@@ -52248,7 +52008,7 @@
       <brand>Redmond</brand>
       <price>48419</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009900" xmlns="">
@@ -52299,6 +52059,14 @@
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
+    <offer sku="009907" xmlns="">
+      <model>Планетарный миксер Kitfort КТ-3080</model>
+      <brand>Kitfort</brand>
+      <price>78183</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="" />
+      </availabilities>
+    </offer>
     <offer sku="009908" xmlns="">
       <model>Планетарный миксер Kitfort КТ-1348-3 черный</model>
       <brand>Kitfort</brand>
@@ -52328,7 +52096,7 @@
       <brand>Kitfort</brand>
       <price>25581</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009917" xmlns="">
@@ -52336,7 +52104,7 @@
       <brand>Tefal</brand>
       <price>20204</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="009918" xmlns="">
@@ -53235,18 +53003,10 @@
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
-    <offer sku="010134" xmlns="">
-      <model>Автоматический выключатель SE A9F79110 Acti9 iC60N 1П 10А C 6кА</model>
-      <brand>SE</brand>
-      <price>5087</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
     <offer sku="010135" xmlns="">
       <model>Автоматический выключатель SE A9F74204 Acti9 iC60N 2P С 4А 6 kA</model>
       <brand>SE</brand>
-      <price>36500</price>
+      <price>35743</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -53254,7 +53014,7 @@
     <offer sku="010136" xmlns="">
       <model>Автоматический выключатель SE A9F74202 Acti9 iC60N 2P С 2А 6 kA</model>
       <brand>SE</brand>
-      <price>32440</price>
+      <price>31784</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -53270,7 +53030,7 @@
     <offer sku="010138" xmlns="">
       <model>Автоматический выключатель SE A9K24210 Acti9 iK60 2P С 10А 6 kA</model>
       <brand>SE</brand>
-      <price>6173</price>
+      <price>6050</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -53278,7 +53038,7 @@
     <offer sku="010139" xmlns="">
       <model>Автоматический выключатель SE A9F79210 Acti9 iC60N 2P С 10А 6 kA</model>
       <brand>SE</brand>
-      <price>16383</price>
+      <price>16099</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -53286,7 +53046,7 @@
     <offer sku="010140" xmlns="">
       <model>Автоматический выключатель SE A9F79216 Acti9 iC60N 2P С 16А 6 kA</model>
       <brand>SE</brand>
-      <price>12294</price>
+      <price>12050</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -53294,7 +53054,7 @@
     <offer sku="010141" xmlns="">
       <model>Автоматический выключатель SE A9F75216 Acti9 iC60N 2P D 16А 6 kA</model>
       <brand>SE</brand>
-      <price>16408</price>
+      <price>16122</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -53302,7 +53062,7 @@
     <offer sku="010142" xmlns="">
       <model>Автоматический выключатель SE A9F79332 Acti9 iC60N 3П 32А C 6кА</model>
       <brand>SE</brand>
-      <price>18461</price>
+      <price>18124</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -53310,7 +53070,7 @@
     <offer sku="010144" xmlns="">
       <model>Автоматический выключатель Legrand 404026 1П C10A TX3 6000/6kA</model>
       <brand>Legrand</brand>
-      <price>2761</price>
+      <price>2944</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -53318,7 +53078,7 @@
     <offer sku="010145" xmlns="">
       <model>Автоматический выключатель Legrand 404031 1П C32A TX3 6000/6kA</model>
       <brand>Legrand</brand>
-      <price>3090</price>
+      <price>3312</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -53326,7 +53086,7 @@
     <offer sku="010146" xmlns="">
       <model>Автоматический выключатель Legrand 407263 1П C16A DX3-Е 6000/6kA</model>
       <brand>Legrand</brand>
-      <price>3548</price>
+      <price>3824</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -55163,6 +54923,14 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="010516" xmlns="">
+      <model>Intel CPU Desktop Core i9-14900KF (up to 6.00 GHz, 36MB, LGA1700) box</model>
+      <brand>INTEL</brand>
+      <price>306510</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="010517" xmlns="">
       <model>SAMSUNG PM893 1.92TB Data Center SSD, 2.5'' 7mm, SATA 6Gb/s, Read/Write: 560/530 MB/s, Random Read/Write IOPS 98K/31K</model>
       <brand>Samsung</brand>
@@ -55283,18 +55051,10 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="010535" xmlns="">
-      <model>AMD CPU Desktop Ryzen 5 6C/12T 3600 (4.2GHz,36MB,65W,AM4)  tray</model>
-      <brand>AMD</brand>
-      <price>39992</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="010536" xmlns="">
       <model>Lexar® DDR4 16GB 288 PIN U-DIMM 3200Mbps, CL22, 1.2V- BLISTER Package, EAN: 843367123803</model>
       <brand>LEXAR</brand>
-      <price>20573</price>
+      <price>18114</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -55302,7 +55062,7 @@
     <offer sku="010537" xmlns="">
       <model>Lexar® DDR4 32GB 288 PIN U-DIMM 3200Mbps, CL22, 1.2V- BLISTER Package, EAN: 843367123810</model>
       <brand>LEXAR</brand>
-      <price>37709</price>
+      <price>34780</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -55662,7 +55422,7 @@
     <offer sku="010589" xmlns="">
       <model>GOODRAM 8GB 3200MHz CL22 DIMM, EAN: 5908267960424</model>
       <brand>GOODRAM</brand>
-      <price>13226</price>
+      <price>10815</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -56056,7 +55816,7 @@
       <brand>Redmi</brand>
       <price>80495</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="010684" xmlns="">
@@ -56648,7 +56408,7 @@
       <brand>HONOR</brand>
       <price>175634</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="010758" xmlns="">
@@ -56784,7 +56544,7 @@
       <brand>Huawei</brand>
       <price>96614</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="010791" xmlns="">
@@ -57072,7 +56832,7 @@
       <brand>AMD</brand>
       <price>349222</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="010831" xmlns="">
@@ -57408,7 +57168,7 @@
       <brand>Gigabyte</brand>
       <price>372160</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="010902" xmlns="">
@@ -58422,23 +58182,23 @@
     <offer sku="011133" xmlns="">
       <model>Компьютерный корпус Zalman S2 TG Black без Б/П S2 TG</model>
       <brand>Zalman</brand>
-      <price>20613</price>
+      <price>20776</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="011134" xmlns="">
-      <model>Компьютерный корпус Zalman Z10 DUO без Б/П Z10 DUO</model>
-      <brand>Zalman</brand>
-      <price>57409</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="011135" xmlns="">
       <model>Компьютерный корпус Zalman S3 Black без Б/П S3</model>
       <brand>Zalman</brand>
-      <price>20404</price>
+      <price>18375</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="" />
+      </availabilities>
+    </offer>
+    <offer sku="011137" xmlns="">
+      <model>Компьютерный корпус Zalman I3 Black без Б/П I3</model>
+      <brand>Zalman</brand>
+      <price>27038</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -58446,7 +58206,7 @@
     <offer sku="011140" xmlns="">
       <model>Компьютерный корпус Zalman S3 TG Black без Б/П S3 TG</model>
       <brand>Zalman</brand>
-      <price>21717</price>
+      <price>21012</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -58454,15 +58214,23 @@
     <offer sku="011141" xmlns="">
       <model>Компьютерный корпус Zalman S4 PLUS Black без Б/П S4 PLUS</model>
       <brand>Zalman</brand>
-      <price>26741</price>
+      <price>24452</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
-    <offer sku="011144" xmlns="">
-      <model>Компьютерный корпус Zalman i3 NEO Black без Б/П i3 NEO Black</model>
+    <offer sku="011143" xmlns="">
+      <model>Компьютерный корпус Zalman Z10 без Б/П Z10</model>
       <brand>Zalman</brand>
-      <price>27452</price>
+      <price>41645</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="" />
+      </availabilities>
+    </offer>
+    <offer sku="011145" xmlns="">
+      <model>Компьютерный корпус Zalman Z10 PLUS без Б/П Z10 PLUS</model>
+      <brand>Zalman</brand>
+      <price>54241</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -58470,7 +58238,7 @@
     <offer sku="011146" xmlns="">
       <model>Компьютерный корпус Zalman S2 Black без Б/П S2</model>
       <brand>Zalman</brand>
-      <price>20304</price>
+      <price>18378</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -58790,7 +58558,7 @@
     <offer sku="011198" xmlns="">
       <model>Кулер для процессора Zalman CNPS10X OPTIMAⅡ WHITE RGB CNPS10X OPTIMA II White RGB</model>
       <brand>Zalman</brand>
-      <price>17235</price>
+      <price>14534</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -60723,18 +60491,18 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="011495" xmlns="">
-      <model>Поводок-рулетка WAUDOG с рисунком "Пончики", размер S, до 15 кг, 5 м черная, шт</model>
+    <offer sku="011494" xmlns="">
+      <model>Поводок-рулетка WAUDOG с рисунком "Лето", размер S, до 15 кг, 5 м , черный, шт</model>
       <brand>WAUDOG</brand>
-      <price>11182</price>
+      <price>11693</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="011496" xmlns="">
-      <model>Поводок-рулетка WAUDOG с рисунком "Пончики", размер XS, до 12 кг, 3 м, черный, шт</model>
+    <offer sku="011495" xmlns="">
+      <model>Поводок-рулетка WAUDOG с рисунком "Пончики", размер S, до 15 кг, 5 м черная, шт</model>
       <brand>WAUDOG</brand>
-      <price>9159</price>
+      <price>11182</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -61619,14 +61387,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="011617" xmlns="">
-      <model>43UH5F-H Коммерческий дисплей  (0.99mm/43''/IPS/16:9/3840 X 2160 (UHD)/ 500nit/8ms/)</model>
-      <brand>LG</brand>
-      <price>507369</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="011618" xmlns="">
       <model>55VH7E-A Коммерческий дисплей для видео стены (0.99mm/55''/IPS/16:9/1920 X 1080 (FHD)/ 700nit/8ms/24/7)</model>
       <brand>LG</brand>
@@ -61910,7 +61670,7 @@
     <offer sku="011659" xmlns="">
       <model>CL4NX Plus 305 dpi with Cutter, WLAN and RTC + EU power cable</model>
       <brand>Sato_KZ</brand>
-      <price>982277</price>
+      <price>981251</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -61918,7 +61678,7 @@
     <offer sku="011660" xmlns="">
       <model>CL4NX Plus 305 dpi with Dispenser incl Liner Rewinder and, RTC and WLAN + EU power cable</model>
       <brand>Sato_KZ</brand>
-      <price>864975</price>
+      <price>864069</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -61926,7 +61686,7 @@
     <offer sku="011661" xmlns="">
       <model>CL4NX Plus 305 dpi with WLAN and RTC + EU power cable</model>
       <brand>Sato_KZ</brand>
-      <price>804936</price>
+      <price>804095</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -61934,7 +61694,7 @@
     <offer sku="011662" xmlns="">
       <model>CL6NX Plus 305dpi with WLAN and RTC + EU power cable</model>
       <brand>Sato_KZ</brand>
-      <price>1311786</price>
+      <price>1310411</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -61942,7 +61702,7 @@
     <offer sku="011663" xmlns="">
       <model>CT4-LX TT305, USB&amp;LAN + WLAN/BT+ RTC, EU/UK</model>
       <brand>Sato_KZ</brand>
-      <price>476790</price>
+      <price>476303</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -61952,7 +61712,7 @@
       <brand>HPE</brand>
       <price>2038980</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="011670" xmlns="">
@@ -61985,14 +61745,6 @@
       <price>315038</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="011677" xmlns="">
-      <model>imagePROGRAF TC-20M (24"/610 mm/A1) 4 ink color, 2400 x 1200 dpi, Colour scanner (A4/1200 x2400), USB, Ethernet, Wireless LAN (cart. PFI-050)</model>
-      <brand>Canon</brand>
-      <price>562985</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="011680" xmlns="">
@@ -62126,7 +61878,7 @@
     <offer sku="011702" xmlns="">
       <model>Автоподатчик оригиналов однопроходный DP-7160 для TASKalfa 2554ci/3554ci/4054ci/5054ci/6054ci/7054ci/ 5004i/6004i/7004i, TASKalfa MZ3200i/TASKalfa MZ4000i, 320 л.</model>
       <brand>KYOCERA</brand>
-      <price>876880</price>
+      <price>875961</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -62158,7 +61910,7 @@
     <offer sku="011707" xmlns="">
       <model>Видеокамера Canon 4K CAMCORDER XA70 EMEA</model>
       <brand>Canon</brand>
-      <price>952118</price>
+      <price>951112</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -62166,7 +61918,7 @@
     <offer sku="011708" xmlns="">
       <model>Видеокамера Canon LEGRIA HF G70 (1/2.3" 4K CMOS Camcorder, 20x Zoom, HDMI, f/1,8 - 2,8)</model>
       <brand>Canon</brand>
-      <price>501823</price>
+      <price>501303</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -62174,7 +61926,7 @@
     <offer sku="011709" xmlns="">
       <model>Видеокамера Canon XA65 (1/2.3" 4K CMOS Camcorder, 20x Zoom, 3G-SDI/HDMI, f/1,8 - 2,8)</model>
       <brand>Canon</brand>
-      <price>941767</price>
+      <price>940771</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -62182,7 +61934,7 @@
     <offer sku="011710" xmlns="">
       <model>Внешний смотчик этикеток SATO RWG500 WWRW55300</model>
       <brand>Sato</brand>
-      <price>273242</price>
+      <price>272962</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -62230,7 +61982,7 @@
     <offer sku="011720" xmlns="">
       <model>Камера моментальной печати Canon Zoemini S2 ZV-223-PW</model>
       <brand>Canon</brand>
-      <price>68977</price>
+      <price>68915</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -62238,7 +61990,7 @@
     <offer sku="011721" xmlns="">
       <model>Камера моментальной печати Canon Zoemini S2 ZV-223-RG</model>
       <brand>Canon</brand>
-      <price>68977</price>
+      <price>68915</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -62246,7 +61998,7 @@
     <offer sku="011722" xmlns="">
       <model>Камера моментальной печати Canon Zoemini S2 ZV-223-TL</model>
       <brand>Canon</brand>
-      <price>68977</price>
+      <price>68915</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -62539,14 +62291,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="011770" xmlns="">
-      <model>Монитор LG 24MP450-B</model>
-      <brand>LG</brand>
-      <price>79319</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="011771" xmlns="">
       <model>Монитор LG 27GN95R-B</model>
       <brand>LG</brand>
@@ -62683,10 +62427,18 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="011789" xmlns="">
+      <model>МФУ Canon i-SENSYS MF463dw (А4, Printer/ Scanner/ Copier/ DADF/ Duplex, 1200 dpi, Mono, 40 ppm, 1 Gb, 1200 Mhz, tray 100+250 pages, LCD Color (12,7 см), USB 2.0, RJ-45, WIFI cart. 070 в комплекте)</model>
+      <brand>Canon</brand>
+      <price>268612</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="011791" xmlns="">
       <model>МФУ Kyocera MA2000 (А4, Printer/ Scanner/ Copier, 1200dp (1800x600 dpi)i, Mono, 20 ppm, 32MB, 450Mhz, tray 150 pages, USB 2.0, Toner ТК-1240 (1,500 page) в комплекте 2 pcs.)</model>
       <brand>KYOCERA</brand>
-      <price>104976</price>
+      <price>104879</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -62758,7 +62510,7 @@
     <offer sku="011801" xmlns="">
       <model>Печатающая термоголовка Sato CL4NX Plus (203 dpi)</model>
       <brand>Sato_KZ</brand>
-      <price>586794</price>
+      <price>586215</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -62800,7 +62552,7 @@
       <brand>SAMSUNG</brand>
       <price>2227505</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
+        <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="011808" xmlns="">
@@ -62839,6 +62591,22 @@
       <model>Пылесос вертикальный ZELMER ZSVC412  цвет белый срок гарантии 2 года</model>
       <brand>Zelmer</brand>
       <price>119559</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="011814" xmlns="">
+      <model>Саундбар Sonos Arc Black, ARCG1EU1BLK</model>
+      <brand>SONOS</brand>
+      <price>517558</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="011815" xmlns="">
+      <model>Саундбар Sonos Arc White, ARCG1EU1</model>
+      <brand>SONOS</brand>
+      <price>508266</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -62926,7 +62694,7 @@
     <offer sku="011831" xmlns="">
       <model>Сканер штрих кодов NX Barcode Checker Stand Kit + keyence 2D Scanner</model>
       <brand>Sato</brand>
-      <price>1261516</price>
+      <price>1260286</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -62934,7 +62702,7 @@
     <offer sku="011835" xmlns="">
       <model>Фотоаппарат Canon D.CAM EOS R100 BK + RFS18-45</model>
       <brand>Canon</brand>
-      <price>299967</price>
+      <price>299665</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -62942,7 +62710,7 @@
     <offer sku="011836" xmlns="">
       <model>Фотоаппарат Canon D.CAM EOS R50 BK + RFS18-45 S SEE</model>
       <brand>Canon</brand>
-      <price>367252</price>
+      <price>366878</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -62950,7 +62718,7 @@
     <offer sku="011837" xmlns="">
       <model>Фотоаппарат Canon EOS R8 Body, беззеркальный, черный, 24,2 Mpx, CMOS 22.3х14.8 мм, UHD 4K, экран 3.0" поворотный, Li-ion</model>
       <brand>Canon</brand>
-      <price>680388</price>
+      <price>679676</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -62958,7 +62726,7 @@
     <offer sku="011838" xmlns="">
       <model>Фотоаппарат цифровой беззеркальный Canon EOS R6 RF24-105mm F4-7.1 IS STM KIT черный, 20 Mpx CMOS 35мм, 3840 x 2160/30, экран 3.0" поворотный, Li-ion</model>
       <brand>Canon</brand>
-      <price>1148799</price>
+      <price>1147580</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -62966,7 +62734,7 @@
     <offer sku="011839" xmlns="">
       <model>Фотообъектив Canon EF 16-35mm F2,8 L III USM</model>
       <brand>Canon</brand>
-      <price>902948</price>
+      <price>901995</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -62974,7 +62742,7 @@
     <offer sku="011840" xmlns="">
       <model>Фотообъектив Canon EF 24mm f/1.4L II USM</model>
       <brand>Canon</brand>
-      <price>669519</price>
+      <price>668818</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -62982,7 +62750,7 @@
     <offer sku="011841" xmlns="">
       <model>Фотообъектив Canon EF 85mm f/1.4L II USM</model>
       <brand>Canon</brand>
-      <price>724383</price>
+      <price>723622</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -62990,7 +62758,7 @@
     <offer sku="011842" xmlns="">
       <model>Цветной копир-принтер-сканер-факс Kyocera M5526cdn (А4,26 ppm,1200 dpi,512 Mb,USB,Network,дуплекс,автоподатчик,тонер)</model>
       <brand>KYOCERA</brand>
-      <price>356746</price>
+      <price>356402</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -63071,6 +62839,14 @@
       <model>AMD CPU Desktop Ryzen 3 4C/8T 4100 (3.8/4.0GHz Boost,6MB,65W,AM4) Tray</model>
       <brand>AMD</brand>
       <price>39992</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="011892" xmlns="">
+      <model>AMD CPU Desktop Ryzen 3 PRO 4C/8T 4350G (4.1GHz Max,6MB,65W,AM4) tray</model>
+      <brand>AMD</brand>
+      <price>48155</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -63281,6 +63057,14 @@
       <price>236645</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="011941" xmlns="">
+      <model>Beoplay HX Gold Tone - OTG</model>
+      <brand>BANG &amp; OLUFSEN</brand>
+      <price>3011</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="011942" xmlns="">
@@ -63814,7 +63598,7 @@
     <offer sku="012017" xmlns="">
       <model>GOODRAM 16GB 3200MHz CL22 DIMM, EAN: 5908267960431</model>
       <brand>GOODRAM</brand>
-      <price>20597</price>
+      <price>17490</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -63886,7 +63670,7 @@
     <offer sku="012026" xmlns="">
       <model>GOODRAM 32GB 4800MHz CL40 SR DIMM, EAN: 5908267962749</model>
       <brand>GOODRAM</brand>
-      <price>53660</price>
+      <price>53477</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -64163,14 +63947,6 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="012063" xmlns="">
-      <model>Intel CPU Server 24-core Xeon 5220R (2.20 GHz, 35.75M, FC-LGA3647) tray</model>
-      <brand>INTEL</brand>
-      <price>756357</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="012064" xmlns="">
       <model>Intel CPU Server 24-core Xeon 5318Y (2.10 GHz, 36M, FC-LGA16A) tray</model>
       <brand>INTEL</brand>
@@ -64227,28 +64003,12 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="012074" xmlns="">
-      <model>Intel NUC 12 Pro Kit NUC12WSHi7, EU cord, single unit</model>
-      <brand>INTEL</brand>
-      <price>297761</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="012075" xmlns="">
-      <model>Intel NUC 12 Pro Kit NUC12WSKi5, EU cord, single unit</model>
-      <brand>INTEL</brand>
-      <price>228128</price>
-      <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="012076" xmlns="">
       <model>Intel NUC 12 Pro Kit NUC12WSKi7, EU cord, single unit</model>
       <brand>INTEL</brand>
       <price>276145</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="012077" xmlns="">
@@ -64587,14 +64347,6 @@
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="012134" xmlns="">
-      <model>LOGITECH G915 TKL LIGHTSPEED Wireless Mechanical Gaming Keyboard - CARBON - RUS - CLICKY</model>
-      <brand>LOGITECH</brand>
-      <price>119570</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="012136" xmlns="">
       <model>LOGITECH M171 Wireless Mouse - ROSE</model>
       <brand>LOGITECH</brand>
@@ -64608,14 +64360,6 @@
       <brand>LOGITECH</brand>
       <price>11570</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="012138" xmlns="">
-      <model>LOGITECH M350S Pebble 2 Bluetooth Mouse - TONAL WHITE</model>
-      <brand>LOGITECH</brand>
-      <price>14366</price>
-      <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
@@ -64624,7 +64368,7 @@
       <brand>LOGITECH</brand>
       <price>2023914</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="012140" xmlns="">
@@ -64775,22 +64519,6 @@
       <model>Low Profile PCIe Riser Card supports 2 M.2 Module (Retail)</model>
       <brand>SUPERMICRO</brand>
       <price>32423</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="012161" xmlns="">
-      <model>LSI MegaRaid SAS 9361-8i RAID Controller, 8-Port Int., 12Gb/s SATA+SAS, PCIe 3.0, 2GB DDRIII (LSI00462)</model>
-      <brand>LSI LOGIC</brand>
-      <price>259339</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
-    <offer sku="012162" xmlns="">
-      <model>M6700DW (копир, принтер, цв. сканер) (чб., A4, 30ppm, 128MB, 525MHz, 60-200 г/м2, 1200x1200 dpi, макс. 60т мес., двухсторонняя печать, GDI, USB 2.0, </model>
-      <brand>PANTUM</brand>
-      <price>110688</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
@@ -65259,14 +64987,6 @@
         <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
-    <offer sku="012242" xmlns="">
-      <model>Supermicro SuperServer SYS-6029P-TRT 2U, 2xLGA 3647, TDP 70-205W, Intel C622, 16xDDR4, 8x3.5" Hot-swap, SATA3 (6Gbps); RAID 0, 1, 5, 10, 4xPCI-E 3.0 x16, 2xPCI-E 3.0 x8, 2xRJ45 10GBase-T, 1xRJ45 IPMI, 2xUSB 3.0, 4xUSB 2.0, 1xVGA, 2 COM, 2x1000W</model>
-      <brand>SUPERMICRO</brand>
-      <price>1040877</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="3" />
-      </availabilities>
-    </offer>
     <offer sku="012243" xmlns="">
       <model>Supermicro SYS-110P-WTR 1U, LGA-4189, TDP 270W, Intel C621A, 8xDDR4, 10x2.5" Hot-swap (4x 2.5" NVMe hybrid), SATA3 (6Gbps), 2xPCI-E 4.0 x16 FHFL, 1 PCI-E 4.0 x16 LP, 2xRJ45 10GBase-T, 1xRJ45 IPMI, 5xUSB 3.2, 4xUSB 2.0, 1xVGA, 1 COM, 2x750W</model>
       <brand>SUPERMICRO</brand>
@@ -65280,7 +65000,7 @@
       <brand>SUPERMICRO</brand>
       <price>569089</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="3" />
+        <availability storeId="PP1" available="no" preorder="3" />
       </availabilities>
     </offer>
     <offer sku="012245" xmlns="">
@@ -65419,10 +65139,26 @@
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
     </offer>
+    <offer sku="012267" xmlns="">
+      <model>Ubiquiti USW-LITE-8-PoE 8-port Layer 2 PoE switch, 4 x GbE PoE+, 4 x GbE ports, 52W total PoE Power, silent fanless cooling, Wall mountable, Desktop</model>
+      <brand>UBIQUITI</brand>
+      <price>67591</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="3" />
+      </availabilities>
+    </offer>
     <offer sku="012268" xmlns="">
       <model>UniFi 48Port Gigabit Switch with 802.3bt PoE, Layer3 Features and SFP+</model>
       <brand>UBIQUITI</brand>
       <price>639626</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="3" />
+      </availabilities>
+    </offer>
+    <offer sku="012269" xmlns="">
+      <model>UniFi 8Port 10 Gigabit SFP+ Aggregation Switch</model>
+      <brand>UBIQUITI</brand>
+      <price>162818</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="3" />
       </availabilities>
@@ -65680,7 +65416,7 @@
       <brand>Poco</brand>
       <price>149935</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="012307" xmlns="">
@@ -65728,7 +65464,7 @@
       <brand>HONOR</brand>
       <price>276118</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="012313" xmlns="">
@@ -65736,7 +65472,7 @@
       <brand>HONOR</brand>
       <price>276118</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="012314" xmlns="">
@@ -65744,7 +65480,7 @@
       <brand>HONOR</brand>
       <price>299785</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="012315" xmlns="">
@@ -65984,7 +65720,7 @@
       <brand>Gigabyte</brand>
       <price>528699</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="012345" xmlns="">
@@ -66619,6 +66355,14 @@
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
+    <offer sku="012434" xmlns="">
+      <model>Компьютерный корпус Gamemax Vista AB без Б/П</model>
+      <brand>Gamemax</brand>
+      <price>36751</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="" />
+      </availabilities>
+    </offer>
     <offer sku="012435" xmlns="">
       <model>Компьютерный корпус Gamemax HYPE Black без Б/П</model>
       <brand>Gamemax</brand>
@@ -66742,7 +66486,7 @@
     <offer sku="012451" xmlns="">
       <model>Компьютерный корпус Zalman S5 Black без Б/П</model>
       <brand>Zalman</brand>
-      <price>29271</price>
+      <price>27098</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -66758,9 +66502,9 @@
     <offer sku="012454" xmlns="">
       <model>Компьютерный корпус Zalman I3 Edge Black без Б/П</model>
       <brand>Zalman</brand>
-      <price>26608</price>
+      <price>27087</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="012455" xmlns="">
@@ -66974,7 +66718,7 @@
     <offer sku="012484" xmlns="">
       <model>Блок питания Zalman MegaMax 700W ZM700-TXII(V2) Standard</model>
       <brand>Zalman</brand>
-      <price>30603</price>
+      <price>29772</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -66982,7 +66726,7 @@
     <offer sku="012485" xmlns="">
       <model>Блок питания Zalman MegaMax 600W ZM600-TXII(V2) Standard</model>
       <brand>Zalman</brand>
-      <price>27506</price>
+      <price>26486</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -67270,7 +67014,7 @@
     <offer sku="012522" xmlns="">
       <model>Кулер для процессора Zalman CNPS9X OPTIMA RGB</model>
       <brand>Zalman</brand>
-      <price>13106</price>
+      <price>10876</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -67278,7 +67022,7 @@
     <offer sku="012523" xmlns="">
       <model>Кулер для процессора Zalman CNPS10X OPTIMA II Black RGB</model>
       <brand>Zalman</brand>
-      <price>16519</price>
+      <price>14534</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -67496,7 +67240,7 @@
       <brand>Ugreen</brand>
       <price>3892</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="012555" xmlns="">
@@ -67760,7 +67504,7 @@
       <brand>Cougar</brand>
       <price>95333</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="012589" xmlns="">
@@ -67891,14 +67635,6 @@
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
-    <offer sku="012614" xmlns="">
-      <model>Игровое компьютерное кресло DX Racer CRA/PRO/O</model>
-      <brand>Racer</brand>
-      <price>165602</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
     <offer sku="012617" xmlns="">
       <model>Игровое компьютерное кресло DX Racer CRA/PRO/WB</model>
       <brand>Racer</brand>
@@ -67909,6 +67645,14 @@
     </offer>
     <offer sku="012618" xmlns="">
       <model>Игровое компьютерное кресло DX Racer CRA/PRO/GY/Give me more space</model>
+      <brand>Racer</brand>
+      <price>198211</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="" />
+      </availabilities>
+    </offer>
+    <offer sku="012619" xmlns="">
+      <model>Игровое компьютерное кресло DX Racer CRA/PRO/BW/America edition</model>
       <brand>Racer</brand>
       <price>198211</price>
       <availabilities>
@@ -68440,7 +68184,7 @@
       <brand>Legrand</brand>
       <price>40700</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="012687" xmlns="">
@@ -68480,7 +68224,7 @@
       <brand>SVC</brand>
       <price>132253</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="012692" xmlns="">
@@ -69264,7 +69008,7 @@
       <brand>ADATA</brand>
       <price>1986</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="012793" xmlns="">
@@ -70280,7 +70024,7 @@
       <brand>TP-Link</brand>
       <price>421163</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="012922" xmlns="">
@@ -70328,7 +70072,7 @@
       <brand>Dahua</brand>
       <price>61763</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="012928" xmlns="">
@@ -70416,7 +70160,7 @@
       <brand>TP-Link</brand>
       <price>8508</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="012939" xmlns="">
@@ -71976,7 +71720,7 @@
       <brand>Ship</brand>
       <price>2512</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="013137" xmlns="">
@@ -74880,7 +74624,7 @@
       <brand>Xerox</brand>
       <price>2199829</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="013508" xmlns="">
@@ -74944,7 +74688,7 @@
       <brand>Canon</brand>
       <price>108806</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="013516" xmlns="">
@@ -75056,7 +74800,7 @@
       <brand>Xiaomi</brand>
       <price>21000</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="013530" xmlns="">
@@ -76006,7 +75750,7 @@
     <offer sku="013728" xmlns="">
       <model>Утюг REDMOND RI-C293</model>
       <brand>Redmond</brand>
-      <price>24032</price>
+      <price>19194</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -76088,7 +75832,7 @@
       <brand>Kitfort</brand>
       <price>40677</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="013739" xmlns="">
@@ -76768,7 +76512,7 @@
       <brand>Redmond</brand>
       <price>43903</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="013873" xmlns="">
@@ -76779,12 +76523,20 @@
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
+    <offer sku="013874" xmlns="">
+      <model>Кофемолка REDMOND RCG-M1609 Черный/металл</model>
+      <brand>Redmond</brand>
+      <price>17452</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="" />
+      </availabilities>
+    </offer>
     <offer sku="013875" xmlns="">
       <model>Кофемолка REDMOND RCG-M1608 Серый/металл</model>
       <brand>Redmond</brand>
       <price>12548</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="013876" xmlns="">
@@ -76872,7 +76624,7 @@
       <brand>Redmond</brand>
       <price>155043</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="013888" xmlns="">
@@ -76880,7 +76632,7 @@
       <brand>Redmond</brand>
       <price>158269</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="013889" xmlns="">
@@ -76960,7 +76712,7 @@
       <brand>Redmond</brand>
       <price>51645</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="013907" xmlns="">
@@ -76969,6 +76721,14 @@
       <price>48419</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
+      </availabilities>
+    </offer>
+    <offer sku="013908" xmlns="">
+      <model>Мультиварка REDMOND RMC-M40S</model>
+      <brand>Redmond</brand>
+      <price>54871</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="013909" xmlns="">
@@ -77007,6 +76767,14 @@
       <model>Мультиварка Russell Hobbs 21850-56</model>
       <brand>Russell Hobbs</brand>
       <price>115258</price>
+      <availabilities>
+        <availability storeId="PP1" available="yes" preorder="" />
+      </availabilities>
+    </offer>
+    <offer sku="013916" xmlns="">
+      <model>Мультиварка-скороварка Redmond RMC-P470</model>
+      <brand>Redmond</brand>
+      <price>130312</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -77280,7 +77048,7 @@
       <brand>Kitfort</brand>
       <price>205581</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="013966" xmlns="">
@@ -77368,7 +77136,7 @@
       <brand>Redmond</brand>
       <price>79258</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="013977" xmlns="">
@@ -77376,7 +77144,7 @@
       <brand>Redmond</brand>
       <price>79258</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="013978" xmlns="">
@@ -77544,7 +77312,7 @@
       <brand>Redmond</brand>
       <price>13151</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="014008" xmlns="">
@@ -77560,7 +77328,7 @@
       <brand>Kitfort</brand>
       <price>22355</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="014010" xmlns="">
@@ -77640,7 +77408,7 @@
       <brand>Kitfort</brand>
       <price>32161</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="014020" xmlns="">
@@ -77673,6 +77441,14 @@
       <price>36462</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
+      </availabilities>
+    </offer>
+    <offer sku="014024" xmlns="">
+      <model>Тостер Redmond RT-M403</model>
+      <brand>Redmond</brand>
+      <price>41839</price>
+      <availabilities>
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="014025" xmlns="">
@@ -77792,7 +77568,7 @@
       <brand>Kitfort</brand>
       <price>28204</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="014040" xmlns="">
@@ -77848,7 +77624,7 @@
       <brand>Redmond</brand>
       <price>115258</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="014051" xmlns="">
@@ -77856,7 +77632,7 @@
       <brand>REDMOND</brand>
       <price>77710</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="014052" xmlns="">
@@ -77944,7 +77720,7 @@
       <brand>Centek</brand>
       <price>39271</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="014073" xmlns="">
@@ -78024,7 +77800,7 @@
       <brand>REDMOND</brand>
       <price>104591</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="014090" xmlns="">
@@ -78248,7 +78024,7 @@
       <brand>Kitfort</brand>
       <price>7000</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="014153" xmlns="">
@@ -78608,7 +78384,7 @@
       <brand>Redmond</brand>
       <price>23207</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="014242" xmlns="">
@@ -80406,7 +80182,7 @@
     <offer sku="014491" xmlns="">
       <model>Автоматический выключатель Legrand 419661 1П C 6A RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>2567</price>
+      <price>2726</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80414,7 +80190,7 @@
     <offer sku="014492" xmlns="">
       <model>Автоматический выключатель Legrand 419662 1П C 10A RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>2396</price>
+      <price>2534</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80422,7 +80198,7 @@
     <offer sku="014493" xmlns="">
       <model>Автоматический выключатель Legrand 419664 1П C 16A RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>2360</price>
+      <price>2494</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80430,7 +80206,7 @@
     <offer sku="014494" xmlns="">
       <model>Автоматический выключатель Legrand 419665 1П C 20A RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>2454</price>
+      <price>2600</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80438,7 +80214,7 @@
     <offer sku="014495" xmlns="">
       <model>Автоматический выключатель Legrand 419666 1П C 25A RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>2473</price>
+      <price>2621</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80446,7 +80222,7 @@
     <offer sku="014496" xmlns="">
       <model>Автоматический выключатель Legrand 419667 1П C 32A RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>2682</price>
+      <price>2856</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80454,7 +80230,7 @@
     <offer sku="014497" xmlns="">
       <model>Автоматический выключатель Legrand 419668 1П C 40A RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>2858</price>
+      <price>3051</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80462,7 +80238,7 @@
     <offer sku="014498" xmlns="">
       <model>Автоматический выключатель Legrand 419669 1П C 50A RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>3086</price>
+      <price>3308</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80470,7 +80246,7 @@
     <offer sku="014499" xmlns="">
       <model>Автоматический выключатель Legrand 419670 1П C 63A RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>3242</price>
+      <price>3483</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -80478,7 +80254,7 @@
     <offer sku="014500" xmlns="">
       <model>Автоматический выключатель Legrand 419695 2П C 10A RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>3632</price>
+      <price>3920</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80486,7 +80262,7 @@
     <offer sku="014501" xmlns="">
       <model>Автоматический выключатель Legrand 419697 2П C 16A RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>3559</price>
+      <price>3837</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80494,7 +80270,7 @@
     <offer sku="014502" xmlns="">
       <model>Автоматический выключатель Legrand 419698 2П C 20A RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>3753</price>
+      <price>4054</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80502,7 +80278,7 @@
     <offer sku="014503" xmlns="">
       <model>Автоматический выключатель Legrand 419699 2П C 25A RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>3790</price>
+      <price>4097</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80510,7 +80286,7 @@
     <offer sku="014504" xmlns="">
       <model>Автоматический выключатель Legrand 419700 2П C 32A RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>4229</price>
+      <price>4588</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80518,7 +80294,7 @@
     <offer sku="014505" xmlns="">
       <model>Автоматический выключатель Legrand 419701 2П C 40A RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>4589</price>
+      <price>4990</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80526,7 +80302,7 @@
     <offer sku="014506" xmlns="">
       <model>Автоматический выключатель Legrand 419702 2П C 50A RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>5067</price>
+      <price>5526</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80534,7 +80310,7 @@
     <offer sku="014507" xmlns="">
       <model>Автоматический выключатель Legrand 419703 2П C 63A RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>5389</price>
+      <price>5887</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80542,7 +80318,7 @@
     <offer sku="014508" xmlns="">
       <model>Автоматический выключатель Legrand 419706 3П C 10А RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>4869</price>
+      <price>5304</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80550,7 +80326,7 @@
     <offer sku="014509" xmlns="">
       <model>Автоматический выключатель Legrand 419708 3П C 16А RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>4757</price>
+      <price>5179</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80558,7 +80334,7 @@
     <offer sku="014510" xmlns="">
       <model>Автоматический выключатель Legrand 419709 3П C 20А RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>5052</price>
+      <price>5509</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80566,7 +80342,7 @@
     <offer sku="014511" xmlns="">
       <model>Автоматический выключатель Legrand 419710 3П C 25А RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>5108</price>
+      <price>5571</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80574,7 +80350,7 @@
     <offer sku="014512" xmlns="">
       <model>Автоматический выключатель Legrand 419711 3П C 32А RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>5776</price>
+      <price>6320</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80582,7 +80358,7 @@
     <offer sku="014513" xmlns="">
       <model>Автоматический выключатель Legrand 419712 3П C 40А RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>6320</price>
+      <price>8173</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80590,7 +80366,7 @@
     <offer sku="014514" xmlns="">
       <model>Автоматический выключатель Legrand 419713 3П C 50А RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>8291</price>
+      <price>8989</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80598,7 +80374,7 @@
     <offer sku="014515" xmlns="">
       <model>Автоматический выключатель Legrand 419714 3П C 63А RX3 4,5kA</model>
       <brand>Legrand</brand>
-      <price>8780</price>
+      <price>9536</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80942,7 +80718,7 @@
     <offer sku="014558" xmlns="">
       <model>Автоматический выключатель SE A9K24325 Acti9 iK60 3P С 25А 6 kA</model>
       <brand>Schneider Electric</brand>
-      <price>10292</price>
+      <price>10097</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80950,7 +80726,7 @@
     <offer sku="014559" xmlns="">
       <model>Автоматический выключатель Legrand 404028 1П C16A TX3 6000/6kA</model>
       <brand>Legrand</brand>
-      <price>2691</price>
+      <price>2866</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80958,7 +80734,7 @@
     <offer sku="014560" xmlns="">
       <model>Автоматический выключатель Legrand 404030 1П C25A TX3 6000/6kA</model>
       <brand>Legrand</brand>
-      <price>2761</price>
+      <price>2944</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -80966,7 +80742,7 @@
     <offer sku="014561" xmlns="">
       <model>Автоматический выключатель Legrand 404032 1П C40A TX3 6000/6kA</model>
       <brand>Legrand</brand>
-      <price>3090</price>
+      <price>3312</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -81070,7 +80846,7 @@
     <offer sku="014574" xmlns="">
       <model>АВДТ Legrand 419399 1П+Н 16А АC RX3 30мA</model>
       <brand>Legrand</brand>
-      <price>11806</price>
+      <price>12924</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -81078,7 +80854,7 @@
     <offer sku="014575" xmlns="">
       <model>АВДТ Legrand 419400 1П+Н 20А АC RX3 30мA</model>
       <brand>Legrand</brand>
-      <price>11889</price>
+      <price>13017</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -81086,7 +80862,7 @@
     <offer sku="014576" xmlns="">
       <model>АВДТ Legrand 419401 1П+Н 25А АC RX3 30мA</model>
       <brand>Legrand</brand>
-      <price>11910</price>
+      <price>13040</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -81094,7 +80870,7 @@
     <offer sku="014577" xmlns="">
       <model>АВДТ Legrand 419402 1П+Н 32А АC RX3 30мA</model>
       <brand>Legrand</brand>
-      <price>12654</price>
+      <price>16364</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -81102,7 +80878,7 @@
     <offer sku="014578" xmlns="">
       <model>ВДТ Legrand 402062 4П 25А АC RX3 30мA</model>
       <brand>Legrand</brand>
-      <price>17394</price>
+      <price>18886</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -81110,7 +80886,7 @@
     <offer sku="014579" xmlns="">
       <model>ВДТ Legrand 402063 4П 40А АC RX3 30мA</model>
       <brand>Legrand</brand>
-      <price>17651</price>
+      <price>19172</price>
       <availabilities>
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
@@ -84568,7 +84344,7 @@
       <brand>Ruvinil</brand>
       <price>1474</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="015417" xmlns="">
@@ -85307,26 +85083,10 @@
         <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
-    <offer sku="015515" xmlns="">
-      <model>Насос электрический Bestway 62255</model>
-      <brand>Bestway</brand>
-      <price>7983</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
     <offer sku="015516" xmlns="">
       <model>Насос электрический Bestway 62252</model>
       <brand>Bestway</brand>
       <price>5407</price>
-      <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
-      </availabilities>
-    </offer>
-    <offer sku="015517" xmlns="">
-      <model>Насос электрический Bestway 62257</model>
-      <brand>Bestway</brand>
-      <price>5823</price>
       <availabilities>
         <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
@@ -85648,7 +85408,7 @@
       <brand>Xerox</brand>
       <price>54361</price>
       <availabilities>
-        <availability storeId="PP1" available="no" preorder="" />
+        <availability storeId="PP1" available="yes" preorder="" />
       </availabilities>
     </offer>
     <offer sku="015558" xmlns="">
@@ -85712,7 +85472,7 @@
       <brand>Xerox</brand>
       <price>43197</price>
       <availabilities>
-        <availability storeId="PP1" available="yes" preorder="" />
+        <availability storeId="PP1" available="no" preorder="" />
       </availabilities>
     </offer>
     <offer sku="015566" xmlns="">
